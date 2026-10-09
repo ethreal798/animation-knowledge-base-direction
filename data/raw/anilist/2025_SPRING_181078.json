@@ -1,0 +1,234 @@
+{
+ "id": 181078,
+ "title": {
+  "romaji": "Bye Bye, Earth Season 2",
+  "english": "Bye Bye, Earth Season 2",
+  "native": "ばいばい、アース シーズン2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 6
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 10,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tou Ubukata",
+      "native": "冲方丁"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hyeong-Tae Kim",
+      "native": "김태형"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Yoshino",
+      "native": "吉野弘幸"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kevin Penkin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "ASCA",
+      "native": "大倉明日香"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yasuto Nishikata",
+      "native": "西片康人"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Souichirou Kubo",
+      "native": "久保宗一郎"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hotaka Okamoto",
+      "native": "岡本穂高"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Shinohara",
+      "native": "篠原愛子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Who-ya Extended",
+      "native": "フーヤエクステンデッド"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Yoshitomo Hara",
+      "native": "原由知"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Hino",
+      "native": "日野優希"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Mattheus Caliano",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyomi Yamada",
+      "native": "山田聖実"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Souta Yokote",
+      "native": "横手颯太"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Ken Tsubuki",
+      "native": "ツブキケン"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuki Murotsuka",
+      "native": "室塚勇伎"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 3, 8)",
+    "node": {
+     "name": {
+      "full": "Arato Tsumori",
+      "native": "新渡つもり"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Arato Tsumori",
+      "native": "新渡つもり"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Marvin Silva",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Belle Lablac",
+      "native": "ラブラック=ベル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

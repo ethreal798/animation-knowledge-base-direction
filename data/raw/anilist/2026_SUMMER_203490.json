@@ -1,0 +1,214 @@
+{
+ "id": 203490,
+ "title": {
+  "romaji": "Uchi no Otouto-domo ga Sumimasen",
+  "english": "Please Excuse My Younger Brothers",
+  "native": "うちの弟どもがすみません"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lay-duce"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Akira Ozaki",
+      "native": "オザキアキラ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hitoshi Nanba",
+      "native": "難波日登志"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Megumi Shimizu",
+      "native": "清水恵"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Youko Fukushima",
+      "native": "福島陽子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shiori Hiraiwa",
+      "native": "平岩栞"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Motoyama",
+      "native": "本山哲"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Gin",
+      "native": "吟"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Gou Sadamatsu",
+      "native": "定松剛"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Tomoko Yamazaki",
+      "native": "山崎朋子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Takashi Akaishizawa",
+      "native": "赤石沢貴士"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomoe Ookubo",
+      "native": "大久保知江"
+     }
+    }
+   },
+   {
+    "role": "‪Theme Song Performance (OP1)‬",
+    "node": {
+     "name": {
+      "full": "DISH//",
+      "native": "ディッシュ"
+     }
+    }
+   },
+   {
+    "role": "‪Theme Song Performance (OP2)‬",
+    "node": {
+     "name": {
+      "full": "Neguse.",
+      "native": "ねぐせ。"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Reira Ushio",
+      "native": "汐れいら"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Naoki Ishikawa",
+      "native": "石川直樹"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "MEminor",
+      "native": "ミーマイナー"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ito Narita",
+      "native": "成田糸"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Naomi Oozora",
+       "native": "大空直美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gen Narita",
+      "native": "成田源"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiki Masuda",
+       "native": "増田俊樹"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

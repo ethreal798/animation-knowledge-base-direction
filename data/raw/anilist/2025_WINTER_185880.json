@@ -1,0 +1,256 @@
+{
+ "id": 185880,
+ "title": {
+  "romaji": "Ao no Exorcist: Yosuga-hen",
+  "english": "Blue Exorcist -The Blue Night Saga-",
+  "native": "青の祓魔師 終夜篇"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 23
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio VOLN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kazue Katou",
+      "native": "加藤和恵"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Daisuke Yoshida",
+      "native": "吉田大輔"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Sawano",
+      "native": "澤野弘之"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Shimizu",
+      "native": "清水友幸"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Toshiya Oono",
+      "native": "大野敏哉"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Wakabayashi",
+      "native": "若林和弘"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "amazarashi",
+      "native": "amazarashi"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kouta Yamamoto",
+      "native": "山本康太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Horikawa",
+      "native": "堀川佳典"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yumi Jinguuji",
+      "native": "神宮司由美"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tsukasa Saitou",
+      "native": "さいとうつかさ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yurie Oohigashi",
+      "native": "大東百合恵"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yurie Oohigashi",
+      "native": "大東百合恵"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Makoto Aoki",
+      "native": "青木誠"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shinya Matsui",
+      "native": "松井伸哉"
+     }
+    }
+   },
+   {
+    "role": "Action Animation Director",
+    "node": {
+     "name": {
+      "full": "Takaaki Hirayama",
+      "native": "平山貴章"
+     }
+    }
+   },
+   {
+    "role": "Creative Producer",
+    "node": {
+     "name": {
+      "full": "Keiji Mita",
+      "native": "三田圭志"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Shiyui",
+      "native": "シユイ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Mattheus Caliano",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Yuri Tupper",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shirou Fujimoto",
+      "native": "藤本獅郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroaki Hirata",
+       "native": "平田広明"
+      }
+     },
+     {
+      "name": {
+       "full": "Daisuke Namikawa",
+       "native": "浪川大輔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuri Egin",
+      "native": "ユリ・エギン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Megumi Hayashibara",
+       "native": "林原めぐみ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,311 @@
+{
+ "id": 162890,
+ "title": {
+  "romaji": "3-nen Z-gumi Ginpachi-sensei",
+  "english": "GINTAMA - Mr. Ginpachi's Zany Class",
+  "native": "3年Z組銀八先生"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 23
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bandai Namco Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hideaki Sorachi",
+      "native": "空知英秋"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Tomohito Oosaki",
+      "native": "大崎知仁"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Makoto Moriwaki",
+      "native": "森脇真琴"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Natsumi Higashida",
+      "native": "東田夏実"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shinji Takeuchi",
+      "native": "竹内進二"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Audio Highs",
+      "native": "オーディオ・ハイズ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Shinji Takeuchi",
+      "native": "竹内進二"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography (PV)",
+    "node": {
+     "name": {
+      "full": "Ryou Kujirai",
+      "native": "鯨井亮"
+     }
+    }
+   },
+   {
+    "role": "Editing (PV)",
+    "node": {
+     "name": {
+      "full": "Akane Shiraishi",
+      "native": "白石あかね"
+     }
+    }
+   },
+   {
+    "role": "Sound Director (PV)",
+    "node": {
+     "name": {
+      "full": "Akira Sasaki",
+      "native": "佐々木聰"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects (PV)",
+    "node": {
+     "name": {
+      "full": "Akiko Mutou",
+      "native": "武藤晶子"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (PV)",
+    "node": {
+     "name": {
+      "full": "Natsumi Higashida",
+      "native": "東田夏実"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (PV)",
+    "node": {
+     "name": {
+      "full": "Shinji Takeuchi",
+      "native": "竹内進二"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (PV)",
+    "node": {
+     "name": {
+      "full": "Akari Minagawa",
+      "native": "皆川愛香利"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (PV)",
+    "node": {
+     "name": {
+      "full": "Kae Takakura",
+      "native": "高倉香恵"
+     }
+    }
+   },
+   {
+    "role": "In-Betweens Check (PV)",
+    "node": {
+     "name": {
+      "full": "Mina Yuzuki",
+      "native": "柚木美那"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (PV)",
+    "node": {
+     "name": {
+      "full": "Kaho Kurita",
+      "native": "栗田果歩"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (PV)",
+    "node": {
+     "name": {
+      "full": "Nozomi Ichijou",
+      "native": "一条望"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (PV)",
+    "node": {
+     "name": {
+      "full": "Mineko Suzuki",
+      "native": "鈴木三音子"
+     }
+    }
+   },
+   {
+    "role": "Color Coordination (PV)",
+    "node": {
+     "name": {
+      "full": "Ritsuko Utagawa",
+      "native": "歌川律子"
+     }
+    }
+   },
+   {
+    "role": "Finishing Check (PV)",
+    "node": {
+     "name": {
+      "full": "Ritsuko Utagawa",
+      "native": "歌川律子"
+     }
+    }
+   },
+   {
+    "role": "Finishing (PV)",
+    "node": {
+     "name": {
+      "full": "Atsuko Itou",
+      "native": "伊藤敦子"
+     }
+    }
+   },
+   {
+    "role": "Finishing (PV)",
+    "node": {
+     "name": {
+      "full": "Mayumi Hiraide",
+      "native": "平出真弓"
+     }
+    }
+   },
+   {
+    "role": "Finishing (PV)",
+    "node": {
+     "name": {
+      "full": "Teruyoshi Tanaka",
+      "native": "田中照佳"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Gintoki Sakata",
+      "native": "坂田銀時"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomokazu Sugita",
+       "native": "杉田智和"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shinpachi Shimura",
+      "native": "志村新八"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Sakaguchi",
+       "native": "阪口大助"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kagura",
+      "native": "神楽"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Kugimiya",
+       "native": "釘宮理恵"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

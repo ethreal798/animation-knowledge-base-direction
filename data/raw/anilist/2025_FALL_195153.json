@@ -1,0 +1,311 @@
+{
+ "id": 195153,
+ "title": {
+  "romaji": "Towa no Yuugure",
+  "english": "Dusk Beyond the End of the World",
+  "native": "永久のユウグレ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 26
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 19
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "P.A.WORKS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Midori Tayama",
+      "native": "タヤマ碧"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Naokatsu Tsuda",
+      "native": "津田尚克"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Naokatsu Tsuda",
+      "native": "津田尚克"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshiko Saitou",
+      "native": "齊藤佳子"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kayoko Nabeta",
+      "native": "鍋田香代子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiroko Tanabe",
+      "native": "田辺浩子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuina Asai",
+      "native": "浅井唯奈"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Mayumi Miyaoka",
+      "native": "宮岡真弓"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shuuhei Tada",
+      "native": "多田周平"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Azusa Sasaki",
+      "native": "佐々木梓"
+     }
+    }
+   },
+   {
+    "role": "2D Works",
+    "node": {
+     "name": {
+      "full": "Yoshihide Mukai",
+      "native": "向井吉秀"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Motonari Ichikawa",
+      "native": "市川元成"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Junya Kodama",
+      "native": "児玉純也"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayumu Takahashi",
+      "native": "高橋歩"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Yoshida",
+      "native": "吉田光平"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masahiro Tokuda",
+      "native": "得田真裕"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Sanae Satou",
+      "native": "さとう沙名栄"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (OP)",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Nagata",
+      "native": "長田好弘"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Uru",
+      "native": "ウル"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hana Hope",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Script (eps 0, 1)",
+    "node": {
+     "name": {
+      "full": "Naokatsu Tsuda",
+      "native": "津田尚克"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (OP, eps 0, 1)",
+    "node": {
+     "name": {
+      "full": "Yoshiko Saitou",
+      "native": "齊藤佳子"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 0, 1)",
+    "node": {
+     "name": {
+      "full": "Naokatsu Tsuda",
+      "native": "津田尚克"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Takahiro Miura",
+      "native": "三浦貴博"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yuugure",
+      "native": "ユウグレ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yui Ishikawa",
+       "native": "石川由依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akira Himegami",
+      "native": "姫神アキラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuuichirou Umeda",
+       "native": "梅田修一朗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Amoru",
+      "native": "アモル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyu Tomita",
+       "native": "富田美憂"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

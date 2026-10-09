@@ -1,0 +1,295 @@
+{
+ "id": 192261,
+ "title": {
+  "romaji": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+  "english": "An Adventurer’s Daily Grind at Age 29",
+  "native": "29歳独身中堅冒険者の日常"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 25
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "HORNETS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Ippei Nara",
+      "native": "奈良一平"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Toshinori Fukushima",
+      "native": "福島利規"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Toshinori Fukushima",
+      "native": "福島利規"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Nagamori",
+      "native": "長森佳容"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Jou Tanaka",
+      "native": "田中穣"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Chiharu Nishimura",
+      "native": "西村千春"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Takumi Onitani",
+      "native": "鬼谷拓実"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Masao Ooba",
+      "native": "大場将生"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Ayumi Kaikiri",
+      "native": "海切歩"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Kimura",
+      "native": "木村祥明"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiroto Morishita",
+      "native": "森下広人"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yuuji Furuya",
+      "native": "古谷友二"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akinari Suzuki",
+      "native": "鈴木暁也"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Johannes Nilsson",
+      "native": "Johannes Nilsson"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Lee George",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Jessica Sluys",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Neal Malley",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 6)",
+    "node": {
+     "name": {
+      "full": "Akhil Chauhan",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Paola Guzman",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kenta Oonishi",
+      "native": "大西絢太"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 1, 3, 4)",
+    "node": {
+     "name": {
+      "full": "Ji-Min Kim",
+      "native": "김지민"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Yuu Hashimoto",
+      "native": "橋本湧"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 1, 3, 4)",
+    "node": {
+     "name": {
+      "full": "Mi-Yeong Kim",
+      "native": "김미영"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hajime Shinonome",
+      "native": "シノノメ・ハジメ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Makoto Furukawa",
+       "native": "古川慎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rirui",
+      "native": "リルイ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

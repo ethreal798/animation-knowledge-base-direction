@@ -1,0 +1,375 @@
+{
+ "id": 174802,
+ "title": {
+  "romaji": "Shiunji-ke no Kodomotachi",
+  "english": "The Shiunji Family Children",
+  "native": "紫雲寺家の子供たち"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Doga Kobo"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Reiji Miyajima",
+      "native": "宮島礼吏"
+     }
+    }
+   },
+   {
+    "role": "Original Illustration",
+    "node": {
+     "name": {
+      "full": "Reiji",
+      "native": "れいじ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ryouki Kamitsubo",
+      "native": "上坪亮樹"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Noboru Kimura",
+      "native": "木村暢"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Miki Mutou",
+      "native": "武藤幹"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Chiaki Nakajima",
+      "native": "中島千明"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Miki Mutou",
+      "native": "武藤幹"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuuhei Murota",
+      "native": "室田雄平"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Katsuhiro Kumagai",
+      "native": "熊谷勝弘"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Mizuki Takahashi",
+      "native": "高橋瑞紀"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Ikuko Matsushita",
+      "native": "松下郁子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Natsuko Fujiwara",
+      "native": "藤原奈津子"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Shino Kuzuhara",
+      "native": "葛原詩乃"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Megumi Matsumoto",
+      "native": "松本恵"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Saori Yagi",
+      "native": "八木佐織"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kazuma Nakao",
+      "native": "中尾和麻"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hisae Arimoto",
+      "native": "有本妃査恵"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hiroki Matsumoto",
+      "native": "松本浩樹"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yumi Ishihara",
+      "native": "石原由光"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Genta Makabe",
+      "native": "真壁源太"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shuuhei Shiono",
+      "native": "塩野修平"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Emi Onodera",
+      "native": "小野寺絵美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shouta Horie",
+      "native": "堀江晶太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ginnojou Hoshi",
+      "native": "星銀乃丈"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Arata Shiunji",
+      "native": "紫雲寺新"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuichirou Umehara",
+       "native": "梅原裕一郎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shion Shiunji",
+      "native": "紫雲寺志苑"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chiaki Kobayashi",
+       "native": "小林千晃"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Banri Shiunji",
+      "native": "紫雲寺万里"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chika Anzai",
+       "native": "安済知佳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Minami Shiunji",
+      "native": "紫雲寺南"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hana Hishikawa",
+       "native": "菱川花菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Seiha Shiunji",
+      "native": "紫雲寺清葉"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Marika Kouno",
+       "native": "高野麻里佳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kotono Shiunji",
+      "native": "紫雲寺ことの"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ouka Shiunji",
+      "native": "紫雲寺謳華"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Takahashi",
+       "native": "高橋李依"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,298 @@
+{
+ "id": 182771,
+ "title": {
+  "romaji": "Odayaka Kizoku no Kyuuka no Susume.",
+  "english": "A Gentle Noble's Vacation Recommendation",
+  "native": "穏やか貴族の休暇のすすめ。"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 26
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Ascension"
+   },
+   {
+    "name": "SynergySP"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Misaki",
+      "native": "岬"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Sando",
+      "native": "さんど"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kenta Noda",
+      "native": "能田健太"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yousuke Suzuki",
+      "native": "鈴木洋介"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akito Fujiwara",
+      "native": "藤原彰人"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Seiko Akashi",
+      "native": "明石聖子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Kajiwara",
+      "native": "梶原義大"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yumiko Nakaba",
+      "native": "中葉由美子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Chiaki Kumakura",
+      "native": "熊倉ちあき"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jun Watanabe",
+      "native": "渡辺淳"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hiromune Kurahashi",
+      "native": "倉橋裕宗"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kousuke Yamashita",
+      "native": "山下康介"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Masaaki Sakurai",
+      "native": "桜井正明"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Akito Fujiwara",
+      "native": "藤原彰人"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hina Suguta",
+      "native": "直田姫奈"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Hikaru Makishima",
+      "native": "牧島輝"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Toshiya Washida",
+      "native": "鷲田敏弥"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 6)",
+    "node": {
+     "name": {
+      "full": "toi8",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 3)",
+    "node": {
+     "name": {
+      "full": "Foo Midori",
+      "native": "碧風羽"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 4)",
+    "node": {
+     "name": {
+      "full": "Satsuki Tsukasa",
+      "native": "彩月つかさ"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Mamoru Abiko",
+      "native": "安彦守"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 1, 5)",
+    "node": {
+     "name": {
+      "full": "Kaori Yamamoto",
+      "native": "山本華織"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Sando",
+      "native": "さんど"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Keishi Sakai",
+      "native": "酒井啓史"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 2)",
+    "node": {
+     "name": {
+      "full": "Yoimachi",
+      "native": "宵マチ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Lizel",
+      "native": "リゼル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Souma Saitou",
+       "native": "斉藤壮馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gil",
+      "native": "ジル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuichirou Umehara",
+       "native": "梅原裕一郎"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

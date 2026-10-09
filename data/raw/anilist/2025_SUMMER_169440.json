@@ -1,0 +1,226 @@
+{
+ "id": 169440,
+ "title": {
+  "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+  "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 2",
+  "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 2nd Season"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 17
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Gokumi"
+   },
+   {
+    "name": "AXsiZ"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kuma Hiru",
+      "native": "熊昼"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Itsuwa Katou",
+      "native": "加藤いつわ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hagure Yuuki",
+      "native": "憂姫はぐれ"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Emily Neves",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takashi Yamamoto",
+      "native": "山本天志"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tatsuya Takahashi",
+      "native": "高橋龍也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takahiro Sakai",
+      "native": "酒井孝裕"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "BRADIO",
+      "native": "ブラディオ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Aina Aiba",
+      "native": "相羽あいな"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Naoki Yamauchi",
+      "native": "山内尚樹"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "André Rinaldi",
+      "native": "André Augusto Rinaldi"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jose Sandoval",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "James Baker",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Ailton Rosa",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Susie Nixon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jason Lord",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Juliana Martins",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Lammis",
+      "native": "ラッミス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaede Hondo",
+       "native": "本渡楓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hakkon",
+      "native": "ハッコン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Jun Fukuyama",
+       "native": "福山潤"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

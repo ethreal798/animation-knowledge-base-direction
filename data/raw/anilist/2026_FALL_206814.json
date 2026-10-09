@@ -1,0 +1,119 @@
+{
+ "id": 206814,
+ "title": {
+  "romaji": "Dragon Ball Super: Beerus",
+  "english": "Dragon Ball Super: Beerus",
+  "native": "ドラゴンボール超 ビルス"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 11
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Toei Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Akira Toriyama",
+      "native": "鳥山明"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Norihito Sumitomo",
+      "native": "住友紀人"
+     }
+    }
+   },
+   {
+    "role": "Animation Director",
+    "node": {
+     "name": {
+      "full": "Tadayoshi Yamamuro",
+      "native": "山室直儀"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Junya Yamaike",
+      "native": "山池純矢"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Megatera Zero",
+      "native": "メガテラ・ゼロ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Gokuu Son",
+      "native": "孫悟空"
+     }
+    },
+    "voiceActors": []
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Vegeta",
+      "native": "ベジータ"
+     }
+    },
+    "voiceActors": []
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Whis",
+      "native": "ウイス"
+     }
+    },
+    "voiceActors": []
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Beerus",
+      "native": "ビルス"
+     }
+    },
+    "voiceActors": []
+   }
+  ]
+ }
+}

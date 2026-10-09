@@ -1,0 +1,286 @@
+{
+ "id": 180794,
+ "title": {
+  "romaji": "GaCen Shoujo to Ibunka Kouryuu",
+  "english": "Cultural Exchange with a Game Centre Girl",
+  "native": "ゲーセン少女と異文化交流"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 28
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Nomad"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hirokazu Yasuhara",
+      "native": "安原宏和"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Toshihiro Kikuchi",
+      "native": "菊池聡延"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yasunori Yamada",
+      "native": "山田靖智"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Rikiya Okano",
+      "native": "岡野力也"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Shigemitsu",
+      "native": "重光由喜子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuu Nishiyama",
+      "native": "西山勇"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kenta Masuda",
+      "native": "益田健太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Shigemitsu",
+      "native": "重光由喜子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mutsumi Takemiya",
+      "native": "武宮むつみ"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yasunori Ebina",
+      "native": "蝦名恭範"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Kawada",
+      "native": "川田清貴"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takurou Iga",
+      "native": "伊賀拓郎"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Shunpei Takeuchi",
+      "native": "竹内俊平"
+     }
+    }
+   },
+   {
+    "role": "Casting",
+    "node": {
+     "name": {
+      "full": "Wataru Matsuoka",
+      "native": "松岡超"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Sally Amaki",
+      "native": "天城サリー"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jose Sandoval",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Susie Nixon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "James Cheek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jason Lord",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Reo Osanai",
+      "native": "小山内怜央"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Audrey Rigg",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Hamada",
+      "native": "浜田知幸"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Hamada",
+      "native": "浜田知幸"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Hamada",
+      "native": "浜田知幸"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Renji Kusakabe",
+      "native": "草壁蓮司"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lily Baker",
+      "native": "リリー・ベイカー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sally Amaki",
+       "native": "天城サリー"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

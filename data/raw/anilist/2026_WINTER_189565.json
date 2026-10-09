@@ -1,0 +1,307 @@
+{
+ "id": 189565,
+ "title": {
+  "romaji": "Osananajimi to wa Love Kome ni Naranai",
+  "english": "You Can't Be In a Rom-Com with Your Childhood Friends!",
+  "native": "幼馴染とはラブコメにならない"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 24
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Tezuka Productions"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shinya Misu",
+      "native": "三簾真也"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Satoshi Kuwabara",
+      "native": "桑原智"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Hirota",
+      "native": "広田光毅"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Reina Iwasaki",
+      "native": "岩崎令奈"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masami Saitou",
+      "native": "斉藤雅巳"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yumi Aburaya",
+      "native": "油谷ゆみ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shunya Kimura",
+      "native": "木村俊也"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Wataru Uchida",
+      "native": "内田渉"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Motoyama",
+      "native": "本山哲"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Hirota",
+      "native": "広田光毅"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Mayumi Morita",
+      "native": "森田眞由美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hikari Kodama",
+      "native": "小玉ひかり"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yuu Serizawa",
+      "native": "芹澤優"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Rin Kusumi",
+      "native": "久住琳"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Susie Nixon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jason Lord",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Tina Son",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Sae Hiratsuka",
+      "native": "平塚紗依"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yuuki Yamamoto",
+      "native": "山本悠有希"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Christian Thorsen",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yonosuke Sakai",
+      "native": "界世之介"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takehiro Urao",
+       "native": "浦尾岳大"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shio Minamo",
+      "native": "水萌汐"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rin Kusumi",
+       "native": "久住琳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akari Hiodoshi",
+      "native": "火威灯"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuu Serizawa",
+       "native": "芹澤優"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Runa Tsukimi",
+      "native": "月見るな"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sae Hiratsuka",
+       "native": "平塚紗依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Haru Hinata",
+      "native": "日向春"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Yamamoto",
+       "native": "山本悠有希"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

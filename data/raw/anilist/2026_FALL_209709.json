@@ -1,0 +1,153 @@
+{
+ "id": 209709,
+ "title": {
+  "romaji": "Sirotan",
+  "english": null,
+  "native": "しろたん"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 3
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lesprit"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Arisa Okada",
+      "native": "岡田ありさ"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Atsuko Yamamoto",
+      "native": "山本温子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Sei Yoshitsuki",
+      "native": "吉月生"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shizuka Gotou",
+      "native": "後藤静香"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Michiyo Arakawa",
+      "native": "荒川美智代"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kouichi Yokomakura",
+      "native": "横枕洸一"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Chikako Yokota",
+      "native": "横田知加子"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kaori Yamada",
+      "native": "山田香織"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shouta Kowashi",
+      "native": "小鷲翔太"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Sei Yoshitsuki",
+      "native": "吉月生"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Toshihiro Hayano",
+      "native": "早野利宏"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sirotan",
+      "native": "しろたん"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Yuuki",
+       "native": "悠木碧"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

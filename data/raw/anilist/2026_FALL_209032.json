@@ -1,0 +1,295 @@
+{
+ "id": 209032,
+ "title": {
+  "romaji": "Mahou no Shimai LuluttoLilly Part 2",
+  "english": null,
+  "native": "魔法の姉妹ルルットリリィ 第2クール"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Pierrot"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Shintarou Douge",
+      "native": "道解慎太郎"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shintarou Douge",
+      "native": "道解慎太郎"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Mitsuyuki Masuhara",
+      "native": "増原光幸"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mami Sodeyama",
+      "native": "袖山麻美"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hirono Nishiki",
+      "native": "錦寛乃"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Namiko Torii",
+      "native": "鳥井なみこ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Mifumi Tomita",
+      "native": "富田美文"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Fukuchi ",
+      "native": "福地和浩"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuki Maeda",
+      "native": "前田有紀"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hitomi Itou",
+      "native": "伊藤瞳"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Saori Gouda",
+      "native": "合田沙織"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hideki Imaizumi",
+      "native": "今泉秀樹"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kengo Shigemura",
+      "native": "重村建吾"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Kamiya",
+      "native": "神谷貴浩"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumihiko Ootera",
+      "native": "大寺文彦"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yuuji Furuya",
+      "native": "古谷友二"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "ha-j",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ILLIT",
+      "native": "ILLIT"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Lulutto Lilly",
+      "native": "ルルットリリィ"
+     }
+    }
+   },
+   {
+    "role": "Magic Character Design",
+    "node": {
+     "name": {
+      "full": "Tatsuo Yamada",
+      "native": "山田起生"
+     }
+    }
+   },
+   {
+    "role": "2D Art Director",
+    "node": {
+     "name": {
+      "full": "Wataru Osakabe",
+      "native": "越阪部ワタル"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Shouko Fujibayashi",
+      "native": "藤林聖子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Kanata Okajima",
+      "native": "岡嶋かな多"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Fuu Nonoyama",
+      "native": "野々山風"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "May Tachibana",
+       "native": "橘めい"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rui Nonoyama",
+      "native": "野々山流"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nao Ojika",
+       "native": "小鹿なお"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

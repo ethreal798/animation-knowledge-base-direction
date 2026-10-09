@@ -1,0 +1,330 @@
+{
+ "id": 200556,
+ "title": {
+  "romaji": "High School! Kimengumi (2026)",
+  "english": "High School! Kimengumi (2026)",
+  "native": "ハイスクール！奇面組 (2026)"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Seven"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Motoei Shinzawa",
+      "native": "新沢基栄"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuaki Seki",
+      "native": "関和亮"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shigeru Murakoshi",
+      "native": "村越繁"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuka Abe",
+      "native": "阿部由佳"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Min-Seok Kim",
+      "native": "김민석"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kazuto Horikawa",
+      "native": "堀川和人"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kazuto Horikawa",
+      "native": "堀川和人"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Satoru Ohno",
+      "native": "大野悟"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Naofumi Jinbo",
+      "native": "神保直史"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Taku Iwasaki",
+      "native": "岩崎琢"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Naoki Ishihara",
+      "native": "石原直樹"
+     }
+    }
+   },
+   {
+    "role": "Animation Director",
+    "node": {
+     "name": {
+      "full": "Takashi Nishikawa",
+      "native": "西川貴史"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "BREIMEN",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Tomoo",
+      "native": "ともお"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Rikon Densetsu",
+      "native": "離婚伝説"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance",
+    "node": {
+     "name": {
+      "full": "Haruka Shiraishi",
+      "native": "白石晴香"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance",
+    "node": {
+     "name": {
+      "full": "Ikumi Hasegawa",
+      "native": "長谷川育美"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Arrangement",
+    "node": {
+     "name": {
+      "full": "Jung Kyung-ho",
+      "native": "정경호"
+     }
+    }
+   },
+   {
+    "role": "Music Production",
+    "node": {
+     "name": {
+      "full": "Jung Kyung-ho",
+      "native": "정경호"
+     }
+    }
+   },
+   {
+    "role": "Production Assistant (OP)",
+    "node": {
+     "name": {
+      "full": "Airi Ookubo",
+      "native": "大久保愛理"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Rei Ichidou",
+      "native": "一堂零"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomokazu Seki",
+       "native": "関智一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yui Kawa",
+      "native": "河川唯"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Dai Monohoshi",
+      "native": "物星大"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kikunosuke Toya",
+       "native": "戸谷菊之介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kiyoshi Shusse",
+      "native": "出瀬潔"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshitsugu Matsuoka",
+       "native": "松岡禎丞"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chie Uru",
+      "native": "宇留千絵"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gou Reietsu",
+      "native": "冷越豪"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunsuke Takeuchi",
+       "native": "武内駿輔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jin Daima",
+      "native": "大間仁"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chiaki Kobayashi",
+       "native": "小林千晃"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

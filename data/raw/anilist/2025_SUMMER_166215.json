@@ -1,0 +1,359 @@
+{
+ "id": 166215,
+ "title": {
+  "romaji": "Utagoe wa Mille-Feuille",
+  "english": "Harmony of Mille-Feuille",
+  "native": "うたごえはミルフィーユ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 17
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 18
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 10,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Jumondou"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Takuya Yamanaka",
+      "native": "山中拓也"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Cherico",
+      "native": "チェリ子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kiyoto Nakajima",
+      "native": "中嶋清人"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takuya Yamanaka",
+      "native": "山中拓也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Chisato Kikunaga",
+      "native": "菊永千里"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hitomi Kaiho",
+      "native": "海保仁美"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shiori Shirasaki",
+      "native": "白崎詩織"
+     }
+    }
+   },
+   {
+    "role": "Visual Director",
+    "node": {
+     "name": {
+      "full": "Kouji Sugimoto",
+      "native": "杉本光司"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Arai",
+      "native": "荒井和浩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hitomi Fujii",
+      "native": "藤井瞳"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Guk-Ju Han",
+      "native": "한국주"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kunihito Noritomo",
+      "native": "則友邦仁"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masahiro Gotou",
+      "native": "後藤正浩"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shun Narita",
+      "native": "成田旬"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-6)",
+    "node": {
+     "name": {
+      "full": "Takuya Yamanaka",
+      "native": "山中拓也"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP)",
+    "node": {
+     "name": {
+      "full": "Masayoshi Kikuchi",
+      "native": "菊池政芳"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Fengyu Chen",
+      "native": "陳蜂喩"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 2, 4)",
+    "node": {
+     "name": {
+      "full": "Liheng Xie",
+      "native": "謝立恒"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 4)",
+    "node": {
+     "name": {
+      "full": "Juntian Luo",
+      "native": "羅竣天"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kouichi Oohata",
+      "native": "大畑晃一"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1, 6)",
+    "node": {
+     "name": {
+      "full": "Minoru Yamaoka",
+      "native": "山岡実"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP)",
+    "node": {
+     "name": {
+      "full": "Masayoshi Kikuchi",
+      "native": "菊池政芳"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 2-4)",
+    "node": {
+     "name": {
+      "full": "Heon-Pyo Hong",
+      "native": "홍헌표"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (OP, eps 1-6)",
+    "node": {
+     "name": {
+      "full": "Chisato Kikunaga",
+      "native": "菊永千里"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Uta Komaki",
+      "native": "小牧嬉歌"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mirai Ayase",
+       "native": "綾瀬未来"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Airi Kojou",
+      "native": "古城愛莉"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kanoko Sudou",
+       "native": "須藤叶希"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Musubu Mayumori",
+      "native": "繭森結"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuko Natsuyoshi",
+       "native": "夏吉ゆうこ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yako Kumai",
+      "native": "熊井弥子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Aikawa",
+       "native": "相川遥花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rei Konoe",
+      "native": "近衛玲音"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Misato Matsuoka",
+       "native": "松岡美里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Uruu Miyazaki",
+      "native": "宮崎閏"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miharu Hanai",
+       "native": "花井美春"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

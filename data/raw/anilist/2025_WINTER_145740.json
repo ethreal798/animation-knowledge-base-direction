@@ -1,0 +1,407 @@
+{
+ "id": 145740,
+ "title": {
+  "romaji": "Grisaia: Phantom Trigger",
+  "english": "Grisaia: Phantom Trigger",
+  "native": "グリザイア：ファントムトリガー"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bibury Animation Studios"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Front Wing",
+      "native": "フロントウイング "
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kousuke Murayama",
+      "native": "村山公輔"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akio Watanabe",
+      "native": "渡辺明夫"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Ryuuta Fujisaki",
+      "native": "藤崎竜太"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Akihiro Ishimori",
+      "native": "石森昭博"
+     }
+    }
+   },
+   {
+    "role": "Supervisor",
+    "node": {
+     "name": {
+      "full": "Akihiro Ishimori",
+      "native": "石森昭博"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tatsuya Takahashi",
+      "native": "高橋龍也"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Ushio Funayama",
+      "native": "舩山潮"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Shiozawa",
+      "native": "塩澤良憲"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Masayuki Niizuma",
+      "native": "新妻雅行"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuiha Oota",
+      "native": "太田ゆいは"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hisashi Yonezawa",
+      "native": "米澤寿"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mutsumi Takemiya",
+      "native": "武宮むつみ"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Haowei Hu",
+      "native": "胡浩葳"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hitoshi Fujima",
+      "native": "藤間仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeda",
+      "native": "竹田祐介"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Masahiro Obata",
+      "native": "小幡正博"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Kento Tomita",
+      "native": "冨田健斗"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Atsuhiro Iwakami",
+      "native": "岩上敦宏"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Ryuuichirou Yamakawa",
+      "native": "山川竜一郎 "
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Hajime Maruyama",
+      "native": "丸山創"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Masaki Kaifu",
+      "native": "海部正樹"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Kouyuu Narita",
+      "native": "成田耕祐"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Touka Shishigaya",
+      "native": "獅子ヶ谷桐花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayane Sakura",
+       "native": "佐倉綾音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rena Fukami",
+      "native": "深見玲奈"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maaya Uchida",
+       "native": "内田真礼"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Christina Sakurako Kujirase",
+      "native": "鯨瀬・クリスチィナ・桜子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaori Nazuka",
+       "native": "名塚佳織"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Murasaki Ikoma",
+      "native": "狗駒邑沙季"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsumi Tanezaki",
+       "native": "種﨑敦美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aoi Haruto",
+      "native": "蒼井春人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tsubasa Yonaga",
+       "native": "代永翼"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shiori Arisaka",
+      "native": "有坂秋桜里"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mikako Izawa",
+       "native": "井澤美香子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Maki Inohara",
+      "native": "井ノ原真紀"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshino Nanjou",
+       "native": "南條愛乃"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Taiga Sengoku",
+      "native": "仙石大雅"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Takamori",
+       "native": "高森奈津美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Megumi Kumashiro",
+      "native": "九真城恵"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Suzuko Mimori",
+       "native": "三森すずこ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

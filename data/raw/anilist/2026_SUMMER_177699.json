@@ -1,0 +1,279 @@
+{
+ "id": 177699,
+ "title": {
+  "romaji": "Koukaku Kidoutai: THE GHOST IN THE SHELL",
+  "english": "THE GHOST IN THE SHELL",
+  "native": "攻殻機動隊 THE GHOST IN THE SHELL"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 8
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 10,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Science SARU"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Masamune Shirow",
+      "native": "士郎正宗"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Moko-chan",
+      "native": "モコちゃん"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tou Enjou",
+      "native": "円城塔"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Takeshi Katsurada",
+      "native": "桂田剛司"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shuuhei Handa",
+      "native": "半田修平"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Hajime Sorayama",
+      "native": "空山基"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Emi Katanosaka",
+      "native": "片野坂恵美"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Hashimoto",
+      "native": "橋本賢"
+     }
+    }
+   },
+   {
+    "role": "Color Design Assistance",
+    "node": {
+     "name": {
+      "full": "Kanami Tanaka",
+      "native": "田中花奈実"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hikari Itou",
+      "native": "伊藤ひかり"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Michaela Pail",
+      "native": "ミヒャエラパイル"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Tange",
+      "native": "丹下雄二"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Shouta Yaso",
+      "native": "八十正太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Taisei Iwasaki",
+      "native": "岩崎太整"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukihiro Kanesaka",
+      "native": "金坂征広"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryou Konishi",
+      "native": "小西遼"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Taisei Iwasaki",
+      "native": "岩崎太整"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Shun Uchida",
+      "native": "内田峻"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Shuuhei Shindou",
+      "native": "進藤嵩平"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Reina Koyama",
+      "native": "古山玲奈"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 2-8, 10)",
+    "node": {
+     "name": {
+      "full": "Shuuhei Handa",
+      "native": "半田修平"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Shirou Sasaki",
+      "native": "佐々木史朗"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Jouji Wada",
+      "native": "和田丈嗣"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Masanori Fujita",
+      "native": "藤田雅規"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Motoko Kusanagi",
+      "native": "草薙素子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maaya Sakamoto",
+       "native": "坂本真綾"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

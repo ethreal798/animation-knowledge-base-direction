@@ -1,0 +1,307 @@
+{
+ "id": 204011,
+ "title": {
+  "romaji": "PSYЯEN",
+  "english": "PSYREN",
+  "native": "PSYREN -サイレン-"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Satelight"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Toshiaki Iwashiro",
+      "native": "岩代俊明"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Katsumi Ono",
+      "native": "小野勝巳"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shin Yoshida",
+      "native": "吉田伸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akira Ookuma",
+      "native": "大熊白"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kenichi Tajiri",
+      "native": "田尻健一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yoshimi Kawakami",
+      "native": "川上善美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Haruhi Gotou",
+      "native": "後藤春陽"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kiho Sakai",
+      "native": "酒井紀歩"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ryouko Kaneshige",
+      "native": "兼重涼子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Motoyama",
+      "native": "本山哲"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Tatsuhiko Saiki",
+      "native": "斎木達彦"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Shuu Kanematsu",
+      "native": "兼松衆"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Takashi Oomama",
+      "native": "大間々昂"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "CLAN QUEEN",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Who-ya Extended",
+      "native": "フーヤエクステンデッド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Who-ya Extended",
+      "native": "フーヤエクステンデッド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Who-ya Extended",
+      "native": "フーヤエクステンデッド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Who-ya Extended",
+      "native": "フーヤエクステンデッド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "AOi",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "AOi",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "AOi",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ageha Yoshina",
+      "native": "夜科アゲハ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rikuya Yasuda",
+       "native": "安田陸矢"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sakurako Amamiya",
+      "native": "雨宮桜子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mayuko Kazama",
+       "native": "風間万裕子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Asaga Hiryuu",
+      "native": "朝河飛龍"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunsuke Takeuchi",
+       "native": "武内駿輔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Oboro Mochizuki",
+      "native": "望月朧"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Souma Saitou",
+       "native": "斉藤壮馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kabuto Kirisaki",
+      "native": "霧崎カブト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yukihiro Nozuyama",
+       "native": "野津山幸宏"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

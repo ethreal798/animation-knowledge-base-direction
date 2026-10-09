@@ -1,0 +1,113 @@
+{
+ "id": 209800,
+ "title": {
+  "romaji": "Yoroi Shinden Samurai Troopers Part 2",
+  "english": "Yoroi-Shinden Samurai Troopers Cour 2",
+  "native": "鎧真伝サムライトルーパー 第2クール"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 22
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Sunrise"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hajime Yatate",
+      "native": "矢立肇"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Dannie May",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Karanoah",
+      "native": "カラノア"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Musashi Houjou",
+      "native": "北条武蔵"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayumu Murase",
+       "native": "村瀬歩"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kaito Uesugi",
+      "native": "上杉魁人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junya Enoki",
+       "native": "榎木淳弥"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gai",
+      "native": "凱"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiiro Ishibashi",
+       "native": "石橋陽彩"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

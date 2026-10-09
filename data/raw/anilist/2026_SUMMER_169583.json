@@ -1,0 +1,169 @@
+{
+ "id": 169583,
+ "title": {
+  "romaji": "Tenkousaki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
+  "english": "Oh Boy, Was I Wrong About Her",
+  "native": "転校先の清楚可憐な美少女が、昔男子と思って一緒に遊んだ幼馴染だった件"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "project No.9"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Yu Hibari",
+      "native": "雲雀湯"
+     }
+    }
+   },
+   {
+    "role": "Original Illustration",
+    "node": {
+     "name": {
+      "full": "Sisoe",
+      "native": "シソ"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Mieno",
+      "native": "三重野瞳"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryousuke Nakanishi",
+      "native": "中西亮輔"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "DIALOGUE+",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Daiki Yamaki",
+      "native": "八巻大樹"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Chuanfeng Xu",
+      "native": "徐傳峰"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuri Morita",
+      "native": "森田友梨"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "N Nei Kurahashi",
+      "native": "倉橋N濘"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Naoki Tani",
+      "native": "谷ナオキ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "harmoe",
+      "native": "ハルモエ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hayato Kirishima",
+      "native": "霧島隼人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunichi Toki",
+       "native": "土岐隼一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Haruki Nikaido",
+      "native": "二階堂春希"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

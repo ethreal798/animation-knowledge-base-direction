@@ -1,0 +1,282 @@
+{
+ "id": 190840,
+ "title": {
+  "romaji": "Kingdom 6th Season",
+  "english": "Kingdom Season 6",
+  "native": "キングダム 第6シリーズ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 28
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Pierrot"
+   },
+   {
+    "name": "Studio Signpost"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yasuhisa Hara",
+      "native": "原泰久"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kenichi Imaizumi",
+      "native": "今泉賢一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Noboru Takagi",
+      "native": "高木登"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hisashi Abe",
+      "native": "阿部恒"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Junichi Higashi",
+      "native": "東潤一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miyuki Abe",
+      "native": "阿部みゆき"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hiroki Takano",
+      "native": "髙野弘樹"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keisuke Yanagi",
+      "native": "柳圭介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kazuzou Hamano",
+      "native": "ハマノカズゾウ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Sawano",
+      "native": "澤野弘之"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kouta Yamamoto",
+      "native": "山本康太"
+     }
+    }
+   },
+   {
+    "role": "Editing (ED)",
+    "node": {
+     "name": {
+      "full": "Shou Hirano",
+      "native": "平野翔"
+     }
+    }
+   },
+   {
+    "role": "Editing (ED)",
+    "node": {
+     "name": {
+      "full": "Hiroe Mutsumi",
+      "native": "むつみ弘英"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ikimono-gakari",
+      "native": "いきものがかり"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Sora Tomonari",
+      "native": "友成空"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ED)",
+    "node": {
+     "name": {
+      "full": "Shou Hirano",
+      "native": "平野翔"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ED)",
+    "node": {
+     "name": {
+      "full": "Hiroe Mutsumi",
+      "native": "むつみ弘英"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED)",
+    "node": {
+     "name": {
+      "full": "Shou Hirano",
+      "native": "平野翔"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED)",
+    "node": {
+     "name": {
+      "full": "Hiroe Mutsumi",
+      "native": "むつみ弘英"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ED)",
+    "node": {
+     "name": {
+      "full": "Shou Hirano",
+      "native": "平野翔"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ED)",
+    "node": {
+     "name": {
+      "full": "Hiroe Mutsumi",
+      "native": "むつみ弘英"
+     }
+    }
+   },
+   {
+    "role": "Key Animation Assistance (ED)",
+    "node": {
+     "name": {
+      "full": "Tomomi Takanashi",
+      "native": "高梨友美"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Muyang Li",
+      "native": "李沐洋"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Sadamomo",
+      "native": "さだもも"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ED)",
+    "node": {
+     "name": {
+      "full": "Shou Hirano",
+      "native": "平野翔"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Xin Li",
+      "native": "李信"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Masakazu Morita",
+       "native": "森田成一"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "id": 179054,
+ "title": {
+  "romaji": "Kuroshitsuji: Midori no Majo-hen",
+  "english": "Black Butler: Emerald Witch Arc",
+  "native": "黒執事 -緑の魔女編-"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 28
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CloverWorks"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yana Toboso",
+      "native": "枢やな"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kenjirou Okada",
+      "native": "岡田堅二朗"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Yoshino",
+      "native": "吉野弘幸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yumi Shimizu",
+      "native": "清水祐実"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Akira Takata",
+      "native": "髙田晃"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1, 6, 11, 13)",
+    "node": {
+     "name": {
+      "full": "Yumi Shimizu",
+      "native": "清水祐実"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 2, 10)",
+    "node": {
+     "name": {
+      "full": "Akira Takata",
+      "native": "髙田晃"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 4, 8, 12, 13)",
+    "node": {
+     "name": {
+      "full": "Yuusuke  Shimizu",
+      "native": "清水裕輔"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 3, 7, 13)",
+    "node": {
+     "name": {
+      "full": "Mio Inoguchi ",
+      "native": "猪口美緒"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 5, 9)",
+    "node": {
+     "name": {
+      "full": "Ayumi Sougawa",
+      "native": "寒川歩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Asuka Yokota",
+      "native": "横田明日香"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Risa Iraha",
+      "native": "伊良波理沙"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kuniaki Nemoto",
+      "native": "根本邦明"
+     }
+    }
+   },
+   {
+    "role": "Technical Director",
+    "node": {
+     "name": {
+      "full": "Yuuya Sakuma ",
+      "native": "佐久間悠也"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tsubasa Kanamori",
+      "native": "金森つばさ"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tatsuhiro Itou",
+      "native": "伊藤達弘"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Rina Koguchi",
+      "native": "小口理菜"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryou Kawasaki",
+      "native": "川﨑龍"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Cö shu Nie",
+      "native": "コシュニエ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Hideto Takarai",
+      "native": "寶井秀人"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Caitlin Glass",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Script (eps 4, 9, 11)",
+    "node": {
+     "name": {
+      "full": "Michiko Yokote",
+      "native": "横手美智子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Yumi Nakayama",
+      "native": "中山由美"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 3, 7, 12, 13)",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Yoshino",
+      "native": "吉野弘幸"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sebastian Michaelis",
+      "native": "セバスチャン・ミカエリス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Ono",
+       "native": "小野大輔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ciel Phantomhive",
+      "native": "シエル・ファントムハイヴ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maaya Sakamoto",
+       "native": "坂本真綾"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

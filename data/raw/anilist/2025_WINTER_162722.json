@@ -1,0 +1,362 @@
+{
+ "id": 162722,
+ "title": {
+  "romaji": "Mahoutsukai Precure!! MIRAI DAYS",
+  "english": "Witchy Precure!! ~MIRAI DAYS~",
+  "native": "魔法つかいプリキュア！！～MIRAI DAYS～"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 30
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Toei Animation"
+   },
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Izumi Toudou",
+      "native": "東堂いづみ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Emiko Miyamoto",
+      "native": "宮本絵美子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Hamana",
+      "native": "浜名孝行"
+     }
+    }
+   },
+   {
+    "role": "Chief Animator",
+    "node": {
+     "name": {
+      "full": "Yuu Yoshiyama",
+      "native": "芳山優"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Isao Murayama",
+      "native": "村山功"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mami Sodeyama",
+      "native": "袖山麻美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiroshi Takaki",
+      "native": "高木洋"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Rie Kitagawa",
+      "native": "北川理恵"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yui Horie",
+      "native": "堀江由衣"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Saori Hayami",
+      "native": "早見沙織"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Rie Takahashi",
+      "native": "高橋李依"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Hiroshi Takaki",
+      "native": "高木洋"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Yukinojou Mori",
+      "native": "森雪之丞"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Aiko Okumura",
+      "native": "奥村愛子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Sumiyo Mutsumi",
+      "native": "六ツ見純代"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Hiroshi Takaki",
+      "native": "高木洋"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keiko Onodera",
+      "native": "小野寺桂子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Akira Shimozaki",
+      "native": "下崎昭"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Tomoko Takahashi",
+      "native": "高橋知子"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Kazunari Yasui",
+      "native": "安井一成"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Takashi Washio",
+      "native": "鷲尾天"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Miho Sugawara",
+      "native": "菅原三穂"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yui Azumi",
+      "native": "安住唯"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Takashi Tanaka",
+      "native": "田中昂"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kyouko Ishida",
+      "native": "石田喬子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Mirai Asahina",
+      "native": "朝日奈みらい"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Takahashi",
+       "native": "高橋李依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Haa-chan",
+      "native": "はーちゃん"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Hayami",
+       "native": "早見沙織"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Liko Izayoi",
+      "native": "十六夜リコ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yui Horie",
+       "native": "堀江由衣"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mofurun",
+      "native": "モフルン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayaka Saitou",
+       "native": "齋藤彩夏"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hisui",
+      "native": "ひすい"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Hayami",
+       "native": "早見沙織"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Airu",
+      "native": "アイル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiyuki Toyonaga",
+       "native": "豊永利行"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

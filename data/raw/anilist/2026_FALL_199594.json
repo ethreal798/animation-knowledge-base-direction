@@ -1,0 +1,201 @@
+{
+ "id": 199594,
+ "title": {
+  "romaji": "Tetsuryou! meet with Tetsudou Musume",
+  "english": "TETSURYO! Meet With Tetsudou Musume",
+  "native": "てつりょー！meet with 鉄道むすめ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 9
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "East Fish Studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Kisetsu Morita",
+      "native": "森田季節"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Misuzu Hoshino",
+      "native": "星野美鈴"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Aya Satsuki",
+      "native": "皐月彩"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Naofumi Hashimoto",
+      "native": "橋本尚典"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Aya Satsuki",
+      "native": "皐月彩"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Asaka",
+      "native": "亜咲花"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Sounosuke Takao",
+      "native": "高尾奏之介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hika Tsukishiro",
+      "native": "月城日花"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Haruna Fukushima",
+      "native": "福嶋晴菜"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Mao Shouji",
+      "native": "庄子真央"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "May Tachibana",
+      "native": "橘めい"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ushio Yagami",
+      "native": "矢神うしお"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruna Fukushima",
+       "native": "福嶋晴菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Usa Harutachi",
+      "native": "春立うさ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hika Tsukishiro",
+       "native": "月城日花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kodama Orihara",
+      "native": "折原こだま"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mao Shouji",
+       "native": "庄子真央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Misaki Sata",
+      "native": "佐多みさき"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "May Tachibana",
+       "native": "橘めい"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

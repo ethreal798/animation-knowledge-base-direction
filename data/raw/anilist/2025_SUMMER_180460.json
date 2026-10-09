@@ -1,0 +1,259 @@
+{
+ "id": 180460,
+ "title": {
+  "romaji": "Mattaku Saikin no Tantei to Kitara",
+  "english": "Detectives These Days Are Crazy!",
+  "native": "まったく最近の探偵ときたら"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 1
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 16
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Masakuni Igarashi",
+      "native": "五十嵐正邦"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Rion Kujou",
+      "native": "久城りおん"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Rintarou Ikeda",
+      "native": "池田臨太郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Isoroku Koga",
+      "native": "古賀五十六"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yasunori Ebina",
+      "native": "蝦名恭範"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hiromune Kurahashi",
+      "native": "倉橋裕宗"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tomoki Kikuya",
+      "native": "菊谷知樹"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Isoroku Koga",
+      "native": "古賀五十六"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Taiiku Okazaki",
+      "native": "岡崎体育"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Tomokazu Sugita",
+      "native": "杉田智和"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kana Hanazawa",
+      "native": "花澤香菜"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hideyasu Narita",
+      "native": "成田偉保"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ayako Aihara",
+      "native": "相原彩子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Misaki Enokida",
+      "native": "榎田美咲"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Naho Hasegawa",
+      "native": "長谷川奈穂"
+     }
+    }
+   },
+   {
+    "role": "2D Design",
+    "node": {
+     "name": {
+      "full": "Misato Kuramochi",
+      "native": "倉持美里"
+     }
+    }
+   },
+   {
+    "role": "2D Design",
+    "node": {
+     "name": {
+      "full": "Saki Masuda",
+      "native": "増田咲紀"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Makoto Etou",
+      "native": "えとう誠"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Akiko Nishi",
+      "native": "仁志晃子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kana Arai",
+      "native": "新井佳奈"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Soushi Kuwajima",
+      "native": "桒嶋壮志"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Keiichirou Nagumo",
+      "native": "名雲桂一郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junichi Suwabe",
+       "native": "諏訪部順一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mashiro",
+      "native": "真白"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

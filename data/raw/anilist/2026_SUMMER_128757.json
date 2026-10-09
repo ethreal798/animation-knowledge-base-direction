@@ -1,0 +1,246 @@
+{
+ "id": 128757,
+ "title": {
+  "romaji": "Tai-Ari deshita.: Ojou-sama wa Kakutou Game nante Shinai",
+  "english": "Young Ladies Don't Play Fighting Games",
+  "native": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 22
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "diomedéa"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Eri Ejima",
+      "native": "江島絵理"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shouta Ibata",
+      "native": "井畑翔太"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Wataru Watari",
+      "native": "渡航"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mayuko Matsumoto",
+      "native": "松本麻友子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Scott MacDonald",
+      "native": "スコット・マクドナルド"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Maho Takahashi",
+      "native": "高橋麻穂"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuki Hayashi",
+      "native": "林由稀"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yasuyuki Itou",
+      "native": "伊藤康行"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Toshihiko Kojima",
+      "native": "小島俊彦"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yayoi Tateishi",
+      "native": "立石弥生"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kana Hashiguchi",
+      "native": "橋口佳奈"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "halca",
+      "native": "ハルカ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "HANABIE.",
+      "native": "花冷え。"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Maru Masao Yoshio Mokumoku ",
+      "native": "吉緒もこもこ丸まさお"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 2)",
+    "node": {
+     "name": {
+      "full": "Wata",
+      "native": "緜"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 4)",
+    "node": {
+     "name": {
+      "full": "Namori",
+      "native": "なもり"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Aya Mitsuki",
+      "native": "深月綾"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mio Yorue",
+      "native": "夜絵美緒"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuu Inui",
+      "native": "犬井夕"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayaka Senbongi",
+       "native": "千本木彩花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tamaki Ichinose",
+      "native": "一ノ瀬珠樹"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shino Shimoji",
+       "native": "下地紫野"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

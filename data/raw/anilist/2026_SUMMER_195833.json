@@ -1,0 +1,325 @@
+{
+ "id": 195833,
+ "title": {
+  "romaji": "Honoo no Toukyuujyo Dodge Danko",
+  "english": "Flaming Dodgeball Girl Danko",
+  "native": "炎の闘球女 ドッジ弾子"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CUE"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tetsuhiro Koshita",
+      "native": "こしたてつひろ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Ikehata",
+      "native": "池畠博史"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuho Hyoudou",
+      "native": "兵頭一歩"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Narihito Sekikawa",
+      "native": "関川成人"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Satou",
+      "native": "佐藤正浩"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Masahiro Satou",
+      "native": "佐藤正浩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ryou Kimura",
+      "native": "木村涼"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Daichi Nogami",
+      "native": "野上大地"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuuki Honda",
+      "native": "本田優規"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuichi Imaizumi",
+      "native": "今泉雄一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yasunori Iwasaki",
+      "native": "岩崎文紀"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ren Tsukagoshi",
+      "native": "塚越廉"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Narihito Sekikawa",
+      "native": "関川成人"
+     }
+    }
+   },
+   {
+    "role": "3D Works",
+    "node": {
+     "name": {
+      "full": "Ryousuke Kimura",
+      "native": "木村亮介"
+     }
+    }
+   },
+   {
+    "role": "Sound Production",
+    "node": {
+     "name": {
+      "full": "Ryouhei Hama",
+      "native": "濱亮平"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Hikaru Shiiba",
+      "native": "椎葉ひかる"
+     }
+    }
+   },
+   {
+    "role": "Recording Assistant",
+    "node": {
+     "name": {
+      "full": "Nanami Uto",
+      "native": "宇都奈菜実"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Momoiro Clover Z",
+      "native": "ももいろクローバーZ "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "i☆Ris",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Risa Satou",
+      "native": "佐藤里咲"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Yoshiya Irie",
+      "native": "入江吉耶"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Yuuji Kasai",
+      "native": "笠井雄司"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 6)",
+    "node": {
+     "name": {
+      "full": "Jhon Lozano",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Danko Ichigeki",
+      "native": "一撃弾子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manaka Nakayama",
+       "native": "中山まなか"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chinko Kobotake",
+      "native": "小仏珍子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaori Maeda",
+       "native": "前田佳織里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mochiko Etai",
+      "native": "江袋もち子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akira Sekine",
+       "native": "関根明良"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Susan Canon",
+      "native": "スーザン・キャノン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "You Taichi",
+       "native": "大地葉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Honey Otohana",
+      "native": "音花羽仁衣"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuu Sasahara",
+       "native": "篠原侑"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

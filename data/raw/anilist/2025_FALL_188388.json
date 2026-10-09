@@ -1,0 +1,391 @@
+{
+ "id": 188388,
+ "title": {
+  "romaji": "DIGIMON BEATBREAK",
+  "english": "DIGIMON BEATBREAK",
+  "native": "DIGIMON BEATBREAK"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 27
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 49,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Toei Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Akiyoshi Hongou",
+      "native": "本郷あきよし"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Hiroaki Miyamoto",
+      "native": "宮元宏彰"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Ryouta Yamaguchi",
+      "native": "山口亮太"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takahiro Kojima",
+      "native": "小島隆寛"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Norie Kanakubo",
+      "native": "金久保典江"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kumi Nakajou",
+      "native": "中條久美"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Midori Sawaki",
+      "native": "澤木巳登理"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Masaya Hasegawa",
+      "native": "長谷川将矢"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ayaka Kami",
+      "native": "神綾香"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Sayoko Yokoyama",
+      "native": "横山さよ子"
+     }
+    }
+   },
+   {
+    "role": "Color Design Assistance",
+    "node": {
+     "name": {
+      "full": "Emi Nakajima",
+      "native": "中島苗実"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Ishiyama",
+      "native": "石山智之"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Eiichi Nishimura",
+      "native": "西村英一"
+     }
+    }
+   },
+   {
+    "role": "CG Producer",
+    "node": {
+     "name": {
+      "full": "Takehisa Yoshimura",
+      "native": "吉村剛久"
+     }
+    }
+   },
+   {
+    "role": "CG Producer",
+    "node": {
+     "name": {
+      "full": "Keisuke Ishikawa",
+      "native": "石川圭介"
+     }
+    }
+   },
+   {
+    "role": "CG Producer",
+    "node": {
+     "name": {
+      "full": "Eiji Kobayashi",
+      "native": "小林英司"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Oosone",
+      "native": "大曽根悠介"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Ryuuta Nakahara",
+      "native": "中原隆太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Alisa Okehazama",
+      "native": "桶狭間ありさ"
+     }
+    }
+   },
+   {
+    "role": "Music Selection",
+    "node": {
+     "name": {
+      "full": "Yasuno Satou",
+      "native": "佐藤恭野"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Rin Chinen",
+      "native": "知念凜"
+     }
+    }
+   },
+   {
+    "role": "Special Effects",
+    "node": {
+     "name": {
+      "full": "Nao Ota",
+      "native": "太田直"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Hiroaki Shibata",
+      "native": "柴田宏明"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Takahiro Inoue",
+      "native": "井上貴博"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Mamiko Yamauchi",
+      "native": "山内麻未子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tomorou Tenma",
+      "native": "天馬トモロウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyu Irino",
+       "native": "入野自由"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gekkomon",
+      "native": "ゲッコーモン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Megumi Han",
+       "native": "潘めぐみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Pristimon",
+      "native": "プリスティモン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mutsumi Tamura",
+       "native": "田村睦心"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Reina Sakuya",
+      "native": "咲夜レーナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoyo Kurosawa",
+       "native": "黒沢ともよ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chiropmon",
+      "native": "キロプモン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Misaki Kuno",
+       "native": "久野美咲"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Makoto Kuonji",
+      "native": "久遠寺マコト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Arisa Sekine",
+       "native": "関根有咲"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kyou Sawashiro",
+      "native": "沢城キョウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Youhei Azakami",
+       "native": "阿座上洋平"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Murasamemon",
+      "native": "ムラサメモン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Hamano",
+       "native": "濱野大輝"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

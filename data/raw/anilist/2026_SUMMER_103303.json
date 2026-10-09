@@ -1,0 +1,277 @@
+{
+ "id": 103303,
+ "title": {
+  "romaji": "Nijusseiki Denki Mokuroku: Eureka Evrika",
+  "english": "Sparks of Tomorrow",
+  "native": "二十世紀電氣目録-ユーレカ・エヴリカ-"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Kyoto Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hiro Yuuki",
+      "native": "結城弘"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kazumi Ikeda",
+      "native": "池田和美"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Minoru Oota",
+      "native": "太田稔"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tatsuhiko Urahata",
+      "native": "浦畑達彦"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kouhei Okamura",
+      "native": "岡村公平"
+     }
+    }
+   },
+   {
+    "role": "World Design",
+    "node": {
+     "name": {
+      "full": "Takaaki Suzuki",
+      "native": "鈴木貴昭"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hitomi Kotou",
+      "native": "湖東ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Okamura",
+      "native": "岡村公平"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Luna Goami",
+      "native": "五阿弥ルナ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Ginger Root",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Luna Goami",
+      "native": "五阿弥ルナ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Hitomi Kotou",
+      "native": "湖東ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Hitomi Kotou",
+      "native": "湖東ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Ginger Root",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Ginger Root",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Ginger Root",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Francisco Brêtas",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Polish: eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Zuzanna Galia",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Polish)",
+    "node": {
+     "name": {
+      "full": "Zuzanna Galia",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Synchronization (Polish)",
+    "node": {
+     "name": {
+      "full": "Kacper Czech",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Polish: eps 3-13)",
+    "node": {
+     "name": {
+      "full": "Barbara Jelińska",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Production Managament (Polish)",
+    "node": {
+     "name": {
+      "full": "Tatiana Sałek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Marvin Silva",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kihachi Sakamoto",
+      "native": "坂本喜八"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuma Uchida",
+       "native": "内田雄馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Inako Momokawa",
+      "native": "百川稲子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sora Amamiya",
+       "native": "雨宮天"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

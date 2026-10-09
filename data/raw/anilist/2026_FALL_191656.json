@@ -1,0 +1,359 @@
+{
+ "id": 191656,
+ "title": {
+  "romaji": "Seitokai ni mo Ana wa Aru!",
+  "english": "Even the Student Council Has Its Holes!",
+  "native": "生徒会にも穴はある！"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Passione"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Muchimaro",
+      "native": "むちまろ"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Naoyuki Tatsuwa",
+      "native": "龍輪直征"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masahiro Yokotani",
+      "native": "横谷昌宏"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Ryou Imamura",
+      "native": "今村亮"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Daiju Asami",
+      "native": "浅見ダイジュ"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kay Yu",
+      "native": "ケイユウ"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "kona ming",
+      "native": "こなみんぐ"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Asatoshi Oki",
+      "native": "沖浅利"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "mockingbird",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "SanzashiAme",
+      "native": "さんざし飴"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Mushiki",
+      "native": "虫几"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiromichi Itou",
+      "native": "伊東広道"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Manami Takizawa",
+      "native": "滝沢麻菜美"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Wanting Qi",
+      "native": "斉婉廷"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Arisa Komatsu",
+      "native": "小松亜理沙"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Junpei Takatsu",
+      "native": "高津純平"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Misato Takikawa",
+      "native": "瀧川三智"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Motoyama",
+      "native": "本山哲"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Ryuuta Nakahara",
+      "native": "中原隆太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tomoki Kikuya",
+      "native": "菊谷知樹"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Keiki Nishida",
+      "native": "西田圭稀"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Masaharu Yamanouchi",
+      "native": "山内真治"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Saitou",
+      "native": "西藤和広"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Tomohiro Toyoda",
+      "native": "豊田知紘"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Xu Zhou",
+      "native": "周旭"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tan Otori",
+      "native": "尾鳥綻"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiyori Kouno",
+       "native": "河野ひより"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ume Mizunoe",
+      "native": "水之江梅"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Sakata",
+       "native": "坂田将吾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Satomi Hiratsuka",
+      "native": "平塚敏深"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumi Uchiyama",
+       "native": "内山夕実"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Arisu Terui",
+      "native": "照井有栖"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shizuka Ishigami",
+       "native": "石上静香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hisako Kotobuki",
+      "native": "古都吹寿子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Komaro Michinoku",
+      "native": "陸奥こまろ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyu Tomita",
+       "native": "富田美憂"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

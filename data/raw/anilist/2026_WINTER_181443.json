@@ -1,0 +1,319 @@
+{
+ "id": 181443,
+ "title": {
+  "romaji": "DARK MOON: Kuro no Tsuki - Tsuki no Saidan",
+  "english": "DARK MOON: THE BLOOD ALTAR",
+  "native": "DARK MOON　-黒の月: 月の祭壇-"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TROYCA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "HYBE",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Shouko Shiga",
+      "native": "志賀翔子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masami Inomata",
+      "native": "猪股雅美"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Naoki Chiba",
+      "native": "千葉直樹"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Marissa Lenti",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Amber Lee Connors",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Alex Mai",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Steven Kelly",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Fábio Campos",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Samuel Fernandes",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Patrick Morphy",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Kieran Flitton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "ENHYPEN",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Azumi Botsu",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1) ",
+    "node": {
+     "name": {
+      "full": "Rhythm Bhattacharje",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Su-Ha",
+      "native": "수하"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fuuka Izumi",
+       "native": "和泉風花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jino",
+      "native": "지노"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuugo Nakamura",
+       "native": "仲村宗悟"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Heli",
+      "native": "헬리"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kikunosuke Toya",
+       "native": "戸谷菊之介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shion",
+      "native": "시온"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunichi Toki",
+       "native": "土岐隼一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jaan",
+      "native": "이안"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroto Shimizu",
+       "native": "清水大登"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Solon",
+      "native": "솔론"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Jin Ogasawara",
+       "native": "小笠原仁"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jakah",
+      "native": "자카"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuto Uemura",
+       "native": "上村祐翔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Noa",
+      "native": "노아"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chiaki Kobayashi",
+       "native": "小林千晃"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,277 @@
+{
+ "id": 185519,
+ "title": {
+  "romaji": "Food Court de, Mata Ashita.",
+  "english": "See You Tomorrow at the Food Court",
+  "native": "フードコートで、また明日。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 8,
+  "day": 11
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 6,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Atelier Pontdarc"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shinichirou Nariie",
+      "native": "成家慎一郎"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuomi Koga",
+      "native": "古賀一臣"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Jukki Hanada",
+      "native": "花田十輝"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kyuuta Sakai",
+      "native": "坂井久太"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kana Utatane",
+      "native": "うたたね歌菜"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kyuuta Sakai",
+      "native": "坂井久太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Oisicle Melonpan",
+      "native": "おいしくるメロンパン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Oisicle Melonpan",
+      "native": "おいしくるメロンパン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Nakashima",
+      "native": "ナカシマ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Nakashima",
+      "native": "ナカシマ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yoshino Aoyama",
+      "native": "青山吉能"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Nozomi Miyazaki",
+      "native": "宮崎希実"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Si-Kyung Choi",
+      "native": "최시경"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP, ep 2)",
+    "node": {
+     "name": {
+      "full": "Soo-Jeong Kang",
+      "native": "강수정"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Yuzuki Takei",
+      "native": "竹井柚子樹"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Haruka Takeshita",
+      "native": "竹下春花"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Eimi Anze",
+      "native": "安瀬映未"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hiyori Miyazaki",
+      "native": "宮崎ヒヨリ"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Lihe Wu",
+      "native": "呉力和"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Natsumi Tokuda",
+      "native": "徳田菜月美"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Seiha Udone",
+      "native": "有渡根聖羽"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Yuuri Takahashi",
+      "native": "高橋悠利"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yamamoto",
+      "native": "山本"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshino Aoyama",
+       "native": "青山吉能"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Wada ",
+      "native": "和田"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiyori Miyazaki",
+       "native": "宮崎ヒヨリ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

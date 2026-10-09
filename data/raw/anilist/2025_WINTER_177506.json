@@ -1,0 +1,279 @@
+{
+ "id": 177506,
+ "title": {
+  "romaji": "Izure Saikyou no Renkinjutsushi?",
+  "english": "Possibly the Greatest Alchemist of All Time",
+  "native": "いずれ最強の錬金術師？"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 1
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 19
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Comet"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kogitsunemaru ",
+      "native": "小狐丸"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hitogome ",
+      "native": "人米"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Naoyuki Kuzuya",
+      "native": "葛谷直行"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Hirota",
+      "native": "広田光毅"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sayaka Anezaki",
+      "native": "姉崎早也花"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mame",
+      "native": "マメ"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hiroshi Izumi",
+      "native": "泉寛"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ryouya Koga",
+      "native": "古賀遼也"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kenji Takehara",
+      "native": "武原健二"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keiki Miyake",
+      "native": "三宅圭貴"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jun Watanabe",
+      "native": "渡辺淳"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasuyuki Konno",
+      "native": "今野康之"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiroshi Nakamura",
+      "native": "中村博"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jerry Jewell",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "DIALOGUE+",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Mattheus Caliano",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Manuel Aragon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixing (English)",
+    "node": {
+     "name": {
+      "full": "Neal Malley",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Domonique French",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "In-Betweens Check (OP, ED, eps 1, 8, 9, 12)",
+    "node": {
+     "name": {
+      "full": "Le Minh Toan",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Le Minh Toan",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Le Minh Toan",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Susie Nixon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Latin American Spanish)",
+    "node": {
+     "name": {
+      "full": "René Fouilloux",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Latin American Spanish)",
+    "node": {
+     "name": {
+      "full": "René Fouilloux",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Takumi Iruma",
+      "native": "タクミ・イルマ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Sakata",
+       "native": "坂田将吾"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

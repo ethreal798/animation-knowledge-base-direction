@@ -1,0 +1,295 @@
+{
+ "id": 180136,
+ "title": {
+  "romaji": "Tsuihou Sareta Tensei Juukishi wa Game Chishiki de Musou Suru",
+  "english": "The Exiled Heavy Knight Knows How to Game the System",
+  "native": "追放された転生重騎士はゲーム知識で無双する"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 12,
+  "day": 25
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 26,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "GoHands"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Nekoko",
+      "native": "猫子"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Jaian",
+      "native": "じゃいあん"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Shingo Suzuki",
+      "native": "鈴木信吾"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Katsumasa Yokomine",
+      "native": "横峯克昌"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takayuki Uchida",
+      "native": "内田孝行"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Keiji Tani",
+      "native": "谷圭司"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Hiroshi Ookubo",
+      "native": "大久保宏"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Tetsuya Gunji",
+      "native": "郡司哲也"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Enji Nakajima",
+      "native": "中島えんじ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ludvig Forssell",
+      "native": "ルドウィグ・フォシェ"
+     }
+    }
+   },
+   {
+    "role": "Chief Episode Director",
+    "node": {
+     "name": {
+      "full": "Tetsuichi Yamagishi",
+      "native": "山岸徹一"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Makoto Furuta",
+      "native": "古田誠"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Keiji Tani",
+      "native": "谷圭司"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Chris Cason",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "SPYAIR",
+      "native": "スパイエアー "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "ReoNa",
+      "native": "ReoNa"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Davis",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP2)",
+    "node": {
+     "name": {
+      "full": "Takuya Yamanaka",
+      "native": "山中拓也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP2)",
+    "node": {
+     "name": {
+      "full": "Takuya Yamanaka",
+      "native": "山中拓也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP2)",
+    "node": {
+     "name": {
+      "full": "Takuya Yamanaka",
+      "native": "山中拓也"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Lee George",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Towa Tokoyami",
+      "native": "常闇トワ"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Neal Malley",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP2)",
+    "node": {
+     "name": {
+      "full": "Yuuki Tsujimura",
+      "native": "辻村有記"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Elymas Edvan",
+      "native": "エルマ・エドヴァン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeo Ootsuka",
+       "native": "大塚剛央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Luce Rubis",
+      "native": "ルーチェ・ルービス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shion Wakayama",
+       "native": "若山詩音"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

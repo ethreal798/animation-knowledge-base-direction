@@ -1,0 +1,318 @@
+{
+ "id": 178825,
+ "title": {
+  "romaji": "CLASSIC★STARS",
+  "english": "Classic★Stars",
+  "native": "クラシック★スターズ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 29
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Platinum Vision"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Motoko Yoshida",
+      "native": "吉田資子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hideaki Ooba",
+      "native": "大庭秀昭"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shingo Nagai",
+      "native": "永井真吾"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Youko Satou",
+      "native": "佐藤陽子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hitoshi Fujima",
+      "native": "藤間仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryouta Tomaru ",
+      "native": "都丸椋太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeda",
+      "native": "竹田祐介"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Executive Producer",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Production Supervisor",
+    "node": {
+     "name": {
+      "full": "Akifumi Kaneko",
+      "native": "金子彰史"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Yuuma Uchida",
+      "native": "内田雄馬"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Shouya Ishige",
+      "native": "石毛翔弥"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kento Itou",
+      "native": "伊東健人"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Shun Abe",
+      "native": "安部瞬"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Ludwig van Beethoven",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Wolfgang Amadeus Mozart",
+      "native": "Wolfgang Amadeus Mozart"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Fryderyk Chopin",
+      "native": "フレデリック・フランソワ・ショパン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Franz Liszt",
+      "native": "Ferencz Liszt"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeda",
+      "native": "竹田祐介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeda",
+      "native": "竹田祐介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Hitoshi Fujima",
+      "native": "藤間仁"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Beethoven",
+      "native": "ベートーヴェン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuma Uchida",
+       "native": "内田雄馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mozart",
+      "native": "モーツァルト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kento Itou",
+       "native": "伊東健人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chopin",
+      "native": "ショパン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shun Abe",
+       "native": "安部瞬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Liszt",
+      "native": "リスト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Ishige",
+       "native": "石毛翔弥"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,314 @@
+{
+ "id": 186052,
+ "title": {
+  "romaji": "Mizu Zokusei no Mahou Tsukai",
+  "english": "The Water Magician",
+  "native": "水属性の魔法使い"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 26
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TYPHOON GRAPHICS"
+   },
+   {
+    "name": "Wonderland"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Tadashi Kubou",
+      "native": "久宝忠"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Nokito Haku",
+      "native": "白烏宇砥"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hideyuki Satake",
+      "native": "佐竹秀幸"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Jun Kumagai",
+      "native": "熊谷純"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Haruka Otsuzumi",
+      "native": "小堤悠香"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Alex Mai",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "William Dewell",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Kevin Thelwell",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Riki Oouchi",
+      "native": "大内力"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Sawyer Pfledderer",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Misaki",
+      "native": "みさき"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Meiyo Densetsu",
+      "native": "名誉伝説"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Ling Xu",
+      "native": "徐玲"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Danhong Fu",
+      "native": "洑丹红"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Yihua Shen",
+      "native": "沈一华"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Yongjuan Zhao",
+      "native": "赵永娟"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Yongwei Gu",
+      "native": "顾永伟"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Xinyao Xu",
+      "native": "徐新瑶"
+     }
+    }
+   },
+   {
+    "role": "Finishing (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Yuhua Wang",
+      "native": "王华雨"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Cha Bobo",
+      "native": "波波茶"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Bing Shu",
+      "native": "薯饼"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Simei Ding",
+      "native": "丁思美"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Heyu Zhang",
+      "native": "张荷雨"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Yixuan Wang",
+      "native": "王以宣"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ryou Mihara",
+      "native": "三原涼"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayumu Murase",
+       "native": "村瀬歩"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Abel",
+      "native": "アベル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kazuki Ura",
+       "native": "浦和希"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sara",
+      "native": "セーラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaede Hondo",
+       "native": "本渡楓"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

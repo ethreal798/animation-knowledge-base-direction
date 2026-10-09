@@ -1,0 +1,311 @@
+{
+ "id": 197754,
+ "title": {
+  "romaji": "LIAR GAME",
+  "english": "LIAR GAME",
+  "native": "LIAR GAME"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 29
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 26,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MADHOUSE"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shinobu Kaitani",
+      "native": "甲斐谷忍"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Yuuzou Satou",
+      "native": "佐藤雄三"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Asami Kawano",
+      "native": "川野麻美"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tatsuhiko Urahata",
+      "native": "浦畑達彦"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kei Tsuchiya",
+      "native": "土屋圭"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Ai Yokoyama",
+      "native": "横山愛"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shinji Sugiyama",
+      "native": "杉山晋史"
+     }
+    }
+   },
+   {
+    "role": "Art Board",
+    "node": {
+     "name": {
+      "full": "Hideyuki Ueno",
+      "native": "上野秀行"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Terumi Nakauchi",
+      "native": "中内照美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hironobu Hatanaka",
+      "native": "畑中宏信"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mariko Tsukatsune",
+      "native": "塚常真理子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kisuke Koizumi",
+      "native": "小泉紀介"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Naoto Yamatani",
+      "native": "山谷尚人"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuugo Kanno",
+      "native": "菅野祐悟"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Tatsuhiko Urahata",
+      "native": "浦畑達彦"
+     }
+    }
+   },
+   {
+    "role": "VFX Supervisor",
+    "node": {
+     "name": {
+      "full": "Michiya Katou",
+      "native": "加藤道哉"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "Yorushika",
+      "native": "ヨルシカ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Lucky Kilimanjaro",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Kroi",
+      "native": "クロイ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "muque",
+      "native": "ムク"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jeremy Inman",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Paul Cline",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "James Tipps",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "James Cheek",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Nao Kanzaki",
+      "native": "神崎直"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saya Hitomi",
+       "native": "仁見紗綾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shinichi Akiyama",
+      "native": "秋山真一"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeo Ootsuka",
+       "native": "大塚剛央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuuji Fukunaga",
+      "native": "福永ユウジ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "You Taichi",
+       "native": "大地葉"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "id": 176702,
+ "title": {
+  "romaji": "Teogonia",
+  "english": "Teogonia",
+  "native": "神統記"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 27
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Asahi Production"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Tsukasa Tanimai",
+      "native": "谷舞司"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kouichirou Kawano",
+      "native": "河野紘一郎"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Kunihiro Mori",
+      "native": "森邦宏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tomoyasu Ookubo",
+      "native": "大久保智康"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kouichirou Kawano",
+      "native": "河野紘一郎"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Yachi",
+      "native": "谷地清隆"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Emi Toya",
+      "native": "外谷恵美"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Eri Koshika",
+      "native": "小鹿絵里"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Ryou Kujirai",
+      "native": "鯨井亮"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ami Ishii",
+      "native": "石井亜美"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yutaka Nakajima",
+      "native": "中島豊"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Tange",
+      "native": "丹下雄二"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Kenji Fujisawa",
+      "native": "藤澤健至"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Takahiro Yamanaka",
+      "native": "山中隆弘"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "STU48",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Emi Noda",
+      "native": "野田愛実"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1-2, 4-12)",
+    "node": {
+     "name": {
+      "full": "Fumino Fujii",
+      "native": "藤井文乃"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 3, 7, 9-10)",
+    "node": {
+     "name": {
+      "full": "Ririka Yamazaki",
+      "native": "山﨑理璃花"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Konomi Sakurai",
+      "native": "桜井木の実"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1, 5-9, 11-12)",
+    "node": {
+     "name": {
+      "full": "Tsutomu Oono",
+      "native": "大野勉"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Mari Aizawa",
+      "native": "相澤茉莉"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1, 6, 9, 11-12)",
+    "node": {
+     "name": {
+      "full": "Fumino Fujii",
+      "native": "藤井文乃"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1, 4)",
+    "node": {
+     "name": {
+      "full": "Osamu Kamijou",
+      "native": "上條修"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1-2, 9)",
+    "node": {
+     "name": {
+      "full": "Ririka Yamazaki",
+      "native": "山﨑理璃花"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Hidenori Hasaka",
+      "native": "羽坂英則"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kai",
+      "native": "カイ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mutsumi Tamura",
+       "native": "田村睦心"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jose",
+      "native": "ジョゼ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

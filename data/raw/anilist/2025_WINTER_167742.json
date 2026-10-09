@@ -1,0 +1,311 @@
+{
+ "id": 167742,
+ "title": {
+  "romaji": "UniteUp!: Uni:Birth",
+  "english": "UniteUp! -Uni:Birth-",
+  "native": "UniteUp! -Uni:Birth-"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CloverWorks"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shinichirou Ushijima",
+      "native": "牛嶋新一郎"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Michiru Itabisashi",
+      "native": "板庇迪"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Majiro",
+      "native": "まじろ"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Levin Aoi",
+      "native": "あおいれびん"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Hidekazu Yamana",
+      "native": "山名秀和"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Sueoka",
+      "native": "末岡弥美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Eri Yamanashi",
+      "native": "山梨絵里"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Miho Norisue",
+      "native": "乗末美穂"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shuuichi Ookubo",
+      "native": "大久保修一"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kayoko Tomono",
+      "native": "友野加世子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mai Yamaguchi",
+      "native": "山口舞"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Megumi Himeno",
+      "native": "姫野めぐみ"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akinori  Mishima",
+      "native": "三嶋章紀"
+     }
+    }
+   },
+   {
+    "role": "CG Supervisor",
+    "node": {
+     "name": {
+      "full": "Gouichi Sakamoto",
+      "native": "坂本剛一"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Watanabe",
+      "native": "渡辺悠介"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Misue Yoshisawa",
+      "native": "吉澤美寿恵"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Naoyuki Chikatani",
+      "native": "近谷直之"
+     }
+    }
+   },
+   {
+    "role": "Music Selection",
+    "node": {
+     "name": {
+      "full": "Kouhei Yoshida",
+      "native": "吉田光平"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yoshiagi Hata",
+      "native": "羽田吉儀"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Takuya Hirata",
+      "native": "平田拓也"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Atsuhiro Iwakami",
+      "native": "岩上敦宏"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Akira Shimizu",
+      "native": "清水暁"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Shunsuke Muramatsu",
+      "native": "村松俊亮"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Masanori Miyake",
+      "native": "三宅将典"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Akira Kiyose",
+      "native": "清瀬明良"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kikunosuke Toya",
+       "native": "戸谷菊之介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chihiro Isuzugawa",
+      "native": "五十鈴川千紘"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Amon Hirai",
+       "native": "平井亜門"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Banri Naoe",
+      "native": "直江万里"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryoutarou Yamaguchi",
+       "native": "山口諒太郎"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

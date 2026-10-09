@@ -1,0 +1,301 @@
+{
+ "id": 209872,
+ "title": {
+  "romaji": "Ranma 1/2 (2024) 3rd Season",
+  "english": "Ranma1/2 (2024) Season 3",
+  "native": "らんま1/2 (2024) 第3期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MAPPA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Rumiko Takahashi",
+      "native": "高橋留美子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kounosuke Uda",
+      "native": "宇田鋼之介"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kimiko Ueno",
+      "native": "うえのきみこ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Taniguchi",
+      "native": "谷口宏美"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Atsuko Ishida",
+      "native": "石田敦子"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Masahiro Kurio ",
+      "native": "栗尾昌宏"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Takeda",
+      "native": "竹田欣弘"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Chihiro Ookawa",
+      "native": "大川千裕"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ryuuta Hayashi",
+      "native": "林竜太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Kakita",
+      "native": "垣田由紀子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Atsushi Kanou",
+      "native": "加納篤"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keisuke Yanagi",
+      "native": "柳圭介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kounosuke Uda",
+      "native": "宇田鋼之介"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Takuya Hasegawa",
+      "native": "長谷川卓也"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kaoru Wada",
+      "native": "和田薫"
+     }
+    }
+   },
+   {
+    "role": "Music Selection",
+    "node": {
+     "name": {
+      "full": "Makiko Kayahara",
+      "native": "茅原万起子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kousuke Kawamura",
+      "native": "川村幸祐"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Haruki Miura",
+      "native": "三浦春樹"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yoshiko Saitou",
+      "native": "齊藤佳子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Riko Kaneda",
+      "native": "金田莉子"
+     }
+    }
+   },
+   {
+    "role": "POP Artwork",
+    "node": {
+     "name": {
+      "full": "Minami Kitamura",
+      "native": "北村みなみ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Wilken Mazzei",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Yuika",
+      "native": "『ユイカ』"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yuika",
+      "native": "『ユイカ』"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Yuika",
+      "native": "『ユイカ』"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ranma Saotome",
+      "native": "早乙女乱馬"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kappei Yamaguchi",
+       "native": "山口勝平"
+      }
+     },
+     {
+      "name": {
+       "full": "Megumi Hayashibara",
+       "native": "林原めぐみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akane Tendou",
+      "native": "天道あかね"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Noriko Hidaka",
+       "native": "日高のり子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

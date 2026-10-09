@@ -1,0 +1,295 @@
+{
+ "id": 207329,
+ "title": {
+  "romaji": "Tsuihou Sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka Suru.: Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
+  "english": "The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life",
+  "native": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。　～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 7
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "P.A.WORKS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Youmochi Gyoumu",
+      "native": "業務用餅"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shuu Honma",
+      "native": "本間修"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Youko Yonaiyama",
+      "native": "米内山陽子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuito Kiyosawa",
+      "native": "清澤唯人"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Masami Gouda",
+      "native": "合田真さ美"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Makino",
+      "native": "牧野博美"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kayoko Nabeta",
+      "native": "鍋田香代子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Youko Kamiyama",
+      "native": "神山瑶子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Risa Iwatsuki ",
+      "native": "岩月梨紗"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kazu Doi ",
+      "native": "土井和"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Youichirou Satou",
+      "native": "佐藤陽一郎"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayumu Takahashi",
+      "native": "高橋歩"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Motonari Ichikawa",
+      "native": "市川元成"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Alisa Okehazama",
+      "native": "桶狭間ありさ"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Mitsuhito Tsuji",
+      "native": "辻充仁"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Masami Gouda",
+      "native": "合田真さ美"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuito Kiyosawa",
+      "native": "清澤唯人"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Min-Ji Yu",
+      "native": "유민지"
+     }
+    }
+   },
+   {
+    "role": "Action Animation Director",
+    "node": {
+     "name": {
+      "full": "Noboru Sugimitsu",
+      "native": "杉光登"
+     }
+    }
+   },
+   {
+    "role": "Special Effects",
+    "node": {
+     "name": {
+      "full": "Masahiro Murakami",
+      "native": "村上正博"
+     }
+    }
+   },
+   {
+    "role": "Special Effects",
+    "node": {
+     "name": {
+      "full": "Sumie Murakami",
+      "native": "村上寿美江"
+     }
+    }
+   },
+   {
+    "role": "2D Design",
+    "node": {
+     "name": {
+      "full": "Yoshihide Mukai",
+      "native": "向井吉秀"
+     }
+    }
+   },
+   {
+    "role": "Gag Character Design",
+    "node": {
+     "name": {
+      "full": "Masami Gouda",
+      "native": "合田真さ美"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Rain Garland",
+      "native": "レイン・ガーランド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Yamashita",
+       "native": "山下大輝"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lily Flamebell",
+      "native": "リリィ・フラムベル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Lynn",
+       "native": null
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

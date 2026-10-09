@@ -1,0 +1,295 @@
+{
+ "id": 176273,
+ "title": {
+  "romaji": "Zenshuu.",
+  "english": "ZENSHU",
+  "native": "全修。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 23
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MAPPA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Mitsue Yamazaki",
+      "native": "山﨑みつえ"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kimiko Ueno",
+      "native": "うえのきみこ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshiteru Tsujino",
+      "native": "辻野芳輝"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Mitsue Yamazaki",
+      "native": "山﨑みつえ"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Sumie Noro",
+      "native": "野呂純恵"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kayoko Ishikawa",
+      "native": "石川佳代子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Akio Shimada",
+      "native": "嶋田昭夫"
+     }
+    }
+   },
+   {
+    "role": "World Design",
+    "node": {
+     "name": {
+      "full": "Yoshiteru Tsujino",
+      "native": "辻野芳輝"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Junko Suenaga",
+      "native": "末永絢子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kenta Fujita",
+      "native": "藤田健太"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mutsumi Takemiya",
+      "native": "武宮むつみ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukari Hashimoto",
+      "native": "橋本由香利"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Takahiro Ogawa",
+      "native": "小川崇博"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kimiko Ueno",
+      "native": "うえのきみこ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 3, 6, 9, 11, 12)",
+    "node": {
+     "name": {
+      "full": "Etsuko Sumimoto",
+      "native": "住本悦子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (OP, eps 1, 3-12)",
+    "node": {
+     "name": {
+      "full": "Kayoko Ishikawa",
+      "native": "石川佳代子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 2, 11, 12)",
+    "node": {
+     "name": {
+      "full": "Shuuji Takahara",
+      "native": "高原修司"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 4, 7, 11)",
+    "node": {
+     "name": {
+      "full": "Kazuko Hayakawa",
+      "native": "早川加寿子"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (ep 4)",
+    "node": {
+     "name": {
+      "full": "Mamoru Miyano",
+      "native": "宮野真守"
+     }
+    }
+   },
+   {
+    "role": "Prop Design (eps 1-12)",
+    "node": {
+     "name": {
+      "full": "Jun Fuji",
+      "native": "藤純"
+     }
+    }
+   },
+   {
+    "role": "Itano Circus Part Storyboard (ep 2)",
+    "node": {
+     "name": {
+      "full": "Ichirou Itano",
+      "native": "板野一郎"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Film Poster Design (eps 1, 5, 7, 12)",
+    "node": {
+     "name": {
+      "full": "Osamu Horiuchi",
+      "native": "堀内修"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design (eps 1, 5, 9)",
+    "node": {
+     "name": {
+      "full": "Osamu Horiuchi",
+      "native": "堀内修"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Kumiko Katou",
+      "native": "加藤久美子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Natsuko Hirose",
+      "native": "広瀬ナツ子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Anna Nagase",
+       "native": "永瀬アンナ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Luke Braveheart",
+      "native": "ルーク・ブレイブハート"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kazuki Ura",
+       "native": "浦和希"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

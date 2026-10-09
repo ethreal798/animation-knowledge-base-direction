@@ -1,0 +1,205 @@
+{
+ "id": 176314,
+ "title": {
+  "romaji": "Sasaki to Pii-chan Season 2",
+  "english": "Sasaki and Peeps Season 2",
+  "native": "佐々木とピーちゃん シーズン２"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 7
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SILVER LINK."
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Buncololi",
+      "native": "ぶんころり"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kantoku",
+      "native": "カントク "
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Yuushi Ibe",
+      "native": "伊部勇志"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yamato Oouchi",
+      "native": "大内大和"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Mieno",
+      "native": "三重野瞳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Saori Nakashiki",
+      "native": "仲敷沙織"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Shinjou",
+      "native": "新城湧基"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Shiho Mizumoto",
+      "native": "水本志保"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuko Shintani",
+      "native": "新谷優子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tsutomu Ogasawara",
+      "native": "小笠原努"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Nobuyuki Abe",
+      "native": "阿部信行"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuki Sawairi",
+      "native": "澤入祐樹"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Saori Nakashiki",
+      "native": "仲敷沙織"
+     }
+    }
+   },
+   {
+    "role": "Action Supervisor",
+    "node": {
+     "name": {
+      "full": "Kazunori Ozawa",
+      "native": "小澤和則"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "MADKID",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Piercarlo",
+      "native": "ピエルカルロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Yuuki",
+       "native": "悠木碧"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sasaki",
+      "native": "佐々木"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomokazu Sugita",
+       "native": "杉田智和"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,307 @@
+{
+ "id": 151799,
+ "title": {
+  "romaji": "New PANTY & STOCKING with GARTERBELT",
+  "english": "New PANTY & STOCKING with GARTERBELT",
+  "native": "New PANTY & STOCKING with GARTERBELT"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 25
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TRIGGER"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Atsushi Nishigori",
+      "native": "錦織敦史"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Imaishi",
+      "native": "今石洋之"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Hiromi Wakabayashi",
+      "native": "若林広海"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Akira Furukawa",
+      "native": "古川晟"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Imaishi",
+      "native": "今石洋之"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiromi Wakabayashi",
+      "native": "若林広海"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sushio",
+      "native": "すしお"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shigeto Koyama",
+      "native": "コヤマシゲト "
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masaru Sakamoto",
+      "native": "坂本勝"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Ai Nonaka",
+      "native": "野中愛"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shigeto Koyama",
+      "native": "コヤマシゲト "
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masanobu Nomura",
+      "native": "野村正信"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Kakita",
+      "native": "垣田由紀子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Katsunori Shiradou",
+      "native": "志良堂勝規"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Junichi Uematsu",
+      "native": "植松淳一"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiroki Urakari",
+      "native": "浦狩裕樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hiroki Nozaki",
+      "native": "野崎博樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "TeddyLoid",
+      "native": "テディロイド"
+     }
+    }
+   },
+   {
+    "role": "Music Selection",
+    "node": {
+     "name": {
+      "full": "Hiromi Wakabayashi",
+      "native": "若林広海"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Taku Takahashi",
+      "native": "高橋拓"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Naoko Tsutsumi",
+      "native": "堤尚子"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Yoshitaka Tougou",
+      "native": "東郷儀隆"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Masahiko Ootsuka",
+      "native": "大塚雅彦"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Daijou Kudou",
+      "native": "工藤大丈"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Yoshiki Usa",
+      "native": "宇佐義大"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Panty Anarchy",
+      "native": "アナーキー・パンティ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Arisa Ogasawara",
+       "native": "小笠原亜里沙"
+      }
+     },
+     {
+      "name": {
+       "full": "Hiroshi Shirokuma",
+       "native": "白熊寛嗣"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Stocking Anarchy",
+      "native": "ストッキング・アナーキー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mariya Ise",
+       "native": "伊瀬茉莉也"
+      }
+     },
+     {
+      "name": {
+       "full": "Takaya Hashi",
+       "native": "土師孝也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "id": 199547,
+ "title": {
+  "romaji": "MARRIAGETOXIN",
+  "english": "MARRIAGETOXIN",
+  "native": "マリッジトキシン"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 30
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "bones film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Joumyaku",
+      "native": "静脈"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mizuki Yoda",
+      "native": "依田瑞稀"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Motonobu Hori",
+      "native": "堀元宣"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kimiko Ueno",
+      "native": "うえのきみこ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kouhei Tokuoka",
+      "native": "徳岡紘平"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yurika Sako",
+      "native": "迫由里香"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ryou Hirata",
+      "native": "ヒラタリョウ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ayumi Nagaki",
+      "native": "永木歩実"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Kotono",
+      "native": "琴乃"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Toshiki Amata",
+      "native": "天田俊貴"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hiroko Umezaki",
+      "native": "梅崎ひろこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Gou Kanbayashi",
+      "native": "神林剛"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kumiko Sakamoto",
+      "native": "坂本久美子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Daiki Nagashima",
+      "native": "永嶋大輝"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Haru Yamada",
+      "native": "山田陽"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Tomokazu Mitsui",
+      "native": "三井友和"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Taisei Iwasaki",
+      "native": "岩崎太整"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuma Yamaguchi",
+      "native": "山口由馬"
+     }
+    }
+   },
+   {
+    "role": "CG Producer (ep 1)",
+    "node": {
+     "name": {
+      "full": "Shouta Hozumi",
+      "native": "保住昇汰"
+     }
+    }
+   },
+   {
+    "role": "CG Producer (ep 1)",
+    "node": {
+     "name": {
+      "full": "Tatsuya Nishiyama",
+      "native": "西山達也"
+     }
+    }
+   },
+   {
+    "role": "CG Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Daiki Nagashima",
+      "native": "永嶋大輝"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yurina Hirate",
+      "native": "平手友梨奈"
+     }
+    }
+   },
+   {
+    "role": "Script (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kimiko Ueno",
+      "native": "うえのきみこ"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Motonobu Hori",
+      "native": "堀元宣"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Motonobu Hori",
+      "native": "堀元宣"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hikaru Gero",
+      "native": "下呂ヒカル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruki Ishiya",
+       "native": "石谷春貴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mei Kinosaki",
+      "native": "城崎メイ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shion Wakayama",
+       "native": "若山詩音"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

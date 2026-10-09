@@ -1,0 +1,295 @@
+{
+ "id": 177637,
+ "title": {
+  "romaji": "Sayonara Lara",
+  "english": "Goodbye, Lara",
+  "native": "さよならララ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Kinema Citrus"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takushi Koide",
+      "native": "小出卓史"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Anna Kawahara",
+      "native": "川原杏奈"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shiori Tani",
+      "native": "谷紫織"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hotaru Kawase",
+      "native": "川瀬蛍"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Mai Yamaguchi",
+      "native": "山口真生"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Yuuto Hama",
+      "native": "濱祐斗"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Kazufumi Kikushima",
+      "native": "菊島憲文"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Soujirou Arimizu",
+      "native": "有水宗治郎"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Masami Kiyohara",
+      "native": "清原誠巳"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Takuya Nakayama",
+      "native": "中山卓也"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Takaaki Kounosu",
+      "native": "鴻巣貴明"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Takuya Sakai",
+      "native": "酒井拓也"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Kazunari Ishii",
+      "native": "石井一成"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Shiho Ootani",
+      "native": "大谷志穂"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Ayumi Iwasaki",
+      "native": "岩﨑あゆみ"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Nanako Shinkai",
+      "native": "新貝奈々子"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Takashi Yasuda",
+      "native": "安田孝史"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mari Fujino",
+      "native": "藤野真里"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miyao Yamashita",
+      "native": "山下宮緒"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Rika Aizawa",
+      "native": "相澤里佳"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kazuto Izumita",
+      "native": "出水田和人"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masayuki Kurosawa",
+      "native": "黒澤雅之"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Haru Yamada",
+      "native": "山田陽"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Tsutomu Sukigara",
+      "native": "鋤柄務"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuma Yamaguchi",
+      "native": "山口由馬"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Lara",
+      "native": "ララ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hana Hishikawa",
+       "native": "菱川花菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mari Ootsu",
+      "native": "大津茉里"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nana Kawaishi",
+       "native": "川石奈奈"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,289 @@
+{
+ "id": 173335,
+ "title": {
+  "romaji": "Kamitsubaki-shi Kensetsuchuu.",
+  "english": "KAMITSUBAKI CITY UNDER CONSTRUCTION",
+  "native": "神椿市建設中。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 25
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Shogakukan Music & Digital Entertainment"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Koudai Kakimoto",
+      "native": "柿本広大"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Koudai Kakimoto",
+      "native": "柿本広大"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ken Naitou",
+      "native": "内藤健"
+     }
+    }
+   },
+   {
+    "role": "Supervisor",
+    "node": {
+     "name": {
+      "full": "Souki Tsukishima",
+      "native": "月島総記"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tsunetaka Ema",
+      "native": "江間常高"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miyuki Satou",
+      "native": "佐藤美由紀"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Tomomi Umetsu",
+      "native": "梅津朋美"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasushi Inomata",
+      "native": "猪俣泰史"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuka Aono",
+      "native": "あおのゆか"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuka Aono",
+      "native": "あおのゆか"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED6)",
+    "node": {
+     "name": {
+      "full": "KAF",
+      "native": "花譜"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED9, ED10, ED11)",
+    "node": {
+     "name": {
+      "full": "V.W.P",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED3, ED7)",
+    "node": {
+     "name": {
+      "full": "RIM",
+      "native": "理芽"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED5, ED7)",
+    "node": {
+     "name": {
+      "full": "KOKO",
+      "native": "幸祜"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED4, ED8)",
+    "node": {
+     "name": {
+      "full": "Harusaruhi",
+      "native": "春猿火"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2, ED8)",
+    "node": {
+     "name": {
+      "full": "Isekaijoucho",
+      "native": "ヰ世界情緒"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuuya Ishihara",
+      "native": "石原裕也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "PALOW",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kent Asahina",
+      "native": "朝比奈健人"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Koko Rinne",
+      "native": "輪廻此処"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "KOKO",
+       "native": "幸祜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Haru Asanushi",
+      "native": "朝主派流"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Harusaruhi",
+       "native": "春猿火"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kafu Morisaki",
+      "native": "森先化歩"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "KAF",
+       "native": "花譜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sekai Yorukawa",
+      "native": "夜河世界"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Isekaijoucho",
+       "native": "ヰ世界情緒"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rime Tanioki",
+      "native": "谷置狸眼"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "RIM",
+       "native": "理芽"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

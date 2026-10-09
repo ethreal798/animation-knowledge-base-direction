@@ -1,0 +1,321 @@
+{
+ "id": 182309,
+ "title": {
+  "romaji": "Grand Blue Season 2",
+  "english": "Grand Blue Dreaming Season 2",
+  "native": "ぐらんぶる Season 2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 23
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Zero-G"
+   },
+   {
+    "name": "Liber"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kenji Inoue",
+      "native": "井上堅二"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kimitake Yoshioka",
+      "native": "吉岡公威"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shinji Takamatsu",
+      "native": "高松信司"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hideoki Kusama",
+      "native": "草間英興"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "jimao",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Reiko Kasuga",
+      "native": "春日礼児"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Matsuyama",
+      "native": "松山愛子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Naoyuki Katou",
+      "native": "加藤直之"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Shun Tokuda",
+      "native": "徳田俊"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shinji Takamatsu",
+      "native": "高松信司"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukari Hashimoto",
+      "native": "橋本由香利"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Shinji Takamatsu",
+      "native": "高松信司"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hideoki Kusama",
+      "native": "草間英興"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Youichi Ueda",
+      "native": "植田洋一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Atarashii Gakkou no Leaders",
+      "native": "新しい学校のリーダーズ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Shounan no Kaze",
+      "native": "湘南乃風"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Atarashii Gakkou no Leaders",
+      "native": "新しい学校のリーダーズ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Shounan no Kaze",
+      "native": "湘南乃風"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Shounan no Kaze",
+      "native": "湘南乃風"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Shounan no Kaze",
+      "native": "湘南乃風"
+     }
+    }
+   },
+   {
+    "role": "Choreography (OP)",
+    "node": {
+     "name": {
+      "full": "Atarashii Gakkou no Leaders",
+      "native": "新しい学校のリーダーズ"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1, 7, 11)",
+    "node": {
+     "name": {
+      "full": "Hideoki Kusama",
+      "native": "草間英興"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 3, 7)",
+    "node": {
+     "name": {
+      "full": "Hideoki Kusama",
+      "native": "草間英興"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Hideoki Kusama",
+      "native": "草間英興"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Chisa Kotegawa",
+      "native": "古手川千紗"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chika Anzai",
+       "native": "安済知佳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Iori Kitahara",
+      "native": "北原伊織"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuma Uchida",
+       "native": "内田雄馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kouhei Imamura",
+      "native": "今村耕平"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouhei Kimura",
+       "native": "木村良平"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aina Yoshiwara",
+      "native": "吉原愛菜"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Asumi",
+       "native": "阿澄佳奈"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,343 @@
+{
+ "id": 169295,
+ "title": {
+  "romaji": "BanG Dream! Ave Mujica",
+  "english": "Ave Mujica - The Die is Cast -",
+  "native": "BanG Dream! Ave Mujica"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SANZIGEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Koudai Kakimoto",
+      "native": "柿本広大"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuniko Ayana",
+      "native": "綾奈ゆにこ"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Bushiroad ",
+      "native": "ブシロード"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Ueda",
+      "native": "植田和幸"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hitowa",
+      "native": "ひと和"
+     }
+    }
+   },
+   {
+    "role": "Original Costume Design",
+    "node": {
+     "name": {
+      "full": "Reika Natori",
+      "native": "名取礼佳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Osamu Nobusawa",
+      "native": "信澤収"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mochipuyo",
+      "native": "もちぷよ"
+     }
+    }
+   },
+   {
+    "role": "Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Takuya Chanohara",
+      "native": "茶之原拓也"
+     }
+    }
+   },
+   {
+    "role": "Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuka Hachimori",
+      "native": "八森優香"
+     }
+    }
+   },
+   {
+    "role": "Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Joseph Shin",
+      "native": "シン・ジョセフ"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Uchikoga",
+      "native": "内古閑智之"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Keito Kamiyama",
+      "native": "神山奎斗"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Saho Yamane",
+      "native": "山根左帆"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Risa Taima",
+      "native": "対馬里紗"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hideyasu Narita",
+      "native": "成田偉保"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Junko Kitagawa",
+      "native": "北川順子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miyu Ishibashi",
+      "native": "石橋名結"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuka Matsushita",
+      "native": "松下由香"
+     }
+    }
+   },
+   {
+    "role": "CG Supervisor",
+    "node": {
+     "name": {
+      "full": "Naoya Okugawa",
+      "native": "奥川尚弥"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Daisuke Okumura",
+      "native": "奥村大輔"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Koudai Kakimoto",
+      "native": "柿本広大"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Junpei Fujita",
+      "native": "藤田淳平"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hitoshi Fujima",
+      "native": "藤間仁"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Taiki Fudanotsuji",
+      "native": "札ノ辻泰紀"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sakiko Togawa",
+      "native": "豊川祥子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kanon Takao",
+       "native": "高尾奏音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Uika Misumi",
+      "native": "三角初華"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rico Sasaki",
+       "native": "佐々木李子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mutsumi Wakaba",
+      "native": "若葉睦"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuzuki Watase",
+       "native": "渡瀬結月"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Umiri Yahata",
+      "native": "八幡海鈴"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mei Okada",
+       "native": "岡田夢以"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nyamu Yuutenji",
+      "native": "祐天寺にゃむ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akane Yonezawa",
+       "native": "米澤茜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

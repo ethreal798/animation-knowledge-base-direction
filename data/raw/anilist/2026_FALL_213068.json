@@ -1,0 +1,242 @@
+{
+ "id": 213068,
+ "title": {
+  "romaji": "Juuоu Mujin Dandivine",
+  "english": "Dandivine",
+  "native": "獣王武神ダンデヴァイン"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 8
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   },
+   {
+    "name": "Kayac Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Good Smile Company",
+      "native": "グッドスマイルカンパニー"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Majiro",
+      "native": "まじろ"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Yi Cao",
+      "native": "曹毅"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Toshiki Inoue",
+      "native": "井上敏樹"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "robin",
+      "native": "robin"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "An",
+      "native": "An"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yoshikazu Iwanami",
+      "native": "岩浪美和"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kent Asahina",
+      "native": "朝比奈健人"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Takanori Nishikawa",
+      "native": "西川貴教"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "DayRe:",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Takanori Nishikawa",
+      "native": "西川貴教"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "TeddyLoid",
+      "native": "テディロイド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "TeddyLoid",
+      "native": "テディロイド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "TeddyLoid",
+      "native": "テディロイド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Masamitsu Fukumori",
+      "native": "福森優光"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Kouichi Tsurusaki",
+      "native": "鶴﨑輝一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Kouichi Tsurusaki",
+      "native": "鶴﨑輝一"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Gekiha Shijima",
+      "native": "静寂戟刃"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuma Terashima",
+       "native": "寺島拓篤"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akane Kuzumi",
+      "native": "久住茜"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kirei Shijima",
+      "native": "静寂きれい"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saya Aizawa",
+       "native": "会沢紗弥"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

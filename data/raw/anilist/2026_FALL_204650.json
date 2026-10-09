@@ -1,0 +1,230 @@
+{
+ "id": 204650,
+ "title": {
+  "romaji": "Tougen Anki: Nikko・Kegon no Taki-hen",
+  "english": "TOUGEN ANKI: Nikko Kegon Falls Arc",
+  "native": "桃源暗鬼 日光・華厳の滝編"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 2
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Hibari"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoki Iida",
+      "native": "飯田里樹"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Hashimoto",
+      "native": "橋本裕之"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kouta Yamamoto",
+      "native": "山本康太"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yukie Sugawara",
+      "native": "菅原雪絵"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yukie Sugawara",
+      "native": "菅原雪絵"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Saki Tada",
+      "native": "多田早希"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Ryouko Amisaki",
+      "native": "網崎涼子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Naoki  Serizawa",
+      "native": "芹沢直樹"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Scott MacDonald",
+      "native": "スコット・マクドナルド"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Ato Nonaka",
+      "native": "野中阿斗"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Betsuyaku",
+      "native": "別役裕之"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yura Urushibara",
+      "native": "漆原侑来"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yumika Okazaki",
+      "native": "岡崎由美佳"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Ryouta Fukushima",
+      "native": "福島涼太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Hiromitsu Kitayama",
+      "native": "北山宏光"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "TRACK15",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shiki Ichinose",
+      "native": "一ノ瀬四季"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kazuki Ura",
+       "native": "浦和希"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Naito Mudano",
+      "native": "無陀野無人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroshi Kamiya",
+       "native": "神谷浩史"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jin Kougasaki",
+      "native": "皇后崎迅"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Koutarou Nishiyama",
+       "native": "西山宏太朗"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

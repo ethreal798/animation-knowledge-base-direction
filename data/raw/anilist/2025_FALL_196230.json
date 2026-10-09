@@ -1,0 +1,264 @@
+{
+ "id": 196230,
+ "title": {
+  "romaji": "Monster Strike: Deadverse Reloaded",
+  "english": "Strike World: Deadverse Reloaded the Anime",
+  "native": "モンスターストライク　デッドバースリローデッド"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 21
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 23
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 10,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Yumeta Company"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masao Ookubo",
+      "native": "大久保政雄"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Noriyuki Nakamura",
+      "native": "中村憲由"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Jin Haganeya",
+      "native": "鋼屋ジン"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hayato Kazano",
+      "native": "風埜隼人"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kazumi Inadome",
+      "native": "稲留和美"
+     }
+    }
+   },
+   {
+    "role": "Creature Design",
+    "node": {
+     "name": {
+      "full": "Takaaki Sekizaki",
+      "native": "関崎高明"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shingo Kanai",
+      "native": "金井眞悟"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hideyasu Narita",
+      "native": "成田偉保"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Yamagami",
+      "native": "山上愛子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takeo Ogiwara",
+      "native": "荻原猛夫"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuuji Kondou",
+      "native": "近藤勇二"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takema Sawamura",
+      "native": "沢村武馬"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yasunori Ebina",
+      "native": "蝦名恭範"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Jin Haganeya",
+      "native": "鋼屋ジン"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hayato Kazano",
+      "native": "風埜隼人"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 4)",
+    "node": {
+     "name": {
+      "full": "Mamoru Kurosawa",
+      "native": "黒沢守"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Da-iCE",
+      "native": "ダイス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "YZERR",
+      "native": "YZERR"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Jugemu",
+      "native": "ジュゲム"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshitsugu Matsuoka",
+       "native": "松岡禎丞"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rinne",
+      "native": "リンネ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yakumo",
+      "native": "ヤクモ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Neo",
+      "native": "ネオ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Inori Minase",
+       "native": "水瀬いのり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

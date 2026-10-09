@@ -1,0 +1,301 @@
+{
+ "id": 172439,
+ "title": {
+  "romaji": "Nihon e Youkoso Elf-san.",
+  "english": "Welcome to Japan, Ms. Elf!",
+  "native": "日本へようこそエルフさん。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Zero-G"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Suzuki Makishima",
+      "native": "まきしま鈴木"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yappen",
+      "native": "ヤッペン"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tooru Kitahata",
+      "native": "喜多幡徹"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Aya Yoshinaga",
+      "native": "吉永亜矢"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Madoka Hirayama",
+      "native": "平山円"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Aya Yoshinaga",
+      "native": "吉永亜矢"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Madoka Hirayama",
+      "native": "平山円"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kumi Horii",
+      "native": "堀井久美"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Akira Kano",
+      "native": "加野晃"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Rico Sasaki",
+      "native": "佐々木李子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Shigenori Taniguchi",
+      "native": "谷口繫則"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kazumasa Takeuchi",
+      "native": "竹内一将"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Madoka Ozawa",
+      "native": "小澤円"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kaede Higuchi",
+      "native": "樋口楓"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Rei Fujinawa",
+      "native": "藤縄玲"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Rei Fujinawa",
+      "native": "藤縄玲"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Nozomi Sekikawa",
+      "native": "関川稀"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kanae",
+      "native": "叶"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Siming Chen",
+      "native": "陈思铭"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Siming Chen",
+      "native": "陈思铭"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 10)",
+    "node": {
+     "name": {
+      "full": "Kurumi Itou",
+      "native": "伊藤玖留未"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Ramu Yamabe",
+      "native": "山部良夢"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Daifanglin Li",
+      "native": "李代方琳"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Longsheng Liu",
+      "native": "刘龙圣"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Jian Li",
+      "native": "李健"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Mariabelle",
+      "native": "マリアーベル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaede Hondo",
+       "native": "本渡楓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kazuhiro Kitase",
+      "native": "北瀬一廣"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Kobayashi",
+       "native": "小林裕介"
+      }
+     },
+     {
+      "name": {
+       "full": "Keiko Watanabe",
+       "native": "渡部恵子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,298 @@
+{
+ "id": 198939,
+ "title": {
+  "romaji": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+  "english": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
+  "native": "自動販売機に生まれ変わった俺は迷宮を彷徨う 3rd Season"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 1
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "AXsiZ"
+   },
+   {
+    "name": "Studio Gokumi"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kuma Hiru",
+      "native": "熊昼"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hagure Yuuki",
+      "native": "憂姫はぐれ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Itsuwa Katou",
+      "native": "加藤いつわ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takashi Yamamoto",
+      "native": "山本天志"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tatsuya Takahashi",
+      "native": "高橋龍也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takahiro Sakai",
+      "native": "酒井孝裕"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Naoki Yamauchi",
+      "native": "山内尚樹"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ken Naitou",
+      "native": "内藤健"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Katsuhisa Takiguchi",
+      "native": "滝口勝久"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Michiru Kodaka",
+      "native": "小高みちる"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Youko Suzuki",
+      "native": "鈴木ようこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hisashi Matsumuko",
+      "native": "松向寿"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mutsumi Takemiya",
+      "native": "武宮むつみ"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Noriyoshi Konuma",
+      "native": "小沼則義"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuta Uraki",
+      "native": "浦木裕太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keita Takahashi",
+      "native": "高橋慶多"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Tetsuya Tomioka",
+      "native": "富岡哲也"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Miyabi Ozeki",
+      "native": "小関雅"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Naoki Yamauchi",
+      "native": "山内尚樹"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hyeon-Ju Song",
+      "native": "송현주"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Mi-Jeong Hwang",
+      "native": "황미정"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Ryou Akizuki",
+      "native": "あきづきりょう"
+     }
+    }
+   },
+   {
+    "role": "Chibi Character Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Ibe",
+      "native": "伊部由起子"
+     }
+    }
+   },
+   {
+    "role": "Main Prop Design",
+    "node": {
+     "name": {
+      "full": "Shigeyuki Koresawa",
+      "native": "コレサワシゲユキ"
+     }
+    }
+   },
+   {
+    "role": "Main Prop Design",
+    "node": {
+     "name": {
+      "full": "Tom",
+      "native": "灯夢"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Lammis",
+      "native": "ラッミス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaede Hondo",
+       "native": "本渡楓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hakkon",
+      "native": "ハッコン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Jun Fukuyama",
+       "native": "福山潤"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

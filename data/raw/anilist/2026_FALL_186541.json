@@ -1,0 +1,237 @@
+{
+ "id": 186541,
+ "title": {
+  "romaji": "Mezametara Saikyou Soubi to Uchuusen-mochi datta node, Ikkodate Mezashite Youhei to shite Jiyuu ni Ikitai",
+  "english": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
+  "native": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "studio A-CAT"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Ryuuto",
+      "native": "リュート"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Tetsuhiro Nabeshima",
+      "native": "鍋島テツヒロ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Norihiko Nagahama",
+      "native": "ながはまのりひこ"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takamitsu Kouno",
+      "native": "鴻野貴光"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masami Sueoka",
+      "native": "末岡正美"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kenta Higashiooji",
+      "native": "東大路憲太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "FLOW",
+      "native": "フロウ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "FLOW",
+      "native": "フロウ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Koushi Asakawa",
+      "native": "浅川甲史"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Takeshi Asakawa",
+      "native": "浅川岳史"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Asterism",
+      "native": "アステリズム"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Asterism",
+      "native": "アステリズム"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Asterism",
+      "native": "アステリズム"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "HAL-CA",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Takahiro Sato",
+      "native": "佐藤孝弘"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Makoto Furukawa",
+       "native": "古川慎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Elma",
+      "native": "エルマ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Anna Nagase",
+       "native": "永瀬アンナ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mimi",
+      "native": "ミミ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Inagaki",
+       "native": "稲垣好"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Serena Halls",
+      "native": "セレナ・ホールズ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

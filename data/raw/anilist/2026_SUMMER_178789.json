@@ -1,0 +1,333 @@
+{
+ "id": 178789,
+ "title": {
+  "romaji": "Mushoku Tensei III: Isekai Ittara Honki Dasu",
+  "english": "Mushoku Tensei: Jobless Reincarnation Season 3",
+  "native": "無職転生Ⅲ ～異世界行ったら本気だす～"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 14,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Bind"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Rifujin na Magonote",
+      "native": "理不尽な孫の手"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Sirotaka",
+      "native": "シロタか"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Shibuya",
+      "native": "渋谷亮介"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Ryousuke Shibuya",
+      "native": "渋谷亮介"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Naoto Taniuchi",
+      "native": "谷内直人"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sanae Shimada",
+      "native": "嶋田真恵"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Ryouta Furukawa",
+      "native": "古川良太"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Keiya Nakano",
+      "native": "中野圭哉"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Shimada",
+      "native": "嶋田聡史"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masakazu Miyake",
+      "native": "三宅昌和"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Makiko Doi",
+      "native": "土居真紀子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shinji Tonsho",
+      "native": "頓所信二"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akinori  Mishima",
+      "native": "三嶋章紀"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Rei Ueno",
+      "native": "上野励"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Fujisawa",
+      "native": "藤澤慶昌"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jeremy Inman",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Mika Nakashima",
+      "native": "中島美嘉"
+     }
+    }
+   },
+   {
+    "role": "ADR Script Supervisor (English)",
+    "node": {
+     "name": {
+      "full": "Tyler Walker",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Insert Song Composition (eps 5, 9)",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Fujisawa",
+      "native": "藤澤慶昌"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Arrangement (eps 5, 9)",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Fujisawa",
+      "native": "藤澤慶昌"
+     }
+    }
+   },
+   {
+    "role": "Script (ep 2)",
+    "node": {
+     "name": {
+      "full": "Rifujin na Magonote",
+      "native": "理不尽な孫の手"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Renan Alonso",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1-OP3, ED2)",
+    "node": {
+     "name": {
+      "full": "Yuiko Oohara",
+      "native": "大原ゆい子"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Lyrics (eps 5, 9)",
+    "node": {
+     "name": {
+      "full": "Yuiko Oohara",
+      "native": "大原ゆい子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sylphiette",
+      "native": "シルフィエット"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ai Kayano",
+       "native": "茅野愛衣"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rudeus Greyrat",
+      "native": "ルーデウス・グレイラット"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumi Uchiyama",
+       "native": "内山夕実"
+      }
+     },
+     {
+      "name": {
+       "full": "Tomokazu Sugita",
+       "native": "杉田智和"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Eris Boreas Greyrat",
+      "native": "エリス・ボレアス・グレイラット"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ai Kakuma",
+       "native": "加隈亜衣"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Roxy Migurdia",
+      "native": "ロキシー・ミグルディア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Kohara",
+       "native": "小原好美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

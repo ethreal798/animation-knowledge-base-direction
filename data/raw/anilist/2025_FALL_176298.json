@@ -1,0 +1,295 @@
+{
+ "id": 176298,
+ "title": {
+  "romaji": "Kekkon Yubiwa Monogatari II",
+  "english": "Tales of Wedding Rings Season 2",
+  "native": "結婚指輪物語Ⅱ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 27
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Staple Entertainment"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Maybe",
+      "native": "めいびい "
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Takashi Naoya",
+      "native": "直谷たかし"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Matsuo Asami",
+      "native": "浅見松雄"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Mieno",
+      "native": "三重野瞳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Saori Nakashiki",
+      "native": "仲敷沙織"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Tateishi ",
+      "native": "立石聖"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ayana Togashi",
+      "native": "富樫彩菜"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hirotaka Kozaki",
+      "native": "小崎弘貴"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Rina Horiuchi",
+      "native": "堀内里奈"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Fei Yu",
+      "native": "兪飛"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mai Hasegawa",
+      "native": "長谷川舞"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Ikeda",
+      "native": "池田裕行"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Satoshi Houno",
+      "native": "宝野聡史"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Toshimitsu Kobayashi",
+      "native": "小林利充"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Saori Nakashiki",
+      "native": "仲敷沙織"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Atsushi Aono",
+      "native": "青野厚司"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Sachiyo Komito",
+      "native": "小美戸幸代"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Akari Kitou",
+      "native": "鬼頭明里"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Sizuk",
+      "native": "Sizuk"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Saori Kodama",
+      "native": "こだまさおり"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "John Kanda",
+      "native": "神田ジョン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Shunryuu",
+      "native": "俊龍"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Vocal Performance (OP)",
+    "node": {
+     "name": {
+      "full": "AYAME",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Shunsuke Itai",
+      "native": "板井俊祐"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Krystal Nokanatika",
+      "native": "クリストル・ノバティ・ノカナティカ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akari Kitou",
+       "native": "鬼頭明里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Haruto Satou",
+      "native": "佐藤春人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Gen Satou",
+       "native": "佐藤元"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

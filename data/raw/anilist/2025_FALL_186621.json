@@ -1,0 +1,295 @@
+{
+ "id": 186621,
+ "title": {
+  "romaji": "Taiyou yori mo Mabushii Hoshi",
+  "english": "A Star Brighter Than the Sun",
+  "native": "太陽よりも眩しい星"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 18
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio KAI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kazune Kawahara",
+      "native": "河原和音"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Sayaka Kobayashi",
+      "native": "小林彩"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Nakanishi",
+      "native": "中西やすひろ"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuki Muranaga",
+      "native": "村長由紀"
+     }
+    }
+   },
+   {
+    "role": "Layout Design",
+    "node": {
+     "name": {
+      "full": "Hitoshi Tamura",
+      "native": "田村仁"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kohaku Ujiie",
+      "native": "氏家こはく"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Aoki",
+      "native": "青木智由紀"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yukie Inose",
+      "native": "イノセユキエ"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Sayoko Yokoyama",
+      "native": "横山さよ子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Taiji Sawami",
+      "native": "澤見泰治"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayako Tan",
+      "native": "丹彩子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Ikuto Yamauchi",
+      "native": "山内郁人"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Yoshida",
+      "native": "吉田光平"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Misue Yoshisawa",
+      "native": "吉澤美寿恵"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Miki Sakurai",
+      "native": "櫻井美希"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Natsumi Tabuchi",
+      "native": "田渕夏海"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Taiki Itou",
+      "native": "伊藤太貴"
+     }
+    }
+   },
+   {
+    "role": "Special Effects",
+    "node": {
+     "name": {
+      "full": "Shouko Harada",
+      "native": "原田祥子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Motohiro Hata",
+      "native": "秦基博"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Producer",
+    "node": {
+     "name": {
+      "full": "Hirokazu Shiba",
+      "native": "柴宏和"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Fernanda Baronne",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Naomi Okita",
+      "native": "沖田直美"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Reiko Yamada",
+      "native": "山田玲子"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Toshiyuki Fujisawa",
+      "native": "藤澤俊幸"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "WANUKA",
+      "native": "和ぬか"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sae Iwata",
+      "native": "岩田朔英"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minori Fujidera",
+       "native": "藤寺美徳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kouki Kamishiro",
+      "native": "神城光輝"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Ono",
+       "native": "小野友樹"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

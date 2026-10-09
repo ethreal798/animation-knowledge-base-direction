@@ -1,0 +1,266 @@
+{
+ "id": 186190,
+ "title": {
+  "romaji": "Alma-chan wa Kazoku ni Naritai",
+  "english": "Alma-chan Wants to Be a Family!",
+  "native": "アルマちゃんは家族になりたい"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 14
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 11,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Flad"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Nanateru",
+      "native": "ななてる"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Kousuke Kobayashi",
+      "native": "小林浩輔"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Minami",
+      "native": "南康宏"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Reiko Nozaki",
+      "native": "野崎麗子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yukie Sugawara",
+      "native": "菅原雪絵"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mika Yamamoto",
+      "native": "山本美佳"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Ruriko Watanabe",
+      "native": "渡辺るりこ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ayako Tanai",
+      "native": "田内亜矢子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Daisuke Suzuki",
+      "native": "鈴木大介"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Ashino",
+      "native": "芦野由紀子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Tozawa",
+      "native": "戸澤有紀"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomoya Yokoyama",
+      "native": "横山友哉"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuusuke Ueno",
+      "native": "上野勇輔"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ikki Kuwahara",
+      "native": "桑原一輝"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Mito",
+      "native": "ミト"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Prop Design",
+    "node": {
+     "name": {
+      "full": "Joma",
+      "native": "じょま"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ZAQ",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "KAF",
+      "native": "花譜"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Clara Campos",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Conrado Sotero",
+      "native": "Conrado Gallucci Sotero"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Alma",
+      "native": "アルマ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hika Tsukishiro",
+       "native": "月城日花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Enji Kamizato",
+      "native": "神里エンジ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Suzuki",
+       "native": "鈴木崚汰"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Suzume Yobane",
+      "native": "夜羽スズメ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mao Ichimichi",
+       "native": "市道真央"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

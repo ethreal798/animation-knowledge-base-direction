@@ -1,0 +1,279 @@
+{
+ "id": 184997,
+ "title": {
+  "romaji": "Shabake",
+  "english": "Shabake",
+  "native": "しゃばけ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 26
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bandai Namco Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Megumi Hatakenaka",
+      "native": "畠中恵"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Ookawa",
+      "native": "大川貴大"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akari Minagawa",
+      "native": "皆川愛香利"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuka Shiga",
+      "native": "志賀祐香"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Tetsurou Niregi",
+      "native": "楡木哲郎"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Nanami Hakoda",
+      "native": "箱田ななみ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yurika Onuma",
+      "native": "小沼由莉香"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Satou",
+      "native": "佐藤正浩"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Masahiro Satou",
+      "native": "佐藤正浩"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Youichi Oogami",
+      "native": "大神洋一"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Nii",
+      "native": "新居和弘"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiromi Kikuta",
+      "native": "菊田浩巳"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Rei Ishizuka",
+      "native": "石塚玲依"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuuka Shiga",
+      "native": "志賀祐香"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Whale Don't Sleep",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Aoi Iwamura",
+      "native": "岩村あおい"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Koudai Nomura",
+      "native": "野村耕大"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Akihiro Sesoko",
+      "native": "瀬底晃大"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Mizuho Matsunaga",
+      "native": "松永みづほ"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Moeka Miyazaki",
+      "native": "宮崎萌香"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Maino Ishida",
+      "native": "石田まい乃"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Akira Takahashi",
+      "native": "高橋明"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Koyata Takenaka",
+      "native": "竹中虎也太"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Ikumi Itou",
+      "native": "伊藤育海"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ichitarou",
+      "native": "一太郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Yamashita",
+       "native": "山下大輝"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

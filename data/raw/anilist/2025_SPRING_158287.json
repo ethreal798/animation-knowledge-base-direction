@@ -1,0 +1,279 @@
+{
+ "id": 158287,
+ "title": {
+  "romaji": "#Compass 2.0－Sentou Setsuri Kaiseki System",
+  "english": "#COMPASS2.0 ANIMATION PROJECT",
+  "native": "#コンパス2.0 戦闘摂理解析システム"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lay-duce"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "NHN PlayArt",
+      "native": "NHN PlayArt"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hitoshi Nanba",
+      "native": "難波日登志"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Naohiro Fukushima",
+      "native": "福島直浩"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hikaru Ookawame",
+      "native": "大川目光"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Youko Fukushima",
+      "native": "福島陽子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shiori Hiraiwa",
+      "native": "平岩栞"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Motohiro Taniguchi",
+      "native": "谷口元浩"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kouji Okamoto",
+      "native": "岡本好司"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Takashi Aoi",
+      "native": "青井孝"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kouji Okamoto",
+      "native": "岡本好司"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Takashi Aoi",
+      "native": "青井孝"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Tomoko Yamazaki",
+      "native": "山崎朋子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Daichi Nogami",
+      "native": "野上大地"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Gou Sadamatsu",
+      "native": "定松剛"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Daiki Yamaki",
+      "native": "八巻大樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Satoshi Igarashi",
+      "native": "五十嵐聡"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "HachiojiP",
+      "native": "八王子P"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuyu",
+      "native": "ゆうゆ"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Naohiro Fukushima",
+      "native": "福島直浩"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hikaru Ookawame",
+      "native": "大川目光"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Motohiro Taniguchi",
+      "native": "谷口元浩"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yasuyuki Noda",
+      "native": "野田康行"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Nana Mizuki",
+      "native": "水樹奈々"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yuuma Uchida",
+      "native": "内田雄馬"
+     }
+    }
+   },
+   {
+    "role": "Chief In-Betweens Check",
+    "node": {
+     "name": {
+      "full": "Saori Kishii",
+      "native": "岸井沙織"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "13",
+      "native": "サーティーン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Ono",
+       "native": "小野大輔"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

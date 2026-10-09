@@ -1,0 +1,295 @@
+{
+ "id": 177120,
+ "title": {
+  "romaji": "Ninja to Koroshiya no Futarigurashi",
+  "english": "A Ninja and an Assassin Under One Roof",
+  "native": "忍者と殺し屋のふたりぐらし"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 26
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Shaft"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hamburger",
+      "native": "ハンバーガー"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yukihiro Miyamoto",
+      "native": "宮本幸裕"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Fuyashi Tou",
+      "native": "東冨耶子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kazuya Shiotsuki",
+      "native": "潮月一也"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hisaharu Iijima",
+      "native": "飯島寿治"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yasuko Watanabe",
+      "native": "渡辺康子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kazui Fujita",
+      "native": "藤田和意"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Rie Matsubara",
+      "native": "松原理恵"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Toshiki Kameyama",
+      "native": "亀山俊樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryuunosuke Kasai",
+      "native": "葛西竜之介"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Shigeru Saitou",
+      "native": "斎藤滋"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Mamoru Tanoue",
+      "native": "田之上護"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kazuya Shiotsuki",
+      "native": "潮月一也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Kana Hanazawa",
+      "native": "花澤香菜"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP)",
+    "node": {
+     "name": {
+      "full": "Shouji Saeki",
+      "native": "佐伯昭志"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP)",
+    "node": {
+     "name": {
+      "full": "Shouji Saeki",
+      "native": "佐伯昭志"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Itou",
+      "native": "伊藤良明"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1, 2, 4, 5)",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Itou",
+      "native": "伊藤良明"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Hiroki Yamamura",
+      "native": "山村洋貴"
+     }
+    }
+   },
+   {
+    "role": "Color Coordination (OP)",
+    "node": {
+     "name": {
+      "full": "Hitoshi Hibino",
+      "native": "日比野仁"
+     }
+    }
+   },
+   {
+    "role": "Assistant Episode Director (ED)",
+    "node": {
+     "name": {
+      "full": "Yukihiro Miyamoto",
+      "native": "宮本幸裕"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 2)",
+    "node": {
+     "name": {
+      "full": "Yuuki Yase",
+      "native": "八瀬祐樹"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ED)",
+    "node": {
+     "name": {
+      "full": "Rina Iwamoto",
+      "native": "岩本里奈"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ED)",
+    "node": {
+     "name": {
+      "full": "Rina Iwamoto",
+      "native": "岩本里奈"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED)",
+    "node": {
+     "name": {
+      "full": "Rina Iwamoto",
+      "native": "岩本里奈"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Satoko Kusagakure",
+      "native": "草隠さとこ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruna Mikawa",
+       "native": "三川華月"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Konoha Koga",
+      "native": "古賀このは"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

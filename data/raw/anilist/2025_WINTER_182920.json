@@ -1,0 +1,285 @@
+{
+ "id": 182920,
+ "title": {
+  "romaji": "Cardfight!! Vanguard: Divinez - Deluxe-hen",
+  "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Arc",
+  "native": "カードファイト!! ヴァンガード Divinez デラックス編"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 19
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Kinema Citrus"
+   },
+   {
+    "name": "Gift-o’-Animation"
+   },
+   {
+    "name": "Studio JEMI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Akira Itou",
+      "native": "伊藤彰"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Bushiroad ",
+      "native": "ブシロード"
+     }
+    }
+   },
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Takaaki Kidani",
+      "native": "木谷高明"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "CLAMP",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Taku Yamada",
+      "native": "山田卓"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takahito Oonishi",
+      "native": "大西雄仁"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shun Menjou",
+      "native": "校條春"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Saita",
+      "native": "齊田博之"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tomokatsu Nagasaku",
+      "native": "永作友克"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Tomokatsu Nagasaku",
+      "native": "永作友克"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Ga-Yeong Park",
+      "native": "박가영"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hina Aoki",
+      "native": "青木陽菜"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"Make a splash!\"; ep 8)",
+    "node": {
+     "name": {
+      "full": "RIRIKO",
+      "native": "RIRIKO"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (ep 9)",
+    "node": {
+     "name": {
+      "full": "GYROAXIA",
+      "native": "GYROAXIA"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"Sanactuarior\"; eps 5, 12, 13)",
+    "node": {
+     "name": {
+      "full": "yuiko",
+      "native": "ゆいこ"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"Noisllietar\"; ep 12)",
+    "node": {
+     "name": {
+      "full": "yuiko",
+      "native": "ゆいこ"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"Titi Mivans\"; 4, 8, 11)",
+    "node": {
+     "name": {
+      "full": "Uinyasu",
+      "native": "ういにゃす"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"The Apocalypse\"; ep 11)",
+    "node": {
+     "name": {
+      "full": "Kouta Morita",
+      "native": "モリタコータ"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"Soa tu\"; ep 5)",
+    "node": {
+     "name": {
+      "full": "mido",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Insert Song Lyrics (\"Sanactuarior\"; eps 5, 12, 13)",
+    "node": {
+     "name": {
+      "full": "yuiko",
+      "native": "ゆいこ"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Lyrics (\"Noisllietar\"; ep 12)",
+    "node": {
+     "name": {
+      "full": "yuiko",
+      "native": "ゆいこ"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Lyrics (\"erchiglhaad\"; ep 3)",
+    "node": {
+     "name": {
+      "full": "Tatsuya Yano",
+      "native": "矢野達也"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Lyrics (\"sreneugid\"; ep 6)",
+    "node": {
+     "name": {
+      "full": "Tatsuya Yano",
+      "native": "矢野達也"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Lyrics (ep 7)",
+    "node": {
+     "name": {
+      "full": "Tatsuya Yano",
+      "native": "矢野達也"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Lyrics (\"The Apocalypse\"; ep 11)",
+    "node": {
+     "name": {
+      "full": "Kouta Morita",
+      "native": "モリタコータ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Akina Myoudou",
+      "native": "明導アキナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiya Miyata",
+       "native": "宮田俊哉"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

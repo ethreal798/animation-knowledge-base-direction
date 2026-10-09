@@ -1,0 +1,295 @@
+{
+ "id": 176234,
+ "title": {
+  "romaji": "Ishura 2nd Season",
+  "english": "ISHURA Season 2",
+  "native": "異修羅 第2期"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 26
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Passione"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Youko Kikuchi",
+      "native": "菊地洋子"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Takeo Takahashi",
+      "native": "高橋丈夫"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Ryuuta Iida",
+      "native": "飯田龍太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Ryuuta Iida",
+      "native": "飯田龍太"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Hiroya Iijima",
+      "native": "飯島弘也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuka Takashina",
+      "native": "高品有桂"
+     }
+    }
+   },
+   {
+    "role": "Art Board",
+    "node": {
+     "name": {
+      "full": "Kazuo Ogura",
+      "native": "小倉一男"
+     }
+    }
+   },
+   {
+    "role": "Background Art (OP)",
+    "node": {
+     "name": {
+      "full": "Kazuo Ogura",
+      "native": "小倉一男"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Kanta Suzuki",
+      "native": "鈴木勘太"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Ogawa",
+      "native": "小川優樹"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Nobuhito Sue",
+      "native": "須江信人"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "sajou no hana",
+      "native": "さじょうのはな"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Fujiaki Asari",
+      "native": "浅利藤彰"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayako Tan",
+      "native": "丹彩子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ritsuko Utagawa",
+      "native": "歌川律子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Hatakeyama",
+      "native": "畠山佑貴"
+     }
+    }
+   },
+   {
+    "role": "World Design",
+    "node": {
+     "name": {
+      "full": "Tatsuya Fukushima",
+      "native": "福島達也"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Hironori Aoyagi",
+      "native": "青柳宏宣"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mari Inoue",
+      "native": "井上麻梨"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Majima",
+      "native": "間島崇寛"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masahiro Tokuda",
+      "native": "得田真裕"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Katsuhiro Nakajima",
+      "native": "中島勝大"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Soujirou",
+      "native": "宗次朗"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Kaji",
+       "native": "梶裕貴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuno",
+      "native": "ユノ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reina Ueda",
+       "native": "上田麗奈"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

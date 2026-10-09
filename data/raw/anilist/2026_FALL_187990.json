@@ -1,0 +1,327 @@
+{
+ "id": 187990,
+ "title": {
+  "romaji": "Battle Spirits [Re] Zekkai No Ku",
+  "english": "Battle Spirits [Re] Zekkai No Ku",
+  "native": "Battle Spirits [Re] 絶界の空"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 6
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bandai Namco Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Masashi Kudou",
+      "native": "工藤昌史"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masashi Kudou",
+      "native": "工藤昌史"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Toshizou Nemoto",
+      "native": "根元歳三"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takayo Nishimura",
+      "native": "西村貴世"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Atsumi Koganemaru",
+      "native": "小金丸篤美"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Maki Murakami",
+      "native": "村上真紀"
+     }
+    }
+   },
+   {
+    "role": "Spirit Design",
+    "node": {
+     "name": {
+      "full": "Shie Nanahara",
+      "native": "七原しえ"
+     }
+    }
+   },
+   {
+    "role": "Spirit Design",
+    "node": {
+     "name": {
+      "full": "Itinogi",
+      "native": "一芒"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Gakuto Gonbei",
+      "native": "権瓶岳斗"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akira Nagasaka",
+      "native": "ながさか暁"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Toshiyuki Sadamatsu",
+      "native": "貞松寿幸"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shigeaki Akashi",
+      "native": "明石茂瑛"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shinpei Nagashima",
+      "native": "長嶋晋平"
+     }
+    }
+   },
+   {
+    "role": "Battle Coordinator",
+    "node": {
+     "name": {
+      "full": "Hiroshi Arisawa",
+      "native": "有澤寛"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akari Saitou",
+      "native": "齋藤朱里"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Eishi Segawa",
+      "native": "瀬川英史"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Sadayoshi Fujino",
+      "native": "藤野貞義"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "JAM Project",
+      "native": "JAM Project"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Hironobu Kageyama",
+      "native": "影山ヒロノブ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Hironobu Kageyama",
+      "native": "影山ヒロノブ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Naozumi Mabuchi",
+      "native": "馬渕直純"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Himegoto",
+      "native": "秘めごと"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Vocal Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Shion",
+      "native": "詩音"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Matatabi",
+      "native": "木天蓼"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Himegoto",
+      "native": "秘めごと"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ku Bashin",
+      "native": "馬神空"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taichi Kusano",
+       "native": "草野太一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Zetsu Ajara",
+      "native": "戯絶"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Hamano",
+       "native": "濱野大輝"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ibuki Mizuha",
+      "native": "罔象伊吹"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiro Shimono",
+       "native": "下野紘"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yui Kusumoto",
+      "native": "楠元唯"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mariya Ise",
+       "native": "伊瀬茉莉也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

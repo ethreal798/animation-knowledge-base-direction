@@ -1,0 +1,295 @@
+{
+ "id": 177679,
+ "title": {
+  "romaji": "Darwin Jihen",
+  "english": "The Darwin Incident",
+  "native": "ダーウィン事変"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 1
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "BELLNOX FILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shun Umezawa",
+      "native": "うめざわしゅん"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Katsuichi Nakayama",
+      "native": "中山勝一"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Naokatsu Tsuda",
+      "native": "津田尚克"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shinichi Inozume",
+      "native": "猪爪慎一"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shinpei Tomooka",
+      "native": "友岡新平"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masanobu Nomura",
+      "native": "野村正信"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mai Ichioka",
+      "native": "市岡茉衣"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kaoru Aoki",
+      "native": "青木薫"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Hashimoto",
+      "native": "橋本賢"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Yamada ",
+      "native": "山田和弘"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yoshitaka Itai",
+      "native": "板井義隆"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yoshikazu Iwanami",
+      "native": "岩浪美和"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Alisa Okehazama",
+      "native": "桶狭間ありさ"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Mariko Horikawa",
+      "native": "堀川真理子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Official HIGE DANdism",
+      "native": "Official髭男dism"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "João Moura",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Finishing (ep 1)",
+    "node": {
+     "name": {
+      "full": "João Moura",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Lucas Almeida",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Lucas Almeida",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Mamoru Kurosawa",
+      "native": "黒沢守"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Roly Gutierrez",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Satoshi Fujihara",
+      "native": "藤原聡"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Satoshi Fujihara",
+      "native": "藤原聡"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Charlie",
+      "native": "チャーリー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsumi Tanezaki",
+       "native": "種﨑敦美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lucy Eldred",
+      "native": "ルーシー・エルドレッド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mitsuho Kambe",
+       "native": "神戸光歩"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

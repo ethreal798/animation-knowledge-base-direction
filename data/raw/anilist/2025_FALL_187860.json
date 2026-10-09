@@ -1,0 +1,126 @@
+{
+ "id": 187860,
+ "title": {
+  "romaji": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
+  "english": "Style of Hiroshi Nohara's Lunch",
+  "native": "野原ひろし 昼メシの流儀"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 19
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "DLE"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yoshito Usui",
+      "native": "臼井儀人"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tsukasa Nishiyama",
+      "native": "西山司"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hayashi Mori",
+      "native": "森ハヤシ"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hayashi Mori",
+      "native": "森ハヤシ"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Youichi Tsukahara",
+      "native": "塚原洋一"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "moral",
+      "native": "モラル"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Sabasister",
+      "native": "サバシスター"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Mega Shinnosuke",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hiroshi Nohara",
+      "native": "野原広志"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiyuki Morikawa",
+       "native": "森川智之"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

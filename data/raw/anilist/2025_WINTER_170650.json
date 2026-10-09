@@ -1,0 +1,295 @@
+{
+ "id": 170650,
+ "title": {
+  "romaji": "Kisaki Kyouiku kara Nigetai Watashi",
+  "english": "I Want to Escape from Princess Lessons",
+  "native": "妃教育から逃げたい私"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 23
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "EMT Squared"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Izumi Sawano",
+      "native": "沢野いずみ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mill Yumezaki",
+      "native": "夢咲ミル"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Uri Sugata",
+      "native": "菅田うり"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shinobu Tagashira",
+      "native": "田頭しのぶ"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tomoko Kanemaki",
+      "native": "金巻ともこ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shinobu Tagashira",
+      "native": "田頭しのぶ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Miho Kawakami",
+      "native": "川上美穂"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuri Sanami",
+      "native": "佐南友理"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miho Tanaka",
+      "native": "田中美穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Nanami Yamawaki",
+      "native": "山脇奈々実"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keiko Onodera",
+      "native": "小野寺桂子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hozumi Gouda",
+      "native": "郷田ほづみ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Naoyuki Chikatani",
+      "native": "近谷直之"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Jun Fukuyama",
+      "native": "福山潤"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "DIALOGUE+",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "John Kanda",
+      "native": "神田ジョン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "John Kanda",
+      "native": "神田ジョン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Youhei Matsui",
+      "native": "松井洋平"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Tomoya Tabuchi",
+      "native": "田淵智也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Masato Nakayama",
+      "native": "中山真斗"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Shin Furuya",
+      "native": "古屋真"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 6)",
+    "node": {
+     "name": {
+      "full": "Saki Nakao",
+      "native": "中尾早希"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Yuefeng Li",
+      "native": "李岳峰"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 5, 6)",
+    "node": {
+     "name": {
+      "full": "Keiko Enguchi",
+      "native": "えんぐちけいこ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Leticia",
+      "native": "レティシア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Clarke",
+      "native": "クラーク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Jun Fukuyama",
+       "native": "福山潤"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

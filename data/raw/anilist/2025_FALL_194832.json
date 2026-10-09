@@ -1,0 +1,119 @@
+{
+ "id": 194832,
+ "title": {
+  "romaji": "Oshiri Tantei 9 Part 2",
+  "english": null,
+  "native": "おしりたんてい(第9シリーズ)"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 11,
+  "day": 15
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 7,
+ "duration": 20,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Toei Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuriko Kado",
+      "native": "門由利子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Youko Ikeda",
+      "native": "池田洋子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Natsuko Takahashi",
+      "native": "高橋ナツコ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hideaki Maniwa",
+      "native": "真庭秀明"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ryuutarou Masuda",
+      "native": "増田竜太郎"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naomi Seida",
+      "native": "清田直美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiroshi Takaki",
+      "native": "高木洋"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Oshiri Tantei",
+      "native": "おしりたんてい"
+     }
+    },
+    "voiceActors": []
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Brown",
+      "native": "ブラウン"
+     }
+    },
+    "voiceActors": []
+   }
+  ]
+ }
+}

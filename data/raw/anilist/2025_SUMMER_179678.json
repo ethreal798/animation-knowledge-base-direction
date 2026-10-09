@@ -1,0 +1,311 @@
+{
+ "id": 179678,
+ "title": {
+  "romaji": "Jigoku Sensei Nube (2025)",
+  "english": "Hell Teacher: Jigoku Sensei Nube (2025)",
+  "native": "地獄先生ぬ～べ～ (2025)"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 24
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio KAI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Shou Makura",
+      "native": "真倉翔"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Takeshi Okano",
+      "native": "岡野剛"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yasuyuki Ooishi",
+      "native": "大石康之"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Fumito Yamada",
+      "native": "山田史人"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoshiki Ookusa",
+      "native": "大草芳樹"
+     }
+    }
+   },
+   {
+    "role": "Action Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Kagami",
+      "native": "加々美高浩"
+     }
+    }
+   },
+   {
+    "role": "Action Director",
+    "node": {
+     "name": {
+      "full": "Yuu Yoshiyama",
+      "native": "芳山優"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuu Yoshiyama",
+      "native": "芳山優"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Atsuko Takahashi",
+      "native": "高橋敦子"
+     }
+    }
+   },
+   {
+    "role": "Layout Design",
+    "node": {
+     "name": {
+      "full": "Hitoshi Tamura",
+      "native": "田村仁"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Eriko Itou",
+      "native": "伊藤依織子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Minami Kasuga",
+      "native": "春日美波"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Akihiro Hirasawa",
+      "native": "平澤晃弘"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hironori Noji",
+      "native": "野地弘納"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Eiko Hiramoto",
+      "native": "平本瑛子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masato Yoshitake",
+      "native": "吉武将人"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Masanari Kira",
+      "native": "吉良柾成"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yasushi Nagura",
+      "native": "名倉靖"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Eiko Morikawa",
+      "native": "森川永子"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Rio Satou",
+      "native": "佐藤理緒"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Evan Call",
+      "native": "エバン・コール"
+     }
+    }
+   },
+   {
+    "role": "Recording",
+    "node": {
+     "name": {
+      "full": "Soushi Shiihara",
+      "native": "椎原操志"
+     }
+    }
+   },
+   {
+    "role": "Youkai Design",
+    "node": {
+     "name": {
+      "full": "Hironori Tanaka",
+      "native": "田中宏紀"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Masami Oobari",
+      "native": "大張正己"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED)",
+    "node": {
+     "name": {
+      "full": "Hirokazu Hisayuki",
+      "native": "久行宏和"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Meisuke Nueno",
+      "native": "鵺野鳴介"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryoutarou Okiayu",
+       "native": "置鮎龍太郎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hiroshi Tateno",
+      "native": "立野広"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouko Shiraishi",
+       "native": "白石涼子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kyouko Inaba",
+      "native": "稲葉郷子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aya Suzaki",
+       "native": "洲崎綾"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

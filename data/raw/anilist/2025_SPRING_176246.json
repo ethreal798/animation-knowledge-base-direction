@@ -1,0 +1,343 @@
+{
+ "id": 176246,
+ "title": {
+  "romaji": "mono",
+  "english": "mono",
+  "native": "mono"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 13
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 29
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Soigne"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Afro",
+      "native": "あfろ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ryouta Aikei",
+      "native": "愛敬亮太"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Naoya Morotomi",
+      "native": "諸冨直也"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Youko Yonaiyama",
+      "native": "米内山陽子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takuya Miyahara",
+      "native": "宮原拓也"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Masahito Onoda",
+      "native": "小野田将人"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kou Inaba",
+      "native": "稲葉コウ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Sakura Yamakawa",
+      "native": "山川桜"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Shou Kawamura",
+      "native": "川村将"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Yuuki Tsukioka",
+      "native": "月岡佑紀"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Akira Satou",
+      "native": "佐藤顕"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masanobu Nomura",
+      "native": "野村正信"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Satoe Fujii",
+      "native": "藤井里咲"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Toshiki Amata",
+      "native": "天田俊貴"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takeo Ogiwara",
+      "native": "荻原猛夫"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keisuke Yanagi",
+      "native": "柳圭介"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Ogawa",
+      "native": "小川耕平"
+     }
+    }
+   },
+   {
+    "role": "CG Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yukihiro Haruta",
+      "native": "春田幸祐"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryou Tanaka",
+      "native": "田中亮 "
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Masami Kitakata",
+      "native": "北方将実"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hajime Hyakkoku",
+      "native": "百石元"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Kouki Adaniya",
+      "native": "安谷屋光生"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Masaharu Yamanouchi",
+      "native": "山内真治"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Norimasa Fujita",
+      "native": "藤田規聖"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Hikaru Ezoe",
+      "native": "江副ひかる"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Haruno Akiyama",
+      "native": "秋山春乃"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reina Ueda",
+       "native": "上田麗奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sakurako Shikishima",
+      "native": "敷島桜子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hikaru Toono",
+       "native": "遠野ひかる"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kako Komada",
+      "native": "駒田華子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maki Kawase",
+       "native": "河瀬茉希"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Satsuki Amamiya",
+      "native": "雨宮さつき"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruna Mikawa",
+       "native": "三川華月"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "An Kiriyama",
+      "native": "霧山アン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Koga",
+       "native": "古賀葵"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

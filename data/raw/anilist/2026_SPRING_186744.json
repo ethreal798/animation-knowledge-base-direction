@@ -1,0 +1,327 @@
+{
+ "id": 186744,
+ "title": {
+  "romaji": "Replica Datte, Koi wo Suru.",
+  "english": "Even a Replica Can Fall in Love",
+  "native": "レプリカだって、恋をする"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 30
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Voil"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Don Haruna",
+      "native": "榛名丼"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Raemz",
+      "native": "Raemz"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Yuuko Sera",
+      "native": "世良悠子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Toshiyuki Satou",
+      "native": "佐藤利幸"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Kimura",
+      "native": "木村隆一"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Kimura",
+      "native": "木村隆一"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 12, 13)",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Kimura",
+      "native": "木村隆一"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1, 5, 9, 13)",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Kimura",
+      "native": "木村隆一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Makiko Doi",
+      "native": "土居真紀子"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 6, 9)",
+    "node": {
+     "name": {
+      "full": "Erina Kojima",
+      "native": "小嶌エリナ"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Erina Kojima",
+      "native": "小嶌エリナ"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Manabu Tanzawa",
+      "native": "丹澤学"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Eiji Abiko",
+      "native": "安彦英二"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Naruhito Katou",
+      "native": "加藤愛仁"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 3, 9)",
+    "node": {
+     "name": {
+      "full": "Akiko Toyoda",
+      "native": "豊田暁子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Mitsuru Ishihara",
+      "native": "石原満"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Misaki Morie",
+      "native": "森江美咲"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Eriko Kubokawa",
+      "native": "久保川絵梨子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kanako Hara",
+      "native": "はらかなこ"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Yuu Yoshiyama",
+      "native": "芳山優"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomoyasu Fujise",
+      "native": "藤瀬智康"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Emi Onodera",
+      "native": "小野寺絵美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shinji Tonsho",
+      "native": "頓所信二"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Miwa Kawasaki",
+      "native": "川崎美和"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-3, 5, 7, 9, 11, 13)",
+    "node": {
+     "name": {
+      "full": "Tomoko Shinozuka",
+      "native": "篠塚智子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sunao Aikawa",
+      "native": "愛川素直"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sumire Morohoshi",
+       "native": "諸星すみれ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nao",
+      "native": "ナオ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sumire Morohoshi",
+       "native": "諸星すみれ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shuuya Sanada",
+      "native": "真田秋也"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Suzuki",
+       "native": "鈴木崚汰"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aki",
+      "native": "アキ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Suzuki",
+       "native": "鈴木崚汰"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

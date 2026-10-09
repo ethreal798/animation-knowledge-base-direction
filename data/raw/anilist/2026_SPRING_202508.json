@@ -1,0 +1,295 @@
+{
+ "id": 202508,
+ "title": {
+  "romaji": "Kami no Shizuku",
+  "english": "The Drops of God",
+  "native": "神の雫"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 18
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Satelight"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Shin Kibayashi",
+      "native": "樹林伸"
+     }
+    }
+   },
+   {
+    "role": "Original Illustration",
+    "node": {
+     "name": {
+      "full": "Shuu Okimoto",
+      "native": "オキモトシュウ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kenji Itoso",
+      "native": "糸曽賢志"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuu Mitsuru",
+      "native": "三津留ゆう"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yuu Mitsuru",
+      "native": "三津留ゆう"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Soudai Suwa",
+      "native": "諏訪壮大"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Youko Komiya",
+      "native": "古宮陽子 "
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Uchibayashi",
+      "native": "内林裕美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tetsuya Kawata",
+      "native": "川田哲矢"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ryouko Kaneshige",
+      "native": "兼重涼子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Gotou",
+      "native": "後藤浩幸"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Chikako Yokota",
+      "native": "横田知加子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Eishi Segawa",
+      "native": "瀬川英史"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED1)",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED1)",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Shouji Hara",
+      "native": "原将治"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Maaya Uchida",
+      "native": "内田真礼"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED1)",
+    "node": {
+     "name": {
+      "full": "Junpei Fujita",
+      "native": "藤田淳平"
+     }
+    }
+   },
+   {
+    "role": "ADR Prep (English)",
+    "node": {
+     "name": {
+      "full": "Benjamin Tehrani",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "William Dewell",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ami Takasusuki",
+      "native": "高薄亜実"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomoyasu Hosoi",
+      "native": "細井友保"
+     }
+    }
+   },
+   {
+    "role": "CG Background Modeling",
+    "node": {
+     "name": {
+      "full": "Ryuuta Uehara",
+      "native": "上原竜太"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kaho Akamatsu",
+      "native": "赤松香穂"
+     }
+    }
+   },
+   {
+    "role": "CG Background Modeling",
+    "node": {
+     "name": {
+      "full": "Tsutomu Momouchi",
+      "native": "桃内力"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shizuku Kanzaki",
+      "native": "神咲雫"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kazuya Kamenashi",
+       "native": "亀梨和也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Issei Tomine",
+      "native": "遠峰一青"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuya Satou",
+       "native": "佐藤拓也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

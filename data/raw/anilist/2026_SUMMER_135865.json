@@ -1,0 +1,279 @@
+{
+ "id": 135865,
+ "title": {
+  "romaji": "Youjo Senki II",
+  "english": "Saga of Tanya the Evil Season 2",
+  "native": "幼女戦記Ⅱ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 23
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "NUT"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Carlo Zen",
+      "native": "カルロ・ゼン"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Shinobu Shinotsuki",
+      "native": "篠月しのぶ"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Takayuki Yamamoto",
+      "native": "山本貴之"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuji Hosogoe",
+      "native": "細越裕治"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Hosogoe",
+      "native": "細越裕治"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jeremy Inman",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Aoi Yuuki",
+      "native": "悠木碧"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "MYTH & ROID",
+      "native": "ミスアンドロイド "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "MYTH & ROID",
+      "native": "ミスアンドロイド "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "MYTH & ROID",
+      "native": "ミスアンドロイド "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "MYTH & ROID",
+      "native": "ミスアンドロイド "
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Aaron Campbell",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "hotaru",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Matt Grounds",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Azumi Botsu",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Masayuki Nakano",
+      "native": "中野雅之"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Masayuki Nakano",
+      "native": "中野雅之"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Manuela Origuella",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Michael Stimac",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director Assistant (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Aline Penteado",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Seth Aulds",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Matthew Greenbaum",
+      "native": "Matthew Steven Greenbaum"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tanya Degurechaff",
+      "native": "ターニャ・デグレチャフ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Yuuki",
+       "native": "悠木碧"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

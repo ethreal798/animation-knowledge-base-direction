@@ -1,0 +1,295 @@
+{
+ "id": 154768,
+ "title": {
+  "romaji": "Sono Bisque Doll wa Koi wo Suru Season 2",
+  "english": "My Dress-Up Darling Season 2",
+  "native": "その着せ替え人形は恋をする Season 2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CloverWorks"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shinichi Fukuda",
+      "native": "福田晋一"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Keisuke Shinohara",
+      "native": "篠原啓輔"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Yamamoto",
+      "native": "山本ゆうすけ"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoriko Tomita",
+      "native": "冨田頼子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kazumasa Ishida",
+      "native": "石田一将"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ayumi Nagaki",
+      "native": "永木歩実"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Erika Nishihara",
+      "native": "西原恵利香"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Naoya Takahashi ",
+      "native": "高橋尚矢"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Nemoto",
+      "native": "根本洋行"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mai Yamaguchi",
+      "native": "山口舞"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Ruri Satou",
+      "native": "佐藤瑠里"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Daisuke Hiraki",
+      "native": "平木大輔"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Jie Ren",
+      "native": "任杰"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Akiko Fujita",
+      "native": "藤田亜紀子"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hiroki Nozaki",
+      "native": "野崎博樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Airi Kobayashi",
+      "native": "小林亜依里"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takeshi Nakatsuka",
+      "native": "中塚武"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Anna Yoshihara",
+      "native": "吉原杏奈"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Masaharu Yamanouchi",
+      "native": "山内真治"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Shou Someno",
+      "native": "染野翔"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Shouta Umehara",
+      "native": "梅原翔太"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kazumasa Ishida",
+      "native": "石田一将"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Jun Yamazaki",
+      "native": "山崎淳"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Atsuhiro Iwakami",
+      "native": "岩上敦宏"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Akira Shimizu",
+      "native": "清水暁"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Marin Kitagawa",
+      "native": "喜多川海夢"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hina Suguta",
+       "native": "直田姫奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Wakana Gojou",
+      "native": "五条新菜"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Ishige",
+       "native": "石毛翔弥"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

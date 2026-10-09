@@ -1,0 +1,391 @@
+{
+ "id": 177501,
+ "title": {
+  "romaji": "Awajima Hyakkei",
+  "english": "A Hundred Scenes of AWAJIMA",
+  "native": "淡島百景"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 25
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MADHOUSE"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Takako Shimura",
+      "native": "志村貴子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Morio Asaka",
+      "native": "浅香守生"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Nakanishi",
+      "native": "中西やすひろ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kunihiko Hamada",
+      "native": "濱田邦彦"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hideki Nakamura",
+      "native": "中村豪希"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Harue Oono",
+      "native": "大野春恵"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Junko Sakai",
+      "native": "酒井淳子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takahiro Obata",
+      "native": "小畑貴裕"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Mika Nakashima",
+      "native": "中島美嘉"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Hana Hope",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-3, 5, 6, 8, 10-12)",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Nakanishi",
+      "native": "中西やすひろ"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 4, 7, 9)",
+    "node": {
+     "name": {
+      "full": "Yuniko Ayana",
+      "native": "綾奈ゆにこ"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP)",
+    "node": {
+     "name": {
+      "full": "Morio Asaka",
+      "native": "浅香守生"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 4, 9)",
+    "node": {
+     "name": {
+      "full": "Atsuko Ishizuka",
+      "native": "いしづかあつこ"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 8)",
+    "node": {
+     "name": {
+      "full": "Mitsuyuki Masuhara",
+      "native": "増原光幸"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 2, 7, 12)",
+    "node": {
+     "name": {
+      "full": "Kotono Watanabe",
+      "native": "渡邉こと乃"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ED)",
+    "node": {
+     "name": {
+      "full": "Kunihiko Hamada",
+      "native": "濱田邦彦"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 8)",
+    "node": {
+     "name": {
+      "full": "Il-Jin Hwang",
+      "native": "황일진"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 11)",
+    "node": {
+     "name": {
+      "full": "Hyuuga Yamamura",
+      "native": "山村日向"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Kouki Mori",
+      "native": "森洸貴"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 6)",
+    "node": {
+     "name": {
+      "full": "Kouki Uchinomiya",
+      "native": "内野宮晃希"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 5, 10)",
+    "node": {
+     "name": {
+      "full": "Shinichi Tabe",
+      "native": "田部伸一"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 5, 10)",
+    "node": {
+     "name": {
+      "full": "Shinichi Tabe",
+      "native": "田部伸一"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP, eps 1, 10-12)",
+    "node": {
+     "name": {
+      "full": "Morio Asaka",
+      "native": "浅香守生"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 4, 9)",
+    "node": {
+     "name": {
+      "full": "Atsuko Ishizuka",
+      "native": "いしづかあつこ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ryouko Ueda",
+      "native": "上田良子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ai Kayano",
+       "native": "茅野愛衣"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Wakana Tabata",
+      "native": "田畑若菜"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Niina Nakabayashi",
+       "native": "中林新夏"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kinue Takehara",
+      "native": "竹原絹枝"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "You Taichi",
+       "native": "大地葉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Emi Okabe",
+      "native": "岡部絵美"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Fujiwara",
+       "native": "藤原夏海"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Katsurako Ibuki",
+      "native": "伊吹桂子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayumi Tsunematsu",
+       "native": "恒松あゆみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Eri Fujisawa",
+      "native": "藤沢江里"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Risa Shimizu",
+       "native": "清水理沙"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shizuka Utagawa",
+      "native": "雅楽川静香"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Asuna Tomari",
+       "native": "泊明日菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sara Takanashi",
+      "native": "小鳥遊紗羅"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

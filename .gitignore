@@ -1,0 +1,25 @@
+# 本地配置（.env 已随仓库提交，仓库请保持私有，勿公开）
+.env.local
+
+# 虚拟环境
+.venv/
+
+# IDE
+.idea/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 运行时锁文件（数据产物随仓库一起提交，别人可直接使用，也可重跑管线覆盖）
+data/qdrant/.lock
+
+# 运行时对话历史（问答会持续写入，空库启动时自动创建）
+data/chat_history.db
+
+# 辅助探测脚本（非主代码，仅本地留档，不随仓库提交）
+scripts/audit_pilot.py
+
+# 其他
+_archives/
+.DS_Store

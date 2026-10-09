@@ -1,0 +1,311 @@
+{
+ "id": 197824,
+ "title": {
+  "romaji": "Isekai Nonbiri Nouka 2",
+  "english": "Farming Life in Another World 2",
+  "native": "異世界のんびり農家２"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 22
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Zero-G"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kinosuke Naitou",
+      "native": "内藤騎之介"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yasumo",
+      "native": "やすも"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ryouichi Kuraya",
+      "native": "倉谷涼一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Ryouichi Kuraya",
+      "native": "倉谷涼一"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Ryouichi Kuraya",
+      "native": "倉谷涼一"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshiko Saitou",
+      "native": "齊藤佳子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yoshiko Saitou",
+      "native": "齊藤佳子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Nakahara",
+      "native": "中原清隆"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Nakahara",
+      "native": "中原清隆"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuusuke Isouchi",
+      "native": "五十内裕輔"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Isouchi",
+      "native": "五十内裕輔"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "You Natsuki",
+      "native": "夏木洋"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Atsushi Shibata",
+      "native": "柴田篤史"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "jimao",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hirofumi Sakagami",
+      "native": "坂上裕文"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yumi Okayama",
+      "native": "岡山優美"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kaori Nakahira",
+      "native": "中平香織"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuu Okimoto",
+      "native": "沖本優"
+     }
+    }
+   },
+   {
+    "role": "2D Effects",
+    "node": {
+     "name": {
+      "full": "Tomoki Murakami",
+      "native": "村上朋輝"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yoshinori Tomo",
+      "native": "伴善徳"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masaki Utsunomiya",
+      "native": "宇都宮正記"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yasuharu Takanashi",
+      "native": "高梨康治"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Johannes Nilsson",
+      "native": "Johannes Nilsson"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumiyuki Gou",
+      "native": "郷文裕貴"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Aya Suzaki",
+      "native": "洲崎綾"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hiraku Machio",
+      "native": "街尾火楽"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsushi Abe",
+       "native": "阿部敦"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Loo",
+      "native": "ルー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shino Shimoji",
+       "native": "下地紫野"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tier",
+      "native": "ティア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aya Suzaki",
+       "native": "洲崎綾"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "id": 182483,
+ "title": {
+  "romaji": "Hime Kishi wa Barbaroi no Yome",
+  "english": "The Warrior Princess and the Barbaric King",
+  "native": "姫騎士は蛮族の嫁"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 25
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Jumondou"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Noriaki Kotoba",
+      "native": "コトバノリアキ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takashi Yamazaki",
+      "native": "山崎貴"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Miya Asakawa",
+      "native": "浅川美也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hajime Hatakeyama",
+      "native": "畠山元"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mayumi Fujita",
+      "native": "藤田真弓"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Luhao Jin",
+      "native": "金璐浩"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shiori Shirasaki",
+      "native": "白崎詩織"
+     }
+    }
+   },
+   {
+    "role": "Visual Director",
+    "node": {
+     "name": {
+      "full": "Kouji Sugimoto",
+      "native": "杉本光司"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Arai",
+      "native": "荒井和浩"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shunsuke Sakai",
+      "native": "堺駿介"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ryuusuke Araki",
+      "native": "荒木隆介"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuusuke Ueno",
+      "native": "上野勇輔"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Alisa Okehazama",
+      "native": "桶狭間ありさ"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Hajime Kamata",
+      "native": "鎌田肇"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Masayoshi Kikuchi",
+      "native": "菊池政芳"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hajime Hatakeyama",
+      "native": "畠山元"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Luhao Jin",
+      "native": "金璐浩"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Mayumi Fujita",
+      "native": "藤田真弓"
+     }
+    }
+   },
+   {
+    "role": "Main Character Design",
+    "node": {
+     "name": {
+      "full": "Masayoshi Kikuchi",
+      "native": "菊池政芳"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Caitlin Glass",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script Supervisor (English)",
+    "node": {
+     "name": {
+      "full": "Bonny Clinkenbeard",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Seth Magill",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "sajou no hana",
+      "native": "さじょうのはな"
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Aaron Campbell",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Veor",
+      "native": "ヴェーオル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satoshi Inomata",
+       "native": "猪股慧士"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Serafina de Lavillant",
+      "native": "セラフィーナ・ド・ラヴィラン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

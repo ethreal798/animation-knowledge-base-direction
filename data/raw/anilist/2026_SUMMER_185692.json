@@ -1,0 +1,271 @@
+{
+ "id": 185692,
+ "title": {
+  "romaji": "Kabushiki Gaisha Magi Lumiere 2nd Season",
+  "english": "Magilumiere Magical Girls Inc. Season 2",
+  "native": "株式会社マジルミエ 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "J.C.STAFF"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Sekka Iwata",
+      "native": "岩田雪花"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yuu Aoki",
+      "native": "青木裕"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Toshinori Fukushima",
+      "native": "福島利規"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Michiko Yokote",
+      "native": "横手美智子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Fujii",
+      "native": "藤井昌宏"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yoshikazu Iwanami",
+      "native": "岩浪美和"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Asuka Hino",
+      "native": "日野亜朱佳"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuuji Kondou",
+      "native": "近藤勇二"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Hiroyasu Oda",
+      "native": "小田裕康"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Lucas Almeida",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Lucas Almeida",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Marine Houshou",
+      "native": "宝鐘マリン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "syudou",
+      "native": "手動"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuusuke Noguchi",
+      "native": "野口優輔"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shun Yoshii",
+      "native": "吉井駿"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shunsuke Kasuga",
+      "native": "春日俊介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yusei Yagi",
+      "native": "八木勇征"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kana Sakuragi",
+      "native": "桜木カナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hitomi Koshigaya",
+      "native": "越谷仁美"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mariko Higashiuchi",
+       "native": "東内マリ子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kouji Shigemoto",
+      "native": "重本浩司"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rikiya Koyama",
+       "native": "小山力也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kaede Midorikawa",
+      "native": "翠川楓"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Oosaka",
+       "native": "逢坂良太"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kazuo Nikoyama",
+      "native": "二子山和央"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Yamashita",
+       "native": "山下大輝"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

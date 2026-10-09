@@ -1,0 +1,288 @@
+{
+ "id": 206523,
+ "title": {
+  "romaji": "Onegai AiPri",
+  "english": null,
+  "native": "おねがいアイプリ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "OLM"
+   },
+   {
+    "name": "Dongwoo Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "syn Sophia, Inc.",
+      "native": "株式会社シンソフィア"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Takara Tomy",
+      "native": "タカラトミー"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Nashimoto",
+      "native": "梨本裕美"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Su-Hyeon Gwak",
+      "native": "곽수현"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Sung-Min Nam",
+      "native": "남성민"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Seong-Hyeon Kim",
+      "native": "김성현"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Kyung-Won Choi",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Junichi Fujisaku",
+      "native": "藤咲淳一"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Matsunaga",
+      "native": "松永昌弘"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Gigaemon Ichikawa",
+      "native": "市川十億衛門"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Manabu Nii",
+      "native": "仁井学"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Satoru Yanagawa",
+      "native": "柳川智"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Noriyoshi Konuma",
+      "native": "小沼則義"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Izumi Mori",
+      "native": "森いづみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Iginari Tohoku San",
+      "native": "いぎなり東北産"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Inori Konomi",
+      "native": "好実いのり"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hanaka Ogawa",
+       "native": "小川華果"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aoi Yumemiya",
+      "native": "夢宮あおい"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rika Kanaya",
+       "native": "叶矢りか"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gumi Tomosaka",
+      "native": "友坂ぐみ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Wakana Maruoka",
+       "native": "丸岡和佳奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Olivia Yuuki",
+      "native": "勇樹おりびあ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Okamura",
+       "native": "岡村明香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nana Atami",
+      "native": "熱海ナナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minori Fujidera",
+       "native": "藤寺美徳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Emma Mochinaga",
+      "native": "望永エマ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minori Suzuki",
+       "native": "鈴木みのり"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Fortu",
+      "native": "フォーチュ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "You Taichi",
+       "native": "大地葉"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

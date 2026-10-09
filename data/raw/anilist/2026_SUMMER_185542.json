@@ -1,0 +1,327 @@
+{
+ "id": 185542,
+ "title": {
+  "romaji": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu II",
+  "english": "Skeleton Knight in Another World Season 2",
+  "native": "骸骨騎士様、只今異世界へお出掛け中Ⅱ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Aura Studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Enki Hakari",
+      "native": "秤猿鬼"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "KeG",
+      "native": "けーじ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Katsumi Ono",
+      "native": "小野勝巳"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Toshizou Nemoto",
+      "native": "根元歳三"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tooru Imanishi",
+      "native": "今西亨"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Chisa Shibata",
+      "native": "芝田千紗"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shinichi Miyazaki",
+      "native": "宮崎真一"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Jiafang Lü",
+      "native": "呂佳芳"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Manami Takizawa",
+      "native": "滝沢麻菜美"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Rika Mizoguchi",
+      "native": "溝口理花"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Harue Oono",
+      "native": "大野春恵"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hijiri Yamamoto",
+      "native": "山本聖"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yumi Jinguuji",
+      "native": "神宮司由美"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tomotaka Aoki",
+      "native": "青木ともたか"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Motoyama",
+      "native": "本山哲"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Kamima",
+      "native": "上間康弘"
+     }
+    }
+   },
+   {
+    "role": "CG Technical Director",
+    "node": {
+     "name": {
+      "full": "Norimitsu Hirosawa",
+      "native": "広沢範光"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Nagamori",
+      "native": "長森佳容"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Tyler Walker",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Hayden Daviau",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Alex Mai",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "DIALOGUE+",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Clayton Browning",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "James Baker",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Susie Nixon",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Arc ",
+      "native": "アーク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoaki Maeno",
+       "native": "前野智昭"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ponta",
+      "native": "ポンタ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nene Hieda",
+       "native": "稗田寧々"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ariane Glenys Maple",
+      "native": "アリアン・グレニス・メープル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chiyome",
+      "native": "チヨメ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyu Tomita",
+       "native": "富田美憂"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

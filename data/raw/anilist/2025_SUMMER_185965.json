@@ -1,0 +1,301 @@
+{
+ "id": 185965,
+ "title": {
+  "romaji": "Futari Solo Camp",
+  "english": "Solo Camping for Two",
+  "native": "ふたりソロキャンプ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 19
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SynergySP"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuudai Debata",
+      "native": "出端祐大"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Jun Hatori",
+      "native": "羽鳥潤"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Aya Satsuki",
+      "native": "皐月彩"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tomomi Shimazaki",
+      "native": "島崎知美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Hasegawa",
+      "native": "長谷川弘行"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Seto",
+      "native": "瀬戸治子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hiroki Tsubouchi",
+      "native": "坪内弘樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Daiki Yamaki",
+      "native": "八巻大樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shouta Kowashi",
+      "native": "小鷲翔太"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Ouka Tanisaki",
+      "native": "谷崎央佳"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Aya Satsuki",
+      "native": "皐月彩"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Mitsuho Seta",
+      "native": "瀬田光穂"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Alfredo Rollo",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Masayoshi Ooishi",
+      "native": "大石昌良"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "Wataru Sawabe",
+      "native": "澤部渡"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP1)",
+    "node": {
+     "name": {
+      "full": "Wataru Sawabe",
+      "native": "澤部渡"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP1)",
+    "node": {
+     "name": {
+      "full": "Wataru Sawabe",
+      "native": "澤部渡"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP1)",
+    "node": {
+     "name": {
+      "full": "Wataru Sawabe",
+      "native": "澤部渡"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Rodrigo Rossi",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 6, 12, 15, 18, 20)",
+    "node": {
+     "name": {
+      "full": "MANEL",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP2)",
+    "node": {
+     "name": {
+      "full": "Nobuaki Tanaka",
+      "native": "田中伸明"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Kaien Jin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 15, 20)",
+    "node": {
+     "name": {
+      "full": "Akhil Chauhan",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 15, 20)",
+    "node": {
+     "name": {
+      "full": "Pranav Prayag",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 15, 20)",
+    "node": {
+     "name": {
+      "full": "Sayantan Pahari",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shizuku Kusano",
+      "native": "草野雫"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mizuki Niizaki",
+       "native": "新崎瑞季"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gen Kinokura",
+      "native": "樹乃倉厳"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Hamano",
+       "native": "濱野大輝"
+      }
+     },
+     {
+      "name": {
+       "full": "Miyuri Shimabukuro",
+       "native": "島袋美由利"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

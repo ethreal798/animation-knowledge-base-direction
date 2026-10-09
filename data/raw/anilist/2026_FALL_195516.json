@@ -1,0 +1,295 @@
+{
+ "id": 195516,
+ "title": {
+  "romaji": "Kusuriya no Hitorigoto 3rd Season",
+  "english": "The Apothecary Diaries Season 3",
+  "native": "薬屋のひとりごと 第3期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 2
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "OLM"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Natsu Hyuuga",
+      "native": "日向夏"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Touko Shino",
+      "native": "しのとうこ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Akinori Fudesaka",
+      "native": "筆坂明規"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Wataru Nakagawa",
+      "native": "中川航"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Norihiro Naganuma",
+      "native": "長沼範裕"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Nakatani",
+      "native": "中谷友紀子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Katsumi Takao",
+      "native": "高尾克己"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Misato Aida",
+      "native": "相田美里"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Nanako Okazaki",
+      "native": "岡崎菜々子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Asayo Suzuki",
+      "native": "鈴木麻予"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Daisuke Imai",
+      "native": "今井大介"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tamotsu Nagai",
+      "native": "永井有"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shouji Hata",
+      "native": "はたしょうじ "
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Satoru Kousaki",
+      "native": "神前暁"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Kevin Penkin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Alisa Okehazama",
+      "native": "桶狭間ありさ"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Misuzu Chiba",
+      "native": "千葉美鈴"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hitomi Ogawa",
+      "native": "小川ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yorushika",
+      "native": "ヨルシカ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "n-buna",
+      "native": "ナブナ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "n-buna",
+      "native": "ナブナ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "n-buna",
+      "native": "ナブナ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Eve",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Eve",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Maomao",
+      "native": "猫猫"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Yuuki",
+       "native": "悠木碧"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jinshi",
+      "native": "壬氏"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeo Ootsuka",
+       "native": "大塚剛央"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

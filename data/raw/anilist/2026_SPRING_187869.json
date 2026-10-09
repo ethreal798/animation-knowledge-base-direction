@@ -1,0 +1,295 @@
+{
+ "id": 187869,
+ "title": {
+  "romaji": "Kamiina Botan, Yoeru Sugata wa Yuri no Hana",
+  "english": "Botan Kamiina Fully Blossoms When Drunk",
+  "native": "上伊那ぼたん、酔へる姿は百合の花"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 27
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Soigne"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hey",
+      "native": "塀"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takashi Sakuma",
+      "native": "佐久間貴史"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Shuntarou Tozawa",
+      "native": "戸澤俊太郎"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Youko Yonaiyama",
+      "native": "米内山陽子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kou Yoshinari",
+      "native": "吉成鋼"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Miyachi",
+      "native": "みやち"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yuusuke Matsuo",
+      "native": "松尾祐輔"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Arisa Fujii",
+      "native": "藤井有紗"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Yuusuke Matsuo",
+      "native": "松尾祐輔"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Miyachi",
+      "native": "みやち"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ayumi Miyakoshi",
+      "native": "宮越歩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yui Itou",
+      "native": "伊藤唯"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yoshimitsu Tomita",
+      "native": "富田喜允"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Ogawa",
+      "native": "小川耕平"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kana Hashiguchi",
+      "native": "橋口佳奈"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Hikaru Murakami",
+      "native": "村上光"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Atsuhiro Iwakami",
+      "native": "岩上敦宏"
+     }
+    }
+   },
+   {
+    "role": "Line Producer",
+    "node": {
+     "name": {
+      "full": "Norimasa Fujita",
+      "native": "藤田規聖"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED3, ED9)",
+    "node": {
+     "name": {
+      "full": "Minako Kotobuki",
+      "native": "寿美菜子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED5, ED11)",
+    "node": {
+     "name": {
+      "full": "Yoshino Aoyama",
+      "native": "青山吉能"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2, ED7)",
+    "node": {
+     "name": {
+      "full": "Miyu Tomita",
+      "native": "富田美憂"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1, ED12)",
+    "node": {
+     "name": {
+      "full": "Sayumi Suzushiro",
+      "native": "鈴代紗弓"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED6, ED8)",
+    "node": {
+     "name": {
+      "full": "Maki Kawase",
+      "native": "河瀬茉希"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ibuki Tonami",
+      "native": "砺波いぶき"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshino Aoyama",
+       "native": "青山吉能"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Botan Kamiina",
+      "native": "上伊那ぼたん"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,343 @@
+{
+ "id": 202102,
+ "title": {
+  "romaji": "NEEDY GIRL OVERDOSE",
+  "english": "NEEDY GIRL OVERDOSE",
+  "native": "NEEDY GIRL OVERDOSE"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 28
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Yostar Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "WSS playground",
+      "native": "WSS playground"
+     }
+    }
+   },
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Nyalra",
+      "native": "にゃるら"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Ohisashiburi",
+      "native": "お久しぶり"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masaoki Nakashima",
+      "native": "中島政興"
+     }
+    }
+   },
+   {
+    "role": "Supervisor",
+    "node": {
+     "name": {
+      "full": "Nyalra",
+      "native": "にゃるら"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masaoki Nakashima",
+      "native": "中島政興"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kenji Saikai",
+      "native": "西海賢嗣"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akari Takei",
+      "native": "武井紅璃"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kaito Shimizu",
+      "native": "清水海都"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masaoki Nakashima",
+      "native": "中島政興"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Rio",
+      "native": "りお"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Tinghsuan Chien",
+      "native": "簡廷軒"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuusei Nakano",
+      "native": "中野佑星"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Natsuki Wada",
+      "native": "和田夏樹"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Rin Inada",
+      "native": "稲田琳"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Mai Yamaguchi",
+      "native": "山口真生"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Yuuto Hama",
+      "native": "濱祐斗"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ryuuta Hayashi",
+      "native": "林竜太"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuuka Saitou",
+      "native": "齊藤優香"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naoto Kondou",
+      "native": "近藤直登"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Jiann-Horng Wu",
+      "native": "呉健弘"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Shiobara",
+      "native": "塩原光貴"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keisuke Yanagi",
+      "native": "柳圭介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumiyuki Gou",
+      "native": "郷文裕貴"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Rei Ueno",
+      "native": "上野励"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ame-chan",
+      "native": "あめちゃん"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sally Amaki",
+       "native": "天城サリー"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nechika-sama",
+      "native": "禰智禍さま"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Seena Hoshiki",
+       "native": "星希成奏"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Moudoku Denpa Shoujo☆Purple Lollipop",
+      "native": "猛毒電波少女☆パープル・ロリポップ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rina Kawaguchi",
+       "native": "川口莉奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Michica Gokubara",
+      "native": "獄薔薇美血華"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satsuki Shiina",
+       "native": "椎名桜月"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kache",
+      "native": "かちぇ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Anna Nagase",
+       "native": "永瀬アンナ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

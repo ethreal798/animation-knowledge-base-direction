@@ -1,0 +1,298 @@
+{
+ "id": 206951,
+ "title": {
+  "romaji": "Megami \"Isekai Tensei Nani ni Naritai Desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+  "english": "My Ribdiculous Reincarnation",
+  "native": "女神「異世界転生何になりたいですか」 俺「勇者の肋骨で」"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Qzil.la"
+   },
+   {
+    "name": "S.o.K"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Antai",
+      "native": "安泰"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mebaru",
+      "native": "めばる"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yasufumi Soejima",
+      "native": "ソエジマヤスフミ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Miki Matsumoto",
+      "native": "松元美季"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Chiharu Yoshihara",
+      "native": "吉原千晴"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Satoshi Kazemoto",
+      "native": "風本皐"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Risa Tarumi",
+      "native": "たるみりさ"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kousuke Kobayashi",
+      "native": "小林孝輔"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukio Kondou",
+      "native": "近藤由紀夫"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuta Uraki",
+      "native": "浦木裕太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kayou Konishi",
+      "native": "小西香葉"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shunji Watanabe",
+      "native": "渡邉峻冶"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Nomi",
+      "native": "Nomi(バスクのスポーツ)"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Kouji Nishizawa",
+      "native": "西澤宏二"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "shallm",
+      "native": "シャルム"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Shuukatsu Club",
+      "native": "終活クラブ"
+     }
+    }
+   },
+   {
+    "role": "Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Kagiji Kumanomata",
+      "native": "熊之股鍵次"
+     }
+    }
+   },
+   {
+    "role": "Reincarnation Destination Video Animation (\"Lock on a Treasure Chest\"; ep 4)",
+    "node": {
+     "name": {
+      "full": "Kouji Kumeta",
+      "native": "久米田康治"
+     }
+    }
+   },
+   {
+    "role": "Reincarnation Destination Video Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Kousuke Iwanaga",
+      "native": "岩永浩輔"
+     }
+    }
+   },
+   {
+    "role": "Reincarnation Destination Video Director of Photography (ep 8)",
+    "node": {
+     "name": {
+      "full": "Hideki Imaizumi",
+      "native": "今泉秀樹"
+     }
+    }
+   },
+   {
+    "role": "Reincarnation Destination Video Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Hato",
+      "native": "はと"
+     }
+    }
+   },
+   {
+    "role": "Reincarnation Destination Video Photography (\"A Descendant of the World Tree, Who Engages in a Fierce Struggle For Survivial with Bevers\"; ep 6)",
+    "node": {
+     "name": {
+      "full": "Takahiro Uesono",
+      "native": "上薗隆浩"
+     }
+    }
+   },
+   {
+    "role": "Reincarnation Destination Video Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Suiko",
+      "native": "化凪"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Kukkii!",
+      "native": "くっきー！"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ore",
+      "native": "俺"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsushi Abe",
+       "native": "阿部敦"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Megami",
+      "native": "女神"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mao Ichimichi",
+       "native": "市道真央"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

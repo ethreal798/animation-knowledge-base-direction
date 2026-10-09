@@ -1,0 +1,223 @@
+{
+ "id": 200230,
+ "title": {
+  "romaji": "Let's Go Kaikigumi",
+  "english": "Let's go KAIKIGUMI",
+  "native": "レッツゴー怪奇組"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "C-Station"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Byuu",
+      "native": "ビュー"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Yutaka Hirata",
+      "native": "平田豊"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mutsumi Itou",
+      "native": "伊藤睦美"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshimitsu Yamashita",
+      "native": "山下喜光"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yoshimi Umino",
+      "native": "海野よしみ"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Taeko Mizuno",
+      "native": "水野多恵子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Misaki Horiuchi",
+      "native": "堀内美咲"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akiyuki Tateyama",
+      "native": "立山秋航"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Mutsumi Itou",
+      "native": "伊藤睦美"
+     }
+    }
+   },
+   {
+    "role": "Sound Supervisor",
+    "node": {
+     "name": {
+      "full": "Kouhei Yoshida",
+      "native": "吉田光平"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "SWEET STEADY",
+      "native": "スイートステディ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Uketsu",
+      "native": "雨穴"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 2, 5)",
+    "node": {
+     "name": {
+      "full": "Yutaka Hirata",
+      "native": "平田豊"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 3, 6)",
+    "node": {
+     "name": {
+      "full": "Shingo Kaneko",
+      "native": "金子伸吾"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 4)",
+    "node": {
+     "name": {
+      "full": "Ryousuke Ugagami",
+      "native": "宇賀神亮輔"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Kaien Jin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Song Assistance",
+    "node": {
+     "name": {
+      "full": "Uketsu",
+      "native": "雨穴"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shujinkou",
+      "native": "主人公"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tasuku Hatanaka",
+       "native": "畠中祐"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mechako",
+      "native": "メチャ子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ruriko Aoki",
+       "native": "青木瑠璃子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "id": 183127,
+ "title": {
+  "romaji": "Karaoke Iko!",
+  "english": "Let's Go Karaoke!",
+  "native": "カラオケ行こ！"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 24
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 25
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 5,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Doga Kobo"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yama Wayama",
+      "native": "和山やま"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Asami Nakatani",
+      "native": "中谷亜沙美"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Tsukahara",
+      "native": "塚原佑希子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoshimi Narita",
+      "native": "成田良美"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mai Matsuura",
+      "native": "松浦麻衣"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Junichirou Taniguchi",
+      "native": "谷口淳一郎"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Karen Nozawa",
+      "native": "野澤かれん"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Yukino Nakamata",
+      "native": "中俣由貴乃"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Karen Nozawa",
+      "native": "野澤かれん"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuka Hirama",
+      "native": "平間由香"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Narumi Matsuura",
+      "native": "松浦成美"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Mayuko Koyama",
+      "native": "小山真由子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Erina Ishihara",
+      "native": "石原江莉奈"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuka Itou",
+      "native": "伊藤裕香"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takafumi Kuwano",
+      "native": "桒野貴文"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mai Hasegawa",
+      "native": "長谷川舞"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Eriko Kimura",
+      "native": "木村絵理子"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Shouta Yaso",
+      "native": "八十正太"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Takurou Iga",
+      "native": "伊賀拓郎"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance",
+    "node": {
+     "name": {
+      "full": "Ayumu Imazu",
+      "native": "今津渉"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Junichirou Taniguchi",
+      "native": "谷口淳一郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Rina Morita",
+      "native": "森田莉奈"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Haruka Inade",
+      "native": "稲手遥香"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Hirono Nishiki",
+      "native": "錦寛乃"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Sachi Susa",
+      "native": "須佐祥智"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Satomi Oka",
+      "native": "岡聡実"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shun Horie",
+       "native": "堀江瞬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kyouji Narita",
+      "native": "成田狂児"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Ono",
+       "native": "小野大輔"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

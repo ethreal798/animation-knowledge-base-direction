@@ -1,0 +1,266 @@
+{
+ "id": 199588,
+ "title": {
+  "romaji": "Otaku ni Yasashii Gal wa Inai!?",
+  "english": "Gals Can't Be Kind to Otaku!?",
+  "native": "オタクに優しいギャルはいない!?"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TMS Entertainment"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Norishiro-chan",
+      "native": "のりしろちゃん"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Sakana Uozumi",
+      "native": "魚住さかな"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Arata Mita",
+      "native": "三田新"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuhiko Inukai",
+      "native": "犬飼和彦 "
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Lion Matsuda",
+      "native": "松田りおん"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Teruhiko Niita",
+      "native": "丹伊田輝彦"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ayaka Iwamoto",
+      "native": "岩本彩加"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuusuke Noguchi",
+      "native": "野口優輔"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Tomoki Nagasaka",
+      "native": "長坂智樹"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Atsushi Kimura",
+      "native": "木村篤"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kousuke Satou",
+      "native": "佐藤航介"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Lion Matsuda",
+      "native": "松田りおん"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "i-dle",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Sunsoo Girl",
+      "native": "三四少女"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "Yuu Serizawa",
+      "native": "芹澤優"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED2)",
+    "node": {
+     "name": {
+      "full": "Mariya Takeuchi",
+      "native": "竹内まりや"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED2)",
+    "node": {
+     "name": {
+      "full": "Mariya Takeuchi",
+      "native": "竹内まりや"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Arata Mita",
+      "native": "三田新"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Arata Mita",
+      "native": "三田新"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED2)",
+    "node": {
+     "name": {
+      "full": "Gecko&Tokage Parade",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kei Amane",
+      "native": "天音慶"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Inagaki",
+       "native": "稲垣好"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kotoko Ijichi",
+      "native": "伊地知琴子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuu Serizawa",
+       "native": "芹澤優"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Takuya Seo",
+      "native": "瀬尾卓也"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shou Komura",
+       "native": "小村将"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

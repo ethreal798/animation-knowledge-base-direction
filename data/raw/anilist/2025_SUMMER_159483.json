@@ -1,0 +1,343 @@
+{
+ "id": 159483,
+ "title": {
+  "romaji": "Turkey!",
+  "english": "Turkey! Time to Strike",
+  "native": "Turkey!"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 24
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "BAKKEN RECORD"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Susumu Kudou",
+      "native": "工藤進"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Airi Takegawa",
+      "native": "武川愛里"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Yoshinori Nabana",
+      "native": "那花優統"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kenichi Tajiri",
+      "native": "田尻健一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Nobori",
+      "native": "のぼりはるこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Youhei Konishi",
+      "native": "小西庸平"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yukie Oikawa",
+      "native": "及川雪江"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Natsuki Hiromoto",
+      "native": "堀本夏生"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yutaka  Oomatsu",
+      "native": "大松裕"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-12)",
+    "node": {
+     "name": {
+      "full": "Naomi Hiruta",
+      "native": "蛭田直美"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (OP, eps 1-12)",
+    "node": {
+     "name": {
+      "full": "Airi Takegawa",
+      "native": "武川愛里"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Tetsuya Kinoshita",
+      "native": "木下哲哉"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Toshiya Kitabayashi",
+      "native": "北林俊哉"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Miki Itou",
+      "native": "伊藤美紀 "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Yuuko Minaguchi",
+      "native": "皆口裕子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Noriko Hidaka",
+      "native": "日高のり子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Kikuko Inoue",
+      "native": "井上喜久子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Rei Sakuma",
+      "native": "佐久間レイ "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED3)",
+    "node": {
+     "name": {
+      "full": "Aira Yuuki",
+      "native": "結城アイラ"
+     }
+    }
+   },
+   {
+    "role": "Art Design (ep 11)",
+    "node": {
+     "name": {
+      "full": "Susumu Kudou",
+      "native": "工藤進"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 7, 11, 12)",
+    "node": {
+     "name": {
+      "full": "Susumu Kudou",
+      "native": "工藤進"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1, 12)",
+    "node": {
+     "name": {
+      "full": "Susumu Kudou",
+      "native": "工藤進"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED5)",
+    "node": {
+     "name": {
+      "full": "yanaginagi",
+      "native": "やなぎなぎ"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"ikuseiso\"; ep 5)",
+    "node": {
+     "name": {
+      "full": "ZAQ",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Mai Otonashi",
+      "native": "音無麻衣"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hana Hishikawa",
+       "native": "菱川花菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rina Godai",
+      "native": "五代利奈"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sayuri Ichinose",
+      "native": "一ノ瀬さゆり"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruki Iwata",
+       "native": "岩田陽葵"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nozomi Mitaka",
+      "native": "三鷹希"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Tenma",
+       "native": "天麻ゆうき"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nanase Nikaidou",
+      "native": "二階堂七瀬"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayasa Itou",
+       "native": "伊藤彩沙"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

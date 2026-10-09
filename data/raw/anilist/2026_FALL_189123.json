@@ -1,0 +1,286 @@
+{
+ "id": 189123,
+ "title": {
+  "romaji": "Ao no Hako Season 2",
+  "english": "Blue Box Season 2",
+  "native": "アオのハコ Season２"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Electric Circus"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kouji Miura",
+      "native": "三浦糀"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Daisuke  Sakou",
+      "native": "酒向大輔"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Miho Tanino",
+      "native": "谷野美穂"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Anri Ishida",
+      "native": "石田杏里"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Narumi Konno",
+      "native": "今野成美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuki Kawashita",
+      "native": "川下裕樹"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yumika Okazaki",
+      "native": "岡崎由美佳"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takashi Oomama",
+      "native": "大間々昂"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Miho Tanino",
+      "native": "谷野美穂"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "aiko",
+      "native": "aiko"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Elsewhere Kikou",
+      "native": "エルスウェア紀行"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP, ep 1)",
+    "node": {
+     "name": {
+      "full": "Riki Oouchi",
+      "native": "大内力"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Ryouta Asada",
+      "native": "浅田亮太"
+     }
+    }
+   },
+   {
+    "role": "Creative Advisor",
+    "node": {
+     "name": {
+      "full": "Shingo Mogi",
+      "native": "モギシンゴ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "aiko",
+      "native": "aiko"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Rafael Schubert",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Toomi You",
+      "native": "トオミヨウ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Toomi You",
+      "native": "トオミヨウ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Elsewhere Kikou",
+      "native": "エルスウェア紀行"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Omoi Annou",
+      "native": "安納想"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Toyoshi",
+      "native": "トヨシ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Chinatsu Kano",
+      "native": "鹿野千夏"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reina Ueda",
+       "native": "上田麗奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Taiki Inomata",
+      "native": "猪股大喜"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "id": 187538,
+ "title": {
+  "romaji": "BLACK TORCH",
+  "english": "BLACK TORCH",
+  "native": "BLACK TORCH"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 19
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "100studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tsuyoshi Takaki",
+      "native": "タカキツヨシ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kei Umabiki",
+      "native": "馬引圭"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Gigaemon Ichikawa",
+      "native": "市川十億衛門"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Gou Suzuki",
+      "native": "鈴木豪"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Masahiko Suzuki",
+      "native": "鈴木政彦"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yumi Nakamura",
+      "native": "中村ユミ"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Mariko Kinoshita",
+      "native": "木下真梨子"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Shunya Kikuchi",
+      "native": "菊池隼也"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Sachi Takahashi",
+      "native": "高橋佐知"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Seiko Imaizumi",
+      "native": "今泉聖子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Nobori",
+      "native": "のぼりはるこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hijiri Yamamoto",
+      "native": "山本聖"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masato Yoshitake",
+      "native": "吉武将人"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hirotaka Naitou",
+      "native": "内藤博高"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Takadera",
+      "native": "高寺たけし"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Naoto Yamatani",
+      "native": "山谷尚人"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yutaka Yamada",
+      "native": "やまだ豊"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Gigaemon Ichikawa",
+      "native": "市川十億衛門"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "SiM",
+      "native": "シム"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Bruno Sangregório",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Akiko Nishi",
+      "native": "仁志晃子"
+     }
+    }
+   },
+   {
+    "role": "Recording Engineer (English)",
+    "node": {
+     "name": {
+      "full": "David Walsh",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director Assistant (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Manuela Origuella",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Kirstie Simone",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "I Don't Like Mondays.",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Jirou Azuma",
+      "native": "我妻弐郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Suzuki",
+       "native": "鈴木崚汰"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ragou",
+      "native": "羅睺"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Youji Ueda",
+       "native": "上田燿司"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ichika Kishimojin",
+      "native": "鬼子母神一華"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayaka Senbongi",
+       "native": "千本木彩花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Reiji Kirihara",
+      "native": "桐原零司"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junya Enoki",
+       "native": "榎木淳弥"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

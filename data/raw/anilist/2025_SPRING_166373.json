@@ -1,0 +1,280 @@
+{
+ "id": 166373,
+ "title": {
+  "romaji": "MIRU: Watashi no Mirai",
+  "english": "MIRU: Paths to My Future",
+  "native": "未ル わたしのみらい"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 5,
+  "day": 1
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 5,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LinQ"
+   },
+   {
+    "name": "TriF studio"
+   },
+   {
+    "name": "Scooter Films"
+   },
+   {
+    "name": "Shirogumi"
+   },
+   {
+    "name": "REIRS"
+   },
+   {
+    "name": "Larx Entertainment"
+   },
+   {
+    "name": "Studio Hibari"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masaki Yokobe",
+      "native": "横部正樹"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Shigeru Morita",
+      "native": "森田繁"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Masuo Ueda",
+      "native": "植田益朗"
+     }
+    }
+   },
+   {
+    "role": "Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Norio Kashima",
+      "native": "鹿島典夫"
+     }
+    }
+   },
+   {
+    "role": "Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Sae Okamoto",
+      "native": "オカモト紗英"
+     }
+    }
+   },
+   {
+    "role": "Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Tomohiro Kawamura",
+      "native": "河村友宏"
+     }
+    }
+   },
+   {
+    "role": "Director (ep 4)",
+    "node": {
+     "name": {
+      "full": "Tadashi Mishina",
+      "native": "三階直史"
+     }
+    }
+   },
+   {
+    "role": "Director (ep 5)",
+    "node": {
+     "name": {
+      "full": "Saori Nakashiki",
+      "native": "仲敷沙織"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "V.W.P",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Script (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yasushi Hirano",
+      "native": "平野靖士 "
+     }
+    }
+   },
+   {
+    "role": "Sound Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Takeshi Takadera",
+      "native": "高寺たけし"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kenji Teraoka",
+      "native": "寺岡賢司"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "MIYAVI",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "MIYAVI",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "MIYAVI",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Script (ep 2)",
+    "node": {
+     "name": {
+      "full": "Aya Matsui",
+      "native": "松井亜弥"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeda",
+      "native": "竹田祐介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Seann Bowe",
+      "native": "ショーンボウ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Seann Bowe",
+      "native": "ショーンボウ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Lenard Skolnik",
+      "native": "レナード・スコルニック"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Lenard Skolnik",
+      "native": "レナード・スコルニック"
+     }
+    }
+   },
+   {
+    "role": "CG Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Shouta  Kawamura",
+      "native": "河村翔太"
+     }
+    }
+   },
+   {
+    "role": "CG Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Tatsuya Kouno",
+      "native": "河野達也"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": []
+ }
+}

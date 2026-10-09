@@ -1,0 +1,311 @@
+{
+ "id": 170892,
+ "title": {
+  "romaji": "Jibaku Shounen Hanako-kun 2",
+  "english": "Toilet-bound Hanako-kun Season 2",
+  "native": "地縛少年花子くん２"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 30
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lerche"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "AidaIro",
+      "native": "いろあいだ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Youhei Fukui",
+      "native": "福井洋平"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Nakanishi",
+      "native": "中西やすひろ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mayuka Itou",
+      "native": "伊藤麻由加"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Koutarou Tazawa",
+      "native": "田澤光太郎"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Chiharu Koyama",
+      "native": "小山千遥"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiromasa Ogura",
+      "native": "小倉宏昌"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Saki Tada",
+      "native": "多田早希"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mizuho Shimada",
+      "native": "嶋田瑞帆"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takuya Umeda",
+      "native": "梅田拓也"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoki Iida",
+      "native": "飯田里樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Maki Takuma",
+      "native": "宅間麻姫"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiroshi Takaki",
+      "native": "高木洋"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Anju Fukuda",
+      "native": "福田杏樹"
+     }
+    }
+   },
+   {
+    "role": "Offline Editing",
+    "node": {
+     "name": {
+      "full": "Rie Itou",
+      "native": "伊藤利恵"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Tatsuhiro Amano",
+      "native": "天野龍洋"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Akari Kitou",
+      "native": "鬼頭明里"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Masayoshi Ooishi",
+      "native": "大石昌良"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Zing",
+      "native": "ZiNG"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Anchor",
+      "native": "アンカー"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Anchor",
+      "native": "アンカー"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Anchor",
+      "native": "アンカー"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Saku",
+      "native": "サク"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Saku",
+      "native": "サク"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Saku",
+      "native": "サク"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hanako",
+      "native": "花子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Megumi Ogata",
+       "native": "緒方恵美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nene Yashiro",
+      "native": "八尋寧々"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akari Kitou",
+       "native": "鬼頭明里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kou Minamoto",
+      "native": "源光"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

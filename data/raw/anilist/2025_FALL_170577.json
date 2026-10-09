@@ -1,0 +1,327 @@
+{
+ "id": 170577,
+ "title": {
+  "romaji": "Tondemo Skill de Isekai Hourou Meshi 2",
+  "english": "Campfire Cooking in Another World with my Absurd Skill Season 2",
+  "native": "とんでもスキルで異世界放浪メシ2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 24
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MAPPA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Ren Eguchi",
+      "native": "江口連"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Masa",
+      "native": "雅"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Matsuda",
+      "native": "松田清"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Kenji Takahashi",
+      "native": "高橋謙仁"
+     }
+    }
+   },
+   {
+    "role": "Supervisor",
+    "node": {
+     "name": {
+      "full": "Eiji Matsuo",
+      "native": "松尾英児"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Michiko Yokote",
+      "native": "横手美智子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Nao Ootsu",
+      "native": "大津直"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tsuyoshi Kuwahara",
+      "native": "桑原剛"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Tomoki Nagino",
+      "native": "奈木野智希"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kana Tanabe",
+      "native": "田辺香奈"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Saho Sawada",
+      "native": "澤田紗帆"
+     }
+    }
+   },
+   {
+    "role": "Special Effects Director",
+    "node": {
+     "name": {
+      "full": "Kumiko Taniguchi",
+      "native": "谷口久美子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Gou Sadamatsu",
+      "native": "定松剛"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takumi Yamamoto",
+      "native": "山本拓巳"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kisuke Koizumi",
+      "native": "小泉紀介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kuricorder Quartet",
+      "native": "栗コーダーカルテット "
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masato Kouda",
+      "native": "甲田雅人"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kana Utatane",
+      "native": "うたたね歌菜"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Koudai Katou",
+      "native": "加藤広大"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Koudai Katou",
+      "native": "加藤広大"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Eriko Itou",
+      "native": "伊藤依織子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Shiho Tanaka",
+      "native": "田中志穂"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Manabu Ootsuka",
+      "native": "大塚学"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Yuusuke Nakai",
+      "native": "中井友佑"
+     }
+    }
+   },
+   {
+    "role": "Assistant Producer",
+    "node": {
+     "name": {
+      "full": "Masashi Yahata",
+      "native": "八幡雅史"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sui",
+      "native": "スイ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hina Kino",
+       "native": "木野日菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tsuyoshi  Mukouda",
+      "native": "向田剛志"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuma Uchida",
+       "native": "内田雄馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Fel",
+      "native": "フェル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satoshi Hino",
+       "native": "日野聡"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Dora-chan",
+      "native": "ドラちゃん"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayumu Murase",
+       "native": "村瀬歩"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

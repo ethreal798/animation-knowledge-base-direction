@@ -1,0 +1,241 @@
+{
+ "id": 178090,
+ "title": {
+  "romaji": "Tensei Shitara Dai Nana Ouji Datta node, Kimamani Majutsu wo Kiwamemasu 2nd Season",
+  "english": "I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2",
+  "native": "転生したら第七王子だったので、気ままに魔術を極めます 第2期"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 25
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Tsumugi Akita Anime Lab"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kenkyo na Circle",
+      "native": "謙虚なサークル"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "meru.",
+      "native": "メル。"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Jin Tamamura",
+      "native": "玉村仁"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Naoki Tozuka",
+      "native": "直樹 戸塚"
+     }
+    }
+   },
+   {
+    "role": "Action Director",
+    "node": {
+     "name": {
+      "full": "Yuuichi Abe",
+      "native": "阿部雄一"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sei Nishikiori",
+      "native": "錦織成"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mitoshi Nagaki",
+      "native": "長岐光捷"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ai Watanabe",
+      "native": "渡辺彩生"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuki Yano",
+      "native": "矢野雄木"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryou Tanaka",
+      "native": "田中亮 "
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryuuta Iida",
+      "native": "飯田龍太"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Sei Nishikiori",
+      "native": "錦織成"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Gino Palencia",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Lee George",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Clayton Browning",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Nako Misaki",
+      "native": "岬なこ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Kaede Higuchi",
+      "native": "樋口楓"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English) ",
+    "node": {
+     "name": {
+      "full": "Derric Benavides",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Lloyd de Saloum",
+      "native": "ロイド=ディ=サルーム"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Makoto Koichi",
+       "native": "小市眞琴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Grimoire",
+      "native": "グリモワール"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

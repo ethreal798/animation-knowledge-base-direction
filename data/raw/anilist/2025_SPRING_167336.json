@@ -1,0 +1,343 @@
+{
+ "id": 167336,
+ "title": {
+  "romaji": "Lazarus",
+  "english": "LAZARUS",
+  "native": "ラザロ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 29
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MAPPA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shinichirou Watanabe",
+      "native": "渡辺信一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akemi Hayashi",
+      "native": "林明美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Miho Sugiura",
+      "native": "杉浦美穂"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kana Tanabe",
+      "native": "田辺香奈"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mitsuhiro Satou",
+      "native": "佐藤光洋"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kumiko Sakamoto",
+      "native": "坂本久美子"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects Supervisor",
+    "node": {
+     "name": {
+      "full": "Lauren Stephens",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Bonobo",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Floating Points",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kamasi Washington",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Masato Matsunaga",
+      "native": "松永理人"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1, 12, 13)",
+    "node": {
+     "name": {
+      "full": "Shinichirou Watanabe",
+      "native": "渡辺信一郎"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 4, 9)",
+    "node": {
+     "name": {
+      "full": "Dai Satou",
+      "native": "佐藤大"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 3, 6, 7, 10)",
+    "node": {
+     "name": {
+      "full": "Takahiro Ozawa",
+      "native": "小沢高広"
+     }
+    }
+   },
+   {
+    "role": "CG Modeling Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Tamai",
+      "native": "玉井真広"
+     }
+    }
+   },
+   {
+    "role": "CG Animation Director",
+    "node": {
+     "name": {
+      "full": "Daiki Watanabe",
+      "native": "渡辺大貴"
+     }
+    }
+   },
+   {
+    "role": "Executive Producer",
+    "node": {
+     "name": {
+      "full": "Jason DeMarco",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Joseph Chou",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Kamasi Washington",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "The Boo Radleys",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Concept Design",
+    "node": {
+     "name": {
+      "full": "Stanislas Brunet",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Action Supervisor",
+    "node": {
+     "name": {
+      "full": "Chad Stahelski",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Mixing",
+    "node": {
+     "name": {
+      "full": "Masashi Yabuhara",
+      "native": "薮原正史"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Shinichirou Watanabe",
+      "native": "渡辺信一郎"
+     }
+    }
+   },
+   {
+    "role": "Director (OP)",
+    "node": {
+     "name": {
+      "full": "Shinichirou Watanabe",
+      "native": "渡辺信一郎"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Axel Gilberto",
+      "native": "アクセル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mamoru Miyano",
+       "native": "宮野真守"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Doug Hadine",
+      "native": "ダグ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Makoto Furukawa",
+       "native": "古川慎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Christine Blake",
+      "native": "クリスティン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maaya Uchida",
+       "native": "内田真礼"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Leland Astor",
+      "native": "リーランド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuma Uchida",
+       "native": "内田雄馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Eleina",
+      "native": "エレイナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manaka Iwami",
+       "native": "石見舞菜香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

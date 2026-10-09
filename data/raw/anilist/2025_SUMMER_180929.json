@@ -1,0 +1,311 @@
+{
+ "id": 180929,
+ "title": {
+  "romaji": "Ruri no Houseki",
+  "english": "Ruri Rocks",
+  "native": "瑠璃の宝石"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 28
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Bind"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Keiichirou Shibuya",
+      "native": "渋谷圭一郎"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shingo Fujii",
+      "native": "藤井慎吾"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yasuhiko Akiyama",
+      "native": "秋山泰彦"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Michiko Yokote",
+      "native": "横手美智子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mayu Fujii",
+      "native": "藤井茉由"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Aruji Ninomiya",
+      "native": "二宮歩路"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ann Nakai",
+      "native": "中井杏"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shunichirou Yoshihara",
+      "native": "吉原俊一郎"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kazushi Fujii",
+      "native": "藤井一志"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Makiko Doi",
+      "native": "土居真紀子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takuya Ogata",
+      "native": "尾形拓哉"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuuji Oka",
+      "native": "岡祐司"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Yoshida",
+      "native": "吉田光平"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Takuya Hasegawa",
+      "native": "長谷川卓也"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Daisuke Achiwa",
+      "native": "阿知波大輔"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kazuki Yanagawa",
+      "native": "柳川和樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects (PV)",
+    "node": {
+     "name": {
+      "full": "Takuya Hasegawa",
+      "native": "長谷川卓也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Rei Yasuda",
+      "native": "安田レイ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hana Hope",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Episode Director (PV, ep 1)",
+    "node": {
+     "name": {
+      "full": "Shingo Fujii",
+      "native": "藤井慎吾"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (PV, OP, ep 1)",
+    "node": {
+     "name": {
+      "full": "Mayu Fujii",
+      "native": "藤井茉由"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (PV)",
+    "node": {
+     "name": {
+      "full": "Souichirou Matsuda",
+      "native": "松田宗一郎"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (PV, OP, eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Ann Nakai",
+      "native": "中井杏"
+     }
+    }
+   },
+   {
+    "role": "Color Coordination (PV, OP, ep 1)",
+    "node": {
+     "name": {
+      "full": "Makiko Doi",
+      "native": "土居真紀子"
+     }
+    }
+   },
+   {
+    "role": "Finishing Check (PV, OP, ep 1)",
+    "node": {
+     "name": {
+      "full": "Makiko Doi",
+      "native": "土居真紀子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Nagi Arato",
+      "native": "荒砥凪"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Asami Seto",
+       "native": "瀬戸麻沙美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ruri Tanigawa",
+      "native": "谷川瑠璃"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyari Nemoto",
+       "native": "根本京里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Youko Imari",
+      "native": "伊万里曜子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yume Miyamoto",
+       "native": "宮本侑芽"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

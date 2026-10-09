@@ -1,0 +1,223 @@
+{
+ "id": 183660,
+ "title": {
+  "romaji": "Kaya-chan wa Kowakunai",
+  "english": "Kaya-chan Isn't Scary",
+  "native": "カヤちゃんはコワくない"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "East Fish Studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tarou Yuri",
+      "native": "百合太郎"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Hiroshi Ikehata",
+      "native": "池畠博史"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shigeru Murakoshi",
+      "native": "村越繁"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Moriguchi",
+      "native": "森口弘之"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ayumi Satou",
+      "native": "佐藤歩"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ayumi Satou",
+      "native": "佐藤歩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ritsuko Utagawa",
+      "native": "歌川律子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Natsu Yoshisawa",
+      "native": "吉澤菜月"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Gou Sadamatsu",
+      "native": "定松剛"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yukio Nagasaki",
+      "native": "長崎行男"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hiromune Kurahashi",
+      "native": "倉橋裕宗"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kouta Yamamoto",
+      "native": "山本康太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shun Narita",
+      "native": "成田旬"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Isekaijoucho",
+      "native": "ヰ世界情緒"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Azusa Tachibana",
+      "native": "橘杏咲"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "TAO",
+      "native": "導凰"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "SAK",
+      "native": "朔雀"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kaya Satou",
+      "native": "佐藤カヤ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Azusa Tachibana",
+       "native": "橘杏咲"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chie Hasumi",
+      "native": "蓮見千枝"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maaya Uchida",
+       "native": "内田真礼"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

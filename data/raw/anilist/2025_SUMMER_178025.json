@@ -1,0 +1,333 @@
+{
+ "id": 178025,
+ "title": {
+  "romaji": "Gachiakuta",
+  "english": "Gachiakuta",
+  "native": "ガチアクタ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "bones film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kei Urana",
+      "native": "裏那圭"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Fumihiko Suganuma",
+      "native": "菅沼芙実彦"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroshi Seko",
+      "native": "瀬古浩司"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Ishino",
+      "native": "石野聡"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshino Matsumoto",
+      "native": "松本美乃"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yusa Itou",
+      "native": "伊藤友沙"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Nariyuki Ogi",
+      "native": "小木斉之"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naomi Nakano",
+      "native": "中野尚美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Masataka Ikegami",
+      "native": "池上真崇"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayumu Takahashi",
+      "native": "高橋歩"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takuma Miyake",
+      "native": "三宅拓馬"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumiyuki Gou",
+      "native": "郷文裕貴"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Rei Ueno",
+      "native": "上野励"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Taku Iwasaki",
+      "native": "岩崎琢"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Ishino",
+      "native": "石野聡"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yoshino Matsumoto",
+      "native": "松本美乃"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Masahiko Minami",
+      "native": "南雅彦"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Hideo Katsumata",
+      "native": "勝股英夫"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Naokazu Tsuruta",
+      "native": "鶴田直一"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Kizashi Tsuchiya",
+      "native": "土屋萌"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Tomokazu Iizumi",
+      "native": "飯泉朝一"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Noboru Yamada",
+      "native": "山田昇"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Shin Furukawa",
+      "native": "古川慎"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Atsushi Higashiyama",
+      "native": "東山敦"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Ooyabu",
+      "native": "大薮芳広"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Rudo",
+      "native": "ルド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Ichikawa",
+       "native": "市川蒼"
+      }
+     },
+     {
+      "name": {
+       "full": "You Taichi",
+       "native": "大地葉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Enjin",
+      "native": "エンジン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Katsuyuki Konishi",
+       "native": "小西克幸"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Zanka Nijiku",
+      "native": "ザンカ・ニジク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshitsugu Matsuoka",
+       "native": "松岡禎丞"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Riyou Reaper",
+      "native": "リヨウ・リーパー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumiri Hanamori",
+       "native": "花守ゆみり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

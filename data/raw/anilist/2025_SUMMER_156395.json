@@ -1,0 +1,295 @@
+{
+ "id": 156395,
+ "title": {
+  "romaji": "Busu ni Hanataba wo.",
+  "english": "April Showers Bring May Flowers",
+  "native": "ブスに花束を。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 26
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SILVER LINK."
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Roku Sakura",
+      "native": "作楽ロク"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Mirai Minato",
+      "native": "湊未來"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mirai Minato",
+      "native": "湊未來"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Miwa Ooshima",
+      "native": "大島美和"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kenta Taniguchi",
+      "native": "谷口健太"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Moe  Tanaka",
+      "native": "田中萌"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hidenori Nakahara",
+      "native": "中原英統"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akira Igarashi",
+      "native": "五十嵐明"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuko Shintani",
+      "native": "新谷優子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuuji Kondou",
+      "native": "近藤勇二"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masanori Tsuchiya",
+      "native": "土屋雅紀"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ayumu Imazu",
+      "native": "今津渉"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "TWS",
+      "native": "투어스"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Ayumu Imazu",
+      "native": "今津渉"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Ayumu Imazu",
+      "native": "今津渉"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Ayumu Imazu",
+      "native": "今津渉"
+     }
+    }
+   },
+   {
+    "role": "CG Object Design",
+    "node": {
+     "name": {
+      "full": "Yoshiteru Enomoto",
+      "native": "榎本嘉輝"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "A.G.O",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "A.G.O",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "A.G.O",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Dengjia Zi",
+      "native": "紫灯珈"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Naohiro Ootsuki",
+      "native": "大槻尚広"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Maho Tanimoto",
+      "native": "谷本真歩"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Tenya Kitahara",
+      "native": "北原天弥"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hana Tabata",
+      "native": "田端花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Hayami",
+       "native": "早見沙織"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yousuke Ueno",
+      "native": "上野陽介"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shinba Tsuchiya",
+       "native": "土屋神葉"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

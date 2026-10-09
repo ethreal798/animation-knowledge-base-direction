@@ -1,0 +1,178 @@
+{
+ "id": 194219,
+ "title": {
+  "romaji": "Oni no Hanayome",
+  "english": "The Ogre's Bride",
+  "native": "鬼の花嫁"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 20
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Colored Pencil Animation Japan"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kureha",
+      "native": "クレハ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yuu Shiroya",
+      "native": "白谷ゆう"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Katsuhito Oomiya",
+      "native": "大宮一仁"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yumi Kamakura",
+      "native": "鎌倉由実"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hikari Tanaka",
+      "native": "田中日香里"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masaru Yokoyama",
+      "native": "横山克"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ClariS",
+      "native": "クラリス"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Wakabayashi",
+      "native": "若林和弘"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Junichi Itou",
+      "native": "伊藤潤一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Ikusaburo Yamazaki",
+      "native": "山崎育三郎"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akiko Shibata",
+      "native": "柴田亜紀子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomoyoshi Ishizuka ",
+      "native": "石塚知義"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Reiya Kiryuuin",
+      "native": "鬼龍院玲夜"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuichirou Umehara",
+       "native": "梅原裕一郎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuzu Shinonome",
+      "native": "東雲柚子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Hayami",
+       "native": "早見沙織"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

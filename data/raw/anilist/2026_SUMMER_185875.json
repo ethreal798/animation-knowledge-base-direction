@@ -1,0 +1,343 @@
+{
+ "id": 185875,
+ "title": {
+  "romaji": "Mahou Shoujo Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+  "english": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+  "native": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 20
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Seven Arcs"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Masaki Tsuzuki",
+      "native": "都築真紀"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Shuuichi Kawakami",
+      "native": "川上修一 "
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Hamana",
+      "native": "浜名孝行"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Issei Arakaki",
+      "native": "新垣一成"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takafumi Gorai",
+      "native": "五来聖文"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kazuzou Hamano",
+      "native": "ハマノカズゾウ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kai Shiono",
+      "native": "塩野海"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Masaki Tsuzuki",
+      "native": "都築真紀"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Issei Arakaki",
+      "native": "新垣一成"
+     }
+    }
+   },
+   {
+    "role": "Original Barrier Jacket Design",
+    "node": {
+     "name": {
+      "full": "Shuuichi Kawakami",
+      "native": "川上修一 "
+     }
+    }
+   },
+   {
+    "role": "Original Device Design",
+    "node": {
+     "name": {
+      "full": "Shuuichi Kawakami",
+      "native": "川上修一 "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Nana Mizuki",
+      "native": "水樹奈々"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kazuhiko Seki",
+      "native": "関一彦"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Hiroaki Satou",
+      "native": "佐藤博暉"
+     }
+    }
+   },
+   {
+    "role": "Device Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Taiga",
+      "native": "大河広行"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Takao Maki",
+      "native": "牧孝雄"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Akane Itoda",
+      "native": "井戸田あかね"
+     }
+    }
+   },
+   {
+    "role": "Weapon Design",
+    "node": {
+     "name": {
+      "full": "Hisao Muramatsu",
+      "native": "村松尚雄"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Gouichi Iwahata",
+      "native": "岩畑剛一"
+     }
+    }
+   },
+   {
+    "role": "Creature Design",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Moriki",
+      "native": "森木靖泰"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Youko Nakao",
+      "native": "中尾陽子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Noritaka Suzuki",
+      "native": "鈴木典孝"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Fumiaki Nimura",
+      "native": "二村文章"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 1-8, 10, 12)",
+    "node": {
+     "name": {
+      "full": "Haruka Itou",
+      "native": "伊藤春香"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Riki Oouchi",
+      "native": "大内力"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Fate Testarossa",
+      "native": "フェイト・テスタロッサ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nana Mizuki",
+       "native": "水樹奈々"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nanoha Takamachi",
+      "native": "高町なのは"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yukari Tamura",
+       "native": "田村ゆかり"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hayate Yagami",
+      "native": "八神はやて"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ueda",
+       "native": "植田佳奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shiina Kuze",
+      "native": "久瀬シイナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Azusa Tachibana",
+       "native": "橘杏咲"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Setsuna Kuze",
+      "native": "久瀬セツナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rina Hidaka",
+       "native": "日高里菜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

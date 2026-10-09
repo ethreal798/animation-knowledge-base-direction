@@ -1,0 +1,301 @@
+{
+ "id": 196029,
+ "title": {
+  "romaji": "Kami no Niwatsuki Kusunoki-tei",
+  "english": "Kusunoki's Garden of Gods",
+  "native": "神の庭付き楠木邸"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 21
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "JUVENAGE"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Enju",
+      "native": "えんじゅ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "ox",
+      "native": "ox"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Ryou Yamauchi",
+      "native": "山内遼"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuuji Kobayashi",
+      "native": "小林雄次"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Inoue",
+      "native": "井上優子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Chikako Noma",
+      "native": "野間千賀子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ken Naitou",
+      "native": "内藤健"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Azusa Sasaki",
+      "native": "佐々木梓"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Anna Tomizaki",
+      "native": "富崎杏奈"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kentarou Tsubone",
+      "native": "坪根健太郎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiromi Kikuta",
+      "native": "菊田浩巳"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Rio Satou",
+      "native": "佐藤理緒"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryuuta Iida",
+      "native": "飯田龍太"
+     }
+    }
+   },
+   {
+    "role": "Background Art",
+    "node": {
+     "name": {
+      "full": "Katsuhisa Takiguchi",
+      "native": "滝口勝久"
+     }
+    }
+   },
+   {
+    "role": "Sound Production Manager",
+    "node": {
+     "name": {
+      "full": "Chiyo Kagiyama",
+      "native": "鑰山千代"
+     }
+    }
+   },
+   {
+    "role": "Sound Production Manager",
+    "node": {
+     "name": {
+      "full": "Yuuki Yamada",
+      "native": "山田悠貴"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Yoshio Obara",
+      "native": "小原吉男"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Chikako Abe",
+      "native": "阿部智佳子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Miyu Irino",
+      "native": "入野自由"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Yuuki Ozaki",
+      "native": "尾崎雄貴"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Yuuki Ozaki",
+      "native": "尾崎雄貴"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (OP)",
+    "node": {
+     "name": {
+      "full": "Shiori Araki",
+      "native": "荒木詩織"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Shiori Araki",
+      "native": "荒木詩織"
+     }
+    }
+   },
+   {
+    "role": "Color Design (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Azusa Sasaki",
+      "native": "佐々木梓"
+     }
+    }
+   },
+   {
+    "role": "Chief Episode Director (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Ryuu Nakayama",
+      "native": "中山竜"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Minato Kusunoki",
+      "native": "楠木湊"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Sakata",
+       "native": "坂田将吾"
+      }
+     },
+     {
+      "name": {
+       "full": "Yuu Shimamura",
+       "native": "嶋村侑"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yamagami",
+      "native": "山神"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shinshuu Fuji",
+       "native": "藤真秀"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

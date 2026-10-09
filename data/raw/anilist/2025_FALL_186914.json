@@ -1,0 +1,223 @@
+{
+ "id": 186914,
+ "title": {
+  "romaji": "Ninja to Gokudou",
+  "english": "Ninja Vs. Gokudo",
+  "native": "忍者と極道"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 24
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shinsuke Kondou",
+      "native": "信輔近藤"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Toshinori Watabe",
+      "native": "渡部穏寛"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tokuyuki Matsutake",
+      "native": "松竹徳幸"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Arai",
+      "native": "荒井和浩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuka Kadowaki",
+      "native": "門脇由佳"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Asahiko Koshiyama",
+      "native": "越山麻彦"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Rie Matsubara",
+      "native": "松原理恵"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shinsuke Ooshima",
+      "native": "大嶋慎介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Italian)",
+    "node": {
+     "name": {
+      "full": "Paolo De Santis",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep. 5, 9)",
+    "node": {
+     "name": {
+      "full": "Shinji Ishihira",
+      "native": "石平信司"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Fear, and Loathing in Las Vegas",
+      "native": "フィアー·アンド·ロージング·イン·ラスベガス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "MIYAVI",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Italian)",
+    "node": {
+     "name": {
+      "full": "Simone Lupinacci",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Juliana Gomes",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Nani Teixeira",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shinoha Tanaka",
+      "native": "多仲忍者"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chiaki Kobayashi",
+       "native": "小林千晃"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kiwami Kimura",
+      "native": "輝村極道"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Katsuyuki Konishi",
+       "native": "小西克幸"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

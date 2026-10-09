@@ -1,0 +1,262 @@
+{
+ "id": 196974,
+ "title": {
+  "romaji": "Kuroneko to Majo no Kyoushitsu",
+  "english": "The Classroom of the Black Cat and a Witch",
+  "native": "黒猫と魔女の教室"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 20
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yousuke Kaneda",
+      "native": "金田陽介"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Naoyuki Tatsuwa",
+      "native": "龍輪直征"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Midori Gotou",
+      "native": "後藤みどり"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takayuki Onoda",
+      "native": "小野田貴之"
+     }
+    }
+   },
+   {
+    "role": "Creature Design",
+    "node": {
+     "name": {
+      "full": "Daisuke Niitsuma",
+      "native": "新妻大輔"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Scott MacDonald",
+      "native": "スコット・マクドナルド"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ayako Aihara",
+      "native": "相原彩子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuki Murotsuka",
+      "native": "室塚勇伎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryou Tanaka",
+      "native": "田中亮 "
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yuka Kazama",
+      "native": "風間結花"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryuuta Iida",
+      "native": "飯田龍太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "ASCA",
+      "native": "大倉明日香"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Spira Spica",
+      "native": "スピラスピカ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "Shouko Nakagawa",
+      "native": "中川翔子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED2)",
+    "node": {
+     "name": {
+      "full": "TeddyLoid",
+      "native": "テディロイド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED2)",
+    "node": {
+     "name": {
+      "full": "TeddyLoid",
+      "native": "テディロイド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED2)",
+    "node": {
+     "name": {
+      "full": "TeddyLoid",
+      "native": "テディロイド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Akari Nanawo",
+      "native": "ナナヲアカリ"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "João Moura",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 08)",
+    "node": {
+     "name": {
+      "full": "Yami",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Spica Virgo",
+      "native": "スピカ・ヴァルゴ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaede Hondo",
+       "native": "本渡楓"
+      }
+     },
+     {
+      "name": {
+       "full": "Shouya Ishige",
+       "native": "石毛翔弥"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Claude Sirius",
+      "native": "クロード・シリウス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nobunaga Shimazaki",
+       "native": "島﨑信長"
+      }
+     },
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

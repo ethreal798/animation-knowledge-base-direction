@@ -1,0 +1,295 @@
+{
+ "id": 179966,
+ "title": {
+  "romaji": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+  "english": "Secrets of the Silent Witch",
+  "native": "サイレント・ウィッチ 沈黙の魔女の隠しごと"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Gokumi"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Matsuri Isora",
+      "native": "依空まつり"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Nanna Fujimi",
+      "native": "藤実なんな"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Takaomi Kanasaki",
+      "native": "金崎貴臣"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Yasuo Iwamoto",
+      "native": "岩本保雄"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takaomi Kanasaki",
+      "native": "金崎貴臣"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Cona Nitanda",
+      "native": "二反田こな"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Iwanaga",
+      "native": "岩永悦宜"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Maruyama",
+      "native": "丸山由紀子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Eri Yamanashi",
+      "native": "山梨絵里"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Miho Norisue",
+      "native": "乗末美穂"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shuuichi Ookubo",
+      "native": "大久保修一"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kayoko Tomono",
+      "native": "友野加世子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Saori Yoshida",
+      "native": "吉田沙織"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Naoki Etou",
+      "native": "衛藤直毅"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Souta Satou",
+      "native": "佐藤颯太"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kashiko Kimura",
+      "native": "木村佳史子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kana Imagaki",
+      "native": "今垣佳奈"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takaomi Kanasaki",
+      "native": "金崎貴臣"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Cygames",
+      "native": "株式会社Cygames"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Rina Tayama",
+      "native": "田山里奈"
+     }
+    }
+   },
+   {
+    "role": "Sound Production Manager",
+    "node": {
+     "name": {
+      "full": "Chiyo Kagiyama",
+      "native": "鑰山千代"
+     }
+    }
+   },
+   {
+    "role": "Sound Production Manager",
+    "node": {
+     "name": {
+      "full": "Yuuki Yamada",
+      "native": "山田悠貴"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Takayuki Yamaguchi",
+      "native": "山口貴之"
+     }
+    }
+   },
+   {
+    "role": "Director (OP)",
+    "node": {
+     "name": {
+      "full": "Ryuu Nakayama",
+      "native": "中山竜"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 3-5, 7-13)",
+    "node": {
+     "name": {
+      "full": "Hideyuki Kataoka",
+      "native": "片岡英之"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Monica Everett",
+      "native": "モニカ・エヴァレット"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saya Aizawa",
+       "native": "会沢紗弥"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Felix Ridill",
+      "native": "フェリクス・アーク・リディル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Sakata",
+       "native": "坂田将吾"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

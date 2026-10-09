@@ -1,0 +1,311 @@
+{
+ "id": 176642,
+ "title": {
+  "romaji": "Ameku Takao no Suiri Karte",
+  "english": "Ameku M.D.: Doctor Detective",
+  "native": "天久鷹央の推理カルテ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 3
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "project No.9"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Mikito Chinen",
+      "native": "知念実希人"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Noizi Itou",
+      "native": "いとうのいぢ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuya Iwata",
+      "native": "岩田和也"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Satoshi Sugisawa",
+      "native": "杉澤悟"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuka Takashina",
+      "native": "高品有桂"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Tsutomu Miyazawa",
+      "native": "宮澤努"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Ryou Hirata",
+      "native": "ヒラタリョウ"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Mikio",
+      "native": "みき尾"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hiyori Denforword Akishino",
+      "native": "秋篠Denforword日和"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Seo-Gu Lee",
+      "native": "이서구"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mika Yokoi",
+      "native": "横井未加"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takashi Ooide",
+      "native": "大出高士"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Chinami Watanabe",
+      "native": "渡邉千波"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Toshirou Hamamura",
+      "native": "濱村敏郎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Toshiya Wada",
+      "native": "和田俊也"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "fox capture plan",
+      "native": "フォックス・キャプチャー・プラン"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Satoshi Sugisawa",
+      "native": "杉澤悟"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Aimer",
+      "native": "エメ "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "The Gospellers",
+      "native": "ゴスペラーズ"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP)",
+    "node": {
+     "name": {
+      "full": "Sadamomo",
+      "native": "さだもも"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Sadamomo",
+      "native": "さだもも"
+     }
+    }
+   },
+   {
+    "role": "Special Effects (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Ryouhei Matsuda",
+      "native": "松田陵平"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jeremy Inman",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Takao Ameku",
+      "native": "天久鷹央"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayane Sakura",
+       "native": "佐倉綾音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuu Takanashi",
+      "native": "小鳥遊優"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenshou Ono",
+       "native": "小野賢章"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mai Kounoike",
+      "native": "鴻ノ池舞"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manaka Iwami",
+       "native": "石見舞菜香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

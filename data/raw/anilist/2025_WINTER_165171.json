@@ -1,0 +1,295 @@
+{
+ "id": 165171,
+ "title": {
+  "romaji": "Medalist",
+  "english": "Medalist",
+  "native": "メダリスト"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 30
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "ENGI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Ikada Tsuruma",
+      "native": "つるまいかだ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yasutaka Yamamoto",
+      "native": "山本靖貴"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Jukki Hanada",
+      "native": "花田十輝"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Chinatsu Kameyama",
+      "native": "亀山千夏"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Tomoyo Sawada",
+      "native": "澤田知世"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kumiko Yoshikawa",
+      "native": "吉川久美子"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Soujirou Arimizu",
+      "native": "有水宗治郎"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Masami Kiyohara",
+      "native": "清原誠巳"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Takuya Nakayama",
+      "native": "中山卓也"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Shuuzou Kasahara",
+      "native": "笠原周造"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Noriko Ishizawa",
+      "native": "石澤紀子"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Yukiko Shirakura",
+      "native": "白倉由紀子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Youko Nakao",
+      "native": "中尾陽子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Takashi Hiruma",
+      "native": "比留間崇"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Rie Onodera",
+      "native": "小野寺里恵"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Yamagami",
+      "native": "山上愛子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shinichi Yoneya",
+      "native": "米屋真一"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Tomoki Nagasaka",
+      "native": "長坂智樹"
+     }
+    }
+   },
+   {
+    "role": "CG Producer",
+    "node": {
+     "name": {
+      "full": "Satoshi Iijima",
+      "native": "飯島哲"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kouji",
+      "native": "こうじ"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuichi Imaizumi",
+      "native": "今泉雄一"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kenji Koyama",
+      "native": "小山健二"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Chieko Mizutori",
+      "native": "水鳥智栄子"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Kouki Kanbe",
+      "native": "神戸幸輝"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Inori Yuitsuka",
+      "native": "結束いのり"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Haruse",
+       "native": "春瀬なつみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tsukasa Akeuraji",
+      "native": "明浦路司"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeo Ootsuka",
+       "native": "大塚剛央"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

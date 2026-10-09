@@ -1,0 +1,311 @@
+{
+ "id": 181841,
+ "title": {
+  "romaji": "CITY THE ANIMATION",
+  "english": "CITY THE ANIMATION",
+  "native": "CITY THE ANIMATION"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 29
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 27,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Kyoto Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Keiichi Arawi",
+      "native": "あらゐけいいち"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Toshihiro Miura",
+      "native": "三浦敏宏"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Satoru Hirotani",
+      "native": "廣谷聡"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Taichi Ishidate",
+      "native": "石立太一"
+     }
+    }
+   },
+   {
+    "role": "Literary Arts",
+    "node": {
+     "name": {
+      "full": "Ayano Satou",
+      "native": "佐藤綾乃"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tamami Tokuyama",
+      "native": "徳山珠美"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Rena Okada",
+      "native": "岡田玲奈"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shiori Yamasaki",
+      "native": "山崎詩央里"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kana Miyata",
+      "native": "宮田佳奈"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hiroki Ueda",
+      "native": "植田弘貴"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tadahiro Eino",
+      "native": "営野祥大"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kengo Shigemura",
+      "native": "重村建吾"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tatsuki Kase",
+      "native": "加瀬達規"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Youta Tsuruoka",
+      "native": "鶴岡陽太"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hidemitsu Tanaka",
+      "native": "田中秀実"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Piranhans",
+      "native": "ピラニアンズ"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Shinichi Nakamura",
+      "native": "中村伸一"
+     }
+    }
+   },
+   {
+    "role": "Music Production Assistance",
+    "node": {
+     "name": {
+      "full": "Akihiro Higuchi",
+      "native": "樋口明弘"
+     }
+    }
+   },
+   {
+    "role": "Music Production Assistance",
+    "node": {
+     "name": {
+      "full": "Osamu Hayama",
+      "native": "羽山治"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Tamami Tokuyama",
+      "native": "徳山珠美"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Shigenobu Satou",
+      "native": "佐藤茂薫"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Yasushi Miwa",
+      "native": "三輪靖史"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Hiroki Fukuoka",
+      "native": "福岡弘起"
+     }
+    }
+   },
+   {
+    "role": "Production",
+    "node": {
+     "name": {
+      "full": "Youko Hatta",
+      "native": "八田陽子"
+     }
+    }
+   },
+   {
+    "role": "Production",
+    "node": {
+     "name": {
+      "full": "Naotoshi Tsunoda",
+      "native": "角田真敏"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Wako Izumi",
+      "native": "泉わこ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yui Ishikawa",
+       "native": "石川由依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Niikura",
+      "native": "新倉"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aki Toyosaki",
+       "native": "豊崎愛生"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Midori Nagumo",
+      "native": "南雲美鳥"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mikako Komatsu",
+       "native": "小松未可子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

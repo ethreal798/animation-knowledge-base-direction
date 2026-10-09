@@ -1,0 +1,304 @@
+{
+ "id": 179828,
+ "title": {
+  "romaji": "Kakkou no Iinazuke Season 2",
+  "english": "A Couple of Cuckoos Season 2",
+  "native": "カッコウの許嫁 Season2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 23
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Okuruto Noboru"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Miki Yoshikawa",
+      "native": "吉河美希"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masakazu Hishida",
+      "native": "菱田正和"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masakazu Hishida",
+      "native": "菱田正和"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kyouko Kon",
+      "native": "近響子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ryuuta Hayashi",
+      "native": "林竜太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miho Hasegawa",
+      "native": "長谷川美穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hoshino Kainuma",
+      "native": "貝沼星乃"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyomi Yamada",
+      "native": "山田聖実"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Noriyoshi Konuma",
+      "native": "小沼則義"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Rei Ishizuka",
+      "native": "石塚玲依"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "22/7",
+      "native": "ナナブンノニジュウニ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "asmi",
+      "native": "あすみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "asmi",
+      "native": "あすみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "asmi",
+      "native": "あすみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Yasushi Akimoto",
+      "native": "秋元康"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Taro Ishida",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Fábio Campos",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Azumi Botsu",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (German)",
+    "node": {
+     "name": {
+      "full": "Annika Ernst",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (German)",
+    "node": {
+     "name": {
+      "full": "Kristina Frick",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hiro Segawa",
+      "native": "瀬川ひろ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nao Touyama",
+       "native": "東山奈央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sachi Umino",
+      "native": "海野幸"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Kohara",
+       "native": "小原好美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Erika Amano",
+      "native": "天野エリカ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akari Kitou",
+       "native": "鬼頭明里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nagi Umino",
+      "native": "海野凪"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaito Ishikawa",
+       "native": "石川界人"
+      }
+     },
+     {
+      "name": {
+       "full": "Aino Shimada",
+       "native": "島田愛野"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ai Mochizuki",
+      "native": "望月あい"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hina Youmiya",
+       "native": "羊宮妃那"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,359 @@
+{
+ "id": 173780,
+ "title": {
+  "romaji": "Tate no Yuusha no Nariagari Season 4",
+  "english": "The Rising of the Shield Hero Season 4",
+  "native": "盾の勇者の成り上がり Season 4"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 24
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Kinema Citrus"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Aneko Yusagi",
+      "native": "アネコユサギ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Seira Minami",
+      "native": "弥南せいら"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hitoshi Haga",
+      "native": "垪和等"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Takanori Yamamoto",
+      "native": "山本貴則"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keigo Koyanagi",
+      "native": "小柳啓伍"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Franziska  van Wulfen",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sana Komatsu",
+      "native": "小松沙奈"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masahiro Suwa",
+      "native": "諏訪真弘"
+     }
+    }
+   },
+   {
+    "role": "Layout Design",
+    "node": {
+     "name": {
+      "full": "Shinichirou Miyazaki",
+      "native": "宮﨑真一朗"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Junichi Higashi",
+      "native": "東潤一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Azusa Sasaki",
+      "native": "佐々木梓"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Miho Ikeda",
+      "native": "池田未歩"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Hitomi Sudou",
+      "native": "須藤瞳"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Honami Yamagishi",
+      "native": "山岸歩奈実"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Koshida",
+      "native": "越田祐史"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumiyuki Gou",
+      "native": "郷文裕貴"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Shouta Yaso",
+      "native": "八十正太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kevin Penkin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Alfredo Sirica",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Natalie Jeffreys",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Chiai Fujikawa",
+      "native": "藤川千愛"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "MADKID",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Photography Supervisor",
+    "node": {
+     "name": {
+      "full": "Tsunetaka Ema",
+      "native": "江間常高"
+     }
+    }
+   },
+   {
+    "role": "2D Art",
+    "node": {
+     "name": {
+      "full": "hydekick",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Hironori Tanaka",
+      "native": "田中宏紀"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Naofumi Iwatani",
+      "native": "岩谷尚文"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaito Ishikawa",
+       "native": "石川界人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Raphtalia",
+      "native": "ラフタリア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Asami Seto",
+       "native": "瀬戸麻沙美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Filo",
+      "native": "フィーロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rina Hidaka",
+       "native": "日高里菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Atla",
+      "native": "アトラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Kohara",
+       "native": "小原好美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sadeena",
+      "native": "サディナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ami Koshimizu",
+       "native": "小清水亜美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Fohl ",
+      "native": "フォウル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouhei Amasaki",
+       "native": "天崎滉平"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

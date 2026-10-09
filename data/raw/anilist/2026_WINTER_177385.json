@@ -1,0 +1,295 @@
+{
+ "id": 177385,
+ "title": {
+  "romaji": "Ikoku Nikki",
+  "english": "Journal with Witch",
+  "native": "違国日記"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Shuka"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tomoko Yamashita",
+      "native": "ヤマシタトモコ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Miyuki Ooshiro",
+      "native": "大城美幸"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kouhei Kiyasu",
+      "native": "喜安浩平"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kenji Hayama",
+      "native": "羽山賢二"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kensuke Ushio",
+      "native": "牛尾憲輔"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kouhei Kiyasu",
+      "native": "喜安浩平"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Oomori",
+      "native": "大森貴弘"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kazuhiko Seki",
+      "native": "関一彦"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (OP, ep 13)",
+    "node": {
+     "name": {
+      "full": "Kenji Hayama",
+      "native": "羽山賢二"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kenji Hayama",
+      "native": "羽山賢二"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Toshie Kawamura",
+      "native": "川村敏江"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miho Tanaka",
+      "native": "田中美穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Satoshi Namiki",
+      "native": "並木智"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Miyako Kano",
+      "native": "狩野都"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yumi Satou",
+      "native": "佐藤由美"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 6, 12, 13)",
+    "node": {
+     "name": {
+      "full": "Haruka Itou",
+      "native": "伊藤春香"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Riki Oouchi",
+      "native": "大内力"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 6, 13)",
+    "node": {
+     "name": {
+      "full": "Mayumi Kitamura",
+      "native": "北村まゆ美"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 13)",
+    "node": {
+     "name": {
+      "full": "Kahoko Koseki",
+      "native": "古関果歩子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Eriko Takahashi",
+      "native": "高橋依里子"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 3, 4, 11, 13)",
+    "node": {
+     "name": {
+      "full": "Saki Yawata",
+      "native": "八幡紗季"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 5, 10, 12)",
+    "node": {
+     "name": {
+      "full": "Saki Yawata",
+      "native": "八幡紗季"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Kaede Aizawa",
+      "native": "相澤楓"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 3, 4, 11)",
+    "node": {
+     "name": {
+      "full": "Wanyu Xie",
+      "native": "謝婉玉"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 11, 13)",
+    "node": {
+     "name": {
+      "full": "Manaka Nitta",
+      "native": "新田茉那桂"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Makio Koudai",
+      "native": "高代槙生"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyuki Sawashiro",
+       "native": "沢城みゆき"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Asa Takumi",
+      "native": "田汲朝"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fuuko Mori",
+       "native": "森風子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

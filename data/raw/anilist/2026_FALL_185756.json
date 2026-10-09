@@ -1,0 +1,253 @@
+{
+ "id": 185756,
+ "title": {
+  "romaji": "Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season",
+  "english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 3",
+  "native": "転生貴族、鑑定スキルで成り上がる 第3期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 27
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "GeyeG Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Miraijin A",
+      "native": "未来人A"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "jimmy",
+      "native": "jimmy"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takao Kato",
+      "native": "加戸誉夫"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Daisuke Oohigashi",
+      "native": "大東大介"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Yahiro",
+      "native": "八尋裕子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kujira Yumemi",
+      "native": "夢見クジラ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Rico Sasaki",
+      "native": "佐々木李子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Akuruyo no Hitsuji",
+      "native": "明くる夜の羊"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Tomohiro Ookubo",
+      "native": "大久保友裕"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Atsuhito Satou",
+      "native": "佐藤厚仁"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Skipjack",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Skipjack",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Yui Kawano",
+      "native": "カワノユイ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Akuruyo no Hitsuji",
+      "native": "明くる夜の羊"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Akuruyo no Hitsuji",
+      "native": "明くる夜の羊"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ars Louvent",
+      "native": "アルス・ローベント"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Fujiwara",
+       "native": "藤原夏海"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Charlotte Wraith",
+      "native": "シャーロット・レイス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Narumi Kaho",
+       "native": "佳穂成美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rosell Kischa",
+      "native": "ロセル・キーシャ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miho Okasaki",
+       "native": "岡咲美保"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rietz Muses",
+      "native": "リーツ・ミューセス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taito Ban",
+       "native": "坂泰斗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lycia Plaid",
+      "native": "リシア・プレイド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

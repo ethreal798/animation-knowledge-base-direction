@@ -1,0 +1,311 @@
+{
+ "id": 207254,
+ "title": {
+  "romaji": "Thunder 3",
+  "english": "Thunder 3",
+  "native": "サンダー３"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 8,
+  "day": 1
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "UNEND"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hiroya Oku",
+      "native": "奥浩哉"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Naoyuki Onda",
+      "native": "恩田尚之"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Seshita",
+      "native": "瀬下寛之"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Keisuke Ide",
+      "native": "井手恵介"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Ryuunari",
+      "native": "リュウナリ"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Shin Sugai",
+      "native": "菅井進"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroshi Seko",
+      "native": "瀬古浩司"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Takehiko Hoashi",
+      "native": "帆足タケヒコ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Kamei",
+      "native": "亀井勇介"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Keigo Nakamura",
+      "native": "中村圭吾"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mitsunori Kataama",
+      "native": "片塰満則"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Yamaguchi",
+      "native": "山口貴之"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akiyuki Tateyama",
+      "native": "立山秋航"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Frédéric Chateau",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Production Design",
+    "node": {
+     "name": {
+      "full": "Naoya Tanaka",
+      "native": "田中直哉"
+     }
+    }
+   },
+   {
+    "role": "Production Design",
+    "node": {
+     "name": {
+      "full": "Ferdinand Paturi",
+      "native": "フェルディナンド・パトゥリ"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hiroshi Seko",
+      "native": "瀬古浩司"
+     }
+    }
+   },
+   {
+    "role": "Animation Director",
+    "node": {
+     "name": {
+      "full": "Kouji",
+      "native": "こうじ"
+     }
+    }
+   },
+   {
+    "role": "CG Modeling Director",
+    "node": {
+     "name": {
+      "full": "Mitsunori Kataama",
+      "native": "片塰満則"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yuuri",
+      "native": "優里"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "otoha",
+      "native": "音羽"
+     }
+    }
+   },
+   {
+    "role": "Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Moriyama",
+      "native": "森山佑樹"
+     }
+    }
+   },
+   {
+    "role": "Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Junko Yamanaka",
+      "native": "山中純子"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Letícia Quinto",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Marvin Silva",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Pyontarou",
+      "native": "ぴょんたろう"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tsubame",
+      "native": "つばめ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Kawaida",
+       "native": "川井田夏海"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hiroshi",
+      "native": "ひろし"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Eri Akiyama",
+       "native": "秋山絵理"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

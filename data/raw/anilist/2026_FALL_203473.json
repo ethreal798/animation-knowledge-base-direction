@@ -1,0 +1,144 @@
+{
+ "id": 203473,
+ "title": {
+  "romaji": "Kyoufu Collector",
+  "english": "HORROR COLLECTOR",
+  "native": "恐怖コレクター"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 10
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Palette"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Yuki Inaba",
+      "native": "稲葉友紀"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuki Inaba",
+      "native": "稲葉友紀"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kaori Yoshikawa",
+      "native": "吉川佳織"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Tetsuya Gunji",
+      "native": "郡司哲也"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masato Kouda",
+      "native": "甲田雅人"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Norio Tsuruta",
+      "native": "鶴田法男"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Midori Satou",
+      "native": "佐東みどり"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yon",
+      "native": "よん"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Shikao Suga",
+      "native": "シカオ スガ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Shikao Suga",
+      "native": "シカオ スガ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Fushigi Senno",
+      "native": "千野フシギ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiiro Ishibashi",
+       "native": "石橋陽彩"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

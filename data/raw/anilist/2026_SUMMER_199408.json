@@ -1,0 +1,135 @@
+{
+ "id": 199408,
+ "title": {
+  "romaji": "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
+  "english": "A Livid Lady’s Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
+  "native": "ブチ切れ令嬢は報復を誓いました。　～魔導書の力で祖国を叩き潰します～"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Comet"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Metabo Hagure",
+      "native": "はぐれメタボ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Masami",
+      "native": "昌未"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Naoyuki Kuzuya",
+      "native": "葛谷直行"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Hirota",
+      "native": "広田光毅"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sayaka Anezaki",
+      "native": "姉崎早也花"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Satoshi Houno",
+      "native": "宝野聡史"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kaori Nakano",
+      "native": "中野香梨"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yui Ogura",
+      "native": "小倉唯"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Aguri Onishi",
+      "native": "大西亜玖璃"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Elizabeth Leiston",
+      "native": "エリザベート・レイストン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Oonishi",
+       "native": "大西沙織"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

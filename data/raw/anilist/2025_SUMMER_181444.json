@@ -1,0 +1,295 @@
+{
+ "id": 181444,
+ "title": {
+  "romaji": "Kaoru Hana wa Rin to Saku",
+  "english": "The Fragrant Flower Blooms With Dignity",
+  "native": "薫る花は凛と咲く"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 28
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CloverWorks"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Saka Mikami",
+      "native": "三香見サカ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Miyuki Kuroki",
+      "native": "黒木美幸"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Yamaguchi",
+      "native": "山口智"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Rino Yamasaki",
+      "native": "山崎莉乃"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kouhei Tokuoka",
+      "native": "徳岡紘平"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Manami Umeshita",
+      "native": "梅下麻奈未"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Yoshida",
+      "native": "吉田優子"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Manami Umeshita",
+      "native": "梅下麻奈未"
+     }
+    }
+   },
+   {
+    "role": "Cake Design",
+    "node": {
+     "name": {
+      "full": "Yasuho Tamura",
+      "native": "田村恭穂"
+     }
+    }
+   },
+   {
+    "role": "Chief Episode Director",
+    "node": {
+     "name": {
+      "full": "Haruka Tsuzuki",
+      "native": "都築遥"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Asuka Kouki",
+      "native": "幸喜あすか"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Shiozawa",
+      "native": "塩澤良憲"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Asuka Yokota",
+      "native": "横田明日香"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yukiko Nagase",
+      "native": "長瀬由起子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Keita Watanabe",
+      "native": "渡邉啓太"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Nii",
+      "native": "新居和弘"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Moeki Harada",
+      "native": "原田萌喜"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Toshikazu Tsuji",
+      "native": "辻俊一"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Hirota Shitakawachi ",
+      "native": "下河内広太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Tatsuya Kitani",
+      "native": "キタニタツヤ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Reira Ushio",
+      "native": "汐れいら"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1, 2, 4-7, 10, 12, 13)",
+    "node": {
+     "name": {
+      "full": "Rino Yamasaki",
+      "native": "山崎莉乃"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 3, 8, 9, 11)",
+    "node": {
+     "name": {
+      "full": "Honoka Katou",
+      "native": "加藤穂乃伽"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Satoshi Yamaguchi",
+      "native": "山口智"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kaoruko Waguri",
+      "native": "和栗薫子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Honoka Inoue",
+       "native": "井上ほの花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rintarou Tsumugi",
+      "native": "紬凛太郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshinori Nakayama",
+       "native": "中山祥徳"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

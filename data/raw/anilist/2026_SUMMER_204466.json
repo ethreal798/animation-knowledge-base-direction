@@ -1,0 +1,327 @@
+{
+ "id": 204466,
+ "title": {
+  "romaji": "Otome Kaijuu Caraméliser",
+  "english": "KAIJU GIRL CARAMELISE",
+  "native": "乙女怪獣キャラメリゼ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 18
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Spica Aoki",
+      "native": "蒼木スピカ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Teruyuki Oomine",
+      "native": "大峰輝之"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuniko Ayana",
+      "native": "綾奈ゆにこ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mitomi Nakayama ",
+      "native": "中山見都美"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Nana Koinuma",
+      "native": "鯉沼菜奈"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Soushi Kuwajima",
+      "native": "桒嶋壮志"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mineyo Oonishi",
+      "native": "大西峰代"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuka Nishizaki",
+      "native": "西﨑由佳"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mai Hasegawa",
+      "native": "長谷川舞"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Masaaki Susowake",
+      "native": "裾分雅明"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Daiki Yamaki",
+      "native": "八巻大樹"
+     }
+    }
+   },
+   {
+    "role": "2D Design",
+    "node": {
+     "name": {
+      "full": "Makoto Yoshigaki",
+      "native": "吉垣誠"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "HaKoniwalily",
+      "native": "ハコニワリリィ"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Taiga",
+      "native": "大河広行"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Caitlin Glass",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script Supervisor (English)",
+    "node": {
+     "name": {
+      "full": "Ben Phillips",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Ben Phillips",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Erick Bougleux",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Spanish)",
+    "node": {
+     "name": {
+      "full": "Daniel Lacy",
+      "native": "Daniel Muñoz Lacy"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Domonique French",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Matt Grounds",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Hiromi Uemura",
+      "native": "上村広美"
+     }
+    }
+   },
+   {
+    "role": "ADR Script Prep (English)",
+    "node": {
+     "name": {
+      "full": "Derric Benavides",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kuroe Akaishi",
+      "native": "赤石黒絵"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hikari Senga",
+       "native": "千賀光莉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Manatsu Tomosato",
+      "native": "友里真夏"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akira Sekine",
+       "native": "関根明良"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Arata Minami",
+      "native": "南新汰"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daishi Kajita",
+       "native": "梶田大嗣"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Raimu Kouno",
+      "native": "河野来夢"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

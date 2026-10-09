@@ -1,0 +1,247 @@
+{
+ "id": 182578,
+ "title": {
+  "romaji": "Yozakura-san Chi no Daisakusen 2nd Season",
+  "english": "Mission: Yozakura Family Season 2",
+  "native": "夜桜さんちの大作戦 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 28
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SILVER LINK."
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hitsuji Gondaira",
+      "native": "権平ひつじ"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Mirai Minato",
+      "native": "湊未來"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Nakatsugawa",
+      "native": "中津川孝広"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mirai Minato",
+      "native": "湊未來"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mizuki Takahashi",
+      "native": "高橋瑞紀"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hidenori Nakahara",
+      "native": "中原英統"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Manami Yamaguchi",
+      "native": "山口真奈美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Atsushi Satou",
+      "native": "佐藤敦"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuuji Kondou",
+      "native": "近藤勇二"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Youhei Hirata",
+      "native": "平田洋平"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Tooru Kanegae",
+      "native": "鐘江徹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kouji Fujimoto",
+      "native": "藤本コウジ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Tony Oliver",
+      "native": "Rafael Antonio Olivier"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Wirley Contaifer",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Marisa Leal",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Marvin Silva",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Akhil Chauhan",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Sakurazaka46",
+      "native": "櫻坂46"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Pilaf Seijin",
+      "native": "ピラフ星人"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Taiyou Asano",
+      "native": "朝野太陽"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reiji Kawashima",
+       "native": "川島零士"
+      }
+     },
+     {
+      "name": {
+       "full": "Hana Satou",
+       "native": "佐藤はな"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mutsumi Yozakura",
+      "native": "夜桜六美"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaede Hondo",
+       "native": "本渡楓"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

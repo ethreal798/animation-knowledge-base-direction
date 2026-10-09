@@ -1,0 +1,273 @@
+{
+ "id": 196356,
+ "title": {
+  "romaji": "Ibitte Konai Gibo to Gishi",
+  "english": "My Stepmother and Stepsisters Aren’t Wicked",
+  "native": "いびってこない義母と義姉"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 26
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "NEWON"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Otsuji",
+      "native": "おつじ"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Keisuke Inoue",
+      "native": "井上圭介"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Nanami Hoshino",
+      "native": "星野七海"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mutsumi Sasaki",
+      "native": "佐々木睦美"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Mutsumi Sasaki",
+      "native": "佐々木睦美"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuri Miyoshi",
+      "native": "三好裕理"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hidenori Nakahara",
+      "native": "中原英統"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Eri Shigetomi",
+      "native": "重冨英里"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuko Shintani",
+      "native": "新谷優子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuuji Kondou",
+      "native": "近藤勇二"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Toshiki Kameyama",
+      "native": "亀山俊樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Rina Tayama",
+      "native": "田山里奈"
+     }
+    }
+   },
+   {
+    "role": "3DCG",
+    "node": {
+     "name": {
+      "full": "Yuuki Kuribayashi",
+      "native": "栗林裕紀"
+     }
+    }
+   },
+   {
+    "role": "3DCG",
+    "node": {
+     "name": {
+      "full": "Keiichi Eda",
+      "native": "江田恵一"
+     }
+    }
+   },
+   {
+    "role": "3DCG",
+    "node": {
+     "name": {
+      "full": "Shun Tsuchida",
+      "native": "土田駿"
+     }
+    }
+   },
+   {
+    "role": "2DCG Design",
+    "node": {
+     "name": {
+      "full": "Susumu Kashiwabara",
+      "native": "柏原進"
+     }
+    }
+   },
+   {
+    "role": "2DCG Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Shintani",
+      "native": "新谷優子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Lia",
+      "native": "リア"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "AVAM",
+      "native": "AVAM"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Miya Kounokura",
+      "native": "鴻蔵美冶"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hina Suzuki",
+       "native": "鈴木日菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Marika Kounokura",
+      "native": "鴻蔵まりか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuu Serizawa",
+       "native": "芹澤優"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Arisa Kounokura",
+      "native": "鴻蔵ありさ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuka Nukui",
+       "native": "貫井柚佳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Teru Kounokura",
+      "native": "鴻蔵てる"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kujira",
+       "native": "くじら"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

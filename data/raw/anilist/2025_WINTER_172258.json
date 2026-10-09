@@ -1,0 +1,455 @@
+{
+ "id": 172258,
+ "title": {
+  "romaji": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-nin no Kanojo 2nd Season",
+  "english": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2",
+  "native": "君のことが大大大大大好きな100人の彼女 第2期"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 30
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bibury Animation Studios"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Rikito Nakamura",
+      "native": "中村力斗"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Nozawa",
+      "native": "野澤ゆき子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hikaru Satou",
+      "native": "佐藤光"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takashi Aoshima",
+      "native": "あおしまたかし"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akane Yano",
+      "native": "矢野茜"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Tsumugi Maeda",
+      "native": "前田紬希"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Mika Nishiyama",
+      "native": "西山実果"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Tsumugi Maeda",
+      "native": "前田紬希"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Mika Nishiyama",
+      "native": "西山実果"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Akihito Ougiyama",
+      "native": "扇山秋仁"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Matsuyama",
+      "native": "松山愛子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Naomi Shima",
+      "native": "島直美"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mutsumi Takemiya",
+      "native": "武宮むつみ"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masanori Tsuchiya",
+      "native": "土屋雅紀"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Katsuhiro Nakajima",
+      "native": "中島勝大"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shuuhei Mutsuki",
+      "native": "睦月周平"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shunsuke Takizawa",
+      "native": "滝澤俊輔"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1-3)",
+    "node": {
+     "name": {
+      "full": "Akane Yano",
+      "native": "矢野茜"
+     }
+    }
+   },
+   {
+    "role": "Music Arrangement",
+    "node": {
+     "name": {
+      "full": "eba",
+      "native": "eba"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomoya Asami",
+      "native": "朝見知弥"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Mina Asami",
+      "native": "朝見美菜"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Takashi Aoshima",
+      "native": "あおしまたかし"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Suzuko Mimori",
+      "native": "三森すずこ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Asami Seto",
+      "native": "瀬戸麻沙美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Sumire Uesaka",
+      "native": "上坂すみれ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Rentarou Aijou",
+      "native": "愛城恋太郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Wataru Katou",
+       "native": "加藤渉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hakari Hanazono",
+      "native": "花園羽香里"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaede Hondo",
+       "native": "本渡楓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Karane Inda",
+      "native": "院田唐音"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyu Tomita",
+       "native": "富田美憂"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shizuka Yoshimoto",
+      "native": "好本静"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maria Naganawa",
+       "native": "長縄まりあ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nano Eiai",
+      "native": "栄逢凪乃"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Asami Seto",
+       "native": "瀬戸麻沙美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kusuri Yakuzen",
+      "native": "薬膳楠莉"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayaka Asai",
+       "native": "朝井彩加"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hahari Hanazono",
+      "native": "花園羽々里"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sumire Uesaka",
+       "native": "上坂すみれ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kurumi Haraga",
+      "native": "原賀胡桃"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Amane Shindou",
+       "native": "進藤あまね"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mei Meido",
+      "native": "銘戸芽衣"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Suzuko Mimori",
+       "native": "三森すずこ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Iku Sutou",
+      "native": "須藤育"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Takahashi",
+       "native": "高橋李依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mimimi Utsukushisugi",
+      "native": "美杉美々美"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Lynn",
+       "native": null
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Meme Kakure",
+      "native": "華暮愛々"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kanon Takao",
+       "native": "高尾奏音"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

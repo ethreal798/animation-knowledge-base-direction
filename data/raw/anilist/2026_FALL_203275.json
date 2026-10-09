@@ -1,0 +1,300 @@
+{
+ "id": 203275,
+ "title": {
+  "romaji": "Demons' Crest",
+  "english": "Devils' Crest",
+  "native": "デモンズ・クレスト"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 11,
+  "day": 6
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Production I.G"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Reki Kawahara",
+      "native": "川原礫"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Horiguchi",
+      "native": "堀口悠紀子 "
+     }
+    }
+   },
+   {
+    "role": "Original Illustration",
+    "node": {
+     "name": {
+      "full": "Yukiko Horiguchi",
+      "native": "堀口悠紀子 "
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Shinji Ushiro",
+      "native": "後信治"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kenichirou Komaya",
+      "native": "駒屋健一郎"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Eiji Umehara",
+      "native": "梅原英司"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Horiguchi",
+      "native": "堀口悠紀子 "
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Naoyuki Chikatani",
+      "native": "近谷直之"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kazuchika Kise",
+      "native": "黄瀬和哉"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Kimura",
+      "native": "木村祥明"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Chiaki Kitabayashi",
+      "native": "北林千明"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Naoki Itai",
+      "native": "板井直樹"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Shuuji Kawakami",
+      "native": "川上修司"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Motohito Nasu",
+      "native": "那須基仁"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ado",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Keiichi Saitou",
+      "native": "齊藤慶一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Yurry Canon",
+      "native": "ユリイ・カノン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Yurry Canon",
+      "native": "ユリイ・カノン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Yurry Canon",
+      "native": "ユリイ・カノン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Soala",
+      "native": "ソアラ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sawa Ashihara",
+      "native": "芦原佐羽"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Inagaki",
+       "native": "稲垣好"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Minagi Sano",
+      "native": "茶野水凪"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satomi Amano",
+       "native": "天野聡美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kenji Kondo",
+      "native": "近堂健児"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuya Hirose",
+       "native": "広瀬裕也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuuma Ashihara",
+      "native": "芦原佑馬"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

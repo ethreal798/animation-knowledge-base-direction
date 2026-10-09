@@ -1,0 +1,217 @@
+{
+ "id": 187941,
+ "title": {
+  "romaji": "Tensei Shitara Dragon no Tamago Datta: Saikyou Igai Mezasa Nee",
+  "english": "Reincarnated as a Dragon Hatchling",
+  "native": "転生したらドラゴンの卵だった～最強以外目指さねぇ～"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "GA-CREW"
+   },
+   {
+    "name": "Felix Film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Nekoko",
+      "native": "猫子"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Naji Yanagita",
+      "native": "NAJI柳田"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Yuuta Takamura",
+      "native": "高村雄太"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Nobuyoshi Arai",
+      "native": "新井宣圭"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tatsuhiko Urahata",
+      "native": "浦畑達彦"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masahito Onoda",
+      "native": "小野田将人"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kou Ootani",
+      "native": "大谷幸"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Hiroyasu Oda",
+      "native": "小田裕康"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Tsuyoshi Takahashi",
+      "native": "高橋剛"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Sizuk",
+      "native": "Sizuk"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "TAO",
+      "native": "導凰"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "SAK",
+      "native": "朔雀"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Parshwa Nathwani",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 5)",
+    "node": {
+     "name": {
+      "full": "Jagriti Raj",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Jagriti Raj",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Jagriti Raj",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Myria Milleania",
+      "native": "ミリア・ミレアニア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miku Itou",
+       "native": "伊藤美来"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Irushia",
+      "native": "イルシア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunichi Toki",
+       "native": "土岐隼一"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,259 @@
+{
+ "id": 186161,
+ "title": {
+  "romaji": "Kimi to Koete Koi ni Naru",
+  "english": "With You, Our Love Will Make It Through",
+  "native": "キミと越えて恋になる"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 14
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 30
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Millepensee"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Chihiro Yuzuki",
+      "native": "柚樹ちひろ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shin Itagaki",
+      "native": "板垣伸"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiromi Kimura",
+      "native": "木村博美"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shin Itagaki",
+      "native": "板垣伸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Kimura",
+      "native": "木村博美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masakazu Miyake",
+      "native": "三宅昌和"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miyuki Kowata",
+      "native": "木幡美雪"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Arimasa Oomi",
+      "native": "大見有正"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Haruka Nunokawa",
+      "native": "布川遥香"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shin Itagaki",
+      "native": "板垣伸"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akiyoshi Yasuda",
+      "native": "安田明祐"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Shin Itagaki",
+      "native": "板垣伸"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "CHiCO",
+      "native": "CHiCO"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yoh Kamiyama",
+      "native": "神山羊"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Lucas Almeida",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Lucas Almeida",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Advertising",
+    "node": {
+     "name": {
+      "full": "Takuya Igarashi",
+      "native": "五十嵐拓嵩"
+     }
+    }
+   },
+   {
+    "role": "Overseas License",
+    "node": {
+     "name": {
+      "full": "Akane Uchibori",
+      "native": "内堀茜"
+     }
+    }
+   },
+   {
+    "role": "Layout Animation Director (ep 9)",
+    "node": {
+     "name": {
+      "full": "Yami",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Mari Asaka",
+      "native": "朝霞万理"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manaka Iwami",
+       "native": "石見舞菜香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tsunagu Hidaka",
+      "native": "飛高繋"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuya Eguchi",
+       "native": "江口拓也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

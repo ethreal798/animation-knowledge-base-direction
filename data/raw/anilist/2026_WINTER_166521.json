@@ -1,0 +1,311 @@
+{
+ "id": 166521,
+ "title": {
+  "romaji": "Golden Kamuy: Saishuushou",
+  "english": "Golden Kamuy Final Season",
+  "native": "ゴールデンカムイ 最終章"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 30
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Brain's Base"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Storyboard (eps 1-6)",
+    "node": {
+     "name": {
+      "full": "Keiji Gotou",
+      "native": "後藤圭二"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Noboru Takagi",
+      "native": "高木登"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 9-13)",
+    "node": {
+     "name": {
+      "full": "Kazuhiko Shibuya",
+      "native": "渋谷一彦"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 12)",
+    "node": {
+     "name": {
+      "full": "Kazuhiko Shibuya",
+      "native": "渋谷一彦"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 10, 12)",
+    "node": {
+     "name": {
+      "full": "Kazuhiko Shibuya",
+      "native": "渋谷一彦"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 7-11)",
+    "node": {
+     "name": {
+      "full": "Masaharu Okuwaki",
+      "native": "奥脇雅晴"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukihiro Shibutani",
+      "native": "渋谷幸弘"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP, eps 1-13)",
+    "node": {
+     "name": {
+      "full": "Takashi Hashimoto",
+      "native": "橋本敬史"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Shizutaka Sugahara",
+      "native": "菅原静貴"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1-8, 10-13)",
+    "node": {
+     "name": {
+      "full": "Shizutaka Sugahara",
+      "native": "菅原静貴"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Satoru Noda",
+      "native": "野田サトル"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP)",
+    "node": {
+     "name": {
+      "full": "Satoru Noda",
+      "native": "野田サトル"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED)",
+    "node": {
+     "name": {
+      "full": "Satoru Noda",
+      "native": "野田サトル"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 13)",
+    "node": {
+     "name": {
+      "full": "Risako Yoshida",
+      "native": "吉田りさこ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Molly Searcy",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Nobutaka Yoda",
+      "native": "依田伸隆"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Alex Mai",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 9)",
+    "node": {
+     "name": {
+      "full": "Hiroshi Ishiodori",
+      "native": "石踊宏"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ALI",
+      "native": "ALI"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Ryou Tanaka",
+      "native": "田中良"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP, ED, eps 1-13)",
+    "node": {
+     "name": {
+      "full": "Ryou Tanaka",
+      "native": "田中良"
+     }
+    }
+   },
+   {
+    "role": "Choreography Director (ED)",
+    "node": {
+     "name": {
+      "full": "Getz",
+      "native": "ゲッツ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mao Miyake",
+      "native": "三宅真央"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Neal Malley",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yoshitake Shiraishi",
+      "native": "白石由竹"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kentarou Itou",
+       "native": "伊藤健太郎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Asirpa",
+      "native": "アシㇼパ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Saichi Sugimoto",
+      "native": "杉元佐一"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chikahiro Kobayashi",
+       "native": "小林親弘"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

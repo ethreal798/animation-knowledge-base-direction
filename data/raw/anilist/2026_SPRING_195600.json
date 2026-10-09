@@ -1,0 +1,301 @@
+{
+ "id": 195600,
+ "title": {
+  "romaji": "Yomi no Tsugai",
+  "english": "Daemons of the Shadow Realm",
+  "native": "黄泉のツガイ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 19
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "bones film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hiromu Arakawa",
+      "native": "荒川弘"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Andou",
+      "native": "安藤真裕"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Noboru Takagi",
+      "native": "高木登"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Nobuhiro Arai",
+      "native": "新井伸浩"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Tsuyoshi Kusano",
+      "native": "草野剛"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Tatsurou Oonishi",
+      "native": "大西達朗"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Nariyuki Ogi",
+      "native": "小木斉之"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shuuhei Tada",
+      "native": "多田周平"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yukari Gotou",
+      "native": "後藤ゆかり"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yingying Zhang",
+      "native": "張盈穎"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayumu Takahashi",
+      "native": "高橋歩"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Mizuki Sasaki",
+      "native": "佐々木瑞生"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Wakabayashi",
+      "native": "若林和弘"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kosuke Ogata",
+      "native": "緒方康恭"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kenichirou Suehiro",
+      "native": "末廣健一郎"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Keiki Nishida",
+      "native": "西田圭稀"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Masaharu Yamanouchi",
+      "native": "山内真治"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Aoi Tanaka",
+      "native": "田中碧"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Nobuhiro Arai",
+      "native": "新井伸浩"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Masahiko Minami",
+      "native": "南雅彦"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Atsuhiro Iwakami",
+      "native": "岩上敦宏"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Katsuyoshi Matsuura",
+      "native": "松浦克義"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Shouta Samejima",
+      "native": "鮫島正太"
+     }
+    }
+   },
+   {
+    "role": "Executive Producer",
+    "node": {
+     "name": {
+      "full": "Masanori Miyake",
+      "native": "三宅将典"
+     }
+    }
+   },
+   {
+    "role": "Executive Producer",
+    "node": {
+     "name": {
+      "full": "Ryuuji Abe",
+      "native": "阿部隆二"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Asa",
+      "native": "アサ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yume Miyamoto",
+       "native": "宮本侑芽"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuru",
+      "native": "ユル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenshou Ono",
+       "native": "小野賢章"
+      }
+     },
+     {
+      "name": {
+       "full": "Kaede Hondo",
+       "native": "本渡楓"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

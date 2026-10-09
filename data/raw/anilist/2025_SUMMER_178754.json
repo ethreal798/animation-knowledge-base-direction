@@ -1,0 +1,311 @@
+{
+ "id": 178754,
+ "title": {
+  "romaji": "Kaijuu 8-gou 2nd Season",
+  "english": "Kaiju No. 8 Season 2",
+  "native": "怪獣８号 第２期"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 19
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 11,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Production I.G"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Naoya Matsumoto",
+      "native": "松本直也"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shigeyuki Miya",
+      "native": "宮繁之"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuuichirou Kido",
+      "native": "木戸雄一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tetsuya Nishio",
+      "native": "西尾鉄也"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yuuichirou Kido",
+      "native": "木戸雄一郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Tetsuya Nishio",
+      "native": "西尾鉄也"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shinji Kimura",
+      "native": "木村真二"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shinji Kimura",
+      "native": "木村真二"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Mahiro Maeda",
+      "native": "前田真宏"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumiyuki Gou",
+      "native": "郷文裕貴"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Aya Hida",
+      "native": "肥田文"
+     }
+    }
+   },
+   {
+    "role": "Assistant Art Director",
+    "node": {
+     "name": {
+      "full": "Takanori Tanaka",
+      "native": "田中孝典"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Izumi Hirose",
+      "native": "広瀬いづみ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Eiji Arai",
+      "native": "荒井栄児"
+     }
+    }
+   },
+   {
+    "role": "Photography Manager",
+    "node": {
+     "name": {
+      "full": "Fumio Furukawa",
+      "native": "古川文男"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Erick Bougleux",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Masafumi Oohira",
+      "native": "大平将史"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuta Bandou",
+      "native": "坂東祐大"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shun Arakaki",
+      "native": "新垣隼"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Megumi Baba",
+      "native": "馬場惠"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Moe Iizuka",
+      "native": "飯塚萌"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 7)",
+    "node": {
+     "name": {
+      "full": "Enrico Nobili",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Jun Satou",
+      "native": "佐藤淳"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 7)",
+    "node": {
+     "name": {
+      "full": "João Moura",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kousuke Kobayashi",
+      "native": "小林孝輔"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kafka Hibino",
+      "native": "日比野カフカ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Masaya Fukunishi",
+       "native": "福西勝也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Reno Ichikawa",
+      "native": "市川レノ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Wataru Katou",
+       "native": "加藤渉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kikoru Shinomiya",
+      "native": "四ノ宮キコル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

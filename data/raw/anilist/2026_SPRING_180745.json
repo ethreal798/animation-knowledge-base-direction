@@ -1,0 +1,343 @@
+{
+ "id": 180745,
+ "title": {
+  "romaji": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season 2-nensei-hen Ichi Gakki",
+  "english": "Classroom of the Elite 4th Season: Second Year, First Semester",
+  "native": "ようこそ実力至上主義の教室へ 4th Season 2年生編1学期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 1
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 16,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lerche"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Shougo Kinugasa",
+      "native": "衣笠彰梧"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Shunsaku Tomose",
+      "native": "トモセシュンサク"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Noriyuki Nomata",
+      "native": "野亦則行"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kou Shigenobu",
+      "native": "重信康"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Maki Kouno",
+      "native": "河野真貴"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hirofune Hane",
+      "native": "羽根広舟"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Satoru Hirayanagi",
+      "native": "平柳悟"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mio Takegawa",
+      "native": "竹川美緒"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Misato Sekiya",
+      "native": "関谷美里"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yukie Oikawa",
+      "native": "及川雪江"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tomohiro Hirayama",
+      "native": "平山知広"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoki Iida",
+      "native": "飯田里樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Ijou Okuda",
+      "native": "奥田維城"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masaru Yokoyama",
+      "native": "横山克"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kana Hashiguchi",
+      "native": "橋口佳奈"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kou Shigenobu",
+      "native": "重信康"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kyouko Katsuya",
+      "native": "勝冶京子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED: ep 16)",
+    "node": {
+     "name": {
+      "full": "Eir Aoi",
+      "native": "藍井エイル"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "ZAQ",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP, ED: ep 16)",
+    "node": {
+     "name": {
+      "full": "Eir Aoi",
+      "native": "藍井エイル"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP, ED: ep 16)",
+    "node": {
+     "name": {
+      "full": "GAK",
+      "native": "GAK"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP, ED: ep 16)",
+    "node": {
+     "name": {
+      "full": "GAK",
+      "native": "GAK"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "ZAQ",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "ZAQ",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "ZAQ",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kiyotaka Ayanokouji",
+      "native": "綾小路清隆"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Suzune Horikita",
+      "native": "堀北鈴音"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akari Kitou",
+       "native": "鬼頭明里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kazuomi Housen",
+      "native": "宝泉和臣"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroya Egashira",
+       "native": "江頭宏哉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ichika Amasawa",
+      "native": "天沢一夏"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Momoko Seto",
+       "native": "瀬戸桃子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tsubasa Nanase",
+      "native": "七瀬翼"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minako Satou",
+       "native": "佐藤未奈子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

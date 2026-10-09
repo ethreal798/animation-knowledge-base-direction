@@ -1,0 +1,327 @@
+{
+ "id": 183128,
+ "title": {
+  "romaji": "Muchuu sa, Kimi ni.",
+  "english": "Captivated, By You",
+  "native": "夢中さ、きみに。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 8,
+  "day": 21
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 18
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 5,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Doga Kobo"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yama Wayama",
+      "native": "和山やま"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Asami Nakatani",
+      "native": "中谷亜沙美"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Tsukahara",
+      "native": "塚原佑希子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoshimi Narita",
+      "native": "成田良美"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mai Matsuura",
+      "native": "松浦麻衣"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Junichirou Taniguchi",
+      "native": "谷口淳一郎"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Yukino Nakamata",
+      "native": "中俣由貴乃"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Karen Nozawa",
+      "native": "野澤かれん"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuka Hirama",
+      "native": "平間由香"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Narumi Matsuura",
+      "native": "松浦成美"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Mayuko Koyama",
+      "native": "小山真由子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Erina Ishihara",
+      "native": "石原江莉奈"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuka Itou",
+      "native": "伊藤裕香"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takafumi Kuwano",
+      "native": "桒野貴文"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mai Hasegawa",
+      "native": "長谷川舞"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Eriko Kimura",
+      "native": "木村絵理子"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Shouta Yaso",
+      "native": "八十正太"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Takurou Iga",
+      "native": "伊賀拓郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Junichirou Taniguchi",
+      "native": "谷口淳一郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Rina Morita",
+      "native": "森田莉奈"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Haruka Inade",
+      "native": "稲手遥香"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Keina Suda",
+      "native": "須田景凪"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Daiki Yamashita",
+      "native": "山下大輝"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Tasuku Hatanaka",
+      "native": "畠中祐"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Etsuko Yamamoto",
+      "native": "山本悦子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Miyoshi Hayashi",
+      "native": "林美良"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenshou Ono",
+       "native": "小野賢章"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jouji Ema",
+      "native": "江間譲二"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouki Uchiyama",
+       "native": "内山昂輝"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuichi Medaka",
+      "native": "目高優一"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Ono",
+       "native": "小野友樹"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akira Nikaidou",
+      "native": "二階堂明"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nobuhiko Okamoto",
+       "native": "岡本信彦"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

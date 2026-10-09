@@ -1,0 +1,323 @@
+{
+ "id": 183274,
+ "title": {
+  "romaji": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+  "english": "I'm the Evil Lord of an Intergalactic Empire!",
+  "native": "俺は星間国家の悪徳領主!"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 22
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Quad"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Yomu Mishima",
+      "native": "三嶋与夢"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Nadare Takamine",
+      "native": "高峰ナダレ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tetsuya Yanagisawa",
+      "native": "柳沢哲也 "
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Katsuhiko Takayama",
+      "native": "高山カツヒコ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kazuya Morimae",
+      "native": "森前和也"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Tsukasa Kotobuki",
+      "native": "ことぶきつかさ"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Moriki",
+      "native": "森木靖泰"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Rihiro Yamane",
+      "native": "山根理宏"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Kazuma Akagi",
+      "native": "赤樹壱磨"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Takuji Jizoumoto",
+      "native": "地蔵本拓嗣"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Makoto Shiraishi",
+      "native": "白石誠"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hitomi Ikeda",
+      "native": "池田ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hideki Imaizumi",
+      "native": "今泉秀樹"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Junichi Masunaga",
+      "native": "増永純一"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tetsuya Watanabe",
+      "native": "渡辺哲也"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Kawada",
+      "native": "川田清貴"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuusuke Ceo",
+      "native": "瀬尾祐介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shun Narita",
+      "native": "成田旬"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Katsuhiko Takayama",
+      "native": "高山カツヒコ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Keita Hagio",
+      "native": "萩尾圭太"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kazuya Morimae",
+      "native": "森前和也"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Ayako Karatani",
+      "native": "柄谷綾子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Masahiko Suzuki",
+      "native": "鈴木政彦"
+     }
+    }
+   },
+   {
+    "role": "Key Animation",
+    "node": {
+     "name": {
+      "full": "Tooru Yoshida",
+      "native": "吉田徹"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Liam Banfield",
+      "native": "リアム・セラ・バンフィールド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsuki Hanae",
+       "native": "花江夏樹"
+      }
+     },
+     {
+      "name": {
+       "full": "Kaori Maeda",
+       "native": "前田佳織里"
+      }
+     },
+     {
+      "name": {
+       "full": "Toshiya Miyata",
+       "native": "宮田俊哉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Amagi",
+      "native": "天城"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reina Ueda",
+       "native": "上田麗奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Annaibito",
+      "native": "案内人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takehito Koyasu",
+       "native": "子安武人"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

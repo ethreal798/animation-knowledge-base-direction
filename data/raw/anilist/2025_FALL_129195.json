@@ -1,0 +1,311 @@
+{
+ "id": 129195,
+ "title": {
+  "romaji": "Tomodachi no Imouto ga Ore ni dake Uzai",
+  "english": "My Friend's Little Sister Has It In for Me!",
+  "native": "友達の妹が俺にだけウザい"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 21
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "BLADE"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Ghost Mikawa",
+      "native": "三河ごーすと"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Tomari",
+      "native": "トマリ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuomi Koga",
+      "native": "古賀一臣"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Katsuyuki Satou",
+      "native": "佐藤勝行"
+     }
+    }
+   },
+   {
+    "role": "Visual Director",
+    "node": {
+     "name": {
+      "full": "Kazunori Ozawa",
+      "native": "小澤和則"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hisae Arimoto",
+      "native": "有本妃査恵"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Erina Ishihara",
+      "native": "石原江莉奈"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mika Funabashi",
+      "native": "舩橋美香"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Atsushi Kanou",
+      "native": "加納篤"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Akio Hayashi",
+      "native": "林昭夫"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumiyuki Gou",
+      "native": "郷文裕貴"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hanae Nakamura",
+      "native": "中村巴奈重"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kanade Sakuma",
+      "native": "佐久間奏"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tsugumi Tanaka",
+      "native": "田中津久美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kaho Sawada",
+      "native": "澤田佳歩"
+     }
+    }
+   },
+   {
+    "role": "Offline Editing",
+    "node": {
+     "name": {
+      "full": "Nobutaka Maki",
+      "native": "牧信公"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Shirou Tamaki",
+      "native": "玉城史郎"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Hiroaki Kawaguchi",
+      "native": "川口弘明"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yasunori Yamaguchi",
+      "native": "山口保則"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yuri Namigami",
+      "native": "浪上悠里"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Nouji",
+      "native": "能地清"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Masami Nagata",
+      "native": "永田正美"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Fumio Fukushima",
+      "native": "福島史士"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Misaho Kobayashi",
+      "native": "小林操穂"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Iroha Kohinata",
+      "native": "小日向彩羽"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akiteru Ooboshi",
+      "native": "大星明照"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruki Ishiya",
+       "native": "石谷春貴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mashiro Tsukinomori",
+      "native": "月ノ森真白"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomori Kusunoki",
+       "native": "楠木ともり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

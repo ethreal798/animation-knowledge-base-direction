@@ -1,0 +1,223 @@
+{
+ "id": 201090,
+ "title": {
+  "romaji": "Ghost Concert: missing Songs",
+  "english": "GHOST CONCERT : missing Songs",
+  "native": "ゴーストコンサート: missing Songs"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 21
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "ENGI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Masato Jinbou",
+      "native": "神保昌登"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masato Jinbou",
+      "native": "神保昌登"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masaaki Uikawa",
+      "native": "宇井川真明"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Atsushi Satomi",
+      "native": "里見篤"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Matsuyama",
+      "native": "松山愛子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masanori Tsuchiya",
+      "native": "土屋雅紀"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Rei Ueno",
+      "native": "上野励"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Junpei Fujita",
+      "native": "藤田淳平"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Seima Kondou",
+      "native": "近藤世真"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Daisuke Horikawa",
+      "native": "堀川大翼"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Elements Garden",
+      "native": "エレメンツ ガーデン "
+     }
+    }
+   },
+   {
+    "role": "Background Art",
+    "node": {
+     "name": {
+      "full": "Takeyuki Takahashi",
+      "native": "高橋武之"
+     }
+    }
+   },
+   {
+    "role": "Offline Editing",
+    "node": {
+     "name": {
+      "full": "Yuuji Kondou",
+      "native": "近藤勇二"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Minako Kotobuki",
+      "native": "寿美菜子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Minori Fujidera",
+      "native": "藤寺美徳"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Tetsuya Kusama",
+      "native": "草間徹也"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Seria Aiba",
+      "native": "相葉芹亜"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minori Fujidera",
+       "native": "藤寺美徳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Cleopatra",
+      "native": "クレオパトラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rina Hidaka",
+       "native": "日高里菜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "id": 172192,
+ "title": {
+  "romaji": "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
+  "english": "A Returner's Magic Should be Special Season 2",
+  "native": "帰還者の魔法は特別です 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 8
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Arvo Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Usonan",
+      "native": "유소난"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Wookjakga",
+      "native": "욱작가"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Taishi Kawaguchi",
+      "native": "川口太詩"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takamitsu Kouno",
+      "native": "鴻野貴光"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Katou",
+      "native": "加藤裕美"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Chris Cason",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jeremy Inman",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "FLOW",
+      "native": "フロウ"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Takamitsu Kouno",
+      "native": "鴻野貴光"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "ADR Script Supervisor (English)",
+    "node": {
+     "name": {
+      "full": "Jarrod Greene",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Gou Sadamatsu",
+      "native": "定松剛"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Matsuyama",
+      "native": "松山愛子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hideki Imaizumi",
+      "native": "今泉秀樹"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Daisuke Negishi",
+      "native": "根岸大輔"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Neal Malley",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kenta Higashiooji",
+      "native": "東大路憲太"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tetsuo Imaizumi",
+      "native": "今泉徹夫"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Fujimoto",
+      "native": "藤本智"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shoutarou Hashiguchi",
+      "native": "橋口翔太郎"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Taiga Saitou",
+      "native": "齋藤太河"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Gaku Mukai",
+      "native": "向井岳"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "krage",
+      "native": "krage"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Desir Herrman",
+      "native": "데지르 아르망"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuma Terashima",
+       "native": "寺島拓篤"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

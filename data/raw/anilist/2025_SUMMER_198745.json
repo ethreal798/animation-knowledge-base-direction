@@ -1,0 +1,282 @@
+{
+ "id": 198745,
+ "title": {
+  "romaji": "Shuukan Ranobe Anime",
+  "english": null,
+  "native": "週刊ラノベアニメ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 13
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 28
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Ziine Studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story (Shoushin Time Leap)",
+    "node": {
+     "name": {
+      "full": "Nigojuu",
+      "native": "二語十"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design (Shoushin Time Leap)",
+    "node": {
+     "name": {
+      "full": "tanu",
+      "native": "tanu"
+     }
+    }
+   },
+   {
+    "role": "Director (Shoushin Time Leap)",
+    "node": {
+     "name": {
+      "full": "Tomoyasu Murata",
+      "native": "村田朋泰"
+     }
+    }
+   },
+   {
+    "role": "Sound Director (Shoushin Time Leap)",
+    "node": {
+     "name": {
+      "full": "Fumihiko Ootera",
+      "native": "大寺文彦"
+     }
+    }
+   },
+   {
+    "role": "Script Cooperation (Shoushin Time Leap)",
+    "node": {
+     "name": {
+      "full": "Fumiaki Maruto",
+      "native": "丸戸史明"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (Shoushin Time Leap)",
+    "node": {
+     "name": {
+      "full": "Misaki Umase",
+      "native": "馬瀬みさき"
+     }
+    }
+   },
+   {
+    "role": "Literature Assistance (Shoushin Time Leap)",
+    "node": {
+     "name": {
+      "full": "Takeshi Hagiwara",
+      "native": "萩原猛"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design (Marie Antoinette)",
+    "node": {
+     "name": {
+      "full": "Takuya Fujima",
+      "native": "藤真拓哉"
+     }
+    }
+   },
+   {
+    "role": "Script (Femme Fatale Ikusei Keikaku)",
+    "node": {
+     "name": {
+      "full": "Ougyo Kawashigi",
+      "native": "川岸殴魚"
+     }
+    }
+   },
+   {
+    "role": "Original Story (Jack the Reaper)",
+    "node": {
+     "name": {
+      "full": "Tappei Nagatsuki",
+      "native": "長月達平"
+     }
+    }
+   },
+   {
+    "role": "Original Story (Femme Fatale Ikusei Keikaku)",
+    "node": {
+     "name": {
+      "full": "Natsu Hyuuga",
+      "native": "日向夏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition (Femme Fatale Ikusei Keikaku)",
+    "node": {
+     "name": {
+      "full": "Natsu Hyuuga",
+      "native": "日向夏"
+     }
+    }
+   },
+   {
+    "role": "Script (Jack the Reaper)",
+    "node": {
+     "name": {
+      "full": "Usagi Usaki",
+      "native": "羽咲うさぎ"
+     }
+    }
+   },
+   {
+    "role": "Series Composition (Jack the Reaper)",
+    "node": {
+     "name": {
+      "full": "Usagi Usaki",
+      "native": "羽咲うさぎ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design (Jack the Reaper)",
+    "node": {
+     "name": {
+      "full": "Minori Chigusa",
+      "native": "千種みのり"
+     }
+    }
+   },
+   {
+    "role": "Series Composition (Marie Antoinette)",
+    "node": {
+     "name": {
+      "full": "Shouko Amano",
+      "native": "天野頌子"
+     }
+    }
+   },
+   {
+    "role": "Original Story (Marie Antoinette)",
+    "node": {
+     "name": {
+      "full": "Shouko Amano",
+      "native": "天野頌子"
+     }
+    }
+   },
+   {
+    "role": "Script (Marie Antoinette)",
+    "node": {
+     "name": {
+      "full": "Shouko Amano",
+      "native": "天野頌子"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design (Femme Fatale Ikusei Keikaku)",
+    "node": {
+     "name": {
+      "full": "Kamoku Okeno",
+      "native": "桶乃かもく"
+     }
+    }
+   },
+   {
+    "role": "Director (Jack the Reaper)",
+    "node": {
+     "name": {
+      "full": "Daisuke Nakano",
+      "native": "中野大亮"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Miri Wakana",
+      "native": null
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoyo Takayanagi",
+       "native": "高柳知葉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hiroki Adagawa",
+      "native": null
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Yamashita",
+       "native": "山下大輝"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gokuro Tokishiro",
+      "native": null
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaito Ishikawa",
+       "native": "石川界人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Marie Antoinette",
+      "native": "アントワネット"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

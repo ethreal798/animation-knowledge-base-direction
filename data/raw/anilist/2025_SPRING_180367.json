@@ -1,0 +1,401 @@
+{
+ "id": 180367,
+ "title": {
+  "romaji": "Witch Watch",
+  "english": "WITCH WATCH",
+  "native": "ウィッチウォッチ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 25,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bibury Animation Studios"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kenta Shinohara",
+      "native": "篠原健太"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Ikehata",
+      "native": "池畠博史"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Masao  Kawase",
+      "native": "川瀬まさお"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Mieno",
+      "native": "三重野瞳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Haruko Iizuka",
+      "native": "飯塚晴子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuki Sawa",
+      "native": "沢友貴"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kaishuu Sugimura",
+      "native": "杉村价秋"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuiha Oota",
+      "native": "太田ゆいは"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hisashi Yonezawa",
+      "native": "米澤寿"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mutsumi Takemiya",
+      "native": "武宮むつみ"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumiyuki Gou",
+      "native": "郷文裕貴"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukari Hashimoto",
+      "native": "橋本由香利"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "YOASOBI",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Vocal Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "Lilas Ikuta",
+      "native": "幾田りら"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP1)",
+    "node": {
+     "name": {
+      "full": "Ayase",
+      "native": "あやせ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP1)",
+    "node": {
+     "name": {
+      "full": "Ayase",
+      "native": "あやせ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP1)",
+    "node": {
+     "name": {
+      "full": "Ayase",
+      "native": "あやせ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Aooo",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED1)",
+    "node": {
+     "name": {
+      "full": "Surii",
+      "native": "すりぃ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED1)",
+    "node": {
+     "name": {
+      "full": "Surii",
+      "native": "すりぃ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Hashimero",
+      "native": "はしメロ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP2)",
+    "node": {
+     "name": {
+      "full": "Hashimero",
+      "native": "はしメロ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP2)",
+    "node": {
+     "name": {
+      "full": "HYNOME",
+      "native": "ハイノミ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP2)",
+    "node": {
+     "name": {
+      "full": "Hashimero",
+      "native": "はしメロ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "yutori",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Morihito Otogi",
+      "native": "乙木守仁"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Suzuki",
+       "native": "鈴木崚汰"
+      }
+     },
+     {
+      "name": {
+       "full": "Natsumi Fujiwara",
+       "native": "藤原夏海"
+      }
+     },
+     {
+      "name": {
+       "full": "Asami Seto",
+       "native": "瀬戸麻沙美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nico Wakatsuki",
+      "native": "若月ニコ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rina Kawaguchi",
+       "native": "川口莉奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kanshi Kazamatsuri",
+      "native": "風祭監志"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouhei Amasaki",
+       "native": "天崎滉平"
+      }
+     },
+     {
+      "name": {
+       "full": "Yui Tsukada ",
+       "native": "塚田悠衣"
+      }
+     },
+     {
+      "name": {
+       "full": "Naomi Oozora",
+       "native": "大空直美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nemu Miyao",
+      "native": "宮尾音夢"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomori Kusunoki",
+       "native": "楠木ともり"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Keigo Magami",
+      "native": "真神圭護"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaito Ishikawa",
+       "native": "石川界人"
+      }
+     },
+     {
+      "name": {
+       "full": "Aya Yamane",
+       "native": "山根綺"
+      }
+     },
+     {
+      "name": {
+       "full": "Aoi Yuuki",
+       "native": "悠木碧"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Miharu Kiryuu",
+      "native": "霧生見晴"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Wakai",
+       "native": "若井友希"
+      }
+     },
+     {
+      "name": {
+       "full": "Manaka Iwami",
+       "native": "石見舞菜香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

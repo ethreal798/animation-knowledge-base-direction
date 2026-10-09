@@ -1,0 +1,295 @@
+{
+ "id": 182060,
+ "title": {
+  "romaji": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+  "english": "The Gorilla God’s Go-To Girl",
+  "native": "ゴリラの神から加護された令嬢は王立騎士団で可愛がられる"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 22
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Kachigarasu"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Shirohi",
+      "native": "シロヒ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mika Kamisu",
+      "native": "神栖みか"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Fumitoshi Oizaki",
+      "native": "追崎史敏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Amamiya",
+      "native": "雨宮ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sakae Shibuya",
+      "native": "渋谷秀"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yayoi Tateishi",
+      "native": "立石弥生"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Seima Iwahashi",
+      "native": "岩橋星実"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hitomi Amamiya",
+      "native": "雨宮ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Megumi Ogata",
+      "native": "緒方恵美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Shuugo Nakamura",
+      "native": "仲村宗悟"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Shuugo Nakamura",
+      "native": "仲村宗悟"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Shuugo Nakamura",
+      "native": "仲村宗悟"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Caitlin Glass",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Akira Kano",
+      "native": "加野晃"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Ben Phillips",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Yachi",
+      "native": "谷地清隆"
+     }
+    }
+   },
+   {
+    "role": "Executive Producer",
+    "node": {
+     "name": {
+      "full": "Shou Tanaka",
+      "native": "田中翔"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Takeshi Kikuchi",
+      "native": "菊池剛"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Daijou Kudou",
+      "native": "工藤大丈"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Victor Acosta",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixing (English)",
+    "node": {
+     "name": {
+      "full": "William Dewell",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 2, 4, 5)",
+    "node": {
+     "name": {
+      "full": "Jae-Seon Heo",
+      "native": "허재선"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naoko Kodama",
+      "native": "児玉尚子"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Lucas Almeida",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sophia Reeler",
+      "native": "ソフィア・リーラー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kanna Nakamura",
+       "native": "中村カンナ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Louis Scarrel",
+      "native": "ルイ・スカーレル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeo Ootsuka",
+       "native": "大塚剛央"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

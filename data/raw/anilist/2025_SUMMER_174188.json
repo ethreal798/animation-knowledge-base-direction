@@ -1,0 +1,349 @@
+{
+ "id": 174188,
+ "title": {
+  "romaji": "Nukitashi THE ANIMATION",
+  "english": "Nukitashi THE ANIMATION",
+  "native": "ぬきたし THE ANIMATION"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 19
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 11,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Passione"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Qruppo",
+      "native": "Qruppo"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Nobuyoshi Nagayama",
+      "native": "長山延好"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Daiki Takemoto",
+      "native": "武本大樹"
+     }
+    }
+   },
+   {
+    "role": "Supervisor",
+    "node": {
+     "name": {
+      "full": "Hamedori-kun",
+      "native": "ハメドリくん"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Matsuguma",
+      "native": "松隈勇樹"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Takaaki Izumo",
+      "native": "出雲誉明"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuma Yokomatsu",
+      "native": "横松雄馬"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Makoto Uno",
+      "native": "うのまこと"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Taiga",
+      "native": "大河広行"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Matsuguma",
+      "native": "松隈勇樹"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Suzume Shima",
+      "native": "島すずめ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Takaya Kobayashi",
+      "native": "小林嵩弥"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yoshiko Iyo",
+      "native": "伊予実美子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tetsuya Shima",
+      "native": "嶋哲哉"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hisayoshi Hirasawa",
+      "native": "ひらさわひさよし"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kenji Koyama",
+      "native": "小山健二"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takeshi Iwasaki",
+      "native": "岩嵜壮志"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Umigame",
+      "native": "ウミガメ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ebi Curry Hakushaku",
+      "native": "えびかれー伯爵"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Sasa Ikeki",
+      "native": "池木紗々"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kashiko",
+      "native": "かしこ"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Marina Chabata",
+      "native": "茶畑満里奈"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Toshifumi Tsuzuki",
+      "native": "都築寿文"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Junnosuke Tachibana",
+      "native": "橘淳之介"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouhei Yanagi",
+       "native": "柳晃平"
+      }
+     },
+     {
+      "name": {
+       "full": "Arisa Nakada",
+       "native": "仲田ありさ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Asane Tachibana",
+      "native": "橘麻沙音"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ako Koaki",
+       "native": "小秋あこ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hinami Watarai",
+      "native": "渡会ヒナミ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minori Ozawa",
+       "native": "小澤みのり"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nanase Katagiri",
+      "native": "片桐奈々瀬"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shizuka Ishigami",
+       "native": "石上静香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Misaki Hotori",
+      "native": "畔美岬"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Okamoto",
+       "native": "岡本理絵"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

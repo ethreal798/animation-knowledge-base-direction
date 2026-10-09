@@ -1,0 +1,615 @@
+{
+ "id": 170916,
+ "title": {
+  "romaji": "Mahoutsukai no Yakusoku",
+  "english": "Promise of Wizard",
+  "native": "魔法使いの約束"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 24
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "coly",
+      "native": "coly"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Bunta Tsushimi",
+      "native": "都志見文太"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Dangmill",
+      "native": "ダンミル"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Naoyuki Tatsuwa",
+      "native": "龍輪直征"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Nanami Higuchi",
+      "native": "樋口七海"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Nozomi Nagatomo",
+      "native": "長友望己"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Minami Kasuga",
+      "native": "春日美波"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akira Hashigami",
+      "native": "橋上彰"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yasushi Yamakoshi",
+      "native": "山越康司"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mai Hasegawa",
+      "native": "長谷川舞"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryou Tanaka",
+      "native": "田中亮 "
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shuuji Katayama",
+      "native": "片山修志"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Nanami Higuchi",
+      "native": "樋口七海"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Nozomi Nagatomo",
+      "native": "長友望己"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 4)",
+    "node": {
+     "name": {
+      "full": "Shinobu Yoshioka",
+      "native": "吉岡忍"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1-2)",
+    "node": {
+     "name": {
+      "full": "Naoyuki Tatsuwa",
+      "native": "龍輪直征"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Naoyuki Tatsuwa",
+      "native": "龍輪直征"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 3, 6)",
+    "node": {
+     "name": {
+      "full": "Takashi Kawabata",
+      "native": "川畑喬"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 4, 9)",
+    "node": {
+     "name": {
+      "full": "Shunji Yoshida",
+      "native": "吉田俊司"
+     }
+    }
+   },
+   {
+    "role": "Background Art (eps 8, 10-12)",
+    "node": {
+     "name": {
+      "full": "Ayu Kawamoto",
+      "native": "川本亜夕"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Chisato Kawaguchi",
+      "native": "川口千里"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Mili",
+      "native": "ミリー"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 7)",
+    "node": {
+     "name": {
+      "full": "Kaori Higuchi",
+      "native": "樋口香里"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 10)",
+    "node": {
+     "name": {
+      "full": "Masayuki Iimura",
+      "native": "飯村正之"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 6)",
+    "node": {
+     "name": {
+      "full": "Tetsuaki Matsuda",
+      "native": "松田哲明"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Figaro",
+      "native": "フィガロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiyuki Morikawa",
+       "native": "森川智之"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Bradley",
+      "native": "ブラッドリー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satoshi Hino",
+       "native": "日野聡"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mithra",
+      "native": "ミスラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroki Takahashi",
+       "native": "高橋広樹"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Arthur",
+      "native": "アーサー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsushi Tamaru",
+       "native": "田丸篤志"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rutile",
+      "native": "ルチル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunichi Toki",
+       "native": "土岐隼一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Owen",
+      "native": "オーエン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shintarou Asanuma",
+       "native": "浅沼晋太郎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shylock",
+      "native": "シャイロック"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shinnosuke Tachibana",
+       "native": "立花慎之介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Cain",
+      "native": "カイン・ナイトレイ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daichi Kanbara",
+       "native": "神原大地"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Oz",
+      "native": "オズ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takashi Kondou",
+       "native": "近藤隆"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Faust",
+      "native": "ファウスト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kento Itou",
+       "native": "伊東健人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Riquet",
+      "native": "リケ・オルティス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Nagano",
+       "native": "永野由祐"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Murr Hart",
+      "native": "ムル・ハート"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mizuki Nakamura",
+       "native": "仲村水希"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rustica",
+      "native": "ラスティカ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Katsuyuki Miura",
+       "native": "三浦勝之"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Snow",
+      "native": "スノウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chihiro Suzuki",
+       "native": "鈴木千尋"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mitile",
+      "native": "ミチル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayumu Murase",
+       "native": "村瀬歩"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "White",
+      "native": "ホワイト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuma Terashima",
+       "native": "寺島拓篤"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chloe",
+      "native": "クロエ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouhei Amasaki",
+       "native": "天崎滉平"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nero",
+      "native": "ネロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Noriaki Sugiyama",
+       "native": "杉山紀彰"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lennox",
+      "native": "レノックス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuichi Hose",
+       "native": "帆世雄一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Heathcliff",
+      "native": "ヒースクリフ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Keisuke Koumoto",
+       "native": "河本啓佑"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shino",
+      "native": "シノ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nobuhiko Okamoto",
+       "native": "岡本信彦"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akira Masaki",
+      "native": "真木晶"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumiri Hanamori",
+       "native": "花守ゆみり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,301 @@
+{
+ "id": 198946,
+ "title": {
+  "romaji": "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+  "english": "Clevatess Season 2",
+  "native": "クレバテスⅡ-魔獣の王と偽りの勇者伝承-"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 30
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lay-duce"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuuji Iwahara",
+      "native": "岩原裕二"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Taguchi",
+      "native": "田口清隆"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keigo Koyanagi",
+      "native": "小柳啓伍"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Souichirou Sako",
+      "native": "佐古宗一郎"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Natsuko Kondou",
+      "native": "近藤奈都子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Atsushi Morikawa",
+      "native": "森川篤"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Reiko Iwasawa",
+      "native": "岩沢れい子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shigeki Asakawa",
+      "native": "浅川茂輝"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Gou Sadamatsu",
+      "native": "定松剛"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Naoki Tsuji",
+      "native": "辻直希"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Taguchi",
+      "native": "田口清隆"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yuuji Furuya",
+      "native": "古谷友二"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Nobuaki Nobusawa",
+      "native": "信澤宣明"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Seiichirou Kuriyama",
+      "native": "栗山政一郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Souichirou Sako",
+      "native": "佐古宗一郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Natsuko Kondou",
+      "native": "近藤奈都子"
+     }
+    }
+   },
+   {
+    "role": "Animation Director",
+    "node": {
+     "name": {
+      "full": "Takurou Tsukada",
+      "native": "塚田拓郎"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Tetsuya Satake",
+      "native": "佐竹徹也"
+     }
+    }
+   },
+   {
+    "role": "Chief In-Between Check",
+    "node": {
+     "name": {
+      "full": "Ikue Yoshima",
+      "native": "余島郁枝"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Justin Cook",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jad Saxton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Talent Coordination (English)",
+    "node": {
+     "name": {
+      "full": "Tara Williams",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineering Manager (English)",
+    "node": {
+     "name": {
+      "full": "Gino Palencia",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "MYTH & ROID",
+      "native": "ミスアンドロイド "
+     }
+    }
+   },
+   {
+    "role": "ADR Script Supervisor (English)",
+    "node": {
+     "name": {
+      "full": "Ben Phillips",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Alicia",
+      "native": "アリシア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Clen",
+      "native": "クレン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mutsumi Tamura",
+       "native": "田村睦心"
+      }
+     },
+     {
+      "name": {
+       "full": "Yuuichi Nakamura",
+       "native": "中村悠一"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

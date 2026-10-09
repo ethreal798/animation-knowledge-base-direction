@@ -1,0 +1,295 @@
+{
+ "id": 184951,
+ "title": {
+  "romaji": "Seihantai na Kimi to Boku",
+  "english": "You and I Are Polar Opposites",
+  "native": "正反対な君と僕"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lapin Track"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Koucha Agasawa",
+      "native": "阿賀沢紅茶"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takayoshi Nagatomo",
+      "native": "長友孝和"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Teruko Utsumi",
+      "native": "内海照子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mako Miyako",
+      "native": "みやこまこ"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Naho Kozono",
+      "native": "小園菜穂"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Naho Kozono",
+      "native": "小園菜穂"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Sayuri Sakimoto",
+      "native": "崎本さゆり"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Chieko Nakamura",
+      "native": "中村千恵子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Shiokawa",
+      "native": "塩川智幸"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuki Akimoto",
+      "native": "秋元由紀 "
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Teruko Utsumi",
+      "native": "内海照子"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Andrew Tipps",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masayuki Kurosawa",
+      "native": "黒澤雅之"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 3)",
+    "node": {
+     "name": {
+      "full": "Keiichi Hara",
+      "native": "原恵一"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Eriko Kimura",
+      "native": "木村絵理子"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 4)",
+    "node": {
+     "name": {
+      "full": "Ai Yoshimura",
+      "native": "吉村愛"
+     }
+    }
+   },
+   {
+    "role": "Director (OP)",
+    "node": {
+     "name": {
+      "full": "Kyouhei Ishiguro",
+      "native": "石黒恭平"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 5)",
+    "node": {
+     "name": {
+      "full": "Kyouhei Ishiguro",
+      "native": "石黒恭平"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 5, 10)",
+    "node": {
+     "name": {
+      "full": "Kyouhei Ishiguro",
+      "native": "石黒恭平"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 7)",
+    "node": {
+     "name": {
+      "full": "Minoru Yamaoka",
+      "native": "山岡実"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 3, 7)",
+    "node": {
+     "name": {
+      "full": "Minoru Yamaoka",
+      "native": "山岡実"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 9)",
+    "node": {
+     "name": {
+      "full": "Risako Yoshida",
+      "native": "吉田りさこ"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 6)",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Kyougoku",
+      "native": "京極義昭"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 6)",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Kyougoku",
+      "native": "京極義昭"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Miyu Suzuki",
+      "native": "鈴木みゆ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuusuke Tani",
+      "native": "谷悠介"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Sakata",
+       "native": "坂田将吾"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

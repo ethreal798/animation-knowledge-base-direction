@@ -1,0 +1,189 @@
+{
+ "id": 179813,
+ "title": {
+  "romaji": "Niwatori Fighter",
+  "english": "Rooster Fighter",
+  "native": "ニワトリ・ファイター"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 14
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 5,
+  "day": 31
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SANZIGEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shuu Sakuratani",
+      "native": "桜谷シュウ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Daisuke Suzuki",
+      "native": "鈴木大介"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroshi Seko",
+      "native": "瀬古浩司"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hiroshi Seko",
+      "native": "瀬古浩司"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Joseph Chou",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Italian)",
+    "node": {
+     "name": {
+      "full": "Paolo De Santis",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Gustavo Nader",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Translation (Italian)",
+    "node": {
+     "name": {
+      "full": "Roberto Fedele",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Rodrigo Rossi",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixing Engineer (Italian)",
+    "node": {
+     "name": {
+      "full": "Attilio Casati",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Recording Engineer (Italian)",
+    "node": {
+     "name": {
+      "full": "Paolo Ceriani",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Italian)",
+    "node": {
+     "name": {
+      "full": "Eliana Parisi",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Daruma ROLLIN'",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Production (Italian)",
+    "node": {
+     "name": {
+      "full": "Francesca Conte",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Production (Italian)",
+    "node": {
+     "name": {
+      "full": "Mariangela Geranio",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Keiji",
+      "native": "けいじ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenta Miyake",
+       "native": "三宅健太"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

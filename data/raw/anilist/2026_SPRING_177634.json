@@ -1,0 +1,133 @@
+{
+ "id": 177634,
+ "title": {
+  "romaji": "Diamond no Ace act II: Second Season",
+  "english": "Ace of the Diamond act II -Second Season-",
+  "native": "ダイヤのA actII -Second Season-"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 28
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "OLM"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuuji Terajima",
+      "native": "寺嶋裕二"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hideaki Ooba",
+      "native": "大庭秀昭"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenji Konuta",
+      "native": "古怒田健志"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yasukazu Shouji",
+      "native": "東海林康和"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hajime Hyakkoku",
+      "native": "百石元"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "SUPER★DRAGON",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Baby Canta",
+      "native": "Baby Canta"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Eijun Sawamura",
+      "native": "沢村栄純"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Oosaka",
+       "native": "逢坂良太"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kazuya Miyuki",
+      "native": "御幸一也"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takahiro Sakurai",
+       "native": "櫻井孝宏"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

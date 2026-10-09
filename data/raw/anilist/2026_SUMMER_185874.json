@@ -1,0 +1,295 @@
+{
+ "id": 185874,
+ "title": {
+  "romaji": "BLEACH: Sennen Kessen-hen - Kashin-tan",
+  "english": "BLEACH: Thousand-Year Blood War - The Calamity",
+  "native": "BLEACH 千年血戦篇-禍進譚-"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 25
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 26
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 10,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "PIERROT FILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tite Kubo",
+      "native": "久保帯人"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Tomohisa Taguchi",
+      "native": "田口智久"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hikaru Murata",
+      "native": "村田光"
+     }
+    }
+   },
+   {
+    "role": "Chief Supervisor",
+    "node": {
+     "name": {
+      "full": "Tite Kubo",
+      "native": "久保帯人"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tomohisa Taguchi",
+      "native": "田口智久"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masaki Hiramatsu",
+      "native": "平松正樹"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masashi Kudou",
+      "native": "工藤昌史"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yoshio Tanioka",
+      "native": "谷岡善王"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Toshiki Amata",
+      "native": "天田俊貴"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Saori Gouda",
+      "native": "合田沙織"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Yamada ",
+      "native": "山田和弘"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Satomi Okuhara",
+      "native": "奥原聡美"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akinori  Mishima",
+      "native": "三嶋章紀"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Toshihiro Sasaki",
+      "native": "佐々木俊宏"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Suzuki",
+      "native": "鈴木隆弘"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yukio Nagasaki",
+      "native": "長崎行男"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shirou SAGISU",
+      "native": "鷺巣詩郎"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Tominaga",
+      "native": "富永禎彦"
+     }
+    }
+   },
+   {
+    "role": "Action Animation Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Satoshi Sakai",
+      "native": "酒井智史"
+     }
+    }
+   },
+   {
+    "role": "Action Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Takashi Hashimoto",
+      "native": "橋本敬史"
+     }
+    }
+   },
+   {
+    "role": "Effects Animation Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Satoshi Sakai",
+      "native": "酒井智史"
+     }
+    }
+   },
+   {
+    "role": "Effects Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Takashi Hashimoto",
+      "native": "橋本敬史"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "9Lana",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "jo0ji",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1, 2, 3, 4)",
+    "node": {
+     "name": {
+      "full": "Masaki Hiramatsu",
+      "native": "平松正樹"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ichigo Kurosaki",
+      "native": "黒崎一護"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Masakazu Morita",
+       "native": "森田成一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Uryuu Ishida",
+      "native": "石田雨竜"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Noriaki Sugiyama",
+       "native": "杉山紀彰"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

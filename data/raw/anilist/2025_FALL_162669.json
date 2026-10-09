@@ -1,0 +1,217 @@
+{
+ "id": 162669,
+ "title": {
+  "romaji": "Fumetsu no Anata e Season 3",
+  "english": "To Your Eternity Season 3",
+  "native": "不滅のあなたへ Season 3"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 22,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Drive"
+   },
+   {
+    "name": "Studio Massket"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yoshitoki Ooima",
+      "native": "大今良時"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Kiyoko Sayama",
+      "native": "佐山聖子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Souta Yokote",
+      "native": "横手颯太"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shinzou Fujita",
+      "native": "藤田伸三"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kouji Yabuno",
+      "native": "藪野浩二"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Takadera",
+      "native": "高寺たけし"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryou Kawasaki",
+      "native": "川﨑龍"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Masashi Hamauzu",
+      "native": "浜渦正志"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Perfume",
+      "native": "パフューム"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Erick Bougleux",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Tooru Miyakoshi",
+      "native": "宮腰徹"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "David Walsh",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Latin American Spanish)",
+    "node": {
+     "name": {
+      "full": "Luis Daniel Garza",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Kirstie Simone",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Rita Majkut",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Marvin Silva",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Fushi",
+      "native": "フシ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reiji Kawashima",
+       "native": "川島零士"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mizuha",
+      "native": "ミズハ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomori Kusunoki",
+       "native": "楠木ともり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

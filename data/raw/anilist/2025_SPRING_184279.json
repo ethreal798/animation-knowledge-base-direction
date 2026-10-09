@@ -1,0 +1,124 @@
+{
+ "id": 184279,
+ "title": {
+  "romaji": "Ballpark de Tsukamaete!",
+  "english": "Catch Me at the Ballpark!",
+  "native": "ボールパークでつかまえて！"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 18
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "EMT Squared"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tatsurou Suga",
+      "native": "須賀達郎"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Junichi Kitamura",
+      "native": "北村淳一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shigeru Murakoshi",
+      "native": "村越繁"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Fumio Iida",
+      "native": "飯田史雄"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "MONACA",
+      "native": "有限会社モナカ "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "GENIC",
+      "native": "GENIC"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ruriko",
+      "native": "瑠璃子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Koutarou Murata",
+      "native": "村田コウタロウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satoshi Inomata",
+       "native": "猪股慧士"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

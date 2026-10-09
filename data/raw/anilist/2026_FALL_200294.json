@@ -1,0 +1,257 @@
+{
+ "id": 200294,
+ "title": {
+  "romaji": "Choujun! Choujou Senpai",
+  "english": "Super Psychic Policeman Chojo",
+  "native": "超巡！超条先輩"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 6
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Arvo Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shun Numa",
+      "native": "沼駿"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Junichi Yamamoto",
+      "native": "山元隼一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hayashi Mori",
+      "native": "森ハヤシ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masakatsu Sasaki",
+      "native": "佐々木政勝"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kenichi Tajiri",
+      "native": "田尻健一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akiko Shibata",
+      "native": "柴田亜紀子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hideki Imaizumi",
+      "native": "今泉秀樹"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Tomoki Nagasaka",
+      "native": "長坂智樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yukio Nagasaki",
+      "native": "長崎行男"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keiji Inai",
+      "native": "井内啓二"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "M!LK",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Aoi Yamazaki",
+      "native": "山崎あおい"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Aoi Yamazaki",
+      "native": "山崎あおい"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Tomohiro Sumikama",
+      "native": "炭竃智弘"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "shifukuponcho",
+      "native": "至福ぽんちょ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Taichi Kamita",
+      "native": "神谷泰地"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Taichi Kamita",
+      "native": "神谷泰地"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Taichi Kamita",
+      "native": "神谷泰地"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Sou Horinouchi",
+      "native": "堀ノ内ソウ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Meguru Choujou",
+      "native": "超条巡"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Kobayashi",
+       "native": "小林裕介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nao Ippongi",
+      "native": "一本木直"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Riko Aono",
+       "native": "碧乃梨心"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Robo-kun",
+      "native": "ローボくん"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maria Naganawa",
+       "native": "長縄まりあ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

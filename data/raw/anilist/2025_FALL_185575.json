@@ -1,0 +1,295 @@
+{
+ "id": 185575,
+ "title": {
+  "romaji": "Bukiyou na Senpai.",
+  "english": "My Awkward Senpai",
+  "native": "不器用な先輩。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 18
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio elle"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Makoto Kudou",
+      "native": "工藤マコト"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ayumu Kotake",
+      "native": "小竹歩"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mio Inoue",
+      "native": "井上美緒"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masaaki Tokuda",
+      "native": "徳田賢朗"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kouji Fujimoto",
+      "native": "藤本コウジ"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Mio Inoue",
+      "native": "井上美緒"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "angela",
+      "native": "アンジェラ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Gouroku",
+      "native": "合六弘 "
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hiroshi Izumi",
+      "native": "泉寛"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Ami Maeshima",
+      "native": "前島亜美"
+     }
+    }
+   },
+   {
+    "role": "Offline Editing",
+    "node": {
+     "name": {
+      "full": "Chinami Watanabe",
+      "native": "渡邉千波"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Reina Yamauchi",
+      "native": "山内玲奈"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasuyuki Konno",
+      "native": "今野康之"
+     }
+    }
+   },
+   {
+    "role": "2D Works",
+    "node": {
+     "name": {
+      "full": "Tetsuya Nishimura",
+      "native": "西村徹也"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuusaku Murakami",
+      "native": "村上優作"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Masaaki Tokuda",
+      "native": "徳田賢朗"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Nozomi Gotou",
+      "native": "後藤望"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Daiki Yamaki",
+      "native": "八巻大樹"
+     }
+    }
+   },
+   {
+    "role": "Special Effects",
+    "node": {
+     "name": {
+      "full": "Yoshiyuki Oota",
+      "native": "太田良之"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuusuke Watanabe",
+      "native": "渡部勇輔"
+     }
+    }
+   },
+   {
+    "role": "2D Works",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Kodama",
+      "native": "児玉裕之"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Akira Ono",
+      "native": "小野晃"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Akira Ono",
+      "native": "小野晃"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Hikaru Shiiba",
+      "native": "椎葉ひかる"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Noriko Tsutsui",
+      "native": "筒井典子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yuu Kamegawa",
+      "native": "亀川 侑"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Sakata",
+       "native": "坂田将吾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Azusa Kannawa",
+      "native": "鉄輪梓"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Lynn",
+       "native": null
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

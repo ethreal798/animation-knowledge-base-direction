@@ -1,0 +1,301 @@
+{
+ "id": 179879,
+ "title": {
+  "romaji": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai Sareru",
+  "english": "Betrothed to My Sister's Ex",
+  "native": "ずたぼろ令嬢は姉の元婚約者に溺愛される"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 20
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LandQ studios"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Tobirano",
+      "native": "とびらの"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mai Murasaki",
+      "native": "紫真依"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Kitagawa",
+      "native": "北川隆之"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Masakazu Sunagawa",
+      "native": "砂川正和"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akiko Satou",
+      "native": "佐藤秋子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yousuke Kikuchi",
+      "native": "菊池陽介"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ryuuta Nakahara",
+      "native": "中原竜太"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Sakura Takizawa",
+      "native": "滝澤さくら"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Miwa Kawasaki",
+      "native": "川崎美和"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kana Terabun",
+      "native": "寺分神奈"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kei Machida",
+      "native": "町田啓"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "krage",
+      "native": "krage"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Miyu Kumagawa",
+      "native": "熊川みゆ"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayako Tan",
+      "native": "丹彩子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kenji Isobe",
+      "native": "磯部兼士"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Toshiki Kameyama",
+      "native": "亀山俊樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kujira Yumemi",
+      "native": "夢見クジラ"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "CG Technical Director",
+    "node": {
+     "name": {
+      "full": "Akihiko Kimura",
+      "native": "木村明彦"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Norio Fukui",
+      "native": "福井詔雄"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Mihoko Shibata",
+      "native": "柴田三穂子"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Kazumichi Ueda",
+      "native": "上田憲伯"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Ryou Aizawa",
+      "native": "藍沢亮"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Katsushi Minoura",
+      "native": "箕浦克史"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Marie Shaderan",
+      "native": "マリー・シャデラン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rena Motomura",
+       "native": "本村玲奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kyros Granado",
+      "native": "キュロス・グラナド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Hamano",
+       "native": "濱野大輝"
+      }
+     },
+     {
+      "name": {
+       "full": "Aino Shimada",
+       "native": "島田愛野"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

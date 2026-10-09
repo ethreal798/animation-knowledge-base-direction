@@ -1,0 +1,301 @@
+{
+ "id": 179302,
+ "title": {
+  "romaji": "SANDA",
+  "english": "SANDA",
+  "native": "SANDA"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 20
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Science SARU"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Paru Itagaki",
+      "native": "板垣巴留"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tomohisa Shimoyama",
+      "native": "霜山朋久"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kimiko Ueno",
+      "native": "うえのきみこ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masamichi Ishiyama",
+      "native": "石山正修"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Niki Higaki",
+      "native": "桧垣仁希"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Saori Gouda",
+      "native": "合田沙織"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hikari Itou",
+      "native": "伊藤ひかり"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Keiichirou Miyoshi",
+      "native": "三好慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Tanaka",
+      "native": "田中知之"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Soushi Sakiyama",
+      "native": "崎山蒼志"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "yama",
+      "native": "ヤマ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Rodrigo Antas",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Waikwan Suen",
+      "native": "孫威軍"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 1-7)",
+    "node": {
+     "name": {
+      "full": "Akiko Matsuo",
+      "native": "松尾亜希子"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 2, 4, 7)",
+    "node": {
+     "name": {
+      "full": "Akiko Matsuo",
+      "native": "松尾亜希子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Akiko Matsuo",
+      "native": "松尾亜希子"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 6)",
+    "node": {
+     "name": {
+      "full": "Akitoshi Yokoyama",
+      "native": "横山彰利"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 6)",
+    "node": {
+     "name": {
+      "full": "Akitoshi Yokoyama",
+      "native": "横山彰利"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-6)",
+    "node": {
+     "name": {
+      "full": "Kimiko Ueno",
+      "native": "うえのきみこ"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 4)",
+    "node": {
+     "name": {
+      "full": "Tomohisa Taguchi",
+      "native": "田口智久"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 4)",
+    "node": {
+     "name": {
+      "full": "Tomohisa Taguchi",
+      "native": "田口智久"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 7)",
+    "node": {
+     "name": {
+      "full": "Rika Oota",
+      "native": "太田里香"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Izumi Murakami",
+      "native": "村上泉"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 1, 5)",
+    "node": {
+     "name": {
+      "full": "Azusa Okazaki",
+      "native": "岡崎あずさ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kazushige Sanda",
+      "native": "三田一重"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayumu Murase",
+       "native": "村瀬歩"
+      }
+     },
+     {
+      "name": {
+       "full": "Hiroki Touchi",
+       "native": "東地宏樹"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shiori Fuyumura",
+      "native": "冬村四織"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Umeka Shouji",
+       "native": "庄司宇芽香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

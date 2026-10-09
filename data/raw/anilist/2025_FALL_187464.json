@@ -1,0 +1,377 @@
+{
+ "id": 187464,
+ "title": {
+  "romaji": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+  "english": "Tojima Wants to Be a Kamen Rider",
+  "native": "東島丹三郎は仮面ライダーになりたい"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 22
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yokusaru Shibata",
+      "native": "柴田ヨクサル"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Ikezoe",
+      "native": "池添隆博"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Cindy H. Yamauchi",
+      "native": "シンディ・H・ヤマウチ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Ujiie",
+      "native": "氏家嘉宏"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukihiro Shibutani",
+      "native": "渋谷幸弘"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ayano Aizu",
+      "native": "会津綾乃"
+     }
+    }
+   },
+   {
+    "role": "Assistant Art Director",
+    "node": {
+     "name": {
+      "full": "Kanae Kawasaki",
+      "native": "川﨑かなえ"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuuho Taniuchi",
+      "native": "谷内優穂"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ryouko Oka",
+      "native": "岡亮子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Junpei Takatsu",
+      "native": "高津純平"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomoaki Suzuki",
+      "native": "鈴木智昭"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kumiko Sakamoto",
+      "native": "坂本久美子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Yamaguchi",
+      "native": "山口貴之"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "TeddyLoid",
+      "native": "テディロイド"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Kousuke Yokota",
+      "native": "横田幸介"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 4, 6, 8-9, 17-19, 22)",
+    "node": {
+     "name": {
+      "full": "Shintarou Shimizu",
+      "native": "清水伸太郎"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Shigeru Matsuzaki",
+      "native": "松崎しげる"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Ryouji Tokito",
+      "native": "時任良治"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"Let's Go!! Rider Kick\"; eps 1,17,24)",
+    "node": {
+     "name": {
+      "full": "Hiroshi Fujioka",
+      "native": "藤岡弘"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"VICTORY\"; eps 4,9,13,19)",
+    "node": {
+     "name": {
+      "full": "TOPHAMHAT-KYO",
+      "native": "トップハムハット狂"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"Legion of Hell\"; eps 3,16,20,23)",
+    "node": {
+     "name": {
+      "full": "Ryouji Tokito",
+      "native": "時任良治"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"RIDER, RIDER\"; eps 1,3-5,8,10-11,16,18-19, 24)",
+    "node": {
+     "name": {
+      "full": "Julien",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (\"THIRST\"; eps 16-17, 22-24)",
+    "node": {
+     "name": {
+      "full": "Julien",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tanzaburou Toujima",
+      "native": "東島丹三郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Katsuyuki Konishi",
+       "native": "小西克幸"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mitsuha Shimamura",
+      "native": "島村三葉"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Souma Saitou",
+       "native": "斉藤壮馬"
+      }
+     },
+     {
+      "name": {
+       "full": "Kanna Nakamura",
+       "native": "中村カンナ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yukarisu",
+      "native": "ユカリス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuriko Okada",
+      "native": "岡田ユリコ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ai Kayano",
+       "native": "茅野愛衣"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ichiyo Shimamura",
+      "native": "島村一葉"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenichi Suzumura",
+       "native": "鈴村健一"
+      }
+     },
+     {
+      "name": {
+       "full": "Natsumi Fujiwara",
+       "native": "藤原夏海"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hachirou Nakao",
+      "native": "中尾八郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenjirou Tsuda",
+       "native": "津田健次郎"
+      }
+     },
+     {
+      "name": {
+       "full": "Ayaka Asai",
+       "native": "朝井彩加"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

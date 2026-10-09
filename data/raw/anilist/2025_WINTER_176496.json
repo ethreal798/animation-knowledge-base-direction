@@ -1,0 +1,279 @@
+{
+ "id": 176496,
+ "title": {
+  "romaji": "Ore dake Level Up na Ken: Season 2 - Arise from the Shadow",
+  "english": "Solo Leveling Season 2 -Arise from the Shadow-",
+  "native": "俺だけレベルアップな件 Season 2 -Arise from the Shadow-"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 30
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "A-1 Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Chu-Gong",
+      "native": "추공"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Hyeon-Gun",
+      "native": "현군"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Seong-Rak Jang",
+      "native": "장성락"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shunsuke Nakashige",
+      "native": "中重俊祐"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Noboru Kimura",
+      "native": "木村暢"
+     }
+    }
+   },
+   {
+    "role": "Action Director",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Kanno",
+      "native": "菅野芳弘"
+     }
+    }
+   },
+   {
+    "role": "Action Director",
+    "node": {
+     "name": {
+      "full": "Hirokatsu Maruyama ",
+      "native": "丸山大勝"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tomoko Sudou",
+      "native": "須藤智子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Chiaki Furuzumi",
+      "native": "古住千秋"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Soutarou Shiraishi",
+      "native": "白石創太郎"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Tsubasa Ootaki",
+      "native": "大瀧翼"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Hajime Nakagawa",
+      "native": "中川肇"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Takafumi Torii",
+      "native": "鳥居貴史"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kaito Hashimoto",
+      "native": "橋元快斗"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Atsushi Yonezawa",
+      "native": "米澤篤"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Okumura",
+      "native": "奥村泰浩"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Hishinuma",
+      "native": "菱沼由典"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Masami Hayashi",
+      "native": "林雅巳"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Masahiro Satou",
+      "native": "佐藤正浩"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuuichirou Tanaka",
+      "native": "田中裕一郎"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naomi Nakano",
+      "native": "中野尚美"
+     }
+    }
+   },
+   {
+    "role": "Color Design Assistance",
+    "node": {
+     "name": {
+      "full": "Yuuko Koshida",
+      "native": "越田侑子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Daichi Iseki",
+      "native": "井関大智"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hikari Kaga",
+      "native": "加賀ひかり"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuuji Kondou",
+      "native": "近藤勇二"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Jin-U Seong",
+      "native": "성진우"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taito Ban",
+       "native": "坂泰斗"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

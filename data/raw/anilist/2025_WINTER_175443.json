@@ -1,0 +1,295 @@
+{
+ "id": 175443,
+ "title": {
+  "romaji": "Honey Lemon Soda",
+  "english": "Honey Lemon Soda",
+  "native": "ハニーレモンソーダ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "J.C.STAFF"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Mayu Murata",
+      "native": "村田真優"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Nishikiori",
+      "native": "錦織博"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Akiko Waba",
+      "native": "和場明子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Manami Tanaka",
+      "native": "田中愛美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ryouko Itaya",
+      "native": "板谷諒子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ryouko Itaya",
+      "native": "板谷諒子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ayaka Iwamoto",
+      "native": "岩本彩加"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yurina Yagi",
+      "native": "八木祐理奈"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Shigeru Nishiyama",
+      "native": "西山茂"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shunsuke Kasuga",
+      "native": "春日俊介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumihiko Ootera",
+      "native": "大寺文彦"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akira Kosemura",
+      "native": "小瀬村晶"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Kousuke Matsuo",
+      "native": "松尾洸甫"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Yuuji Matsukura",
+      "native": "松倉友二"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Kazuki Ooshima",
+      "native": "大島和樹"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Fumiko Satou",
+      "native": "佐藤史子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "&TEAM",
+      "native": "&TEAM"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 5-7, 9, 11 )",
+    "node": {
+     "name": {
+      "full": "Seishi Minakami",
+      "native": "水上清資"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-4)",
+    "node": {
+     "name": {
+      "full": "Akiko Waba",
+      "native": "和場明子"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 4)",
+    "node": {
+     "name": {
+      "full": "Hiroshi Nishikiori",
+      "native": "錦織博"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 2, 5)",
+    "node": {
+     "name": {
+      "full": "Shizuka Izumi",
+      "native": "泉しづか"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 6, 11)",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Oohata",
+      "native": "大畑清隆"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Kouzou Kaihou",
+      "native": "海宝興蔵"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 3)",
+    "node": {
+     "name": {
+      "full": "Hiroaki Sakurai",
+      "native": "桜井弘明"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1, 2, 4)",
+    "node": {
+     "name": {
+      "full": "Hiroshi Nishikiori",
+      "native": "錦織博"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kai Miura",
+      "native": "三浦界"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Yano",
+       "native": "矢野奨吾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Uka Ishimori",
+      "native": "石森羽花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

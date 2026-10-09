@@ -1,0 +1,274 @@
+{
+ "id": 200455,
+ "title": {
+  "romaji": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
+  "english": "Even Though I'm a Super Timid Noble Girl, I Accepted the Bet From My Cunning Fiancé",
+  "native": "弱気MAX令嬢なのに、辣腕婚約者様の賭けに乗ってしまった"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Jumondou"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Hiro Oda",
+      "native": "小田ヒロ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Tsubasa.v",
+      "native": "Tsubasa.v"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Nobuaki Nakanishi",
+      "native": "中西伸彰"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroko Fukuda",
+      "native": "福田裕子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hyun Sik Choi",
+      "native": "崔炫植"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shiori Shirasaki",
+      "native": "白崎詩織"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Arai",
+      "native": "荒井和浩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hitomi Fujii",
+      "native": "藤井瞳"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kunihito Noritomo",
+      "native": "則友邦仁"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuusuke Ueno",
+      "native": "上野勇輔"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Moe Hyuuga",
+      "native": "日向萌"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Natsuki Hamada",
+      "native": "濱田菜月"
+     }
+    }
+   },
+   {
+    "role": "Background Art",
+    "node": {
+     "name": {
+      "full": "Shunsuke Sakai",
+      "native": "堺駿介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Konomi Suzuki",
+      "native": "鈴木このみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Miku Itou",
+      "native": "伊藤美来"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Masashi Kanasaki",
+      "native": "金崎真士"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Karasuya Sabou",
+      "native": "烏屋茶房"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Kouji Mizuguchi",
+      "native": "水口浩次"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Mizuki Kamada",
+      "native": "鎌田瑞輝"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Hina Tsukiyama",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Hina Tsukiyama",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Pia Rockwell",
+      "native": "ピア・ロックウェル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miku Itou",
+       "native": "伊藤美来"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rufus Stan",
+      "native": "ルーファス・スタン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Oosaka",
+       "native": "逢坂良太"
+      }
+     },
+     {
+      "name": {
+       "full": "Shizuka Ishigami",
+       "native": "石上静香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

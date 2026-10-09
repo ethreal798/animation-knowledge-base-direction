@@ -1,0 +1,277 @@
+{
+ "id": 207191,
+ "title": {
+  "romaji": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+  "english": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+  "native": "どうも、好きな人に惚れ薬を依頼された魔女です。"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "diomedéa"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Eiko Mutsuhana",
+      "native": "六つ花えいこ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "vient",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Keizou Kusakawa",
+      "native": "草川啓造"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Wataru Watari",
+      "native": "渡航"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masakazu Ishikawa",
+      "native": "石川雅一"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Scott MacDonald",
+      "native": "スコット・マクドナルド"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Maho Takahashi",
+      "native": "高橋麻穂"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuki Hayashi",
+      "native": "林由稀"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hiroaki Asano",
+      "native": "浅野宏彰"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Toshihiko Kojima",
+      "native": "小島俊彦"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuuta Takahashi",
+      "native": "高橋雄大"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yayoi Tateishi",
+      "native": "立石弥生"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hayato Matsumura",
+      "native": "松村颯士"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Shigeru Saitou",
+      "native": "斎藤滋"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "centimillimental",
+      "native": "センチミリメンタル"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Reini",
+      "native": "レイニ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "centimillimental",
+      "native": "センチミリメンタル"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "centimillimental",
+      "native": "センチミリメンタル"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "centimillimental",
+      "native": "センチミリメンタル"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Reini",
+      "native": "レイニ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Reini",
+      "native": "レイニ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Ryou Hanai",
+      "native": "花井諒"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Show Chick Boy",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Rose",
+      "native": "ロゼ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mikako Komatsu",
+       "native": "小松未可子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hariju Azumu",
+      "native": "ハリージュ・アズム"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Youhei Azakami",
+       "native": "阿座上洋平"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

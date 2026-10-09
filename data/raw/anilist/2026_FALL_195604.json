@@ -1,0 +1,266 @@
+{
+ "id": 195604,
+ "title": {
+  "romaji": "Black Clover 2nd Season",
+  "english": "Black Clover Season 2",
+  "native": "ブラッククローバー 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 3
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Pierrot"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuuki Tabata",
+      "native": "田畠裕基"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ayataka Tanemura",
+      "native": "種村綾隆"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Itsuko Takeda",
+      "native": "竹田逸子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kumiko Tokunaga",
+      "native": "徳永久美子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kousei Takahashi",
+      "native": "髙橋恒星"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Minako Seki",
+      "native": "関美奈子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "WANIMA",
+      "native": "ワニマ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "WANIMA",
+      "native": "ワニマ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "ONE OR EIGHT",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "KENTA",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "KENTA",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Natrix",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Shiho Takahashi",
+      "native": "髙橋詩歩"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "BBY NABE",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Yuta Sakai",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "BenAddict",
+      "native": "벤에딕트"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Isak Alvedahl",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "NILD",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Scott Quinn",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Noelle Silva",
+      "native": "ノエル・シルヴァ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Yuuki",
+       "native": "優木かな"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuno",
+      "native": "ユノ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nobunaga Shimazaki",
+       "native": "島﨑信長"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Asta",
+      "native": "アスタ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Gakuto Kajiwara",
+       "native": "梶原岳人"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

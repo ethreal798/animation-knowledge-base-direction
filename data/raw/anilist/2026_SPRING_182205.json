@@ -1,0 +1,279 @@
+{
+ "id": 182205,
+ "title": {
+  "romaji": "Tensei Shitara Slime Datta Ken 4th Season Part 1 & 2",
+  "english": "That Time I Got Reincarnated as a Slime Season 4",
+  "native": "転生したらスライムだった件 第4期 第1&2クール"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 25
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "8-bit"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Fuse",
+      "native": "伏瀬"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Taiki Kawakami",
+      "native": "川上泰樹"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mitz Vah",
+      "native": "みっつばー"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Naokatsu Tsuda",
+      "native": "津田尚克"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Kenji Yasuda",
+      "native": "安田賢司"
+     }
+    }
+   },
+   {
+    "role": "Supervisor",
+    "node": {
+     "name": {
+      "full": "Atsushi Nakayama",
+      "native": "中山敦史"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Ogawa",
+      "native": "小川ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Ryouma Ebata",
+      "native": "江畑諒真"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ayumi Satou",
+      "native": "佐藤歩"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ayami Hidaka",
+      "native": "日高綾美"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Masahiro Satou",
+      "native": "佐藤正浩"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Rémy Boisseuil",
+      "native": "ボワセイユレミ"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Maki Saitou",
+      "native": "齋藤麻記"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hiroshi Satou",
+      "native": "佐藤洋"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yumi Jinguuji",
+      "native": "神宮司由美"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kousuke Morino",
+      "native": "森野浩典"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryuuta Iida",
+      "native": "飯田龍太"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hideki Yamazaki",
+      "native": "山崎秀樹"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Tomoko Itou",
+      "native": "伊藤智子"
+     }
+    }
+   },
+   {
+    "role": "CG Producer (eps 1, 3)",
+    "node": {
+     "name": {
+      "full": "Ryouta Higuchi",
+      "native": "樋口亮太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "Eir Aoi",
+      "native": "藍井エイル"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "CiON",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "Azusa Tadokoro",
+      "native": "田所あずさ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "DAOKO",
+      "native": "だをこ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Rimuru Tempest",
+      "native": "リムル・テンペスト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miho Okasaki",
+       "native": "岡咲美保"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

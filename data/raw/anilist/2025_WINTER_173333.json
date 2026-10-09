@@ -1,0 +1,337 @@
+{
+ "id": 173333,
+ "title": {
+  "romaji": "Mashin Souzouden Wataru",
+  "english": "MASHIN CREATOR WATARU",
+  "native": "魔神創造伝ワタル"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 22
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bandai Namco Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hajime Yatate",
+      "native": "矢立肇"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yumi Kamakura",
+      "native": "鎌倉由実"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Youichi Katou",
+      "native": "加藤陽一 "
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mayuko Nakano",
+      "native": "中野繭子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Yumoto",
+      "native": "湯本佳典"
+     }
+    }
+   },
+   {
+    "role": "Mashin Design",
+    "node": {
+     "name": {
+      "full": "Kyouryuu Kuramochi",
+      "native": "倉持キョーリュー"
+     }
+    }
+   },
+   {
+    "role": "World Design",
+    "node": {
+     "name": {
+      "full": "Yuuri",
+      "native": "有里"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Norifumi Nakamura",
+      "native": "中村典史"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masami Hayashi",
+      "native": "林雅巳"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akiko Shibata",
+      "native": "柴田亜紀子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tsunetaka Ema",
+      "native": "江間常高"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Naoki Watanabe",
+      "native": "渡辺直樹"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shinpei Nagashima",
+      "native": "長嶋晋平"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Sadayoshi Fujino",
+      "native": "藤野貞義"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Takada",
+      "native": "高田龍一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keiichi Hirokawa",
+      "native": "広川恵一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Oliver Good",
+      "native": "オリバー・グッド"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keita Inoue",
+      "native": "井上馨太"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "João Moura",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ryuujinmaru",
+      "native": "龍神丸"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomokazu Sugita",
+       "native": "杉田智和"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Wataru Hoshibe",
+      "native": "星部ワタル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mutsumi Tamura",
+       "native": "田村睦心"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kakeru Amabe",
+      "native": "天部カケル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsumi Tanezaki",
+       "native": "種﨑敦美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Offline",
+      "native": "御富良院"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Katsuyuki Konishi",
+       "native": "小西克幸"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Maro",
+      "native": "マロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Meg Umezawa",
+       "native": "梅澤めぐ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ryunryun",
+      "native": "リュンリュン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Kugimiya",
+       "native": "釘宮理恵"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mygah",
+      "native": "マイガー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunichi Toki",
+       "native": "土岐隼一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shou",
+      "native": "ショウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Ichikawa",
+       "native": "市川蒼"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

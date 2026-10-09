@@ -1,0 +1,241 @@
+{
+ "id": 184034,
+ "title": {
+  "romaji": "Hotel Inhumans",
+  "english": "HOTEL INHUMANS",
+  "native": "ホテル・インヒューマンズ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 28
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bridge"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Ao Tajima",
+      "native": "田島青"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tetsurou Amino",
+      "native": "アミノテツロー"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shouji Yonemura",
+      "native": "米村正二"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shingo Fujisaki",
+      "native": "藤崎真吾"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hidefumi Kimura",
+      "native": "きむらひでふみ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yoshimi Umino",
+      "native": "海野よしみ"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Junko Nagasawa",
+      "native": "長澤順子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Fuyuto Muraguchi",
+      "native": "村口冬仁"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Toshiyuki Sadamatsu",
+      "native": "貞松寿幸"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Daisuke Imai",
+      "native": "今井大介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Haru Yamada",
+      "native": "山田陽"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "imase",
+      "native": "イマセ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "NOA",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (Indonesian)",
+    "node": {
+     "name": {
+      "full": "Ery Putra",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Koharu Matsunaga",
+      "native": "松永小春"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (Indonesian)",
+    "node": {
+     "name": {
+      "full": "Tegar Prabawa",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Project Manager (Indonesian)",
+    "node": {
+     "name": {
+      "full": "Ryuken Alyasa",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Indonesian)",
+    "node": {
+     "name": {
+      "full": "10KAI",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Translator (Indonesian)",
+    "node": {
+     "name": {
+      "full": "Natasya",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ikurou Hoshi",
+      "native": "星生朗"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Kobayashi",
+       "native": "小林裕介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sara Haizaki",
+      "native": "灰咲沙羅"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hinano Shirahama",
+       "native": "白浜灯奈乃"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

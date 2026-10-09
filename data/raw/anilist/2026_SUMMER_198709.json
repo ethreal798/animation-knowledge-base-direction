@@ -1,0 +1,284 @@
+{
+ "id": 198709,
+ "title": {
+  "romaji": "Tefuda ga Oome no Victoria",
+  "english": "Victoria of Many Faces",
+  "native": "手札が多めのビクトリア"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 2
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 9,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Syuu",
+      "native": "守雨"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Komo Ushino",
+      "native": "牛野こも"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Nanna Fujimi",
+      "native": "藤実なんな"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Nobukage Kimura",
+      "native": "木村延景"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Naohiro Fukushima",
+      "native": "福島直浩"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mina Oosawa",
+      "native": "大沢美奈"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Sayuri Sakimoto",
+      "native": "崎本さゆり"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuri Namigami",
+      "native": "浪上悠里"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Keika Ootsuka",
+      "native": "大塚渓花"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Mana Matsumura",
+      "native": "松村真那"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yabomi",
+      "native": "やぼみ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Siman Wei",
+      "native": "魏斯曼"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mizuki Nakagawa",
+      "native": "中川瑞希"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "In-Ju Lee",
+      "native": "이인주"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Megumi  Uchida",
+      "native": "内田恵"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Yano",
+      "native": "矢野さとし"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hidemitsu Tanaka",
+      "native": "田中秀実"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Moe Hyuuga",
+      "native": "日向萌"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Takayuki Saitou",
+      "native": "齋藤隆行"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Naoki Sakai",
+      "native": "坂井直樹"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "haku.",
+      "native": "ハク。"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "KI_EN",
+      "native": "KI_EN"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Victoria Sellers",
+      "native": "ビクトリア・セラーズ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chika Anzai",
+       "native": "安済知佳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jeffrey Asher",
+      "native": "ジェフリー・アッシャー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Youhei Azakami",
+       "native": "阿座上洋平"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nonna",
+      "native": "ノンナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shion Wakayama",
+       "native": "若山詩音"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

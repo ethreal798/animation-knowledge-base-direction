@@ -1,0 +1,295 @@
+{
+ "id": 181284,
+ "title": {
+  "romaji": "Kirio Fanclub",
+  "english": "Kirio Fan Club",
+  "native": "霧尾ファンクラブ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 19
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Satelight"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Chikyuno Osakana Ponchan",
+      "native": "地球のお魚ぽんちゃん"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Sou Toyama",
+      "native": "外山草"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Aya Satsuki",
+      "native": "皐月彩"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Aya Satsuki",
+      "native": "皐月彩"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Nami Hayashi",
+      "native": "林奈美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Daisuke Suzuki",
+      "native": "鈴木大介"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Katsuhisa Takiguchi",
+      "native": "滝口勝久"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Nobori",
+      "native": "のぼりはるこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tsuyoshi Shimura",
+      "native": "志村豪"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Shuuji Matsumoto",
+      "native": "松本秀治"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Toshiki Kameyama",
+      "native": "亀山俊樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tomoki Kikuya",
+      "native": "菊谷知樹"
+     }
+    }
+   },
+   {
+    "role": "Main Key Animation",
+    "node": {
+     "name": {
+      "full": "Kikuko Sadakata",
+      "native": "貞方希久子"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Brent Marshall",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Wataru Sawabe",
+      "native": "澤部渡"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Wataru Sawabe",
+      "native": "澤部渡"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Wataru Sawabe",
+      "native": "澤部渡"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Shannon Reed",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Patrick Marrero",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Jade Kelly",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ODD Foot Works",
+      "native": "踊Foot Works"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "ODD Foot Works",
+      "native": "踊Foot Works"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Keegan Daleo",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Ako",
+      "native": "a子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Ako",
+      "native": "a子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Aimi Miyoshi",
+      "native": "三好藍美"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nene Hieda",
+       "native": "稗田寧々"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nami Sometani",
+      "native": "染谷波"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shion Wakayama",
+       "native": "若山詩音"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

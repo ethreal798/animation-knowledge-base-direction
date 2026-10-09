@@ -1,0 +1,295 @@
+{
+ "id": 183291,
+ "title": {
+  "romaji": "Akujiki Reijou to Kyouketsu Koushaku: Sono Mamono, Watashi ga Oishiku Itadakimasu!",
+  "english": "Pass the Monster Meat, Milady!",
+  "native": "悪食令嬢と狂血公爵　～その魔物、私が美味しくいただきます！～"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 19
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Asahi Production"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kanata Hoshi",
+      "native": "星彼方"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Peperon",
+      "native": "ぺペロン"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Mutsumi Takeda",
+      "native": "武田睦海"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masato Katou",
+      "native": "加藤真人"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Shuuhei Yagisawa",
+      "native": "八木澤修平"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Tomoka Ootaki",
+      "native": "大滝那佳"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kumiko Shishido",
+      "native": "宍戸久美子"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Yui Ushinohama",
+      "native": "牛ノ濱由惟"
+     }
+    }
+   },
+   {
+    "role": "Art Board",
+    "node": {
+     "name": {
+      "full": "Yukako Ogawa",
+      "native": "小川友佳子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Wenxin He",
+      "native": "何文馨"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryou Tanaka",
+      "native": "田中亮 "
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takaaki Nakahashi",
+      "native": "中橋孝晃"
+     }
+    }
+   },
+   {
+    "role": "Offline Editing",
+    "node": {
+     "name": {
+      "full": "Ami Ishii",
+      "native": "石井亜美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Shunichi Toki",
+      "native": "土岐隼一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "AVAM",
+      "native": "AVAM"
+     }
+    }
+   },
+   {
+    "role": "Cooking Design",
+    "node": {
+     "name": {
+      "full": "Kumiko Shishido",
+      "native": "宍戸久美子"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Tomohide Kikunaga",
+      "native": "菊永智英"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Shawn Gann",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Victor Acosta",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Mattheus Caliano",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Domonique French",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Susie Nixon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Pranav Prayag",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Sayantan Pahari",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Melphiera Marchalrayd",
+      "native": "メルフィエラ・マーシャルレイド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kanna Nakamura",
+       "native": "中村カンナ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aristide de Galbraith",
+      "native": "アリスティード・ロジェ・ド・ガルブレイス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taito Ban",
+       "native": "坂泰斗"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

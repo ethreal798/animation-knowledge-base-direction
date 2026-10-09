@@ -1,0 +1,232 @@
+{
+ "id": 188525,
+ "title": {
+  "romaji": "Kore Kaite Shine",
+  "english": "Draw This, Then Die!",
+  "native": "これ描いて死ね"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 25
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Shin-Ei Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Minoru Toyoda",
+      "native": "とよ田みのる"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroaki Akagi",
+      "native": "赤城博昭"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroko Fukuda",
+      "native": "福田裕子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kenji Sagawa",
+      "native": "瀬川健寿"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Reiko Kasuga",
+      "native": "春日礼児"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kumiko Yanagisawa",
+      "native": "柳澤久美子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shigemitsu Hamao",
+      "native": "浜尾繁光"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Aya Hida",
+      "native": "肥田文"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Tatsuhiro Amano",
+      "native": "天野龍洋"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiroaki Tsutsumi",
+      "native": "堤博明"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Aki Itami",
+      "native": "伊丹あき"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hiroko Fukuda",
+      "native": "福田裕子"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kanichi Katou",
+      "native": "加藤還一"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Megan Buchholz",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Tatsuya Kitani",
+      "native": "キタニタツヤ"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Luis Miguel Morales",
+      "native": "Luis Miguel Morales Martínez"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Regallily",
+      "native": "リーガルリリー"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Vivian Lu",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ai Yasumi",
+      "native": "安海相"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akira Sekine",
+       "native": "関根明良"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rei Teshima",
+      "native": "手島零"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Hayami",
+       "native": "早見沙織"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

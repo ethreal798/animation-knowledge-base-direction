@@ -1,0 +1,298 @@
+{
+ "id": 196017,
+ "title": {
+  "romaji": "Grow Up Show: Himawari no Circus-dan",
+  "english": "Grow Up Show",
+  "native": "グロウアップショウ ～ひまわりのサーカス団～"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "A-1 Pictures"
+   },
+   {
+    "name": "Psyde Kick Studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kurehito Misaki",
+      "native": "深崎暮人"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Kanta Kamei",
+      "native": "亀井幹太"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Satsuki Takahashi",
+      "native": "髙橋さつき"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takeshi Kikuchi",
+      "native": "菊池たけし"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kazutoshi Makino ",
+      "native": "牧野和俊"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Takumi Hashimoto",
+      "native": "橋本巧"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Eiko Tsunadou",
+      "native": "綱頭瑛子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kanako Hokari",
+      "native": "ホカリカナコ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Toshiyuki Aoshima",
+      "native": "青嶋俊明"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kentarou Tsubone",
+      "native": "坪根健太郎"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Mizuho Kanda",
+      "native": "神田瑞帆"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Akiko Fujita",
+      "native": "藤田亜紀子"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Yuugo Kanno",
+      "native": "菅野祐悟"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Takeshi Kikuchi",
+      "native": "菊池たけし"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kazutoshi Makino ",
+      "native": "牧野和俊"
+     }
+    }
+   },
+   {
+    "role": "Action Supervisor",
+    "node": {
+     "name": {
+      "full": "Masaki Inada",
+      "native": "稲田正輝"
+     }
+    }
+   },
+   {
+    "role": "Image Board",
+    "node": {
+     "name": {
+      "full": "Munashichi",
+      "native": "六七質"
+     }
+    }
+   },
+   {
+    "role": "Background Art Layout",
+    "node": {
+     "name": {
+      "full": "Mikiya Hiragi",
+      "native": "平義樹弥"
+     }
+    }
+   },
+   {
+    "role": "Effects Design",
+    "node": {
+     "name": {
+      "full": "Ayane Matsumoto",
+      "native": "まつもとあやね"
+     }
+    }
+   },
+   {
+    "role": "Picture Book Design",
+    "node": {
+     "name": {
+      "full": "Ayane Matsumoto",
+      "native": "まつもとあやね"
+     }
+    }
+   },
+   {
+    "role": "Historical Research",
+    "node": {
+     "name": {
+      "full": "Junko Yamada",
+      "native": "山田順子"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Shouta Fujii",
+      "native": "藤井翔太"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Kurumi Itou",
+      "native": "伊藤玖留未"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "NOMELON NOLEMON",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Aooo",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Mizuka Tsurumaki",
+      "native": "鶴巻瑞佳"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoka Noda",
+       "native": "野田朋花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ouka Kawasumi",
+      "native": "川澄桜翔"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shiori Kurosaki",
+       "native": "黒崎しおり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

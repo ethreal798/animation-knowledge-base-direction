@@ -1,0 +1,311 @@
+{
+ "id": 187387,
+ "title": {
+  "romaji": "Onmyo Kaiten Re:verse",
+  "english": "Onmyo Kaiten Re:Birth Verse",
+  "native": "陰陽廻天 Re:バース"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 18
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "david production"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Fujiko Sakuno",
+      "native": "作乃藤湖"
+     }
+    }
+   },
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Hideya Takahashi",
+      "native": "高橋秀弥"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hideya Takahashi",
+      "native": "高橋秀弥"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hayashi Mori",
+      "native": "森ハヤシ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kazuaki Morita",
+      "native": "森田和明"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Naohiro Washio",
+      "native": "鷲尾直広"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Masato Hisa",
+      "native": "久正人"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Ryou Hirata",
+      "native": "ヒラタリョウ"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Ren Ishimori",
+      "native": "石森連"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Yutaka Araki",
+      "native": "荒木裕"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Kou Inaba",
+      "native": "稲葉コウ"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Mikio",
+      "native": "みき尾"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Natsuko Washio",
+      "native": "鷲尾奈津子"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Yuusuke Adachi",
+      "native": "安達祐輔"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Hye-Min Han",
+      "native": "한혜민"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Noriko Ooishi",
+      "native": "大石ノリコ"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kazushige Kanehira",
+      "native": "金平和茂"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tadashi Iwasa",
+      "native": "岩佐禎"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Touichirou Yanagida",
+      "native": "柳田東一郎"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Sakiko Itou",
+      "native": "伊東さき子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Jiann-Horng Wu",
+      "native": "呉健弘"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Misaki Enokida",
+      "native": "榎田美咲"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yoshiyuki Kamijou",
+      "native": "上條嘉之"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Takeru Narihira",
+      "native": "業平猛"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taihi Kimura",
+       "native": "木村太飛"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tsukimiya",
+      "native": "ツキミヤ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maaya Uchida",
+       "native": "内田真礼"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Abeno Seimei",
+      "native": "安倍晴明"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouhei Kimura",
+       "native": "木村良平"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

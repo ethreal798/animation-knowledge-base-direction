@@ -1,0 +1,311 @@
+{
+ "id": 177476,
+ "title": {
+  "romaji": "Shin Samurai-den YAIBA",
+  "english": "YAIBA: Samurai Legend",
+  "native": "真･侍伝 YAIBA"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "WIT STUDIO"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Gosho Aoyama",
+      "native": "青山剛昌"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Hasui",
+      "native": "蓮井隆弘"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshimichi Kameda",
+      "native": "亀田祥倫"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Kazunori Ooshima",
+      "native": "大嶋一範"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Kyousuke Doumoto",
+      "native": "堂本強介"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Tomoya Ogasawara",
+      "native": "小笠原僚也"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Takeshi Maenami",
+      "native": "前並武志"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Hajime Tokushige",
+      "native": "徳重甫"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Takeshi Maenami",
+      "native": "前並武志"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeda",
+      "native": "竹田悠介"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kazushi Fujii",
+      "native": "藤井一志"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Hashimoto",
+      "native": "橋本賢"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Makiho Kondou",
+      "native": "近藤牧穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Susumu Fukushi",
+      "native": "福士享"
+     }
+    }
+   },
+   {
+    "role": "Special Effects Director (eps 3, 4, 8, 9, 11, 13, 15, 23)",
+    "node": {
+     "name": {
+      "full": "Hirofumi Masuda",
+      "native": "桝田浩史"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yukinori Nakamura",
+      "native": "中村幸憲"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Haru Yamada",
+      "native": "山田陽"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Eiko Morikawa",
+      "native": "森川永子"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects Assistance",
+    "node": {
+     "name": {
+      "full": "Marin Sone",
+      "native": "曽根万鈴"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Dewa",
+      "native": "出羽良彰"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yutaka Yamada",
+      "native": "やまだ豊"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Risa Someya",
+      "native": "染谷理沙"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Tasuku Umeka",
+      "native": "梅香扶"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yaiba Kurogane",
+      "native": "鉄刃"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minami Takayama",
+       "native": "高山みなみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sayaka Mine",
+      "native": "峰さやか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manaka Iwami",
+       "native": "石見舞菜香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Takeshi Onimaru",
+      "native": "鬼丸猛"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshimasa Hosoya",
+       "native": "細谷佳正"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

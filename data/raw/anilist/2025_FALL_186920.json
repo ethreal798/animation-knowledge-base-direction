@@ -1,0 +1,259 @@
+{
+ "id": 186920,
+ "title": {
+  "romaji": "Shuumatsu Touring",
+  "english": "Touring After the Apocalypse",
+  "native": "終末ツーリング"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 20
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Nexus"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Sakae Saito",
+      "native": "さいとー栄"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Yoshinobu Tokumoto",
+      "native": "徳本善信"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Usaku Myouchin",
+      "native": "明珍宇作"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Daichi Kitahara",
+      "native": "北原大地"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Beom-Seon Lee",
+      "native": "이범선"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naoto Tanaka",
+      "native": "田中直人"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Junko Okazaki",
+      "native": "岡崎順子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Gaku Hirooka",
+      "native": "廣岡岳"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kentarou Tsubone",
+      "native": "坪根健太郎"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Toshirou Hamamura",
+      "native": "濱村敏郎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Kenichirou Suehiro",
+      "native": "末廣健一郎"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Usaku Myouchin",
+      "native": "明珍宇作"
+     }
+    }
+   },
+   {
+    "role": "2D Graphics",
+    "node": {
+     "name": {
+      "full": "Satoshi Watsuji",
+      "native": "ワツジサトシ"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (ep 3)",
+    "node": {
+     "name": {
+      "full": "LiSA",
+      "native": "LiSA"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 3-7)",
+    "node": {
+     "name": {
+      "full": "Kazuya Nakanishi",
+      "native": "中西和也"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 6, 7)",
+    "node": {
+     "name": {
+      "full": "Kazuya Nakanishi",
+      "native": "中西和也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Miyu Kumagawa",
+      "native": "熊川みゆ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Conton Candy",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Youko",
+      "native": "ヨーコ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Inagaki",
+       "native": "稲垣好"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Airi",
+      "native": "アイリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyu Tomita",
+       "native": "富田美憂"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

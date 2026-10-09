@@ -1,0 +1,208 @@
+{
+ "id": 179992,
+ "title": {
+  "romaji": "Kikaijikake no Marie",
+  "english": "Mechanical Marie",
+  "native": "機械じかけのマリー"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 21
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Zero-G"
+   },
+   {
+    "name": "Liber"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Aki Akimoto",
+      "native": "あきもと明希"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Junji Nishimura",
+      "native": "西村純二"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Kanno",
+      "native": "菅野幸子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mariko Kunisawa",
+      "native": "國澤真理子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Youko Kikuchi",
+      "native": "菊地洋子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "jimao",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kenichi Kurata",
+      "native": "倉田憲一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Matsuyama",
+      "native": "松山愛子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomomi Saitou",
+      "native": "斉藤朋美"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Shun Tokuda",
+      "native": "徳田俊"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yasuharu Takanashi",
+      "native": "高梨康治"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Johannes Nilsson",
+      "native": "Johannes Nilsson"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Nao Touyama",
+      "native": "東山奈央"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Harutya",
+      "native": "春茶"
+     }
+    }
+   },
+   {
+    "role": "Illustration",
+    "node": {
+     "name": {
+      "full": "Uta Mizuno",
+      "native": "水野歌"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Marie Evans",
+      "native": "マリー・エバンズ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nao Touyama",
+       "native": "東山奈央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Arthur Zetes",
+      "native": "アーサー・ルイス・ゼテス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruki Ishiya",
+       "native": "石谷春貴"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,345 @@
+{
+ "id": 182587,
+ "title": {
+  "romaji": "[Oshi no Ko] 3rd Season",
+  "english": "OSHI NO KO Season 3",
+  "native": "【推しの子】第3期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 14
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 25
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 11,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Doga Kobo"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Aka Akasaka",
+      "native": "赤坂アカ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mengo Yokoyari",
+      "native": "横槍メンゴ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Daisuke Hiramaki",
+      "native": "平牧大輔"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Jin Tanaka",
+      "native": "田中仁"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kanna Hirayama",
+      "native": "平山寛菜"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Satomi Watanabe",
+      "native": "渡部里美"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Shun Sawai",
+      "native": "澤井駿"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Honoka Yokoyama",
+      "native": "横山穂乃花"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Junpei Matsuo",
+      "native": "松尾淳平"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Yoshikazu Masuzawa",
+      "native": "増澤吉和"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Hiroki Sakai",
+      "native": "酒井浩希"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Miku Makifuchi",
+      "native": "巻渕美紅"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Mitsuhiro Ogata",
+      "native": "尾形光広"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Masami Kiyohara",
+      "native": "清原誠巳"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Takuya Nakayama",
+      "native": "中山卓也"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Tomoyo Inoue",
+      "native": "井上智代"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Kazunari Ishii",
+      "native": "石井一成"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Noriko Ishizawa",
+      "native": "石澤紀子"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Shiho Ootani",
+      "native": "大谷志穂"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Suo Matsuhashi",
+      "native": "松橋周央"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Marika Teraoka",
+      "native": "寺岡茉莉花"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kenji Sawada",
+      "native": "沢田犬二"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Tetsuya Usami",
+      "native": "宇佐美哲也"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kouta Mizumoto",
+      "native": "水本浩太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akane Ashihara",
+      "native": "芦原明音"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ruby Hoshino",
+      "native": "星野ルビー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yurie Igoma",
+       "native": "伊駒ゆりえ"
+      }
+     },
+     {
+      "name": {
+       "full": "Tomoyo Takayanagi",
+       "native": "高柳知葉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aquamarine Hoshino",
+      "native": "星野アクアマリン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeo Ootsuka",
+       "native": "大塚剛央"
+      }
+     },
+     {
+      "name": {
+       "full": "Yumi Uchiyama",
+       "native": "内山夕実"
+      }
+     },
+     {
+      "name": {
+       "full": "Kento Itou",
+       "native": "伊東健人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kana Arima",
+      "native": "有馬かな"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Megumi Han",
+       "native": "潘めぐみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akane Kurokawa",
+      "native": "黒川あかね"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manaka Iwami",
+       "native": "石見舞菜香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

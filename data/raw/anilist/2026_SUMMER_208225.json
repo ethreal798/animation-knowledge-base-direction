@@ -1,0 +1,244 @@
+{
+ "id": 208225,
+ "title": {
+  "romaji": "\"Kimi wo Aisuru Ki wa nai\" to Itta Jiki Koushaku-sama ga Naze ka Dekiai Shitekimasu",
+  "english": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+  "native": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 20
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Zero-G"
+   },
+   {
+    "name": "Grass"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kei Misawa",
+      "native": "三沢ケイ"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Natsu Mizuno",
+      "native": "水埜なつ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hitoyuki Matsui",
+      "native": "まついひとゆき"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tomoko Konparu",
+      "native": "金春智子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Yahiro",
+      "native": "八尋裕子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Toshie Kawamura",
+      "native": "川村敏江"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Sachiko Sugimoto",
+      "native": "杉本幸子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Minewo Suzuki",
+      "native": "鈴木美音織"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Taisei Sonoda",
+      "native": "園田大勢"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shinobu Takahashi",
+      "native": "高橋忍"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Junichirou Nishikawa",
+      "native": "西川淳一郎"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Makiko Kojima",
+      "native": "小島真喜子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Motohiro Kunishige",
+      "native": "國重元宏"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Shun Tokuda",
+      "native": "徳田俊"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shuuhei Abe",
+      "native": "阿部秀平"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Michiru",
+      "native": "未知瑠"
+     }
+    }
+   },
+   {
+    "role": "Episode Director Design",
+    "node": {
+     "name": {
+      "full": "Kaoru Suzuki",
+      "native": "鈴木薫"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Riria.",
+      "native": "りりあ。"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Sora Murakami",
+      "native": "村上想楽"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Julius Roias",
+      "native": "ユリウス・ロイアス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Souma Saitou",
+       "native": "斉藤壮馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Elsa Jukarainen",
+      "native": "エルサ・ユカライネン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yui Ishikawa",
+       "native": "石川由依"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

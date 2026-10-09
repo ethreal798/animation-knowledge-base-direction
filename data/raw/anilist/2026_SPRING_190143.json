@@ -1,0 +1,295 @@
+{
+ "id": 190143,
+ "title": {
+  "romaji": "Shunkashuutou Daikousha: Haru no Mai",
+  "english": "Agents of the Four Seasons: Dance of Spring",
+  "native": "春夏秋冬代行者 春の舞"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 28
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 14,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "WIT STUDIO"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kana Akatsuki",
+      "native": "暁佳奈"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ken Yamamoto",
+      "native": "山本健"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Ayumu Hisao",
+      "native": "久尾歩"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Hiroshi Anami",
+      "native": "阿南浩志"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Miharu Asai",
+      "native": "浅井美晴"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Suou",
+      "native": "スオウ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Namiko Torii",
+      "native": "鳥井なみこ"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Ken Yamamoto",
+      "native": "山本健"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Hayate Satou",
+      "native": "佐藤颯"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Shinobu Isoko",
+      "native": "五十子忍"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Ayaka Minoshima",
+      "native": "蓑島愛香"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Nobuhiro Andou",
+      "native": "安藤暢啓"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Miyako Misumi",
+      "native": "三住宮古"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Saeko Takahashi",
+      "native": "高橋沙江子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Ayumu Tsujimura",
+      "native": "辻村歩"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Aya Kondou",
+      "native": "近藤綾"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Nanako Hashimoto",
+      "native": "橋本七虹"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hayate Satou",
+      "native": "佐藤颯"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Komitsu",
+      "native": "小光"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ayumu Tsujimura",
+      "native": "辻村歩"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Aya Kondou",
+      "native": "近藤綾"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Susumu Mamura",
+      "native": "真村躍"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Iori Hisatake",
+      "native": "久武伊織"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeda",
+      "native": "竹田悠介"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ayaka Nakamura",
+      "native": "中村絢郁"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hinagiku Kayou",
+      "native": "花葉雛菊"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuka Nukui",
+       "native": "貫井柚佳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sakura Himedaka",
+      "native": "姫鷹さくら"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshino Aoyama",
+       "native": "青山吉能"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

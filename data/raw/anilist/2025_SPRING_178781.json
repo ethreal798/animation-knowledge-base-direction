@@ -1,0 +1,343 @@
+{
+ "id": 178781,
+ "title": {
+  "romaji": "Sentai Daishikkaku 2nd Season",
+  "english": "Go! Go! Loser Ranger! Season 2",
+  "native": "戦隊大失格 2nd season"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 13
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 29
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Yostar Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Negi Haruba",
+      "native": "春場ねぎ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Keiichi Satou",
+      "native": "さとうけいいち"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Takashi Igari",
+      "native": "いがりたかし"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kahoko Koseki",
+      "native": "古関果歩子"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Mika Akitaka",
+      "native": "明貴美加"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Kenji Andou",
+      "native": "安藤賢司"
+     }
+    }
+   },
+   {
+    "role": "Creature Design",
+    "node": {
+     "name": {
+      "full": "Mika Akitaka",
+      "native": "明貴美加"
+     }
+    }
+   },
+   {
+    "role": "Creature Design",
+    "node": {
+     "name": {
+      "full": "Kenji Andou",
+      "native": "安藤賢司"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Shintarou Kawakubo",
+      "native": "川窪慎太郎"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Shoutarou Kinutani",
+      "native": "絹谷正太郎"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Kango Iwamura",
+      "native": "岩村貫吾"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Saya Takagi",
+      "native": "高木紗耶"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Gakuto Gonbei",
+      "native": "権瓶岳斗"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ryuuta Hayashi",
+      "native": "林竜太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naoto Kondou",
+      "native": "近藤直登"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kouji Tsuchiya ",
+      "native": "土屋康次"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yunfei Xiang",
+      "native": "向云飛"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Hiroshi Okuda",
+      "native": "奥田浩史"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Takaya Takahashi",
+      "native": "高橋貴也"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shinsaku Takeuchi",
+      "native": "竹内晋作"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Keiichi Satou",
+      "native": "さとうけいいち"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hiromune Kurahashi",
+      "native": "倉橋裕宗"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Ike",
+      "native": "池頼広"
+     }
+    }
+   },
+   {
+    "role": "Music Selection",
+    "node": {
+     "name": {
+      "full": "Maiko Gouda",
+      "native": "合田麻衣子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sentouin D",
+      "native": "戦闘員D"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Kobayashi",
+       "native": "小林裕介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hibiki Sakurama",
+      "native": "桜間日々輝"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daishi Kajita",
+       "native": "梶田大嗣"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kanon Hisui",
+      "native": "翡翠かのん"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Azumi Waki",
+       "native": "和氣あず未"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Angel Usukubo",
+      "native": "薄久保天使"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shiori Mikami",
+       "native": "三上枝織"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Green Keeper",
+      "native": "グリーンキーパー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kousuke Toriumi",
+       "native": "鳥海浩輔"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,257 @@
+{
+ "id": 201514,
+ "title": {
+  "romaji": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+  "english": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+  "native": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様(生活能力皆無)を陰ながらお世話することになりました"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 20
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Brain's Base"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Yuusaku Sakaishi",
+      "native": "坂石遊作"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Sakura Miwabe",
+      "native": "みわべさくら"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shuusei Morishita",
+      "native": "森下柊聖"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Aya Yoshinaga",
+      "native": "吉永亜矢"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takashi Kawashima",
+      "native": "川島尚"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Takadera",
+      "native": "高寺たけし"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Natsumi Tabuchi",
+      "native": "田渕夏海"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hanae Nakamura",
+      "native": "中村巴奈重"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Mayo Kurihara",
+      "native": "栗原真葉"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "angela",
+      "native": "アンジェラ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Ami Maeshima",
+      "native": "前島亜美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Ryouta Tomaru ",
+      "native": "都丸椋太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Ryouta Tomaru ",
+      "native": "都丸椋太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeda",
+      "native": "竹田祐介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeda",
+      "native": "竹田祐介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Seima Kondou",
+      "native": "近藤世真"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Seima Kondou",
+      "native": "近藤世真"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Yuuki Hidaka",
+      "native": "日高勇輝"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Yuuki Hidaka",
+      "native": "日高勇輝"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hinako Konohana",
+      "native": "此花雛子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Kohara",
+       "native": "小原好美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Itsuki Tomonari",
+      "native": "友成伊月"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuto Uemura",
+       "native": "上村祐翔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mirei Tennouji",
+      "native": "天王寺美麗"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Oonishi",
+       "native": "大西沙織"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

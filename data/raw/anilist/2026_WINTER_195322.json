@@ -1,0 +1,295 @@
+{
+ "id": 195322,
+ "title": {
+  "romaji": "Vigilante: Boku no Hero Academia ILLEGALS 2nd Season",
+  "english": "My Hero Academia: Vigilantes Season 2",
+  "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS- 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 30
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "bones film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kouhei Horikoshi",
+      "native": "堀越耕平"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Hideyuki Furuhashi",
+      "native": "古橋秀之"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Court Betten",
+      "native": "別天荒人"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kenichi Suzuki",
+      "native": "鈴木健一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yousuke Kuroda",
+      "native": "黒田洋介"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takahiko Yoshida",
+      "native": "吉田隆彦"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukihiro Watanabe",
+      "native": "渡辺幸浩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Nobori",
+      "native": "のぼりはるこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yingying Zhang",
+      "native": "張盈穎"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Mizuki Sasaki",
+      "native": "佐々木瑞生"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masafumi Mima",
+      "native": "三間雅文"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shougo Yamashiro",
+      "native": "山城ショウゴ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Furuhashi",
+      "native": "古橋勇紀"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Surii",
+      "native": "すりぃ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "shytaupe",
+      "native": "シャイトープ"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-12)",
+    "node": {
+     "name": {
+      "full": "Yousuke Kuroda",
+      "native": "黒田洋介"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 12)",
+    "node": {
+     "name": {
+      "full": "Yutaka Nakamura",
+      "native": "中村豊"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1-5, 9-12)",
+    "node": {
+     "name": {
+      "full": "Takahiko Yoshida",
+      "native": "吉田隆彦"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Takahiko Yoshida",
+      "native": "吉田隆彦"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 8, 11)",
+    "node": {
+     "name": {
+      "full": "Takahiko Yoshida",
+      "native": "吉田隆彦"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 11)",
+    "node": {
+     "name": {
+      "full": "Takahiko Yoshida",
+      "native": "吉田隆彦"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Naoyuki Konno",
+      "native": "紺野直幸"
+     }
+    }
+   },
+   {
+    "role": "System Engineer",
+    "node": {
+     "name": {
+      "full": "Tatsuya Minami",
+      "native": "南龍弥"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kouichi Haimawari",
+      "native": "灰廻航一"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuuichirou Umeda",
+       "native": "梅田修一朗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kazuho Haneyama",
+      "native": "羽根山和歩"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,219 @@
+{
+ "id": 186742,
+ "title": {
+  "romaji": "Toaru Anbu no ITEM",
+  "english": "A Certain Dark Item",
+  "native": "とある暗部の少女共棲"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 9
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "J.C.STAFF"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kazuma Kamachi",
+      "native": "鎌池和馬"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Haimura",
+      "native": "灰村キヨタカ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Nilitsu",
+      "native": "ニリツ"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Tatsuyuki Nagai",
+      "native": "長井龍雪"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shigeki Kimoto",
+      "native": "木本茂樹"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Teruhiko Niita",
+      "native": "丹伊田輝彦"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Tomomi Andou",
+      "native": "安藤智美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shingo Fukuyo",
+      "native": "福世晋吾"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Shigeru Nishiyama",
+      "native": "西山茂"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Maiko Iuchi",
+      "native": "井内舞子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kishida Kyoudan & The Akeboshi Rockets",
+      "native": "岸田教団＆The明星ロケッツ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "East of Eden",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Frenda Seivelun",
+      "native": "フレンダ・セイヴェルン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maaya Uchida",
+       "native": "内田真礼"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shizuri Mugino",
+      "native": "麦野沈利"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ami Koshimizu",
+       "native": "小清水亜美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rikou Takitsubo",
+      "native": "滝壺理后"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aya Suzaki",
+       "native": "洲崎綾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Saiai Kinuhata",
+      "native": "絹旗 最愛"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chinatsu Akasaki",
+       "native": "赤﨑千夏"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

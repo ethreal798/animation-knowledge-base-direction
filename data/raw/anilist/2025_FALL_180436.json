@@ -1,0 +1,298 @@
+{
+ "id": 180436,
+ "title": {
+  "romaji": "WanDance",
+  "english": "Wandance",
+  "native": "ワンダンス"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 24
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MADHOUSE"
+   },
+   {
+    "name": "Cyclone Graphics"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "coffee",
+      "native": "珈琲"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Michiya Katou",
+      "native": "加藤道哉"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Taiki Imamura",
+      "native": "今村大樹"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Tasaki",
+      "native": "田崎聡"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Youichi Watanabe",
+      "native": "渡邊洋一"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hideki Satou",
+      "native": "佐藤英樹"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Manami Sasa",
+      "native": "笹愛美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Daichi Iseki",
+      "native": "井関大智"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kashiko Kimura",
+      "native": "木村佳史子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tomohisa Shitara",
+      "native": "設楽友久"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Akiyama",
+      "native": "秋山侑輝"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shouji Hata",
+      "native": "はたしょうじ "
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Noriko Izumo",
+      "native": "出雲範子"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Kouhei Chida",
+      "native": "千田耕平"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Sayaka Konno",
+      "native": "金野沙矢香"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Michiya Katou",
+      "native": "加藤道哉"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Taiki Imamura",
+      "native": "今村大樹"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Tasaki",
+      "native": "田崎聡"
+     }
+    }
+   },
+   {
+    "role": "Visual Effects",
+    "node": {
+     "name": {
+      "full": "Michiya Katou",
+      "native": "加藤道哉"
+     }
+    }
+   },
+   {
+    "role": "Video Director",
+    "node": {
+     "name": {
+      "full": "Kanna Iida",
+      "native": "飯田甘奈"
+     }
+    }
+   },
+   {
+    "role": "Dance Producer",
+    "node": {
+     "name": {
+      "full": "RIEHATA",
+      "native": "RIEHATA"
+     }
+    }
+   },
+   {
+    "role": "Motion Capture Supervisor",
+    "node": {
+     "name": {
+      "full": "Rei Sugimoto",
+      "native": "杉本玲"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Vagner Fagundes",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Background Music",
+    "node": {
+     "name": {
+      "full": "Naoki Chiba",
+      "native": "千葉直樹"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Izumi Matsuzaki",
+      "native": "松崎いずみ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hikari Wanda",
+      "native": "湾田光莉"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hina Youmiya",
+       "native": "羊宮妃那"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kaboku Kotani",
+      "native": "小谷花木"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouki Uchiyama",
+       "native": "内山昂輝"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

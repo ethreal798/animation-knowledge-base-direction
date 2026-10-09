@@ -1,0 +1,249 @@
+{
+ "id": 209940,
+ "title": {
+  "romaji": "Komekami! Girls",
+  "english": null,
+  "native": "こめかみっ！Girls"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Daily Plan.net"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Takahiro Seguchi",
+      "native": "瀬口たかひろ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Mikinori Suzuki",
+      "native": "鈴木鏡規謙"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hirohiko Ebihara",
+      "native": "蛯原浩彦"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hideki Sonoda",
+      "native": "園田英樹"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hikaru Kodama",
+      "native": "兒玉ひかる"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Makoto Kaneuji",
+      "native": "金氏誠"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Kimitaka Suzuki",
+      "native": "鈴木公尚"
+     }
+    }
+   },
+   {
+    "role": "Line Producer",
+    "node": {
+     "name": {
+      "full": "Ryouta Machida",
+      "native": "町田良太"
+     }
+    }
+   },
+   {
+    "role": "Komekami-jou Character Design",
+    "node": {
+     "name": {
+      "full": "Haruhiko Mikimoto",
+      "native": "美樹本晴彦"
+     }
+    }
+   },
+   {
+    "role": "Culinary Supervision",
+    "node": {
+     "name": {
+      "full": "Tochi Ueyama",
+      "native": "とち うえやま"
+     }
+    }
+   },
+   {
+    "role": "Art Assistance",
+    "node": {
+     "name": {
+      "full": "Daichi Azuma",
+      "native": "東大地"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sanae Koshino",
+      "native": "越野さなえ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Eriko Kawakami",
+       "native": "河上英里子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Minori Koshino",
+      "native": "越野みのり"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minori Toyonaga",
+       "native": "豊永実紀"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mei Koshino",
+      "native": "越野めい"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kurumi Yano",
+       "native": "矢野くるみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hikari Koshino",
+      "native": "越野ひかり"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Emi Nitta",
+       "native": "新田恵海"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Momi Koshino",
+      "native": "越野もみ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Misa Segawa",
+       "native": "瀬川美沙"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mai Koshino",
+      "native": "越野まい"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoe Yuki",
+       "native": "幸巴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Honoka Koshino",
+      "native": "越野ほのか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayaka Tamaki",
+       "native": "環綾花"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,375 @@
+{
+ "id": 185755,
+ "title": {
+  "romaji": "Puniru wa Kawaii Slime 2nd Season",
+  "english": "Puniru is a Kawaii Slime Season 2",
+  "native": "ぷにるはかわいいスライム 第2期"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TOHO animation STUDIO"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Maeda-kun",
+      "native": "まえだくん"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuushi Ibe",
+      "native": "伊部勇志"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Michiko Yokote",
+      "native": "横手美智子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Aya Tanaka",
+      "native": "田中彩"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Miu Miyamoto",
+      "native": "宮本実生"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hiroshi Izumi",
+      "native": "泉寛"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Miu Miyamoto",
+      "native": "宮本実生"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Erika Mihara",
+      "native": "三原絵梨香"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ami Takasusuki",
+      "native": "高薄亜実"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Asami Kitsukawa",
+      "native": "橘川麻美"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mayu Takata",
+      "native": "髙田真有"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Haruka Gotou",
+      "native": "後藤晴香"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Michaela Pail",
+      "native": "ミヒャエラパイル"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Misaki Enokida",
+      "native": "榎田美咲"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Tange",
+      "native": "丹下雄二"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Izumi Mori",
+      "native": "森いづみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED1, ED2)",
+    "node": {
+     "name": {
+      "full": "Yuu Sasahara",
+      "native": "篠原侑"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Izumi Mori",
+      "native": "森いづみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Izumi Mori",
+      "native": "森いづみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Izumi Mori",
+      "native": "森いづみ"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP)",
+    "node": {
+     "name": {
+      "full": "Tetsuya Miyanishi",
+      "native": "宮西哲也"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yuushi Ibe",
+      "native": "伊部勇志"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 2, 8)",
+    "node": {
+     "name": {
+      "full": "Natsumi Higashida",
+      "native": "東田夏実"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1, 8, 10)",
+    "node": {
+     "name": {
+      "full": "Michiko Yokote",
+      "native": "横手美智子"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 3, 6, 9)",
+    "node": {
+     "name": {
+      "full": "Miharu Hirami",
+      "native": "平見瞠"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Puniru",
+      "native": "ぷにる"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuu Sasahara",
+       "native": "篠原侑"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kotarou Kawaii",
+      "native": "河合井コタロー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuuichirou Umeda",
+       "native": "梅田修一朗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mami Kirara",
+      "native": "雲母麻美"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Risa Shimizu",
+       "native": "清水理沙"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuusuke Nanpa",
+      "native": "南波遊助"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junya Enoki",
+       "native": "榎木淳弥"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Alice Okanega",
+      "native": "御金賀アリス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumiri Hanamori",
+       "native": "花守ゆみり"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Runru",
+      "native": "ルンル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikue Ootani",
+       "native": "大谷育江"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "GELEE",
+      "native": "ジュレ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sumire Uesaka",
+       "native": "上坂すみれ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

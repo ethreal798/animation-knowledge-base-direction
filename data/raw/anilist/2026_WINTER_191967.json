@@ -1,0 +1,285 @@
+{
+ "id": 191967,
+ "title": {
+  "romaji": "Jigoku Sensei Nube (2025) Part 2",
+  "english": "Hell Teacher: Jigoku Sensei Nube (2025) Part 2",
+  "native": "地獄先生ぬ～べ～ (2025) 第2クール"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 25
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio KAI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shou Makura",
+      "native": "真倉翔"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Takeshi Okano",
+      "native": "岡野剛"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yasuyuki Ooishi",
+      "native": "大石康之"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Fumito Yamada",
+      "native": "山田史人"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoshiki Ookusa",
+      "native": "大草芳樹"
+     }
+    }
+   },
+   {
+    "role": "Action Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Kagami",
+      "native": "加々美高浩"
+     }
+    }
+   },
+   {
+    "role": "Action Director",
+    "node": {
+     "name": {
+      "full": "Yuu Yoshiyama",
+      "native": "芳山優"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuu Yoshiyama",
+      "native": "芳山優"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Atsuko Takahashi",
+      "native": "高橋敦子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Eriko Itou",
+      "native": "伊藤依織子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Minami Kasuga",
+      "native": "春日美波"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Akihiro Hirasawa",
+      "native": "平澤晃弘"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hironori Noji",
+      "native": "野地弘納"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Eiko Hiramoto",
+      "native": "平本瑛子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masato Yoshitake",
+      "native": "吉武将人"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Masanari Kira",
+      "native": "吉良柾成"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yasushi Nagura",
+      "native": "名倉靖"
+     }
+    }
+   },
+   {
+    "role": "Sound Design",
+    "node": {
+     "name": {
+      "full": "Eiko Morikawa",
+      "native": "森川永子"
+     }
+    }
+   },
+   {
+    "role": "Sound Design",
+    "node": {
+     "name": {
+      "full": "Rio Satou",
+      "native": "佐藤理緒"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Evan Call",
+      "native": "エバン・コール"
+     }
+    }
+   },
+   {
+    "role": "Recording",
+    "node": {
+     "name": {
+      "full": "Soushi Shiihara",
+      "native": "椎原操志"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "THE ORAL CIGARETTES",
+      "native": "ジ・オーラル・シガレッツ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Ayumu Imazu",
+      "native": "今津渉"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Hironori Tanaka",
+      "native": "田中宏紀"
+     }
+    }
+   },
+   {
+    "role": "Screen Design",
+    "node": {
+     "name": {
+      "full": "Hitoshi Tamura",
+      "native": "田村仁"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Meisuke Nueno",
+      "native": "鵺野鳴介"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryoutarou Okiayu",
+       "native": "置鮎龍太郎"
+      }
+     },
+     {
+      "name": {
+       "full": "Shunichi Toki",
+       "native": "土岐隼一"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

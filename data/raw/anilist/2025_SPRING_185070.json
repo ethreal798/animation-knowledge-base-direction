@@ -1,0 +1,295 @@
+{
+ "id": 185070,
+ "title": {
+  "romaji": "Uchuujin MuuMuu",
+  "english": "Me and the Alien MuMu",
+  "native": "宇宙人ムームー"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 18
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "OLM"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hiroki Miyashita",
+      "native": "宮下裕樹"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tomoya Takahashi",
+      "native": "高橋知也"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kenji Oota",
+      "native": "大田謙治"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Scott MacDonald",
+      "native": "スコット・マクドナルド"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ryouta Katsuta",
+      "native": "勝田綾太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Maki Yamamoto",
+      "native": "山本真希"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tatsumi Yukiwaki",
+      "native": "柚木脇達己"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yumi Jinguuji",
+      "native": "神宮司由美"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hozumi Gouda",
+      "native": "郷田ほづみ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kuricorder Quartet",
+      "native": "栗コーダーカルテット "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Etsuko Kozakura",
+      "native": "小桜エツコ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Harumi Momo",
+      "native": "春海百乃"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Sabasister",
+      "native": "サバシスター"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Kuricorder Quartet",
+      "native": "栗コーダーカルテット "
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED2)",
+    "node": {
+     "name": {
+      "full": "Masashi Ishihama",
+      "native": "石浜真史"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ED2)",
+    "node": {
+     "name": {
+      "full": "Masashi Ishihama",
+      "native": "石浜真史"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ED2)",
+    "node": {
+     "name": {
+      "full": "Kenji Oota",
+      "native": "大田謙治"
+     }
+    }
+   },
+   {
+    "role": "Production Generalization",
+    "node": {
+     "name": {
+      "full": "Takashi Inoue",
+      "native": "井上たかし"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 24)",
+    "node": {
+     "name": {
+      "full": "Kaien Jin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 15, 22)",
+    "node": {
+     "name": {
+      "full": "Levii",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 19)",
+    "node": {
+     "name": {
+      "full": "Davoxt",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ako",
+      "native": "a子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Ako",
+      "native": "a子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Ako",
+      "native": "a子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "MuuMuu",
+      "native": "ムームー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Etsuko Kozakura",
+       "native": "小桜エツコ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sakurako Umeyashiki",
+      "native": "梅屋敷桜子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Harumi Momo",
+       "native": "春海百乃"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

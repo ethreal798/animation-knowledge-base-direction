@@ -1,0 +1,311 @@
+{
+ "id": 179950,
+ "title": {
+  "romaji": "Reincarnation no Kaben",
+  "english": "Petals of Reincarnation",
+  "native": "リィンカーネーションの花弁"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 26
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "BENTEN Film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Mikihisa Konishi",
+      "native": "小西幹久 "
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Shun Kudou",
+      "native": "久藤瞬"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Kousuke Murayama",
+      "native": "村山公輔"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Atsuo Ishino",
+      "native": "石野敦夫"
+     }
+    }
+   },
+   {
+    "role": "Action Director",
+    "node": {
+     "name": {
+      "full": "Kentarou Azuma",
+      "native": "東賢太郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Haruna Katou",
+      "native": "加藤春奈"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Kou Inaba",
+      "native": "稲葉コウ"
+     }
+    }
+   },
+   {
+    "role": "Action Animator",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Taiga",
+      "native": "大河広行"
+     }
+    }
+   },
+   {
+    "role": "Action Animator",
+    "node": {
+     "name": {
+      "full": "Takashi Hashimoto",
+      "native": "橋本敬史"
+     }
+    }
+   },
+   {
+    "role": "Action Animator",
+    "node": {
+     "name": {
+      "full": "Tooru Yoshida",
+      "native": "吉田徹"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kenta Masuda",
+      "native": "益田健太"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kenta Masuda",
+      "native": "益田健太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Chie Yoshimura",
+      "native": "吉村智恵"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Chiba",
+      "native": "千葉洋之"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Daisuke Hiraki",
+      "native": "平木大輔"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yukio Nagasaki",
+      "native": "長崎行男"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kouta Yamamoto",
+      "native": "山本康太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "eill",
+      "native": "eill"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Sizuk",
+      "native": "Sizuk"
+     }
+    }
+   },
+   {
+    "role": "Character Design Supervisor",
+    "node": {
+     "name": {
+      "full": "Sayaka Ono",
+      "native": "小野早香"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Kyle Jones",
+      "native": "Kyle Colby Jones"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Kyle Jones",
+      "native": "Kyle Colby Jones"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Brent Marshall",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Marta Bechtol",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Patrick Marrero",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Haito Le Buffett",
+      "native": "灰都＝ルオ＝ブフェット"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Wakana Maruoka",
+       "native": "丸岡和佳奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "John V. Neumann",
+      "native": "ジョン・V・ノイマン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayane Sakura",
+       "native": "佐倉綾音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Touya Senji",
+      "native": "扇寺東耶"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

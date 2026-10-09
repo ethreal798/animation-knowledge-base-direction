@@ -1,0 +1,333 @@
+{
+ "id": 185660,
+ "title": {
+  "romaji": "Dandadan 2nd Season",
+  "english": "DAN DA DAN Season 2",
+  "native": "ダンダダン 第2期"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 19
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Science SARU"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yukinobu Tatsu",
+      "native": "龍幸伸"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Fuuga Yamashiro",
+      "native": "山代風我"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Abel Gongora",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Naoyuki Onda",
+      "native": "恩田尚之"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Junichi Higashi",
+      "native": "東潤一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Hashimoto",
+      "native": "橋本賢"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Makiho Kondou",
+      "native": "近藤牧穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kazuto Izumita",
+      "native": "出水田和人"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Eriko Kimura",
+      "native": "木村絵理子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kensuke Ushio",
+      "native": "牛尾憲輔"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-7)",
+    "node": {
+     "name": {
+      "full": "Hiroshi Seko",
+      "native": "瀬古浩司"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "AiNA THE END",
+      "native": "アイナ・ジ・エンド"
+     }
+    }
+   },
+   {
+    "role": "Youkai Design",
+    "node": {
+     "name": {
+      "full": "Yoshimichi Kameda",
+      "native": "亀田祥倫"
+     }
+    }
+   },
+   {
+    "role": "Alien Design",
+    "node": {
+     "name": {
+      "full": "Yoshimichi Kameda",
+      "native": "亀田祥倫"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Vocal Performance (ep 6)",
+    "node": {
+     "name": {
+      "full": "Kishou Taniyama",
+      "native": "谷山紀章"
+     }
+    }
+   },
+   {
+    "role": "Finishing Check Assistance (ep 4)",
+    "node": {
+     "name": {
+      "full": "Arisa Komatsu",
+      "native": "小松亜理沙"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 2)",
+    "node": {
+     "name": {
+      "full": "Eisaku Kawanami",
+      "native": "河浪栄作"
+     }
+    }
+   },
+   {
+    "role": "Clothing Design (ep 4)",
+    "node": {
+     "name": {
+      "full": "Seiichi Akitake",
+      "native": "秋竹斉一 "
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 4)",
+    "node": {
+     "name": {
+      "full": "Hironori Tanaka",
+      "native": "田中宏紀"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 4)",
+    "node": {
+     "name": {
+      "full": "Hironori Tanaka",
+      "native": "田中宏紀"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Hironori Tanaka",
+      "native": "田中宏紀"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Waikwan Suen",
+      "native": "孫威軍"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Composition",
+    "node": {
+     "name": {
+      "full": "Ludwig van Beethoven",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Insert Song Guitar (ep 6)",
+    "node": {
+     "name": {
+      "full": "Marty Friedman",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ken Takakura",
+      "native": "高倉健"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsuki Hanae",
+       "native": "花江夏樹"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Momo Ayase",
+      "native": "綾瀬桃"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shion Wakayama",
+       "native": "若山詩音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aira Shiratori",
+      "native": "白鳥愛羅"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayane Sakura",
+       "native": "佐倉綾音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jin Enjouji",
+      "native": "円城寺 仁"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaito Ishikawa",
+       "native": "石川界人"
+      }
+     },
+     {
+      "name": {
+       "full": "Makoto Koichi",
+       "native": "小市眞琴"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

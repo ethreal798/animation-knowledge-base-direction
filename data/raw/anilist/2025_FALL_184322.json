@@ -1,0 +1,279 @@
+{
+ "id": 184322,
+ "title": {
+  "romaji": "Shinjiteita Nakamatachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakamatachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+  "english": "My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
+  "native": "信じていた仲間達にダンジョン奥地で殺されかけたがギフト『無限ガチャ』でレベル9999の仲間達を手に入れて元パーティーメンバーと世界に復讐＆『ざまぁ！』します！"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 19
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "J.C.STAFF"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Shisui Meikyou",
+      "native": "明鏡シスイ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "tef",
+      "native": "tef"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Katsushi Sakurabi",
+      "native": "桜美かつし"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroshi Oonogi",
+      "native": "大野木寛"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yukie Suzuki",
+      "native": "鈴木幸江"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yoshikazu Iwanami",
+      "native": "岩浪美和"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryou Takahashi",
+      "native": "高橋諒"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yoshikazu Iwanami",
+      "native": "岩浪美和"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Kyle Jones",
+      "native": "Kyle Colby Jones"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Kyle Jones",
+      "native": "Kyle Colby Jones"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Brent Marshall",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Tomomi Andou",
+      "native": "安藤智美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shingo Fukuyo",
+      "native": "福世晋吾"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Kenichirou Aoki",
+      "native": "青木健一郎"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Maki Sendo",
+      "native": "仙土真希"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Marta Bechtol",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Ashino",
+      "native": "芦野由紀子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Eri Sano",
+      "native": "さのえり"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Dorian Coulon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Production Generalization",
+    "node": {
+     "name": {
+      "full": "Isao Suzuki",
+      "native": "鈴木薫"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Mako Yamashita",
+      "native": "山下真子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Manami Tanaka",
+      "native": "田中愛美"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Shuuto Fujita",
+      "native": "藤田脩斗"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Ryouka Tanaka",
+      "native": "田中綾華"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Light",
+      "native": "ライト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nina Tamaki",
+       "native": "玉城仁菜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

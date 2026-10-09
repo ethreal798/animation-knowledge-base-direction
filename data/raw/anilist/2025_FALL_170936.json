@@ -1,0 +1,232 @@
+{
+ "id": 170936,
+ "title": {
+  "romaji": "Debu to Love to Ayamachi to!",
+  "english": "Plus-sized Misadventures in Love!",
+  "native": "デブとラブと過ちと！"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 22
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Marvy Jack"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Mamakari",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuomi Koga",
+      "native": "古賀一臣"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Aya Watatane",
+      "native": "綿種アヤ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Atsuko Takahashi",
+      "native": "高橋敦子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masakazu Miyake",
+      "native": "三宅昌和"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Nobori",
+      "native": "のぼりはるこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Katsuaki Kamata",
+      "native": "鎌田克明"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Megumi  Uchida",
+      "native": "内田恵"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiroki Nishiyama",
+      "native": "西山寛基"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Ryuuta Nakahara",
+      "native": "中原隆太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Satoshi Houno",
+      "native": "宝野聡史"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kaori Nakano",
+      "native": "中野香梨"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Aya Watatane",
+      "native": "綿種アヤ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Atsuko Takahashi",
+      "native": "高橋敦子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Izumi Yamanaka",
+      "native": "山中いづみ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kyouko Kametani",
+      "native": "亀谷響子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "GANG PARADE",
+      "native": "GANG PARADE"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yuuma Uchida",
+      "native": "内田雄馬"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yumeko Kouda",
+      "native": "幸田夢子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aya Endou",
+       "native": "遠藤綾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Keisuke Yuuki",
+      "native": "結城圭介"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuma Uchida",
+       "native": "内田雄馬"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

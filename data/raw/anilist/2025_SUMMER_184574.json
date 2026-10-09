@@ -1,0 +1,290 @@
+{
+ "id": 184574,
+ "title": {
+  "romaji": "Dekin no Mogura",
+  "english": "Dekin no Mogura: The Earthbound Mole",
+  "native": "出禁のモグラ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Brain's Base"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Natsumi Eguchi",
+      "native": "江口夏実"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Ishiodori",
+      "native": "石踊宏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shinzou Fujita",
+      "native": "藤田伸三"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Youko Tanabe",
+      "native": "たなべようこ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yumi Yogi",
+      "native": "與儀有美"
+     }
+    }
+   },
+   {
+    "role": "Creature Design",
+    "node": {
+     "name": {
+      "full": "Kazuhiko Shibuya",
+      "native": "渋谷一彦"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Maki Morio",
+      "native": "森尾麻紀"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Fukuda",
+      "native": "福田由布子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hayato Sekiya",
+      "native": "関谷颯人"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yasutaka Ikeda",
+      "native": "池田康隆"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Haru Yamada",
+      "native": "山田陽"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tomoki Hasegawa",
+      "native": "長谷川智樹"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Shinzou Fujita",
+      "native": "藤田伸三"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kazuhiko Shibuya",
+      "native": "渋谷一彦"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Andrew Tipps",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Paul Cline",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Manuel Aragon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "syudou",
+      "native": "手動"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Audrey Rigg",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Mirin Sheeno",
+      "native": "椎乃味醂"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Aile The Shota",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Momoyuki Mogura",
+      "native": "百暗桃弓木"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuichi Nakamura",
+       "native": "中村悠一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yaeko Kirihara",
+      "native": "桐原八重子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yukiyo Fujii",
+       "native": "藤井ゆきよ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kuriaki Magi",
+      "native": "真木栗顕"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Genki Okawa",
+       "native": "大河元気"
+      }
+     },
+     {
+      "name": {
+       "full": "Riri Yoshikawa",
+       "native": "吉川りり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

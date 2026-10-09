@@ -1,0 +1,295 @@
+{
+ "id": 189275,
+ "title": {
+  "romaji": "Medalist 2nd Season",
+  "english": "Medalist Season 2",
+  "native": "メダリスト 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 25
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 22
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 9,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "ENGI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Ikada Tsuruma",
+      "native": "つるまいかだ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yasutaka Yamamoto",
+      "native": "山本靖貴"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Jukki Hanada",
+      "native": "花田十輝"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Chinatsu Kameyama",
+      "native": "亀山千夏"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Saki Hasegawa",
+      "native": "長谷川早紀"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Shiori Oozeki",
+      "native": "大関志緒利"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kumiko Yoshikawa",
+      "native": "吉川久美子"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Soujirou Arimizu",
+      "native": "有水宗治郎"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Masami Kiyohara",
+      "native": "清原誠巳"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Takuya Nakayama",
+      "native": "中山卓也"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Noriko Ishizawa",
+      "native": "石澤紀子"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Yukiko Shirakura",
+      "native": "白倉由紀子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hazuki Nakamura",
+      "native": "中村葉月"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Haruka Miyada",
+      "native": "宮田遥可"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Yamagami",
+      "native": "山上愛子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kentarou Kashiwagi",
+      "native": "柏木健太郎"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Tomoki Nagasaka",
+      "native": "長坂智樹"
+     }
+    }
+   },
+   {
+    "role": "CG Producer",
+    "node": {
+     "name": {
+      "full": "Satoshi Iijima",
+      "native": "飯島哲"
+     }
+    }
+   },
+   {
+    "role": "CG Producer",
+    "node": {
+     "name": {
+      "full": "Kyouka Hagiwara",
+      "native": "萩原恭香"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kouji",
+      "native": "こうじ"
+     }
+    }
+   },
+   {
+    "role": "Figure Skating Director",
+    "node": {
+     "name": {
+      "full": "Kouji",
+      "native": "こうじ"
+     }
+    }
+   },
+   {
+    "role": "Figure Skating Choreography",
+    "node": {
+     "name": {
+      "full": "Akiko Suzuki",
+      "native": "鈴木明子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuichi Imaizumi",
+      "native": "今泉雄一"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kenji Koyama",
+      "native": "小山健二"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Inori Yuitsuka",
+      "native": "結束いのり"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Haruse",
+       "native": "春瀬なつみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tsukasa Akeuraji",
+      "native": "明浦路司"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeo Ootsuka",
+       "native": "大塚剛央"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

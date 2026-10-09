@@ -1,0 +1,295 @@
+{
+ "id": 209499,
+ "title": {
+  "romaji": "TANK CHAIR: Sensha Isu",
+  "english": "TANK CHAIR",
+  "native": "TANK CHAIR-戦車椅子-"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "POLYGON PICTURES"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Manabu Yashiro",
+      "native": "やしろ学"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroaki Andou",
+      "native": "安藤裕章"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tadahiro Yoshihira",
+      "native": "吉平直弘"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tadahiro Yoshihira",
+      "native": "吉平直弘"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Moriyama",
+      "native": "森山佑樹"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yoshikatsu Matsumoto",
+      "native": "松本吉勝"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masanori Tsuchiya",
+      "native": "土屋雅紀"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masaru Yokoyama",
+      "native": "横山克"
+     }
+    }
+   },
+   {
+    "role": "Production Design",
+    "node": {
+     "name": {
+      "full": "Kazuma Teshigahara",
+      "native": "勅使河原一馬"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hiroaki Andou",
+      "native": "安藤裕章"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Tadahiro Yoshihira",
+      "native": "吉平直弘"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "DAOKO",
+      "native": "だをこ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "SiM",
+      "native": "シム"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "DAOKO",
+      "native": "だをこ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "SiM",
+      "native": "シム"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "SiM",
+      "native": "シム"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "MAH",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Sasuke Haraguchi",
+      "native": "原口沙輔"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Sasuke Haraguchi",
+      "native": "原口沙輔"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Jon Lundin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Jon Lundin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Jon Lundin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Tsutomu Nihei",
+      "native": "弐瓶勉"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Tsutomu Nihei",
+      "native": "弐瓶勉"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Juliana Gomes",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Nagi Taira",
+      "native": "平良凪"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouki Uchiyama",
+       "native": "内山昂輝"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shizuka Taira",
+      "native": "平良静"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minori Fujidera",
+       "native": "藤寺美徳"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

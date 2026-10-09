@@ -1,0 +1,280 @@
+{
+ "id": 178462,
+ "title": {
+  "romaji": "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.",
+  "english": "I'm Getting Married to a Girl I Hate in My Class",
+  "native": "クラスの大嫌いな女子と結婚することになった。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 21
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Gokumi"
+   },
+   {
+    "name": "AXsiZ"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Seiju Amano",
+      "native": "天乃聖樹"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Nanami Narumi",
+      "native": "成海七海"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mosskonbu",
+      "native": "もすこんぶ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Ooshima",
+      "native": "大嶋博之"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tatsuya Takahashi",
+      "native": "高橋龍也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Nanako Tatsu",
+      "native": "田津奈々子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Alisa Okehazama",
+      "native": "桶狭間ありさ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kaori Maeda",
+      "native": "前田佳織里"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Sayumi Suzushiro",
+      "native": "鈴代紗弓"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hinaki Yano",
+      "native": "矢野妃菜喜"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumihiko Ootera",
+      "native": "大寺文彦"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Nene Hieda",
+      "native": "稗田寧々"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1-4)",
+    "node": {
+     "name": {
+      "full": "Nanako Tatsu",
+      "native": "田津奈々子"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (OP)",
+    "node": {
+     "name": {
+      "full": "Nanako Tatsu",
+      "native": "田津奈々子"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Hoyin Lau",
+      "native": "ラウホイン"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP, eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Hoyin Lau",
+      "native": "ラウホイン"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Hoyin Lau",
+      "native": "ラウホイン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "=LOVE",
+      "native": "イコールラブ"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2, 4)",
+    "node": {
+     "name": {
+      "full": "Yuuji Morita",
+      "native": "森田祐司"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2, 4)",
+    "node": {
+     "name": {
+      "full": "Qi Wu",
+      "native": "呉琦"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2, 4)",
+    "node": {
+     "name": {
+      "full": "Hong Zhou",
+      "native": "周鸿"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2, 4)",
+    "node": {
+     "name": {
+      "full": "Huanhuan Zheng",
+      "native": "郑欢欢"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP, eps 1, 2, 4)",
+    "node": {
+     "name": {
+      "full": "Yuuhei Arayama",
+      "native": "阿良山侑平"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Akane Sakuramori",
+      "native": "桜森朱音"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hinaki Yano",
+       "native": "矢野妃菜喜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Saito Houjou",
+      "native": "北条才人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Sakata",
+       "native": "坂田将吾"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

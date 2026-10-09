@@ -1,0 +1,334 @@
+{
+ "id": 199112,
+ "title": {
+  "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?): Next Shine!",
+  "english": "There's No Freaking Way I'll Be Your Lover! Unless… ~Next Shine~",
+  "native": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)〜ネクストシャイン！〜"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 1
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 1
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 5,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "studio MOTHER"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Teren Mikami",
+      "native": "みかみてれん"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Eku Takeshima",
+      "native": "竹嶋えく"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Natsumi Uchinuma",
+      "native": "内沼菜摘"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Naruhisa Arakawa",
+      "native": "荒川稔久"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hirokazu Kojima",
+      "native": "小島大和"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Keito Watanabe",
+      "native": "渡辺佳人"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuri Takagi",
+      "native": "高木佑梨"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mitsuko Sekimoto",
+      "native": "関本美津子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takuma Morooka",
+      "native": "師岡拓磨"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ichirou Chaen",
+      "native": "茶圓一郎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Yamaguchi",
+      "native": "山口貴之"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Fujisawa",
+      "native": "藤澤慶昌"
+     }
+    }
+   },
+   {
+    "role": "Script (ep 1)",
+    "node": {
+     "name": {
+      "full": "Naruhisa Arakawa",
+      "native": "荒川稔久"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Jun Kamiya",
+      "native": "神谷純"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Seiji Kishimoto",
+      "native": "きしもとせいじ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Takafumi Shiokawa",
+      "native": "塩川貴史"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Katsuhito Oomiya",
+      "native": "大宮一仁"
+     }
+    }
+   },
+   {
+    "role": "Production Assistant (ED)",
+    "node": {
+     "name": {
+      "full": "Masahiro Takahashi",
+      "native": "高橋将大"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Masahiro Takahashi",
+      "native": "高橋将大"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Manami Ishida",
+      "native": "石田麻菜美"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Adam Dmitrzuk",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Sadamomo",
+      "native": "さだもも"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Momoka Kajihata",
+      "native": "楮畑百香"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "BB",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Renako Amaori",
+      "native": "甘織れな子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kanna Nakamura",
+       "native": "中村カンナ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mai Ouzuka",
+      "native": "王塚真唯"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Oonishi",
+       "native": "大西沙織"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Satsuki Koto",
+      "native": "琴紗月"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ajisai Sena",
+      "native": "瀬名紫陽花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yukari Anzai",
+       "native": "安齋由香里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kaho Koyanagi",
+      "native": "小柳香穗"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takako Tanaka",
+       "native": "田中貴子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,359 @@
+{
+ "id": 180812,
+ "title": {
+  "romaji": "A-Rank Party wo Ridatsu Shita Ore wa, Moto Oshiegotachi to Meikyuu Shinbu wo Mezasu.",
+  "english": "I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!",
+  "native": "Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 29
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bandai Namco Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kosuke Unagi",
+      "native": "右薙光介"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Super Zombie",
+      "native": "すーぱーぞんび"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Katsumi Ono",
+      "native": "小野勝巳"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masakazu Yamazaki",
+      "native": "山崎正和"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Gou Sakabe",
+      "native": "坂部剛"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Akira Takahashi",
+      "native": "高橋晃"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yumiko Hara",
+      "native": "原由美子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Ippei Ichii",
+      "native": "一居一平"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Masakazu Yamazaki",
+      "native": "山崎正和"
+     }
+    }
+   },
+   {
+    "role": "Action Animation Director",
+    "node": {
+     "name": {
+      "full": "Akira Kikuchi",
+      "native": "菊池晃"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Gino Palencia",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Concept Design",
+    "node": {
+     "name": {
+      "full": "Shin Misawa",
+      "native": "三沢伸"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mutsumi Takemiya",
+      "native": "武宮むつみ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hitomi Yoshida",
+      "native": "吉田ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Chiba",
+      "native": "千葉洋之"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Jeramey Kraatz",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1, ED2, ED3)",
+    "node": {
+     "name": {
+      "full": "Yuki Tanaka",
+      "native": "田中有紀"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shuuhei Abe",
+      "native": "阿部秀平"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Akira Kikuchi",
+      "native": "菊池晃"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akira Nagasaka",
+      "native": "ながさか暁"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Manuel Aragon",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yuke",
+      "native": "ユーク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiromu Mineta",
+       "native": "峯田大夢"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Marina",
+      "native": "マリナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hana Inami",
+       "native": "伊南羽桜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Silk",
+      "native": "シルク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Kawaida",
+       "native": "川井田夏海"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rain",
+      "native": "レイン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nene Hieda",
+       "native": "稗田寧々"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jamie",
+      "native": "ジェミー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mao Ichimichi",
+       "native": "市道真央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nene",
+      "native": "ネネ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maria Sashide",
+       "native": "指出毬亜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

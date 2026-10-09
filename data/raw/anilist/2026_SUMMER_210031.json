@@ -1,0 +1,359 @@
+{
+ "id": 210031,
+ "title": {
+  "romaji": "Seihantai na Kimi to Boku 2nd Season",
+  "english": "You and I Are Polar Opposites Season 2",
+  "native": "正反対な君と僕 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 4
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lapin Track"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Koucha Agasawa",
+      "native": "阿賀沢紅茶"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takayoshi Nagatomo",
+      "native": "長友孝和"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Teruko Utsumi",
+      "native": "内海照子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mako Miyako",
+      "native": "みやこまこ"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Naho Kozono",
+      "native": "小園菜穂"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Tamami Izawa",
+      "native": "伊澤珠美"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Rie Maehara",
+      "native": "前原里恵"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Chieko Nakamura",
+      "native": "中村千恵子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuki Akimoto",
+      "native": "秋元由紀 "
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Shiokawa",
+      "native": "塩川智幸"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masayuki Kurosawa",
+      "native": "黒澤雅之"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Koshida",
+      "native": "越田祐史"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Eriko Kimura",
+      "native": "木村絵理子"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yui Andou",
+      "native": "安藤由衣"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "tofubeats",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music Selection",
+    "node": {
+     "name": {
+      "full": "Maiko Gouda",
+      "native": "合田麻衣子"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Teruko Utsumi",
+      "native": "内海照子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Naho Kozono",
+      "native": "小園菜穂"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Sayuri Sakimoto",
+      "native": "崎本さゆり"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kazuko Hayakawa",
+      "native": "早川加寿子"
+     }
+    }
+   },
+   {
+    "role": "2D Works",
+    "node": {
+     "name": {
+      "full": "Wataru Osakabe",
+      "native": "越阪部ワタル"
+     }
+    }
+   },
+   {
+    "role": "Recording",
+    "node": {
+     "name": {
+      "full": "Hiroaki Oota",
+      "native": "太田泰明"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Eriko Kimura",
+      "native": "木村絵理子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Toshiyuki Satou",
+      "native": "佐藤利幸"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Miyu Suzuki",
+      "native": "鈴木みゆ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuusuke Tani",
+      "native": "谷悠介"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Sakata",
+       "native": "坂田将吾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Natsumi Nishi",
+      "native": "西奈津美"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Cocoro Oomori",
+       "native": "大森こころ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kentarou Yamada",
+      "native": "山田健太郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Anji Iwata",
+       "native": "岩田アンジ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shino Azuma",
+      "native": "東紫乃"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyuri Shimabukuro",
+       "native": "島袋美由利"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shuuji Taira",
+      "native": "平秀司"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Wataru Katou",
+       "native": "加藤渉"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

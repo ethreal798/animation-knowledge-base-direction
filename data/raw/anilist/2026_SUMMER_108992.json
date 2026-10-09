@@ -1,0 +1,311 @@
+{
+ "id": 108992,
+ "title": {
+  "romaji": "Mebius Dust",
+  "english": "Mebius Dust",
+  "native": "メビウス・ダスト"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 24
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Doga Kobo"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Hajime Shinagawa",
+      "native": "品川一"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hajime Shinagawa",
+      "native": "品川一"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tarou Iwasaki",
+      "native": "岩崎太郎"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoriko Tomita",
+      "native": "冨田頼子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hatsume Kojima",
+      "native": "小嶋はつめ"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Keiko Ichihara",
+      "native": "市原圭子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kyouko Nagata",
+      "native": "永田杏子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Ogura",
+      "native": "小倉寛之"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Masuhiro Yamada",
+      "native": "山田益弘"
+     }
+    }
+   },
+   {
+    "role": "Action Animator",
+    "node": {
+     "name": {
+      "full": "Takashi Hashimoto",
+      "native": "橋本敬史"
+     }
+    }
+   },
+   {
+    "role": "Action Animator",
+    "node": {
+     "name": {
+      "full": "Waikwan Suen",
+      "native": "孫威軍"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Youko Nakao",
+      "native": "中尾陽子"
+     }
+    }
+   },
+   {
+    "role": "Assistant Art Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Fujimoto",
+      "native": "藤本智"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Rie Onodera",
+      "native": "小野寺里恵"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Genta Makabe",
+      "native": "真壁源太"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Seiichi Sugiura",
+      "native": "杉浦誠一"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hiroaki Natsuhara",
+      "native": "夏原弘成"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kashiko Kimura",
+      "native": "木村佳史子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Ogawa",
+      "native": "小川耕平"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Takadera",
+      "native": "高寺たけし"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Toshiya Wada",
+      "native": "和田俊也"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "DÉ DÉ MOUSE",
+      "native": "デデマウス"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Madoka Fukami",
+      "native": "深水円"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Kazuharu Masuda",
+      "native": "増田一陽"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Tetsuya Matsumoto",
+      "native": "松本鉄也"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Olga Shiratori",
+      "native": "白鳥織花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Satou",
+       "native": "佐藤榛夏"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Araki Tomori",
+      "native": "松明 新樹"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuto Takenaka",
+       "native": "竹中悠斗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Stella Tomori",
+      "native": "松明ステラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nene Hieda",
+       "native": "稗田寧々"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

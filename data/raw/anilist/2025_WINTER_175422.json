@@ -1,0 +1,301 @@
+{
+ "id": 175422,
+ "title": {
+  "romaji": "Baban Baban Ban Vampire",
+  "english": "Babanba Banban Vampire",
+  "native": "ババンババンバンバンパイア"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 29
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Gaina"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hiromasa Okujima",
+      "native": "奥嶋ひろまさ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Itsurou Kawasaki",
+      "native": "川崎逸朗"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Tamano",
+      "native": "球野たかひろ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Ban",
+      "native": "番由紀子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Manami Minakata",
+      "native": "南方麻奈美"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shunsuke Masuda",
+      "native": "増田俊介"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ryouta Tamura",
+      "native": "田村亮太"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Emi Ikemori",
+      "native": "池森絵美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hirofumi Sakagami",
+      "native": "坂上裕文"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hiroshi Katou",
+      "native": "加藤浩"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuichi Asami",
+      "native": "浅見由一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Chie Yoshimura",
+      "native": "吉村智恵"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Rieko Koike",
+      "native": "小池里恵子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Daisuke Hiraki",
+      "native": "平木大輔"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Masaru Kaise",
+      "native": "海瀬大"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Jun Ichikawa",
+      "native": "市川淳"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Itsurou Kawasaki",
+      "native": "川崎逸朗"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Ban",
+      "native": "番由紀子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Satoru Kiyomaru",
+      "native": "清丸悟"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Shunsuke Masuda",
+      "native": "増田俊介"
+     }
+    }
+   },
+   {
+    "role": "Special Effects",
+    "node": {
+     "name": {
+      "full": "Tomomi Ishihara",
+      "native": "石原智美"
+     }
+    }
+   },
+   {
+    "role": "2D Design",
+    "node": {
+     "name": {
+      "full": "Kakeru Ikeuchi",
+      "native": "池内翔"
+     }
+    }
+   },
+   {
+    "role": "Art Supervisor",
+    "node": {
+     "name": {
+      "full": "Hiroshi Katou",
+      "native": "加藤浩"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "BLUE ENCOUNT",
+      "native": "ブルー・エンカウント"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ranmaru Mori",
+      "native": "森蘭丸"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Namikawa",
+       "native": "浪川大輔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rihito Tatsuno",
+      "native": "立野李仁"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Kobayashi",
+       "native": "小林裕介"
+      }
+     },
+     {
+      "name": {
+       "full": "Anna Nagase",
+       "native": "永瀬アンナ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

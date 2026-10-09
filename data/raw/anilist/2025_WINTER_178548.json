@@ -1,0 +1,300 @@
+{
+ "id": 178548,
+ "title": {
+  "romaji": "Fuguushoku [Kanteishi] ga Jitsu wa Saikyou Datta: Naraku de Kitaeta Saikyou no [Shingan] de Musou Suru",
+  "english": "Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest",
+  "native": "不遇職【鑑定士】が実は最強だった～奈落で鍛えた最強の【神眼】で無双する～"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Okuruto Noboru"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Ibarakino",
+      "native": "茨木野"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yuu Hitaki",
+      "native": "ひたきゆう"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kenta Oonishi",
+      "native": "大西健太"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Tatsuya Sasaki",
+      "native": "佐々木達也"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sayuri Sakimoto",
+      "native": "崎本さゆり"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Daisuke Negishi",
+      "native": "根岸大輔"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Nazuna Okamura",
+      "native": "岡村奈沙"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Nozomi Nakatani",
+      "native": "中谷希美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Satoshi Houno",
+      "native": "宝野聡史"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kaori Nakano",
+      "native": "中野香梨"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "22/7",
+      "native": "ナナブンノニジュウニ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Asterism",
+      "native": "アステリズム"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jamal Roberson",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "William Dewell",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Domonique French",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Susie Nixon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jason Lord",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Asterism",
+      "native": "アステリズム"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Asterism",
+      "native": "アステリズム"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "HAL-CA",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Rhythm Bhattacharje",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ein",
+      "native": "アイン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kikunosuke Toya",
+       "native": "戸谷菊之介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Pina",
+      "native": "ピナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuu Serizawa",
+       "native": "芹澤優"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuuri",
+      "native": "ユーリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hikaru Toono",
+       "native": "遠野ひかる"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ursula",
+      "native": "ウルスラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

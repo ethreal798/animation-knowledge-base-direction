@@ -1,0 +1,317 @@
+{
+ "id": 175872,
+ "title": {
+  "romaji": "Isshun de Chiryou Shiteita no ni Yakutatazu to Tsuihou Sareta Tensai Chiyushi, Yami Healer Toshite Tanoshiku Ikiru",
+  "english": "The Brilliant Healer's New Life in the Shadows",
+  "native": "一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 19
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Makaria"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Sakaku Hishikawa",
+      "native": "菱川さかく"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Ryuu Dabu",
+      "native": "だぶ竜"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Joe Yoshizaki",
+      "native": "吉崎譲"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Sawada",
+      "native": "澤田慶宏"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "denpuougi",
+      "native": "電風扇"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Gouroku",
+      "native": "合六弘 "
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Moe Kawada",
+      "native": "河田萌"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kouhei Tanada",
+      "native": "棚田耕平"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiroto Morishita",
+      "native": "森下広人"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Harumi Fuuki",
+      "native": "富貴晴美"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Daishou Miyagi",
+      "native": "宮城大翔"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jamal Roberson",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Rickey Watkins",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Bruno Sangregório",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Maitê Cunha",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Ailton Rosa",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Susie Nixon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jason Lord",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Layout (ep 5)",
+    "node": {
+     "name": {
+      "full": "Xercharles Anonat",
+      "native": "ゼルチャールズ"
+     }
+    }
+   },
+   {
+    "role": "Layout (ep 5)",
+    "node": {
+     "name": {
+      "full": "Nathan Gauvreau",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Nathan Gauvreau",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Layout (ep 6)",
+    "node": {
+     "name": {
+      "full": "Raumil Nerurkar",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Audrey Rigg",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Layout (eps 2, 5, 6, 12)",
+    "node": {
+     "name": {
+      "full": "Sun Kimpor",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "bokula.",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Zenos",
+      "native": "ゼノス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Sakata",
+       "native": "坂田将吾"
+      }
+     },
+     {
+      "name": {
+       "full": "Miyuki Sakurai",
+       "native": "櫻井みゆき"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lily",
+      "native": "リリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miharu Hanai",
+       "native": "花井美春"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Carmilla",
+      "native": "カーミラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Youko Hikasa",
+       "native": "日笠陽子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "id": 174914,
+ "title": {
+  "romaji": "Tensei Akujo no Kuro Rekishi",
+  "english": "The Dark History of the Reincarnated Villainess",
+  "native": "転生悪女の黒歴史"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 25
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Akiharu Touka",
+      "native": "冬夏アキハル"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroaki Sakurai",
+      "native": "桜井弘明"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Hirota",
+      "native": "広田光毅"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tomoyo Sawada",
+      "native": "澤田知世"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Atsuko Watanabe",
+      "native": "渡辺敦子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Sayuri Sakimoto",
+      "native": "崎本さゆり"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shuuhei Nishitani",
+      "native": "西谷衆平"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeuchi",
+      "native": "武内佑介"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Takayuki Yoneyama",
+      "native": "米山貴之"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Kaoru Wada",
+      "native": "和田薫"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masaki Mayuzumi",
+      "native": "黛昌樹"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yui Azumi",
+      "native": "安住唯"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Akira Shimozaki",
+      "native": "下崎昭"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keiko Onodera",
+      "native": "小野寺桂子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shinsuke Ooshima",
+      "native": "大嶋慎介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yasunori Ebina",
+      "native": "蝦名恭範"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Takada",
+      "native": "高田龍一"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yoshifumi Nakata",
+      "native": "中田善文"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Taigyou Matsumoto",
+      "native": "松本泰業"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Michiyoshi Minamisawa",
+      "native": "南沢道義"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Yukio Tomioka",
+      "native": "冨岡幸雄"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Yangqian Ge",
+      "native": "葛仰骞"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Motoyuki Itakura",
+      "native": "板倉基之"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Hiroshi Hagawa",
+      "native": "羽川寛"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Seiji Andou",
+      "native": "安藤盛治"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Iana Magnolia",
+      "native": "イアナ・マグノリア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshino Aoyama",
+       "native": "青山吉能"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

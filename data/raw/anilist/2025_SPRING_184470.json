@@ -1,0 +1,390 @@
+{
+ "id": 184470,
+ "title": {
+  "romaji": "Himitsu no AiPri: Ring-hen",
+  "english": null,
+  "native": "ひみつのアイプリ リング編"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 51,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "OLM"
+   },
+   {
+    "name": "Dongwoo Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "syn Sophia, Inc.",
+      "native": "株式会社シンソフィア"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Takara Tomy",
+      "native": "タカラトミー"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Nashimoto",
+      "native": "梨本裕美"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Junichi Fujisaku",
+      "native": "藤咲淳一"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kentarou Yamaguchi",
+      "native": "山口健太郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Jai-Ho An",
+      "native": "안재호"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Gyeong-Won Choi",
+      "native": "최경원"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Byeong-Cheol Jeon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Sung-Min Nam",
+      "native": "남성민"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Gi-Chuel Shin",
+      "native": "신기철"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Seong-Hyeon Kim",
+      "native": "김성현"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Seon-Gyeong Oh",
+      "native": "오선경"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Gigaemon Ichikawa",
+      "native": "市川十億衛門"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Nagano",
+      "native": "永野佑貴"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Satoru Yanagawa",
+      "native": "柳川智"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Noriyoshi Konuma",
+      "native": "小沼則義"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Izumi Mori",
+      "native": "森いづみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Pmaru-sama.",
+      "native": "P丸様。"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Minori Fujidera",
+      "native": "藤寺美徳"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Chou Tokimeki♡Senden-bu",
+      "native": "超ときめき♡宣伝部"
+     }
+    }
+   },
+   {
+    "role": "Production Generalization",
+    "node": {
+     "name": {
+      "full": "Takashi Inoue",
+      "native": "井上たかし"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Himari Aozora",
+      "native": "青空ひまり"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minori Fujidera",
+       "native": "藤寺美徳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mitsuki Hoshikawa",
+      "native": "星川みつき"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sae Hiratsuka",
+       "native": "平塚紗依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tsumugi Suzukaze",
+      "native": "鈴風つむぎ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yurika Kubo",
+       "native": "久保ユリカ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chii Mamiya",
+      "native": "真実夜チィ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "You Taichi",
+       "native": "大地葉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ring Clover",
+      "native": "リング・クローバー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Eri Kitamura",
+       "native": "喜多村英梨"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Juria Igarashi",
+      "native": "五十嵐じゅりあ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rio Tsuchiya",
+       "native": "土屋李央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Elle Rokudou",
+      "native": "六堂える"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rina Kawaguchi",
+       "native": "川口莉奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Subaru Nanaura",
+      "native": "七浦すばる"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tatsuyuki Kobayashi",
+       "native": "小林竜之"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Otome Nanaura",
+      "native": "七浦おとめ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kirara Oomori",
+       "native": "大森綺星"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Vivi Hachiouji",
+      "native": "八王子ビビ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Momoka Terasawa",
+       "native": "寺澤百花"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,311 @@
+{
+ "id": 203880,
+ "title": {
+  "romaji": "Reiwa no Dara-san",
+  "english": "Dara-san of the Reiwa Era",
+  "native": "令和のダラさん"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 24
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Asahi Production"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Haruomi Tomotsuka",
+      "native": "ともつか治臣"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masato Suzuki",
+      "native": "鈴木理人"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Noboru Kimura",
+      "native": "木村暢"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yasunori Yamada",
+      "native": "山田靖智"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kouichi Kikuta",
+      "native": "菊田幸一"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Rie Ikegami",
+      "native": "池上理恵"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Yui Ushinohama",
+      "native": "牛ノ濱由惟"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Yoshiko Takemoto",
+      "native": "竹本佳子"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Ririka Yamazaki",
+      "native": "山﨑理璃花"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Maruyama",
+      "native": "丸山由紀子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Teruko Takekoshi",
+      "native": "竹越輝子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Miho Norisue",
+      "native": "乗末美穂"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shuuichi Ookubo",
+      "native": "大久保修一"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kayoko Tomono",
+      "native": "友野加世子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hayato Yoshida",
+      "native": "吉田隼人"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Wenxin He",
+      "native": "何文馨"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ami Ishii",
+      "native": "石井亜美"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ikki Kuwahara",
+      "native": "桑原一輝"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Rei Ishizuka",
+      "native": "石塚玲依"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Ryuuji Watarai",
+      "native": "度会竜司"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Masaki Terasoma",
+      "native": "てらそままさき"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Mutsumi Tamura",
+      "native": "田村睦心"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Minami Tsuda",
+      "native": "津田美波"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Momoka Terasawa",
+      "native": "寺澤百花"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "REIRIE",
+      "native": "REIRIE"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Dara-san",
+      "native": "ダラさん"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mutsumi Tamura",
+       "native": "田村睦心"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hinata Misogiya",
+      "native": "三十木谷日向"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minami Tsuda",
+       "native": "津田美波"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kaoru Misogiya",
+      "native": "三十木谷薫"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Momoka Terasawa",
+       "native": "寺澤百花"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

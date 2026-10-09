@@ -1,0 +1,275 @@
+{
+ "id": 169420,
+ "title": {
+  "romaji": "Watari-kun no ×× ga Houkai Sunzen",
+  "english": "Watari-kun's ****** Is about to Collapse",
+  "native": "渡くんの××が崩壊寸前"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 26,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Staple Entertainment"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Naru Narumi",
+      "native": "鳴見なる"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takashi Naoya",
+      "native": "直谷たかし"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Matsuo Asami",
+      "native": "浅見松雄"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tatsuya Takahashi",
+      "native": "高橋龍也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shouko Yasuda",
+      "native": "安田祥子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Chie Yamazaki",
+      "native": "山崎千絵"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Nonoka Suzuki",
+      "native": "鈴木ののか"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Takashi Naoya",
+      "native": "直谷たかし"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Tetsuya Yamada",
+      "native": "山田哲弥"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Toshimitsu Kobayashi",
+      "native": "小林利充"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Shouko Yasuda",
+      "native": "安田祥子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Sachiyo Komito",
+      "native": "小美戸幸代"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Taeko Ougi",
+      "native": "扇多恵子"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Helena Walstrom",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Seth Aulds",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Matthew Greenbaum",
+      "native": "Matthew Steven Greenbaum"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Ayuni D",
+      "native": "アユニ・D"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "Yuika",
+      "native": "『ユイカ』"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "Yurina Hirate",
+      "native": "平手友梨奈"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "shallm",
+      "native": "シャルム"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Satsuki Tachibana",
+      "native": "館花紗月"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumika Yano",
+       "native": "矢野優美華"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Naoto Watari",
+      "native": "渡直人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuuichirou Umeda",
+       "native": "梅田修一朗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Suzushiro Watari",
+      "native": "渡鈴白"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hinaki Yano",
+       "native": "矢野妃菜喜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

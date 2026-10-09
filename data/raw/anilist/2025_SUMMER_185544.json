@@ -1,0 +1,223 @@
+{
+ "id": 185544,
+ "title": {
+  "romaji": "Tsuihousha Shokudou e Youkoso!",
+  "english": "Welcome to the Outcast's Restaurant!",
+  "native": "追放者食堂へようこそ！"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 19
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "OLM"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Yuuki Kimikawa",
+      "native": "君川優樹"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design (Credit Removed)",
+    "node": {
+     "name": {
+      "full": "Gaou",
+      "native": "がおう"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Jouji Shimura",
+      "native": "志村錠児"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Mieno",
+      "native": "三重野瞳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Aoi Yamato",
+      "native": "大和葵"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yasukazu Shouji",
+      "native": "東海林康和"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shinobu Ookawa",
+      "native": "大河しのぶ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kenji Katou",
+      "native": "加藤賢司"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Nao Satou",
+      "native": "佐藤直"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Atsushi Satou",
+      "native": "佐藤敦"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Naoki Watanabe",
+      "native": "渡辺直樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Noriyoshi Konuma",
+      "native": "小沼則義"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masato Kouda",
+      "native": "甲田雅人"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Dannie May",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Daisuke Yoshioka",
+      "native": "吉岡大輔"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Chou Tokimeki♡Senden-bu",
+      "native": "超ときめき♡宣伝部"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 2, 10)",
+    "node": {
+     "name": {
+      "full": "YAMI",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Dennis",
+      "native": "デニス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunsuke Takeuchi",
+       "native": "武内駿輔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Atelier",
+      "native": "アトリエ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Marika Tachibana",
+       "native": "橘茉莉花"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

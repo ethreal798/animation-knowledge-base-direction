@@ -1,0 +1,279 @@
+{
+ "id": 188487,
+ "title": {
+  "romaji": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou Sarete Saikyou wo Mezasu",
+  "english": "The Banished Court Magician Aims to Become the Strongest",
+  "native": "味方が弱すぎて補助魔法に徹していた宮廷魔法師、追放されて最強を目指す"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 20
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Gekkou"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Aruto",
+      "native": "アルト"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yuunagi",
+      "native": "夕薙"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ken Takahashi",
+      "native": "高橋賢"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Masamune Hirata",
+      "native": "平田政宗"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Youko Satou",
+      "native": "佐藤陽子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Nobuhide Hayashi",
+      "native": "林信秀"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Ujiie",
+      "native": "氏家嘉宏"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yuzuki Sekine",
+      "native": "関根柚月"
+     }
+    }
+   },
+   {
+    "role": "Accessory Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Ujiie",
+      "native": "氏家嘉宏"
+     }
+    }
+   },
+   {
+    "role": "Accessory Design",
+    "node": {
+     "name": {
+      "full": "Yuzuki Sekine",
+      "native": "関根柚月"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Manabu Otsuzuki",
+      "native": "緒続学"
+     }
+    }
+   },
+   {
+    "role": "Art Board",
+    "node": {
+     "name": {
+      "full": "Shingo Kanai",
+      "native": "金井眞悟"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ryouta Katsuta",
+      "native": "勝田綾太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Maki Yamamoto",
+      "native": "山本真希"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shigeki Asakawa",
+      "native": "浅川茂輝"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hisashi Akimoto",
+      "native": "秋元央"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Nobuyuki Abe",
+      "native": "阿部信行"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Youko Satou",
+      "native": "佐藤陽子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Nobuhide Hayashi",
+      "native": "林信秀"
+     }
+    }
+   },
+   {
+    "role": "Monster Animation Director",
+    "node": {
+     "name": {
+      "full": "Kou Kawarajima",
+      "native": "かわらじま晃"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Yoshiki Kuga",
+      "native": "久我嘉輝"
+     }
+    }
+   },
+   {
+    "role": "Background Art (OP, ED, eps 1-12)",
+    "node": {
+     "name": {
+      "full": "Yuuki Hatakeyama",
+      "native": "畠山佑貴"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Kiro Akiyama",
+      "native": "秋山黄色"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "aruma",
+      "native": "aruma"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Alec Huguette",
+      "native": "アレク・ユグレット"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuuichirou Umeda",
+       "native": "梅田修一朗"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

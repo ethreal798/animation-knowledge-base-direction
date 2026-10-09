@@ -1,0 +1,295 @@
+{
+ "id": 171110,
+ "title": {
+  "romaji": "Honzuki no Gekokujou: Ryoushu no Youjo",
+  "english": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+  "native": "本好きの下剋上 領主の養女"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 3
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "WIT STUDIO"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Miya Kazuki",
+      "native": "香月美夜"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "You Shiina",
+      "native": "椎名優"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Iwasaki",
+      "native": "岩崎良明"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mariko Kunisawa",
+      "native": "國澤真理子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Aiko Minowa",
+      "native": "簑輪愛子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shigeyuki Koresawa",
+      "native": "コレサワシゲユキ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Tom",
+      "native": "灯夢"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Michiru Kodaka",
+      "native": "小高みちる"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Seiki Tamura",
+      "native": "田村せいき"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Seiki Tamura",
+      "native": "田村せいき"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ayami Hidaka",
+      "native": "日高綾美"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ikuko Tamine",
+      "native": "田峰育子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yifei Lyu",
+      "native": "吕逸飞"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Makiho Kondou",
+      "native": "近藤牧穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mayuko Koike",
+      "native": "小池真由子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Junichi Masunaga",
+      "native": "増永純一"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jun Watanabe",
+      "native": "渡辺淳"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hiromune Kurahashi",
+      "native": "倉橋裕宗"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Michiru",
+      "native": "未知瑠"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Keita Yoshinobu",
+      "native": "吉信慶太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "Little Glee Monster",
+      "native": "リトル グリー モンスター"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Erika Ikuta",
+      "native": "生田絵梨花"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "Moka Kamishiraishi",
+      "native": "上白石萌歌"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Kana Nishino",
+      "native": "西野カナ"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (ep 12)",
+    "node": {
+     "name": {
+      "full": "Yuka Iguchi",
+      "native": "井口裕香"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Myne",
+      "native": "マイン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuka Iguchi",
+       "native": "井口裕香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ferdinand",
+      "native": "フェルディナンド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shou Hayami",
+       "native": "速水奨"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

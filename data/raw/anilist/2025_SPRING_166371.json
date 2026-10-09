@@ -1,0 +1,206 @@
+{
+ "id": 166371,
+ "title": {
+  "romaji": "HANA-Doll*: Reinterpretation of Flowering",
+  "english": null,
+  "native": "華Doll*-Reinterpretation of Flowering-"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 25
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "A-Real"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "R/0",
+      "native": "R/0"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Takata",
+      "native": "高田真宏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "GyroKnuckle",
+      "native": "ジャイロナックル"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Risa Arai",
+      "native": "荒井梨沙"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Takanori Yamaura",
+      "native": "山浦貴法"
+     }
+    }
+   },
+   {
+    "role": "CG Production",
+    "node": {
+     "name": {
+      "full": "Saya  Fukase",
+      "native": "深瀬沙哉"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Teita",
+      "native": "悌太"
+     }
+    }
+   },
+   {
+    "role": "Amagiri Toukatsu Producer ",
+    "node": {
+     "name": {
+      "full": "R/0",
+      "native": "R/0"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Lihito Toudo",
+      "native": "灯堂理人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kento Itou",
+       "native": "伊東健人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mahiro Yuuki",
+      "native": "結城眞紘"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Seiichirou Yamashita",
+       "native": "山下誠一郎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kaoru Kisaragi",
+      "native": "如月薫"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunichi Toki",
+       "native": "土岐隼一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ryouga Kagekawa",
+      "native": "影河凌駕"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Hamano",
+       "native": "濱野大輝"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Haruta Kiyose",
+      "native": "清瀬陽汰"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiki Masuda",
+       "native": "増田俊樹"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chise Shorai",
+      "native": "祥來千勢"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Wataru Komada",
+       "native": "駒田航"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

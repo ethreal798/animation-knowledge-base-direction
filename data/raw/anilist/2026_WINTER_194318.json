@@ -1,0 +1,302 @@
+{
+ "id": 194318,
+ "title": {
+  "romaji": "Yoroi Shinden Samurai Troopers",
+  "english": "Yoroi-Shinden Samurai Troopers",
+  "native": "鎧真伝サムライトルーパー"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 24
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Sunrise"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hajime Yatate",
+      "native": "矢立肇"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Youichi Fujita",
+      "native": "藤田陽一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shougo Mutou",
+      "native": "武藤将吾"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Nishimura",
+      "native": "西村博之"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Osamu Tayama",
+      "native": "田山修"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miho Tanaka",
+      "native": "田中美穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Rumi Ishiguro",
+      "native": "石黒瑠美"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kumiko Sakamoto",
+      "native": "坂本久美子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Keisuke Takahashi",
+      "native": "高橋圭祐"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Masaomi Suzuki",
+      "native": "鈴木雅臣"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryou Tanaka",
+      "native": "田中亮 "
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Shuuji Katayama",
+      "native": "片山修志"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Shougo Mutou",
+      "native": "武藤将吾"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Junko Yamanaka",
+      "native": "山中純子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Tomoko Tanaka",
+      "native": "田中智子"
+     }
+    }
+   },
+   {
+    "role": "Villain Character Design",
+    "node": {
+     "name": {
+      "full": "Tsukasa Kotobuki",
+      "native": "ことぶきつかさ"
+     }
+    }
+   },
+   {
+    "role": "Main Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuhei Murota",
+      "native": "室田雄平"
+     }
+    }
+   },
+   {
+    "role": "Animation Yoroi Gear Design",
+    "node": {
+     "name": {
+      "full": "Takuya Suzuki",
+      "native": "鈴木卓也"
+     }
+    }
+   },
+   {
+    "role": "Original Yoroi Gear Design",
+    "node": {
+     "name": {
+      "full": "Hideo Okamoto",
+      "native": "岡本英郎"
+     }
+    }
+   },
+   {
+    "role": "Layout Design Director",
+    "node": {
+     "name": {
+      "full": "Akira Saitou",
+      "native": "齋藤瑛"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP)",
+    "node": {
+     "name": {
+      "full": "Tomohisa Taguchi",
+      "native": "田口智久"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP)",
+    "node": {
+     "name": {
+      "full": "Tomohisa Taguchi",
+      "native": "田口智久"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Kshitij Singh",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 6)",
+    "node": {
+     "name": {
+      "full": "Akeem Clarke",
+      "native": "クラーク・アキーム"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Musashi Houjou",
+      "native": "北条武蔵"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayumu Murase",
+       "native": "村瀬歩"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kaito Uesugi",
+      "native": "上杉魁人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junya Enoki",
+       "native": "榎木淳弥"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gai",
+      "native": "凱"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiiro Ishibashi",
+       "native": "石橋陽彩"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

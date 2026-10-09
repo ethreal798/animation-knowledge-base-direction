@@ -1,0 +1,311 @@
+{
+ "id": 174596,
+ "title": {
+  "romaji": "Sora-iro Utility (TV)",
+  "english": "Sorairo Utility (TV)",
+  "native": "空色ユーティリティ (TV)"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 22
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Yostar Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kengo Saitou",
+      "native": "斉藤健吾"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuu Satou",
+      "native": "佐藤裕"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kengo Saitou",
+      "native": "斉藤健吾"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Fumino Kakihata",
+      "native": "柿畑文乃"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Kodama",
+      "native": "児玉裕之"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Aoki",
+      "native": "青木裕子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hisaya Takahara",
+      "native": "高原久弥"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ritsu Takesaki",
+      "native": "タケサキリツ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shuntarou Shiba",
+      "native": "柴俊太郎"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yoshitaka Kudou",
+      "native": "工藤義隆"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masatoshi Sakai",
+      "native": "サカイマサトシ"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hosoi",
+      "native": "ほそい"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hitoki Takeda",
+      "native": "武田仁基"
+     }
+    }
+   },
+   {
+    "role": "Color Design Assistance",
+    "node": {
+     "name": {
+      "full": "Chihiro Irie",
+      "native": "入江千尋"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Jiann-Horng Wu",
+      "native": "呉健弘"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Koushirou Miya",
+      "native": "宮光司朗"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kengo Shigemura",
+      "native": "重村建吾"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayaka Satou",
+      "native": "佐藤彩香"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Ryuuta Chiba",
+      "native": "千葉隆太"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Daisuke Horita",
+      "native": "堀田大介"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Takuya Hasegawa",
+      "native": "長谷川卓也"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Daisuke Horita",
+      "native": "堀田大介"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Nao Watanabe",
+      "native": "渡部直"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Daisuke Horita",
+      "native": "堀田大介"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Hidehito Takagi",
+      "native": "高木秀仁"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Minami Aoba",
+      "native": "青羽美波"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyu Takagi",
+       "native": "高木美佑"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Haruka Akane",
+      "native": "茜遥"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yurina Amami",
+       "native": "天海由梨奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ayaka Hoshimi",
+      "native": "星美彩花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayasa Gotou",
+       "native": "後藤彩佐"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

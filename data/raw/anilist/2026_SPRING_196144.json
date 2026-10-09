@@ -1,0 +1,295 @@
+{
+ "id": 196144,
+ "title": {
+  "romaji": "Snowball Earth",
+  "english": "SNOWBALL EARTH",
+  "native": "スノウボールアース"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 26
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio KAI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuuhirou Tsujiji",
+      "native": "辻次夕日郎"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Munehisa Sakai",
+      "native": "境宗久"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Iwata",
+      "native": "岩田健志"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shigeru Murakoshi",
+      "native": "村越繁"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Toshiya Kouno",
+      "native": "河野敏弥"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Se-Joon Kim",
+      "native": "김세준"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mari Fujino",
+      "native": "藤野真里"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hironori Noji",
+      "native": "野地弘納"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kenta Hayashi",
+      "native": "林賢太"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shouta Kodera",
+      "native": "小寺翔太"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Tomoki Nagasaka",
+      "native": "長坂智樹"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hironori Motooka",
+      "native": "本岡宏紀"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tatsuya Katou",
+      "native": "加藤達也"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiroaki Tsutsumi",
+      "native": "堤博明"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukihiro Kanesaka",
+      "native": "金坂征広"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Toshiya Kouno",
+      "native": "河野敏弥"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Ryuuta Yanagi",
+      "native": "柳隆太"
+     }
+    }
+   },
+   {
+    "role": "Motion Graphics",
+    "node": {
+     "name": {
+      "full": "Hiromu Oshiro",
+      "native": "大城丈宗"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 9)",
+    "node": {
+     "name": {
+      "full": "Hiroshi Kobayashi",
+      "native": "小林寛"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Clara Campos",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Ai Higuchi",
+      "native": "ヒグチアイ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Conrado Sotero",
+      "native": "Conrado Gallucci Sotero"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "tuki.",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 13)",
+    "node": {
+     "name": {
+      "full": "Kaien Jin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Production Desk (eps 1-7)",
+    "node": {
+     "name": {
+      "full": "To Gentou",
+      "native": "ト・ゲントウ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tetsuo Yabusame",
+      "native": "流鏑馬鉄男"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuto Yoshinaga",
+       "native": "吉永拓斗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yukio",
+      "native": "ユキオ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Hirakawa",
+       "native": "平川大輔"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

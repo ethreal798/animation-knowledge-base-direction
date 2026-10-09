@@ -1,0 +1,359 @@
+{
+ "id": 199068,
+ "title": {
+  "romaji": "Shin Tennis no Ouji-sama: U-17 WORLD CUP Kesshou Member Ketteisen",
+  "english": "The Prince of Tennis II U-17 WORLD CUP: Final Member Selection Match",
+  "native": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 1
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "M.S.C"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Takeshi Konomi",
+      "native": "許斐剛"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yoshinobu Tokumoto",
+      "native": "徳本善信"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Hirota",
+      "native": "広田光毅"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akiharu Ishii",
+      "native": "石井明治"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kenichi Tajiri",
+      "native": "田尻健一"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Akane Ichinose",
+      "native": "一瀬あかね"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Tsumori",
+      "native": "津守裕子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuta Nakamura",
+      "native": "中村雄太"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Daisuke Hiraki",
+      "native": "平木大輔"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiroki Matsuoka",
+      "native": "松岡裕紀"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Chihiro Tamaki",
+      "native": "玉木千尋"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Akiharu Ishii",
+      "native": "石井明治"
+     }
+    }
+   },
+   {
+    "role": "CG Animation Director",
+    "node": {
+     "name": {
+      "full": "Norifumi Hirakawa",
+      "native": "平川典史"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Junko Minagawa",
+      "native": "皆川純子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Junichi Suwabe",
+      "native": "諏訪部順一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hidenobu Kiuchi",
+      "native": "木内秀信"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ryoutarou Okiayu",
+      "native": "置鮎龍太郎"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yuki Kaida",
+      "native": "甲斐田ゆき"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Takayuki Kondou",
+      "native": "近藤孝行"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Nagae Kuwahara",
+      "native": "桑原永江"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Yousuke Kurokawa",
+      "native": "黒川陽介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Yousuke Kurokawa",
+      "native": "黒川陽介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "UZA",
+      "native": "UZA"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "UZA",
+      "native": "UZA"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Yasunari Nakamura",
+      "native": "中村康就"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ryoma Echizen",
+      "native": "越前リョーマ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junko Minagawa",
+       "native": "皆川純子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kunimitsu Tezuka",
+      "native": "手塚国光"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryoutarou Okiayu",
+       "native": "置鮎龍太郎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shuichiro Oishi",
+      "native": "大石秀一郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takayuki Kondou",
+       "native": "近藤孝行"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shuusuke Fuji",
+      "native": "不二周助"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuki Kaida",
+       "native": "甲斐田ゆき"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Keigo Atobe",
+      "native": "跡部景吾"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junichi Suwabe",
+       "native": "諏訪部順一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuushi Oshitari",
+      "native": "忍足侑士"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hidenobu Kiuchi",
+       "native": "木内秀信"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "id": 178550,
+ "title": {
+  "romaji": "Unnamed Memory Act.2",
+  "english": "Unnamed Memory Season 2",
+  "native": "Unnamed Memory Act.2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 25
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "ENGI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kuji Furumiya",
+      "native": "古宮九時"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "chibi",
+      "native": "chibi"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuya Miura",
+      "native": "三浦和也"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Chihiro Kumano",
+      "native": "熊野千尋"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Mieno",
+      "native": "三重野瞳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Chika Noumi",
+      "native": "能海知佳"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Kawai",
+      "native": "河合良介"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ryousuke Kawai",
+      "native": "河合良介"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Eiko Nishi",
+      "native": "西栄子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Koujirou Hayashi",
+      "native": "林コージロー"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuichi Imaizumi",
+      "native": "今泉雄一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akito Matsuda",
+      "native": "松田彬人"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Miho Karasawa",
+      "native": "唐沢美帆"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Arika",
+      "native": "Arika"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Yuuko Natsuyoshi",
+      "native": "夏吉ゆうこ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Yamato",
+      "native": "大和"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Yamato",
+      "native": "大和"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tinasha",
+      "native": "ティナーシャ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsumi Tanezaki",
+       "native": "種﨑敦美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Oscar Farsas",
+      "native": "オスカー・ファルサス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshiki Nakajima",
+       "native": "中島ヨシキ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

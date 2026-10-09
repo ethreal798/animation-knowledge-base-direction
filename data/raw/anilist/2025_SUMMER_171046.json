@@ -1,0 +1,375 @@
+{
+ "id": 171046,
+ "title": {
+  "romaji": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+  "english": "Rascal Does Not Dream of Santa Claus",
+  "native": "青春ブタ野郎はサンタクロースの夢を見ない"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CloverWorks"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Hajime Kamoshida",
+      "native": "鴨志田一"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Keiji Mizoguchi",
+      "native": "溝口ケージ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Souichi Masui",
+      "native": "増井壮一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masahiro Yokotani",
+      "native": "横谷昌宏"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Satomi Tamura",
+      "native": "田村里美"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Akane Ogawa",
+      "native": "小川茜"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Saori Yonezawa ",
+      "native": "米澤彩織"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Ran Naruse",
+      "native": "成瀬藍"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hirofumi Sakagami",
+      "native": "坂上裕文"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Shiozawa",
+      "native": "塩澤良憲"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Asuka Yokota",
+      "native": "横田明日香"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Xiaomu Yang",
+      "native": "楊暁牧"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akinori  Mishima",
+      "native": "三嶋章紀"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kengo Oda",
+      "native": "織田健吾"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hazuki Tanaka",
+      "native": "田中葉月"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yoshikazu Iwanami",
+      "native": "岩浪美和"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "fox capture plan",
+      "native": "フォックス・キャプチャー・プラン"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1, 3-6, 9, 11, 13)",
+    "node": {
+     "name": {
+      "full": "Akihiro Sueda",
+      "native": "末田晃大"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 7, 10, 13)",
+    "node": {
+     "name": {
+      "full": "Satomi Tamura",
+      "native": "田村里美"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1-3, 7, 8, 12, 13)",
+    "node": {
+     "name": {
+      "full": "Iori Nonoshita ",
+      "native": "野々下いおり"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Ran Naruse",
+      "native": "成瀬藍"
+     }
+    }
+   },
+   {
+    "role": "Special Effects (OP, ED, eps 1-9)",
+    "node": {
+     "name": {
+      "full": "Saya Uchiumi",
+      "native": "内海紗耶"
+     }
+    }
+   },
+   {
+    "role": "2D Design (OP, ED, eps 1-9)",
+    "node": {
+     "name": {
+      "full": "Saya Uchiumi",
+      "native": "内海紗耶"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Conton Candy",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sakuta Azusagawa",
+      "native": "梓川咲太"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaito Ishikawa",
+       "native": "石川界人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mai Sakurajima",
+      "native": "桜島麻衣"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Asami Seto",
+       "native": "瀬戸麻沙美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nodoka Toyohama",
+      "native": "豊浜のどか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maaya Uchida",
+       "native": "内田真礼"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Uzuki Hirokawa",
+      "native": "広川卯月"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sora Amamiya",
+       "native": "雨宮天"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ikumi Akagi",
+      "native": "赤城郁実"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aya Yamane",
+       "native": "山根綺"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sara Himeji",
+      "native": "姫路紗良"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Kohara",
+       "native": "小原好美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Miniskirt Santa",
+      "native": "ミニスカサンタ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reina Ueda",
+       "native": "上田麗奈"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

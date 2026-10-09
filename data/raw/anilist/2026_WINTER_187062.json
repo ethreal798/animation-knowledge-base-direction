@@ -1,0 +1,217 @@
+{
+ "id": 187062,
+ "title": {
+  "romaji": "Hikuidori",
+  "english": "Oedo Fire Slayer -The Legend of Phoenix-",
+  "native": "火喰鳥"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 5
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SynergySP"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "You Oizumi",
+      "native": "大泉洋"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "You Oizumi",
+      "native": "大泉洋"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yasuharu Takanashi",
+      "native": "高梨康治"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Hajime Kamegaki",
+      "native": "亀垣一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Kouji Tamaki",
+      "native": "玉置浩二"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yoriko Tomita",
+      "native": "冨田頼子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Akiyoshi Tanaka",
+      "native": "田中章喜"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Shogo Imamura ",
+      "native": "今村翔吾"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Sanada",
+      "native": "真田竹志"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Ryuusuke Mori",
+      "native": "森龍介"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Ryuusuke Mori",
+      "native": "森龍介"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Gengo Matsunaga",
+      "native": "松永源吾"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuichirou Umehara",
+       "native": "梅原裕一郎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Seijurou Kaji",
+      "native": "加持星十郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenshou Ono",
+       "native": "小野賢章"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shinnosuke Torigoe",
+      "native": "鳥越新之助"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuuichirou Umeda",
+       "native": "梅田修一朗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Torajirou",
+      "native": "寅次郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Subaru Kimura",
+       "native": "木村昴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hikoya",
+      "native": "彦弥"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nobunaga Shimazaki",
+       "native": "島﨑信長"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

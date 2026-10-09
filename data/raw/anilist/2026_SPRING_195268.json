@@ -1,0 +1,279 @@
+{
+ "id": 195268,
+ "title": {
+  "romaji": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.  Season 2",
+  "english": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
+  "native": "悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 23
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "OLM"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Tenichi",
+      "native": "天壱"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Suzunosuke",
+      "native": "鈴ノ助"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Norio Nitta",
+      "native": "新田典生"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Mieno",
+      "native": "三重野瞳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hitomi Kouno",
+      "native": "河野仁美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tatsuhiko Saiki",
+      "native": "斎木達彦"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hanae Nakamura",
+      "native": "中村巴奈重"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kanade Sakuma",
+      "native": "佐久間奏"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Junko Nakajima",
+      "native": "中嶋純子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Misaki Tsuchida",
+      "native": "土田美咲"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tsugumi Tanaka",
+      "native": "田中津久美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kaho Sawada",
+      "native": "澤田佳歩"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "John Swasey",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Brent Marshall",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Patrick Marrero",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Daisuke Yoshioka",
+      "native": "吉岡大輔"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "David Lascoe",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Kalin Black",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "João Moura",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Retroriron",
+      "native": "レトロリロン"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Kaien Jin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "NAKGAE",
+      "native": "낙개"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "buddy",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 08)",
+    "node": {
+     "name": {
+      "full": "YAMI",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Garakuta",
+      "native": "ガラクタ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Pride Royal Ivy",
+      "native": "プライド・ロイヤル・アイビー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

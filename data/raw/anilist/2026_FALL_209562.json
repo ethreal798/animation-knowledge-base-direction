@@ -1,0 +1,295 @@
+{
+ "id": 209562,
+ "title": {
+  "romaji": "Vertex Force",
+  "english": "VERTEX FORCE",
+  "native": "バーテックスフォース"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 3
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Shogakukan Music & Digital Entertainment"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Takamura",
+      "native": "高村和宏"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Gorou Kuji",
+      "native": "久慈悟郎"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Takamura",
+      "native": "高村和宏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masashi Suzuki",
+      "native": "鈴木雅詞"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Takamura",
+      "native": "高村和宏"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ryouka Kinoshita",
+      "native": "木下了香"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Toshiki Amata",
+      "native": "天田俊貴"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mineyo Oonishi",
+      "native": "大西峰代"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Masahiko Yagi",
+      "native": "八木昌彦"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akinori  Mishima",
+      "native": "三嶋章紀"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Tadokoro",
+      "native": "田所洋行"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Tomohiro Yoshida",
+      "native": "吉田知弘"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Nobuaki Nobusawa",
+      "native": "信澤宣明"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ClariS",
+      "native": "クラリス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hashimero",
+      "native": "はしメロ"
+     }
+    }
+   },
+   {
+    "role": "Engine Design",
+    "node": {
+     "name": {
+      "full": "Kanetake Ebikawa",
+      "native": "海老川兼武"
+     }
+    }
+   },
+   {
+    "role": "ENIA Design",
+    "node": {
+     "name": {
+      "full": "JNTHED",
+      "native": "ジェイエヌティーヘッド"
+     }
+    }
+   },
+   {
+    "role": "Chief Art Director",
+    "node": {
+     "name": {
+      "full": "Masahito Onoda",
+      "native": "小野田将人"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Sakiura Shin",
+      "native": "シンサキウラ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Mayuko Maruyama",
+      "native": "丸山真由子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Mayuko Maruyama",
+      "native": "丸山真由子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Mayuko Maruyama",
+      "native": "丸山真由子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Hashimero",
+      "native": "はしメロ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Hashimero",
+      "native": "はしメロ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Tokyo Manaka",
+      "native": "東京真中"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Haruka Toudou",
+      "native": "東道晴香"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaede Hondo",
+       "native": "本渡楓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akira Toudou",
+      "native": "東道明"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Makoto Koichi",
+       "native": "小市眞琴"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

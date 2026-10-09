@@ -1,0 +1,295 @@
+{
+ "id": 195240,
+ "title": {
+  "romaji": "Uma Musume: Cinderella Gray Part 2",
+  "english": "Umamusume: Cinderella Gray 2nd Cour",
+  "native": "ウマ娘 シンデレラグレイ 第2クール"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 21
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 10,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CygamesPictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Cygames",
+      "native": "株式会社Cygames"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Taiyou Kuzumi",
+      "native": "久住太陽"
+     }
+    }
+   },
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Junnosuke Itou",
+      "native": "伊藤隼之介"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takehiro Miura",
+      "native": "みうらたけひろ"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yuudai Shimizu",
+      "native": "清水雄大"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Aki Kindaichi",
+      "native": "金田一士"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Keigo Sasaki",
+      "native": "佐々木啓悟"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takuya Miyahara",
+      "native": "宮原拓也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yousuke Fukumoto",
+      "native": "福元陽介"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Osamu Hasada",
+      "native": "狹田修"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Nanako Okazaki",
+      "native": "岡崎菜々子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Akane Fushihara",
+      "native": "伏原あかね"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akinori  Mishima",
+      "native": "三嶋章紀"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Nobuyuki Kamiya",
+      "native": "神谷宣幸"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumiyuki Gou",
+      "native": "郷文裕貴"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kenji Kawai",
+      "native": "川井憲次"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Takuya Chikamatsu",
+      "native": "近松拓也"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Pierre Sugiura",
+      "native": "杉浦ピエール"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 3, 10)",
+    "node": {
+     "name": {
+      "full": "Akira Takata",
+      "native": "髙田晃"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 2, 10)",
+    "node": {
+     "name": {
+      "full": "Masashi Nomura ",
+      "native": "野村雅史"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 6, 10)",
+    "node": {
+     "name": {
+      "full": "Sayuri Sakimoto",
+      "native": "崎本さゆり"
+     }
+    }
+   },
+   {
+    "role": "Action Animation Supervisor",
+    "node": {
+     "name": {
+      "full": "Kengo Matsumoto ",
+      "native": "松本顕吾"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "10-FEET",
+      "native": "10-FEET"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 10)",
+    "node": {
+     "name": {
+      "full": "Akira Takata",
+      "native": "髙田晃"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 2, 5)",
+    "node": {
+     "name": {
+      "full": "Hiromi Okazaki",
+      "native": "岡崎洋美"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Oguri Cap",
+      "native": "オグリキャップ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoyo Takayanagi",
+       "native": "高柳知葉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tamamo Cross",
+      "native": "タマモクロス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Naomi Oozora",
+       "native": "大空直美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

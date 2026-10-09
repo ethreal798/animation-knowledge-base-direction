@@ -1,0 +1,359 @@
+{
+ "id": 180082,
+ "title": {
+  "romaji": "Chitose-kun wa Ramune Bin no Naka",
+  "english": "Chitose Is in the Ramune Bottle",
+  "native": "千歳くんはラムネ瓶のなか"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 31
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "feel."
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Hiromu",
+      "native": "裕夢"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Raemz",
+      "native": "Raemz"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Tokuno",
+      "native": "德野雄士"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Naruhisa Arakawa",
+      "native": "荒川稔久"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sumie Kinoshita",
+      "native": "木野下澄江"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kuniaki Masuda",
+      "native": "枡田邦彰"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shinichi Tatsuta",
+      "native": "立田眞一"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hiyori Denforword Akishino",
+      "native": "秋篠Denforword日和"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Michiko Morokuma",
+      "native": "諸熊倫子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Miyawaki",
+      "native": "宮脇裕美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuta Nakamura",
+      "native": "中村雄太"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Rumi Maruyama",
+      "native": "丸山流美"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Ogawa",
+      "native": "小川耕平"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Fujisawa",
+      "native": "藤澤慶昌"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Naruhisa Arakawa",
+      "native": "荒川稔久"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Cider Girl",
+      "native": "サイダーガール"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Kucci",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Saeko Oofuji",
+      "native": "大藤佐恵子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Keiichi Ishikura",
+      "native": "石倉敬一"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Kenichi Umemoto",
+      "native": "梅本賢一"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Kitamura",
+      "native": "北村友幸"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1, 3, 5)",
+    "node": {
+     "name": {
+      "full": "Sumie Kinoshita",
+      "native": "木野下澄江"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (OP)",
+    "node": {
+     "name": {
+      "full": "Sumie Kinoshita",
+      "native": "木野下澄江"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-5)",
+    "node": {
+     "name": {
+      "full": "Naruhisa Arakawa",
+      "native": "荒川稔久"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Saku Chitose",
+      "native": "千歳朔"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shougo Sakata",
+       "native": "坂田将吾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuzuki Nanase",
+      "native": "七瀬悠月"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuuko Hiiragi",
+      "native": "柊夕湖"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manaka Iwami",
+       "native": "石見舞菜香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Haru Aomi",
+      "native": "青海陽"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rumi Ookubo",
+       "native": "大久保瑠美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yua Uchida",
+      "native": "内田優空"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hina Youmiya",
+       "native": "羊宮妃那"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Asuka Nishino",
+      "native": "西野明日風"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chika Anzai",
+       "native": "安済知佳"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

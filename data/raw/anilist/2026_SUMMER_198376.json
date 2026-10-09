@@ -1,0 +1,343 @@
+{
+ "id": 198376,
+ "title": {
+  "romaji": "BanG Dream! Yume∞Mita",
+  "english": "BanG Dream! YUME∞MITA",
+  "native": "バンドリ！ ゆめ∞みた"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 10
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "NICHICALINE"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Bushiroad ",
+      "native": "ブシロード"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tomomi Umetsu",
+      "native": "梅津朋美"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Morita",
+      "native": "森田紘吏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Midori Gotou",
+      "native": "後藤みどり"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Osamu Nobusawa",
+      "native": "信澤収"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mochipuyo",
+      "native": "もちぷよ"
+     }
+    }
+   },
+   {
+    "role": "Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuka Hachimori",
+      "native": "八森優香"
+     }
+    }
+   },
+   {
+    "role": "Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Takuya Chanohara",
+      "native": "茶之原拓也"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Uchikoga",
+      "native": "内古閑智之"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Keiko Ikeda",
+      "native": "池田恵子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Takashi Tokushige",
+      "native": "徳重賢"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shinpei Tokushige",
+      "native": "徳重心平"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Takashi Tokushige",
+      "native": "徳重賢"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Keiji Ueda",
+      "native": "植田渓史"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shinpei Tokushige",
+      "native": "徳重心平"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mana Watanabe",
+      "native": "渡邉まな"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Keisuke Watanabe",
+      "native": "渡邊啓介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Motoyama",
+      "native": "本山哲"
+     }
+    }
+   },
+   {
+    "role": "Recording Director",
+    "node": {
+     "name": {
+      "full": "Makoto Tanimura",
+      "native": "谷村誠"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shouta Horie",
+      "native": "堀江晶太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Wataru Sena",
+      "native": "瀬名航"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ginnojou Hoshi",
+      "native": "星銀乃丈"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akki",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music Production Assistance",
+    "node": {
+     "name": {
+      "full": "Takuya Hosaka",
+      "native": "保坂拓也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Mugendai Mewtype",
+      "native": "夢限大みゅーたいぷ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Arale Nakamachi",
+      "native": "仲町あられ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Arale Nakamachi",
+       "native": "仲町あられ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuno Sengoku",
+      "native": "千石ユノ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuno Sengoku",
+       "native": "千石ユノ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nonoka Miyanaga",
+      "native": "宮永ののか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nonoka Miyanaga",
+       "native": "宮永ののか"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Miyako Fuji",
+      "native": "藤都子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyako Fuji",
+       "native": "藤都子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ritsu Minetsuki",
+      "native": "峰月律"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ritsu Minetsuki",
+       "native": "峰月律"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

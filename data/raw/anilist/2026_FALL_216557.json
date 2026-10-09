@@ -1,0 +1,330 @@
+{
+ "id": 216557,
+ "title": {
+  "romaji": "Keroro Gunsou☆",
+  "english": "KERORO☆",
+  "native": "ケロロ軍曹☆"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 3
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bandai Namco Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Mine Yoshizaki",
+      "native": "吉崎観音"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Nobuhiro Kondou",
+      "native": "近藤信宏"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Akihiko Sano",
+      "native": "佐野聡彦"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Toshimitsu Takeuchi",
+      "native": "竹内利光"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hatsue Nakayama",
+      "native": "中山初絵"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kenichi Tajiri",
+      "native": "田尻健一"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shintarou Inoue",
+      "native": "井上慎太郎"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Keiichi Funada",
+      "native": "船田圭一"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Teruyuki Kawase",
+      "native": "川瀬輝之"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Daisuke Imai",
+      "native": "今井大介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Haru Yamada",
+      "native": "山田陽"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kan Sawada",
+      "native": "沢田完"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ano",
+      "native": "あの"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "ano",
+      "native": "あの"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Taku Inoue",
+      "native": "井上拓"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Taku Inoue",
+      "native": "井上拓"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "ano",
+      "native": "あの"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "PURPLE BUBBLE",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "K-taring",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "K-taring",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Keroro",
+      "native": "ケロロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Makoto Koichi",
+       "native": "小市眞琴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Giroro",
+      "native": "ギロロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiki Masuda",
+       "native": "増田俊樹"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tamama",
+      "native": "タママ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rika Nagae",
+       "native": "長江里加"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kururu",
+      "native": "クルル曹長"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kousuke Echigoya",
+       "native": "越後屋コースケ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Dororo",
+      "native": "ドロロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satoshi Inomata",
+       "native": "猪股慧士"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Fuyuki Hinata",
+      "native": "日向冬樹"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Sakakihara",
+       "native": "榊原優希"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Natsumi Hinata",
+      "native": "日向夏美"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minori Fujidera",
+       "native": "藤寺美徳"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

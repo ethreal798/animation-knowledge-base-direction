@@ -1,0 +1,295 @@
+{
+ "id": 205896,
+ "title": {
+  "romaji": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+  "english": "Full Clearing Another World under a Goddess with Zero Believers",
+  "native": "信者ゼロの女神サマと始める異世界攻略"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 11
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "HORNETS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Isle Osaki",
+      "native": "大崎アイル"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Tam-U",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Toshinori Fukushima",
+      "native": "福島利規"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Noriko Itou ",
+      "native": "伊藤憲子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Jou Tanaka",
+      "native": "田中穣"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Chiharu Nishimura",
+      "native": "西村千春"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yasutoshi Kawai",
+      "native": "河合泰利"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Chiho Nakamura",
+      "native": "中村千穂"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Masao Ooba",
+      "native": "大場将生"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Ayumi Kaikiri",
+      "native": "海切歩"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Takahiro Adachi",
+      "native": "安達貴大"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Nobuaki Kikuchi",
+      "native": "菊池信明"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiroto Morishita",
+      "native": "森下広人"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "AstroNoteS",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Noriko Itou ",
+      "native": "伊藤憲子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Nagamori",
+      "native": "長森佳容"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Jou Tanaka",
+      "native": "田中穣"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Nagamori",
+      "native": "長森佳容"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "jon-YAKITORY",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "jon-YAKITORY",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "jon-YAKITORY",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "310",
+      "native": "310"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Akki",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Makoto Takatsuki",
+      "native": "高月マコト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Souhei Horikane",
+       "native": "堀金蒼平"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Noah Titan",
+      "native": "ノア・ティターン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

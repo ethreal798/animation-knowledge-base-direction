@@ -1,0 +1,327 @@
+{
+ "id": 195518,
+ "title": {
+  "romaji": "Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai Sareru",
+  "english": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+  "native": "悪役令嬢は隣国の王太子に溺愛される"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Puni-chan",
+      "native": "ぷにちゃん"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Naruse Akeno",
+      "native": "成瀬あけの"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Hamana",
+      "native": "浜名孝行"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoshimi Narita",
+      "native": "成田良美"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Majiro",
+      "native": "まじろ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Caitlin Glass",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Ayahi Takagaki",
+      "native": "高垣彩陽"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (eps 2-12)",
+    "node": {
+     "name": {
+      "full": "Chris Cason",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Akira Matsunaga",
+      "native": "松永晃"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Mitsuru Nakata",
+      "native": "仲田充"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (ep 1)",
+    "node": {
+     "name": {
+      "full": "Blair Rowan",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Fumie Sasaki",
+      "native": "佐々木文恵"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Ryuusei Ichimura",
+      "native": "市村龍星"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Sae Manaka",
+      "native": "間中紗永"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Makoto Kodama",
+      "native": "児玉真"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Matt Grounds",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Nagisa Sawada",
+      "native": "澤田渚"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Noah Whitehead",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Maika Abe",
+      "native": "安部まいか"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "SAKURAmoti",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "SAKURAmoti",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 6)",
+    "node": {
+     "name": {
+      "full": "Rei Aiyama",
+      "native": "相山怜"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Erika Ishibashi",
+      "native": "石橋絵里香"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Yuu Shirota",
+      "native": "城田優"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tiararose Lapis Clementille",
+      "native": "ティアラローズ･ラピス･クラメンティール"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mai Fuchigami",
+       "native": "渕上舞"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aquasteed Marineforest",
+      "native": "アクアスティード･マリンフォレスト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuichirou Umehara",
+       "native": "梅原裕一郎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hartknights Lapis-Lazuli Lacmouth",
+      "native": "ハルトナイツ･ラピスラズリ･ラクトムート"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuya Satou",
+       "native": "佐藤拓也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akari",
+      "native": "アカリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumiri Hanamori",
+       "native": "花守ゆみり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

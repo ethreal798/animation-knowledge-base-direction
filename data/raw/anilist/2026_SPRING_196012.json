@@ -1,0 +1,250 @@
+{
+ "id": 196012,
+ "title": {
+  "romaji": "MAO",
+  "english": "MAO",
+  "native": "MAO"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 26
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 26,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Sunrise"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Rumiko Takahashi",
+      "native": "高橋留美子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Teruo Satou",
+      "native": "佐藤照雄"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshihito Hishinuma",
+      "native": "菱沼義仁"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Katou",
+      "native": "加藤浩"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Izumi Hoki",
+      "native": "保木いずみ"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Masumi Ootsuka",
+      "native": "大塚眞純"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Akane Fushihara",
+      "native": "伏原あかね"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Nii",
+      "native": "新居和弘"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tomohiro Fujie",
+      "native": "藤江智洋"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiromi Kikuta",
+      "native": "菊田浩巳"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shuu Kanematsu",
+      "native": "兼松衆"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yoshihito Hishinuma",
+      "native": "菱沼義仁"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Tony Oliver",
+      "native": "Rafael Antonio Olivier"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Miho Karasawa",
+      "native": "唐沢美帆"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "Reina Ueda",
+      "native": "上田麗奈"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Ryan Raydarke",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Conrado Sotero",
+      "native": "Conrado Gallucci Sotero"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "Kis-My-Ft2",
+      "native": "キスマイフットツー"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "20th Century",
+      "native": "トゥエンティースセンチュリー"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Mao",
+      "native": "摩緒"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Kaji",
+       "native": "梶裕貴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nanoka Kiba",
+      "native": "黄葉菜花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Kawaida",
+       "native": "川井田夏海"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

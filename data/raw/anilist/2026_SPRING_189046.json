@@ -1,0 +1,391 @@
+{
+ "id": 189046,
+ "title": {
+  "romaji": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+  "english": "Re:ZERO -Starting Life in Another World- Season 4",
+  "native": "Re:ゼロから始める異世界生活 4th season"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 30
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 19,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "WHITE FOX"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Tappei Nagatsuki",
+      "native": "長月達平"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Shinichirou Ootsuka",
+      "native": "大塚真一郎"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Masahiro Shinohara",
+      "native": "篠原正寛"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masahiro Yokotani",
+      "native": "横谷昌宏"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Haruka Sagawa",
+      "native": "佐川遥"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Gouichi Iwahata",
+      "native": "岩畑剛一"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Noritaka Suzuki",
+      "native": "鈴木典孝"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ryouka Kinoshita",
+      "native": "木下了香"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kaoru Aoki",
+      "native": "青木薫"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Izumi Sakamoto ",
+      "native": "坂本いづみ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Miori Miyagi",
+      "native": "宮城己織"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Hitomi Sudou",
+      "native": "須藤瞳"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kentarou Iijima",
+      "native": "居嶋健太郎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yuuji Furuya",
+      "native": "古谷友二"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kenichirou Suehiro",
+      "native": "末廣健一郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1, 3, 5)",
+    "node": {
+     "name": {
+      "full": "Haruka Sagawa",
+      "native": "佐川遥"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Keitarou Chiba",
+      "native": "千葉啓太郎"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Italian)",
+    "node": {
+     "name": {
+      "full": "Massimo Di Benedetto",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 10)",
+    "node": {
+     "name": {
+      "full": "Kei Oikawa",
+      "native": "及川啓"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Takanori Suzuki",
+      "native": "鈴木孝典"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED3)",
+    "node": {
+     "name": {
+      "full": "Makoto Miyazaki",
+      "native": "宮崎誠"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED3)",
+    "node": {
+     "name": {
+      "full": "Makoto Miyazaki",
+      "native": "宮崎誠"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED3)",
+    "node": {
+     "name": {
+      "full": "Konomi Suzuki",
+      "native": "鈴木このみ"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1, 4, 7)",
+    "node": {
+     "name": {
+      "full": "Masahiro Yokotani",
+      "native": "横谷昌宏"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Emilia",
+      "native": "エミリア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Takahashi",
+       "native": "高橋李依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Subaru Natsuki",
+      "native": "ナツキ・スバル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Kobayashi",
+       "native": "小林裕介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ram",
+      "native": "ラム"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Murakawa",
+       "native": "村川梨衣"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Anastasia Hoshin",
+      "native": "アナスタシア・ホーシン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ueda",
+       "native": "植田佳奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Beatrice",
+      "native": "ベアトリス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satomi Arai",
+       "native": "新井里美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Julius Euclius",
+      "native": "ユリウス・ユークリウス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuya Eguchi",
+       "native": "江口拓也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Meili Portroute",
+      "native": "メィリィ・ポートルート"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Eri Suzuki",
+       "native": "鈴木絵理"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shaula",
+      "native": "シャウラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

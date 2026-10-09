@@ -1,0 +1,214 @@
+{
+ "id": 183965,
+ "title": {
+  "romaji": "Yano-kun no Futsuu no Hibi",
+  "english": "Yano-kun's Ordinary Days",
+  "native": "矢野くんの普通の日々"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 1
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 17
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 22,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Ajiado"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yui Tamura",
+      "native": "田村結衣"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shinpei Matsuo",
+      "native": "松尾晋平"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Mieno",
+      "native": "三重野瞳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Toshihisa Kaiya",
+      "native": "海谷敏久"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hideakira Kimura",
+      "native": "木村秀彬"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yayoi Tateishi",
+      "native": "立石弥生"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naomi Nakano",
+      "native": "中野尚美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuki Kawashita",
+      "native": "川下裕樹"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Eiko Tsunadou",
+      "native": "綱頭瑛子"
+     }
+    }
+   },
+   {
+    "role": "Photography (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kimiya Nobukawa",
+      "native": "信川公哉"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Manami Azuta",
+      "native": "吾田愛美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "FANTASTICS from EXILE TRIBE",
+      "native": "FANTASTICS from EXILE TRIBE"
+     }
+    }
+   },
+   {
+    "role": "Photography (ep 2)",
+    "node": {
+     "name": {
+      "full": "Honoka Kagami",
+      "native": "加賀美帆"
+     }
+    }
+   },
+   {
+    "role": "Photography (ep 1)",
+    "node": {
+     "name": {
+      "full": "Ryousuke Baba",
+      "native": "馬場亮輔"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Ryou Takeuchi",
+      "native": "竹内涼"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "iScream",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tsuyoshi Yano",
+      "native": "矢野剛"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouhei Amasaki",
+       "native": "天崎滉平"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kiyoko Yoshida",
+      "native": "吉田清子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuka Nukui",
+       "native": "貫井柚佳"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

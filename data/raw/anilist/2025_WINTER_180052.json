@@ -1,0 +1,295 @@
+{
+ "id": 180052,
+ "title": {
+  "romaji": "Sentai Red Isekai de Boukensha ni Naru",
+  "english": "The Red Ranger Becomes an Adventurer in Another World",
+  "native": "戦隊レッド異世界で冒険者になる"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 30
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Satelight"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Koyoshi Nakayoshi",
+      "native": "中吉虎吉"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Keiichirou Kawaguchi",
+      "native": "川口敬一郎"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Atsuhiro Tomioka",
+      "native": "冨岡淳広"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shuuji Maruyama",
+      "native": "丸山修二"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yoshitaka Taniguchi",
+      "native": "谷口欣孝"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hosoi",
+      "native": "ほそい"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hosoi",
+      "native": "ほそい"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Harue Oono",
+      "native": "大野春恵"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ryouji Nagasawa",
+      "native": "長澤諒司"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Natsumi Uchida",
+      "native": "内田奈津美"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Shuuji Matsumoto",
+      "native": "松本秀治"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Gotou",
+      "native": "後藤浩幸"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Keiichirou Kawaguchi",
+      "native": "川口敬一郎"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kouichirou Kameyama",
+      "native": "亀山耕一郎"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Hideaki Hata",
+      "native": "畑秀明"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Shuuji Maruyama",
+      "native": "丸山修二"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Ayako Itou",
+      "native": "伊藤亜矢子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hideaki Oonishi",
+      "native": "大西秀明"
+     }
+    }
+   },
+   {
+    "role": "Effects Animation Director",
+    "node": {
+     "name": {
+      "full": "Takashi Hashimoto",
+      "native": "橋本敬史"
+     }
+    }
+   },
+   {
+    "role": "2D Works",
+    "node": {
+     "name": {
+      "full": "Shouyato Kinoshita",
+      "native": "木下翔弥斗"
+     }
+    }
+   },
+   {
+    "role": "Henshin Motion Supervisor",
+    "node": {
+     "name": {
+      "full": "Teruaki Ogawa",
+      "native": "小川輝晃"
+     }
+    }
+   },
+   {
+    "role": "Main Action Animator",
+    "node": {
+     "name": {
+      "full": "Toshiharu Sugie",
+      "native": "杉江敏治"
+     }
+    }
+   },
+   {
+    "role": "Kaijin Design",
+    "node": {
+     "name": {
+      "full": "Ryousuke Shibuya",
+      "native": "渋谷亮介"
+     }
+    }
+   },
+   {
+    "role": "Main Action Animator",
+    "node": {
+     "name": {
+      "full": "Yukihiro Iwata",
+      "native": "岩田幸大"
+     }
+    }
+   },
+   {
+    "role": "Main Action Animator",
+    "node": {
+     "name": {
+      "full": "Akihiro Taniguchi",
+      "native": "谷口明弘"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Togo Asagaki",
+      "native": "浅垣灯悟"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoya Itou",
+       "native": "井藤智哉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Idora Arvoln",
+      "native": "イドラ・アーヴォルン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Inagaki",
+       "native": "稲垣好"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

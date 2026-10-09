@@ -1,0 +1,327 @@
+{
+ "id": 186497,
+ "title": {
+  "romaji": "Koori no Jouheki",
+  "english": "The Ramparts of Ice",
+  "native": "氷の城壁"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 2
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 14,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio KAI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Koucha Agasawa",
+      "native": "阿賀沢紅茶"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Mankyuu",
+      "native": "まんきゅう"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Nakanishi",
+      "native": "中西やすひろ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Miki Ogino",
+      "native": "荻野美希"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Eriko Itou",
+      "native": "伊藤依織子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yuuji Hamada",
+      "native": "濱田悠示"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Yuuna Fueki",
+      "native": "笛木優奈"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Kotono",
+      "native": "琴乃"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shin Maeda",
+      "native": "前田慎"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shin Maeda",
+      "native": "前田慎"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Nobori",
+      "native": "のぼりはるこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mika Watanabe",
+      "native": "渡辺実花"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masato Yoshitake",
+      "native": "吉武将人"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Naoya Sakayori",
+      "native": "酒寄直哉"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Yoshida",
+      "native": "吉田光平"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Natsumi Tabuchi",
+      "native": "田渕夏海"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kanade Sakuma",
+      "native": "佐久間奏"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Taiki Itou",
+      "native": "伊藤太貴"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Producer",
+    "node": {
+     "name": {
+      "full": "Hirokazu Shiba",
+      "native": "柴宏和"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Amanda Celine Miller",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Shouta Yaso",
+      "native": "八十正太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Polkadot Stingray",
+      "native": "ポルカドットスティングレイ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Ma Zink",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Kathryn Pilon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Novelbright",
+      "native": "ノーベルブライト"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Koyuki Hikawa",
+      "native": "氷川小雪"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Anna Nagase",
+       "native": "永瀬アンナ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Minato Amamiya",
+      "native": "雨宮湊"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Miki Azumi",
+      "native": "安曇美姫"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fuuka Izumi",
+       "native": "和泉風花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Youta Hino",
+      "native": "日野陽太"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satoshi Inomata",
+       "native": "猪股慧士"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

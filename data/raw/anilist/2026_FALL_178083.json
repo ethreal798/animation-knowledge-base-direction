@@ -1,0 +1,279 @@
+{
+ "id": 178083,
+ "title": {
+  "romaji": "Tokyo Revengers: Santen Sensou-hen",
+  "english": "Tokyo Revengers: War of the Three Titans Arc",
+  "native": "東京リベンジャーズ 三天戦争編"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 3
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Ken Wakui",
+      "native": "和久井健"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Maki Kodaira",
+      "native": "小平麻紀"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yasuyuki Mutou",
+      "native": "武藤泰之"
+     }
+    }
+   },
+   {
+    "role": "Series Composition Assistance",
+    "node": {
+     "name": {
+      "full": "Kouichi Hatsumi",
+      "native": "初見浩一"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kenichi Oonuki",
+      "native": "大貫健一"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Keiko Oota",
+      "native": "太田恵子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Airi Tsuyuki",
+      "native": "露木愛里"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kae Takakura",
+      "native": "高倉香恵"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yoshitomo Hara",
+      "native": "原由知"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hideki Fukushima",
+      "native": "福島秀機"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Rumi Matsumoto",
+      "native": "松本留美"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuuho Taniuchi",
+      "native": "谷内優穂"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kunio Tsujita",
+      "native": "辻田邦夫"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kouji Ietaka",
+      "native": "家高浩司"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoki Iida",
+      "native": "飯田里樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiroaki Tsutsumi",
+      "native": "堤博明"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "JO1",
+      "native": "ジェイオーワン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "go!go!vanillas",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Bike Design",
+    "node": {
+     "name": {
+      "full": "Yoshitomo Hara",
+      "native": "原由知"
+     }
+    }
+   },
+   {
+    "role": "Bike Design",
+    "node": {
+     "name": {
+      "full": "Hideki Fukushima",
+      "native": "福島秀機"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Yuki Nara",
+      "native": "奈良悠樹"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Junki Kouno",
+      "native": "河野純喜"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Syoya Kimata",
+      "native": "木全翔也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "go!go!vanillas",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "N1K0",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Takemichi Hanagaki",
+      "native": "花垣武道"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Shin",
+       "native": "新祐樹"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

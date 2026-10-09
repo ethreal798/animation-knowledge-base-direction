@@ -1,0 +1,359 @@
+{
+ "id": 143200,
+ "title": {
+  "romaji": "Summer Pockets",
+  "english": "Summer Pockets",
+  "native": "Summer Pockets"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 29
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 26,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "feel."
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Key",
+      "native": "Key"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kai",
+      "native": "魁"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Yuu Niijima",
+      "native": "新島夕"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Keigo Kubota",
+      "native": "玖保田桂吾"
+     }
+    }
+   },
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Jun Maeda",
+      "native": "麻枝准"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Na-Ga",
+      "native": "Na-Ga"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yuunon Nagayama",
+      "native": "永山ゆうのん"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Izumi Tsubasu",
+      "native": "和泉つばす"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Humuyun",
+      "native": "ふむゆん"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tomoki Kobayashi",
+      "native": "小林智樹"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mai Ootsuka",
+      "native": "大塚舞"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Moriki",
+      "native": "森木靖泰"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kuniaki Masuda",
+      "native": "枡田邦彰"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shinichi Tatsuta",
+      "native": "立田眞一"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kousuke Kawamura",
+      "native": "川村幸祐"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Motoaki Satou",
+      "native": "佐藤元昭"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kuniaki Masuda",
+      "native": "枡田邦彰"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Keita Shimizu",
+      "native": "清水慶太"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Saki Yanagawa",
+      "native": "栁川沙樹"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shunichirou Yoshihara",
+      "native": "吉原俊一郎"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kaoru Aoki",
+      "native": "青木薫"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Sari Tagawa",
+      "native": "田川沙里"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Fumito Nanba",
+      "native": "難波史"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Rumi Maruyama",
+      "native": "丸山流美"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shiroha Naruse",
+      "native": "鳴瀬しろは"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Kohara",
+       "native": "小原好美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hairi Takahara",
+      "native": "鷹原羽依里"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kamome Kushima",
+      "native": "久島鴎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nene Hieda",
+       "native": "稗田寧々"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tsumugi Wenders",
+      "native": "紬ヴェンダース"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Emiri Iwai",
+       "native": "岩井映美里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ao Sorakado",
+      "native": "空門蒼"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Takamori",
+       "native": "高森奈津美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Umi Katou",
+      "native": "加藤うみ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aimi Tanaka",
+       "native": "田中あいみ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "id": 177552,
+ "title": {
+  "romaji": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+  "english": "Medaka Kuroiwa is Impervious to My Charms",
+  "native": "黒岩メダカに私の可愛いが通じない"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 25
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SynergySP"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Ran Kuze",
+      "native": "久世蘭"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Okumura",
+      "native": "奥村よしあき"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mayumi Watanabe",
+      "native": "渡辺真由美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masakazu Miyake",
+      "native": "三宅昌和"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Yamagami",
+      "native": "山上愛子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tetsuya Nishimura",
+      "native": "西村徹也"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Noriyoshi Konuma",
+      "native": "小沼則義"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akiyuki Tateyama",
+      "native": "立山秋航"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Gino Palencia",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "Rikako Aida",
+      "native": "逢田梨香子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kaori Maeda",
+      "native": "前田佳織里"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Ben Phillips",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Surii",
+      "native": "すりぃ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Surii",
+      "native": "すりぃ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Surii",
+      "native": "すりぃ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Fubuki Shirakami",
+      "native": "白上フブキ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ayame Nakiri",
+      "native": "百鬼あやめ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Mio Ookami",
+      "native": "大神ミオ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jonathan Rigg",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jameson Outlaw",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Keita Tanaka",
+      "native": "田仲圭太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Keita Tanaka",
+      "native": "田仲圭太"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Mona Kawai",
+      "native": "川井モナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuu Serizawa",
+       "native": "芹澤優"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Medaka Kuroiwa",
+      "native": "黒岩メダカ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Iwasaki",
+       "native": "岩崎諒太"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Asahi Shounan",
+      "native": "湘南旭"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sora Amamiya",
+       "native": "雨宮天"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tomo Nanba",
+      "native": "難波朋"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hinaki Yano",
+       "native": "矢野妃菜喜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

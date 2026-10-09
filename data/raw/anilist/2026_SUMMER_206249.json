@@ -1,0 +1,185 @@
+{
+ "id": 206249,
+ "title": {
+  "romaji": "Iwamoto-senpai no Suisen",
+  "english": "Recommendations from Iwamoto-Senpai",
+  "native": "岩元先輩ノ推薦"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 19
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hiroshi Shiibashi",
+      "native": "椎橋寛"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Toshifumi Kawase",
+      "native": "川瀬敏文"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Atsuko Nakajima",
+      "native": "中嶋敦子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takuya Hiramitsu",
+      "native": "平光琢也"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Dewa",
+      "native": "出羽良彰"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tooru Ishitsuka",
+      "native": "石塚徹"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Luck Silva",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Kaien Jin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "THE JET BOY BANGERZ from EXILE TRIBE",
+      "native": "ザ・ジェット ボーイ バンガーズ フロム エグザイル トライブ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "WOLF HOWL HARMONY from EXILE TRIBE",
+      "native": "ウルフ ハウル ハーモニー フロム エグザイル トライブ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kodou Iwamoto",
+      "native": "岩元胡堂"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taito Ban",
+       "native": "坂泰斗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kai Haramachi",
+      "native": "原町海"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Sakakihara",
+       "native": "榊原優希"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Souichirou Amaha",
+      "native": "天羽総一郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kento Itou",
+       "native": "伊東健人"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

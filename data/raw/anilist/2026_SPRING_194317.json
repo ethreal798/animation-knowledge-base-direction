@@ -1,0 +1,198 @@
+{
+ "id": 194317,
+ "title": {
+  "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? 2nd Season",
+  "english": "The Beginning After the End Season 2",
+  "native": "最強の王様、二度目の人生は 何をする? 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 1
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "studio A-CAT"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "TurtleMe",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Keitarou Motonaga",
+      "native": "元永慶太郎"
+     }
+    }
+   },
+   {
+    "role": "Story Supervisor",
+    "node": {
+     "name": {
+      "full": "TurtleMe",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takamitsu Kouno",
+      "native": "鴻野貴光"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masami Sueoka",
+      "native": "末岡正美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keiji Inai",
+      "native": "井内啓二"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "22/7",
+      "native": "ナナブンノニジュウニ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Raphael Ferreira",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "SIX LOUNGE",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Marcelo Del Greco",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Arthur Leywin",
+      "native": "アーサー・レイウィン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Fujiwara",
+       "native": "藤原夏海"
+      }
+     },
+     {
+      "name": {
+       "full": "Makoto Furukawa",
+       "native": "古川慎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jasmine Flamesworth",
+      "native": "ジャスミン・フレームスワース"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chiaki Omigawa",
+       "native": "小見川千明"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Elijah Knight",
+      "native": "イライジャ・ナイト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Gen Satou",
+       "native": "佐藤元"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lucas Wykes",
+      "native": "ルーカス・ワイクス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

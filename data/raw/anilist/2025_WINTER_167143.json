@@ -1,0 +1,298 @@
+{
+ "id": 167143,
+ "title": {
+  "romaji": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
+  "english": "I May Be a Guild Receptionist, but I’ll Solo Any Boss to Clock Out on Time",
+  "native": "ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 29
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CloverWorks"
+   },
+   {
+    "name": "Sakura Create"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Mato Kousaka",
+      "native": "香坂マト"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Gaou",
+      "native": "がおう"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tsuyoshi Nagasawa",
+      "native": "長澤剛"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Misuzu Chiba",
+      "native": "千葉美鈴"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shinichi Machida",
+      "native": "町田真一"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Nagata",
+      "native": "長田好弘"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yasutada Katou",
+      "native": "加藤靖忠 "
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yasutada Katou",
+      "native": "加藤靖忠 "
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akiko Saitou",
+      "native": "斉藤明子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuusuke Motokura",
+      "native": "本倉悠介"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keisuke Yanagi",
+      "native": "柳圭介"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Katsuaki Miyaji",
+      "native": "宮地克明"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kisuke Koizumi",
+      "native": "小泉紀介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tsubasa Itou",
+      "native": "伊藤翼"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Kouki Adaniya",
+      "native": "安谷屋光生"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Masaharu Yamanouchi",
+      "native": "山内真治"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Tetsuho Takayoshi",
+      "native": "高吉哲歩"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1, 4, 7, 10, 12)",
+    "node": {
+     "name": {
+      "full": "Shinichi Machida",
+      "native": "町田真一"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1-6, 8, 11, 12)",
+    "node": {
+     "name": {
+      "full": "Shouhei Hamaguchi",
+      "native": "浜口頌平"
+     }
+    }
+   },
+   {
+    "role": "2D Design",
+    "node": {
+     "name": {
+      "full": "Yuuichi Maeda",
+      "native": "前田雄一"
+     }
+    }
+   },
+   {
+    "role": "Production ",
+    "node": {
+     "name": {
+      "full": "Atsuhiro Iwakami",
+      "native": "岩上敦宏"
+     }
+    }
+   },
+   {
+    "role": "Production ",
+    "node": {
+     "name": {
+      "full": "Akira Shimizu",
+      "native": "清水暁"
+     }
+    }
+   },
+   {
+    "role": "Production ",
+    "node": {
+     "name": {
+      "full": "Yoshiki Usa",
+      "native": "宇佐義大"
+     }
+    }
+   },
+   {
+    "role": "Production ",
+    "node": {
+     "name": {
+      "full": "Masayuki Aoyagi",
+      "native": "青柳昌行"
+     }
+    }
+   },
+   {
+    "role": "Production ",
+    "node": {
+     "name": {
+      "full": "Ryuu Takahashi",
+      "native": "髙橋竜"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Alina Clover",
+      "native": "アリナ・クローバ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Takahashi",
+       "native": "高橋李依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jade Scrade",
+      "native": "ジェイド・スクレイド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kentarou Kumagai",
+       "native": "熊谷健太郎"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

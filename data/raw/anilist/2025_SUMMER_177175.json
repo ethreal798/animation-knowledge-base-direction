@@ -1,0 +1,375 @@
+{
+ "id": 177175,
+ "title": {
+  "romaji": "Arknights: Enshin Shomei",
+  "english": "Arknights: RISE FROM EMBER",
+  "native": "アークナイツ 焔燼曙明"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 5
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 10,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Yostar Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hypergryph",
+      "native": "鹰角网络"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yui@W",
+      "native": "唯@W"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Watanabe",
+      "native": "渡邉祐記"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Masaki Nishikawa",
+      "native": "西川将貴"
+     }
+    }
+   },
+   {
+    "role": "Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Aya Takafuji",
+      "native": "高藤彩"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kaito Shimizu",
+      "native": "清水海都"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Rina Kogure",
+      "native": "小暮梨奈"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Tomoko Tamaki",
+      "native": "田巻智子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Anna Tateno",
+      "native": "立野杏奈"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Hotaru Morishige",
+      "native": "守重蛍"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Tsubura Taniguchi",
+      "native": "谷口円来"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Takaya Murakami",
+      "native": "村上貴哉"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Junya Iwake",
+      "native": "井分詢也"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Risa Satou",
+      "native": "佐藤里咲"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yoshi Wakayama",
+      "native": "若山温"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Minoru Oonishi",
+      "native": "大西穣"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ryuu Sakamoto",
+      "native": "坂本竜"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Keiko Gotou",
+      "native": "後藤恵子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kouhei Tanada",
+      "native": "棚田耕平"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Caiyun Cai",
+      "native": "蔡彩云"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Harumi Kurihara",
+      "native": "栗原晴美"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kengo Shigemura",
+      "native": "重村建吾"
+     }
+    }
+   },
+   {
+    "role": "CG Producer",
+    "node": {
+     "name": {
+      "full": "Yutaka Hamanaka",
+      "native": "濱中裕"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuudai Ueno",
+      "native": "上野雄大"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Watanabe",
+      "native": "渡邉祐記"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ch'en",
+      "native": "陈"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shizuka Ishigami",
+       "native": "石上静香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Amiya",
+      "native": "阿米娅"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoyo Kurosawa",
+       "native": "黒沢ともよ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kal'tsit",
+      "native": "凯尔希"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Youko Hikasa",
+       "native": "日笠陽子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Doctor",
+      "native": "博士"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuki Kaida",
+       "native": "甲斐田ゆき"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rosmontis",
+      "native": "迷迭香"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yui Ogura",
+       "native": "小倉唯"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Talulah",
+      "native": "塔露拉"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maaya Sakamoto",
+       "native": "坂本真綾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Patriot",
+      "native": "爱国者"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Banjou Ginga",
+       "native": "銀河万丈"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

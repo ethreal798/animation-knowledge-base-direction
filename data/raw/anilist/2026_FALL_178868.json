@@ -1,0 +1,293 @@
+{
+ "id": 178868,
+ "title": {
+  "romaji": "Magic Knight Rayearth (2026)",
+  "english": "Magic Knight Rayearth (2026)",
+  "native": "魔法騎士レイアース (2026)"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 7
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "E&H Production"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "CLAMP",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yui Miura",
+      "native": "三浦唯"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Sano",
+      "native": "佐野誉幸"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shigeru Murakoshi",
+      "native": "村越繁"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Satomi Watanabe",
+      "native": "渡部里美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kazumaru Andou",
+      "native": "安藤和丸"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Chiho Nakamura",
+      "native": "中村千穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hitoshi Tamura",
+      "native": "田村仁"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keisuke Yanagi",
+      "native": "柳圭介"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tomohiko Kan",
+      "native": "菅友彦"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shuuhei Abe",
+      "native": "阿部秀平"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuki Kajiura",
+      "native": "梶浦由記"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shiho Terada",
+      "native": "寺田志保"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takumi Ozawa",
+      "native": "尾澤拓実"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Satomi Watanabe",
+      "native": "渡部里美"
+     }
+    }
+   },
+   {
+    "role": "Creative Producer",
+    "node": {
+     "name": {
+      "full": "Seong-Hu Park",
+      "native": "박성후"
+     }
+    }
+   },
+   {
+    "role": "Devil Design",
+    "node": {
+     "name": {
+      "full": "Hiroki Mutaguchi",
+      "native": "牟田口裕基"
+     }
+    }
+   },
+   {
+    "role": "Devil Mechanical Director",
+    "node": {
+     "name": {
+      "full": "Hiroki Mutaguchi",
+      "native": "牟田口裕基"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Ryou Eguchi",
+      "native": "江口亮"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Katsuhiko Sugiyama",
+      "native": "杉山勝彦"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Toaka",
+      "native": "十明"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yurina Kawaguchi",
+      "native": "川口ゆりな"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Gary Jeon",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hikaru Shidou",
+      "native": "獅堂光"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayane Sakura",
+       "native": "佐倉綾音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Umi Ryuuzaki",
+      "native": "龍咲海"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rumi Ookubo",
+       "native": "大久保瑠美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Fuu Hououji",
+      "native": "鳳凰寺風"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Takahashi",
+       "native": "高橋李依"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

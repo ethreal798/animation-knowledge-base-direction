@@ -1,0 +1,187 @@
+{
+ "id": 202381,
+ "title": {
+  "romaji": "Mata Korosarete Shimatta no desu ne, Tantei-sama",
+  "english": "Killed again, Mr. Detective.",
+  "native": "また殺されてしまったのですね、探偵様"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 19
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Teniwoha",
+      "native": "てにをは"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Riichu",
+      "native": "りいちゅ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takashi Naoya",
+      "native": "直谷たかし"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shuuhei Mutsuki",
+      "native": "睦月周平"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mio Inoue",
+      "native": "井上美緒"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mitsuyoshi Yamamoto",
+      "native": "山本弥芳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akiko Kumada",
+      "native": "熊田明子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Emiko Onodera",
+      "native": "小野寺笑子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kuniaki Nemoto",
+      "native": "根本邦明"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Yoshida",
+      "native": "吉田光平"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 3, 5)",
+    "node": {
+     "name": {
+      "full": "João Moura",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Tajigen Seigyo Kikou Yodaka",
+      "native": "多次元制御機構よだか"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 02)",
+    "node": {
+     "name": {
+      "full": "Yami",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sakuya Outsuki",
+      "native": "追月朔也"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rikuya Yasuda",
+       "native": "安田陸矢"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lilithea",
+      "native": "リリテア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shion Wakayama",
+       "native": "若山詩音"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

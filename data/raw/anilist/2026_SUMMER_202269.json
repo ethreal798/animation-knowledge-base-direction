@@ -1,0 +1,223 @@
+{
+ "id": 202269,
+ "title": {
+  "romaji": "Toumei na Yoru ni Kakeru Kimi to, Me ni Mienai Koi wo Shita.",
+  "english": "Love Unseen Beneath the Clear Night Sky",
+  "native": "透明な夜に駆ける君と、目に見えない恋をした。"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Makaria"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Nanigashi Shima",
+      "native": "志馬なにがし"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Raemz",
+      "native": "Raemz"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Joe Yoshizaki",
+      "native": "吉崎譲"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Sawada",
+      "native": "澤田慶宏"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuzuki Ishii",
+      "native": "石井優月"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Saki Nakamura",
+      "native": "中村朝咲"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mayumi Hiraide",
+      "native": "平出真弓"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yoshihito Kuwa",
+      "native": "桑良人"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Naigo Matsumoto",
+      "native": "松本乃吾"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Motoyama",
+      "native": "本山哲"
+     }
+    }
+   },
+   {
+    "role": "Art Supervisor",
+    "node": {
+     "name": {
+      "full": "Osamu Masuyama",
+      "native": "増山修"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Motohiro Hata",
+      "native": "秦基博"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Harumi Fuuki",
+      "native": "富貴晴美"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "João Moura",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Kaien Jin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yui Sakurai",
+      "native": "櫻井優衣"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kakeru Sorano",
+      "native": "空野かける"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyu Irino",
+       "native": "入野自由"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Koharu Fuyutsuki",
+      "native": "冬月小春"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Hayami",
+       "native": "早見沙織"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,244 @@
+{
+ "id": 188138,
+ "title": {
+  "romaji": "Binan Koukou Chikyuu Bouei-bu Haikara!",
+  "english": "Cute High Earth Defense Club Hi-CARA!",
+  "native": "美男高校地球防衛部ハイカラ！"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 22
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kurari Umatani",
+      "native": "馬谷くらり"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shinji Takamatsu",
+      "native": "高松信司"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takashi Aoshima",
+      "native": "あおしまたかし"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Ayaka Murakami",
+      "native": "村上彩香"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Ayaka Murakami",
+      "native": "村上彩香"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kana Tsuchimoto",
+      "native": "土本佳奈"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Maruyama",
+      "native": "丸山由紀子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Imari Katsuragi",
+      "native": "桂木今里"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Asahiko Koshiyama",
+      "native": "越山麻彦"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keiko Onodera",
+      "native": "小野寺桂子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yamazo",
+      "native": "yamazo"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Youko Kawahara",
+      "native": "川原陽子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shinji Takamatsu",
+      "native": "高松信司"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 10)",
+    "node": {
+     "name": {
+      "full": "Shinji Ishihira",
+      "native": "石平信司"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shinkurou Unzen",
+      "native": "雲仙新九郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taiga Takano",
+       "native": "高野大河"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Narushi Sukayu",
+      "native": "酸ヶ湯愛琉志"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryuuho Nagaoka",
+       "native": "長岡龍歩"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sousuke Unohana",
+      "native": "卯花惣輔"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Noriaki Kanze",
+       "native": "観世智顕"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ushio Oshamanbe",
+      "native": "長万部潮"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takahiro Koike",
+       "native": "小池貴大"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akuta Aso",
+      "native": "阿蘇空太"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taichi Kusano",
+       "native": "草野太一"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "id": 187989,
+ "title": {
+  "romaji": "Yuusha no Kuzu",
+  "english": "Scum of the Brave",
+  "native": "勇者のクズ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "OLM"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Rocket  Shoukai",
+      "native": "ロケット商会 "
+     }
+    }
+   },
+   {
+    "role": "Original Illustration",
+    "node": {
+     "name": {
+      "full": "Nakashima723",
+      "native": "ナカシマ723"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Shinji Ushiro",
+      "native": "後信治"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Youichi Katou",
+      "native": "加藤陽一 "
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Rika Murakami",
+      "native": "村上李香"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Inoue",
+      "native": "井上一宏"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naoto Kondou",
+      "native": "近藤直登"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tsunetaka Ema",
+      "native": "江間常高"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Naoki Watanabe",
+      "native": "渡辺直樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Enomoto",
+      "native": "榎本崇宏"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Kenichirou Suehiro",
+      "native": "末廣健一郎"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Youichi Katou",
+      "native": "加藤陽一 "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "TOOBOE",
+      "native": "TOOBOE"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Mulasaki Ima",
+      "native": "紫今"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 7)",
+    "node": {
+     "name": {
+      "full": "Won-Hoi Kim",
+      "native": "김원회"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Jong-Gyeong Lee",
+      "native": "이종경"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Yuuki Kakuhara",
+      "native": "角原勇輝"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Shigeki Hatakeyama",
+      "native": "畠山茂樹"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 4)",
+    "node": {
+     "name": {
+      "full": "Tomoya  Takashima ",
+      "native": "高嶋友也"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 5)",
+    "node": {
+     "name": {
+      "full": "Hitoyuki Matsui",
+      "native": "まついひとゆき"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 5)",
+    "node": {
+     "name": {
+      "full": "Tomo Matsukawa",
+      "native": "松川智"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 6)",
+    "node": {
+     "name": {
+      "full": "Yasuyuki Fuse",
+      "native": "布施康之"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Yuuki Watanabe",
+      "native": "渡邉祐記"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Yuting Xiao",
+      "native": "蕭宇庭"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Karen Nishiyama",
+      "native": "西山華怜"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yashiro",
+      "native": "ヤシロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Suzuki",
+       "native": "鈴木崚汰"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aki Jougamine",
+      "native": "城ヶ峰亜希"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akari Kitou",
+       "native": "鬼頭明里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yukine Indou",
+      "native": "印堂雪音"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Harumi Momo",
+       "native": "春海百乃"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sara Pendragon",
+      "native": "セーラ・カシワギ・ペンドラゴン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumiri Hanamori",
+       "native": "花守ゆみり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

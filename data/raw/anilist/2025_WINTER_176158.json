@@ -1,0 +1,304 @@
+{
+ "id": 176158,
+ "title": {
+  "romaji": "S-Rank Monster no \"Behemoth\" Dakedo, Neko to Machigawarete Elf Musume no Pet to Shite Kurashitemasu",
+  "english": "Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!",
+  "native": "Ｓランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士（ペット）として暮らしてます"
+ },
+ "startDate": {
+  "year": 2024,
+  "month": 12,
+  "day": 28
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 15
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Zero-G"
+   },
+   {
+    "name": "Saber Works"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Nozomi Ginyoku",
+      "native": "銀翼のぞみ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mitsuki Yano",
+      "native": "夜ノみつき"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tetsuo Hirakawa",
+      "native": "平川哲生"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kanichi Katou",
+      "native": "加藤還一"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Abe",
+      "native": "阿部智之"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Nonoka Oobuchi",
+      "native": "大渕野々花"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Abe",
+      "native": "阿部智之"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Abe",
+      "native": "阿部智之"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Minewo Suzuki",
+      "native": "鈴木美音織"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Keiko Ishii",
+      "native": "石井景子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Nanako Arima",
+      "native": "有馬七虹"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Shiori Kouno",
+      "native": "河野しおり"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Ayana Suzuma",
+      "native": "鈴間綾奈"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yuuno Umemura",
+      "native": "梅村悠卯乃"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Xuerong Qian",
+      "native": "銭雪蓉"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Zhiying Lin",
+      "native": "林知崹"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Enon Kawatani",
+      "native": "川谷絵音"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Enon Kawatani",
+      "native": "川谷絵音"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Enon Kawatani",
+      "native": "川谷絵音"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "John Swasey",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Assistant Key Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Keiko Ishii",
+      "native": "石井景子"
+     }
+    }
+   },
+   {
+    "role": "Assistant Key Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Nanako Arima",
+      "native": "有馬七虹"
+     }
+    }
+   },
+   {
+    "role": "Assistant Key Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Shiori Kouno",
+      "native": "河野しおり"
+     }
+    }
+   },
+   {
+    "role": "Finishing (ep 1)",
+    "node": {
+     "name": {
+      "full": "Mizuho Yamada",
+      "native": "山田瑞穂"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Kalin Black",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tama",
+      "native": "タマ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tasuku Hatanaka",
+       "native": "畠中祐"
+      }
+     },
+     {
+      "name": {
+       "full": "Riho Sugiyama",
+       "native": "杉山里穂"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aria",
+      "native": "アリア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hinaki Yano",
+       "native": "矢野妃菜喜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

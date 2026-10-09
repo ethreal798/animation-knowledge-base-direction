@@ -1,0 +1,241 @@
+{
+ "id": 177508,
+ "title": {
+  "romaji": "Kujima Utaeba Ie Hororo",
+  "english": "Kujima: Why Sing, When You Can Warble?",
+  "native": "クジマ歌えば家ほろろ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 25
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Hibari"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Akira Konno",
+      "native": "紺野アキラ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Noriyuki Nomata",
+      "native": "野亦則行"
+     }
+    }
+   },
+   {
+    "role": "‪Series Director‬",
+    "node": {
+     "name": {
+      "full": "Shinichirou Kimura",
+      "native": "木村真一郎"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yasunori Yamada",
+      "native": "山田靖智"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hanako Mitsubachi",
+      "native": "三橋桜子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuka Hashimori",
+      "native": "橋森有加"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Betsuyaku",
+      "native": "別役裕之"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Daiki Sugiyama",
+      "native": "杉山大貴"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Momoka Arakawa",
+      "native": "荒川百花"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yukie Oikawa",
+      "native": "及川雪江"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takuya Umeda",
+      "native": "梅田拓也"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yoshikazu Iwanami",
+      "native": "岩浪美和"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Michiyo Saitou",
+      "native": "斎藤みち代"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Manami Kakudo",
+      "native": "角銅真実"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Hiroki Nakajima",
+      "native": "中嶋浩輝"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Galileo Galilei",
+      "native": "Galileo Galilei"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Manami Kakudo",
+      "native": "角銅真実"
+     }
+    }
+   },
+   {
+    "role": "Russian Language Supervisor",
+    "node": {
+     "name": {
+      "full": "Jenya Davidyuk",
+      "native": "Женя Давидюк"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kujima",
+      "native": "クジマ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuria Kouzuki",
+       "native": "神月柚莉愛"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Arata Kouda",
+      "native": "鴻田新"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayumu Murase",
+       "native": "村瀬歩"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

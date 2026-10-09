@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>番组资料室 · AnimeQA</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@500;700;900&family=Noto+Sans+JP:wght@400;500&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --ink: #f6f3ec;          /* 暖纸白背景 */
+  --ink-2: #ffffff;        /* 卡片底 */
+  --ink-3: #ece7dd;        /* hover 底 */
+  --paper: #221f1a;        /* 深墨文字 */
+  --paper-dim: #6f6a61;    /* 次级文字 */
+  --accent: #c8553d;       /* 陶土朱红 */
+  --accent-soft: rgba(200, 85, 61, .10);
+  --line: rgba(34, 31, 26, .14);
+  --mono: 'JetBrains Mono', monospace;
+  --sans: 'Noto Sans JP', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --display: 'Zen Kaku Gothic New', 'Noto Sans JP', sans-serif;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body { height: 100%; }
+body {
+  background: var(--ink);
+  color: var(--paper);
+  font-family: var(--sans);
+  font-size: 15px;
+  overflow: hidden;
+}
+/* 背景纹理：细噪点 + 左侧竖直色带 */
+body::before {
+  content: "";
+  position: fixed; inset: 0; z-index: 0; pointer-events: none;
+  background:
+    repeating-linear-gradient(90deg, transparent 0 79px, rgba(34,31,26,.035) 79px 80px);
+}
+body::after {
+  content: "";
+  position: fixed; left: 0; top: 0; bottom: 0; width: 3px; z-index: 0;
+  background: var(--accent);
+}
+
+.app {
+  position: relative; z-index: 1;
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  height: 100vh;
+}
+
+/* ===== 侧栏：历史 ===== */
+.sidebar {
+  border-right: 1px solid var(--line);
+  display: flex; flex-direction: column;
+  background: linear-gradient(180deg, rgba(255,255,255,.02), transparent);
+}
+.brand {
+  padding: 24px 20px 18px;
+  border-bottom: 1px solid var(--line);
+  flex-shrink: 0;
+}
+.brand .kicker {
+  font-family: var(--mono); font-size: 11px; letter-spacing: .18em;
+  color: var(--accent); text-transform: uppercase;
+}
+.brand h1 {
+  font-family: var(--display); font-weight: 900; font-size: 22px;
+  letter-spacing: .04em; margin-top: 6px;
+}
+.brand p { color: var(--paper-dim); font-size: 12px; margin-top: 4px; }
+.hist-head {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 12px 20px; color: var(--paper-dim); font-size: 12px;
+  font-family: var(--mono); letter-spacing: .1em;
+  flex-shrink: 0;
+}
+.new-btn {
+  font-family: var(--sans); font-size: 12px; letter-spacing: 0;
+  background: var(--accent); color: #fff; border: none; border-radius: 6px;
+  padding: 4px 10px; cursor: pointer; transition: filter .15s;
+}
+.new-btn:hover { filter: brightness(1.12); }
+#historyList { flex: 1; min-height: 0; overflow-y: auto; padding: 0 10px 16px; }
+.hist-item {
+  position: relative;
+  padding: 10px 28px 10px 12px; margin-bottom: 4px; border-radius: 8px;
+  cursor: pointer; font-size: 13px; line-height: 1.5;
+  color: var(--paper-dim); border: 1px solid transparent;
+  transition: background .15s, color .15s;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+}
+.hist-item:hover { background: var(--ink-3); color: var(--paper); }
+.hist-item.active { background: var(--accent-soft); border-color: rgba(224,72,58,.35); color: var(--paper); }
+.hist-item .t { font-family: var(--mono); font-size: 10px; opacity: .6; display: block; margin-bottom: 2px; }
+.hist-item .del {
+  position: absolute; right: 6px; top: 8px;
+  width: 18px; height: 18px; line-height: 16px; text-align: center;
+  border-radius: 50%; font-size: 13px; color: var(--paper-dim);
+  opacity: 0; transition: opacity .15s, background .15s, color .15s;
+  font-family: var(--mono);
+}
+.hist-item:hover .del { opacity: 1; }
+.hist-item .del:hover { background: var(--accent); color: #fff; }
+.hist-empty { color: var(--paper-dim); font-size: 12px; padding: 12px 20px; }
+.side-foot {
+  padding: 12px 20px; border-top: 1px solid var(--line);
+  font-family: var(--mono); font-size: 11px; color: var(--paper-dim);
+  display: flex; justify-content: space-between;
+  flex-shrink: 0;
+}
+
+/* ===== 主区：对话 ===== */
+.main { display: flex; flex-direction: column; min-width: 0; min-height: 0; }
+.chat-head {
+  padding: 16px 28px; border-bottom: 1px solid var(--line);
+  display: flex; align-items: baseline; gap: 12px;
+  flex-shrink: 0;
+}
+.chat-head .tag {
+  font-family: var(--mono); font-size: 11px; color: var(--accent);
+  border: 1px solid rgba(224,72,58,.4); padding: 2px 8px; border-radius: 3px;
+}
+.chat-head .desc { color: var(--paper-dim); font-size: 13px; }
+
+#chatLog { flex: 1; min-height: 0; overflow-y: auto; padding: 28px; display: flex; flex-direction: column; gap: 24px; }
+.msg { max-width: 780px; animation: rise .25s ease-out; }
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+.msg.user { align-self: flex-end; text-align: right; }
+.msg.bot { align-self: flex-start; }
+.role-label {
+  font-family: var(--mono); font-size: 11px; letter-spacing: .14em;
+  color: var(--paper-dim); margin-bottom: 6px; text-transform: uppercase;
+}
+.msg.user .bubble {
+  display: inline-block; background: var(--accent-soft);
+  border: 1px solid rgba(224,72,58,.3); border-radius: 14px 14px 4px 14px;
+  padding: 12px 16px; text-align: left; line-height: 1.6;
+}
+.msg.bot .bubble {
+  background: var(--ink-2); border: 1px solid var(--line);
+  border-radius: 4px 14px 14px 14px; padding: 14px 18px; line-height: 1.7;
+}
+.answer { white-space: pre-wrap; word-break: break-word; }
+.cite {
+  display: inline-block; font-family: var(--mono); font-size: 11px;
+  color: var(--accent); cursor: pointer; padding: 1px 6px;
+  border: 1px solid rgba(224,72,58,.45); border-radius: 3px;
+  margin: 0 2px; transition: background .15s;
+  vertical-align: baseline;
+}
+.cite:hover { background: var(--accent); color: #fff; }
+.cite.active { background: var(--accent); color: #fff; }
+
+/* 引用来源卡片 */
+.sources { margin-top: 12px; display: flex; flex-direction: column; gap: 8px; }
+.src {
+  border: 1px solid var(--line); border-left: 3px solid var(--accent);
+  border-radius: 6px; padding: 10px 14px; cursor: pointer;
+  transition: background .15s;
+}
+.src:hover { background: var(--ink-3); }
+.src-head {
+  display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+  font-size: 13px; font-weight: 500;
+}
+.src-head .num { font-family: var(--mono); color: var(--accent); font-size: 11px; }
+.src-head .dim {
+  font-family: var(--mono); font-size: 10px; color: var(--paper-dim);
+  background: rgba(34,31,26,.06); padding: 1px 6px; border-radius: 3px;
+}
+.src-head .meta { color: var(--paper-dim); font-size: 11px; font-family: var(--mono); }
+.src-body {
+  display: none; margin-top: 8px; color: var(--paper-dim);
+  font-size: 12.5px; line-height: 1.6; max-height: 160px; overflow-y: auto;
+  white-space: pre-wrap;
+}
+.src.open .src-body { display: block; }
+.src .src-body { border-top: 1px dashed var(--line); padding-top: 8px; }
+
+/* 输入区 */
+.input-area {
+  border-top: 1px solid var(--line); padding: 16px 28px 22px;
+  background: rgba(255,255,255,.55);
+  flex-shrink: 0;
+}
+.input-row { display: flex; gap: 10px; align-items: stretch; }
+#input {
+  flex: 1; background: var(--ink-2); color: var(--paper);
+  border: 1px solid var(--line); border-radius: 10px;
+  padding: 12px 16px; font-size: 14.5px; font-family: var(--sans);
+  resize: none; outline: none; line-height: 1.5; max-height: 140px;
+  transition: border-color .15s;
+}
+#input:focus { border-color: rgba(224,72,58,.5); }
+#send {
+  background: var(--accent); color: #fff; border: none; border-radius: 10px;
+  padding: 0 26px; font-size: 14px; font-weight: 700; cursor: pointer;
+  transition: filter .15s, transform .1s; font-family: var(--display);
+}
+#send:hover { filter: brightness(1.12); }
+#send:active { transform: scale(.97); }
+#send:disabled { opacity: .5; cursor: wait; }
+.hint { color: var(--paper-dim); font-size: 12px; margin-top: 10px; font-family: var(--mono); }
+
+.typing { color: var(--paper-dim); font-family: var(--mono); font-size: 13px; }
+.typing .dot { animation: blink 1s infinite; }
+.typing .dot:nth-child(2) { animation-delay: .2s; }
+.typing .dot:nth-child(3) { animation-delay: .4s; }
+@keyframes blink { 0%,80%,100% { opacity: .2; } 40% { opacity: 1; } }
+
+.err { color: var(--accent); font-size: 13px; font-family: var(--mono); margin-top: 8px; }
+@media (max-width: 820px) {
+  .app { grid-template-columns: 1fr; }
+  .sidebar { display: none; }
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="sidebar">
+    <div class="brand">
+      <div class="kicker">Anime Production Archive</div>
+      <h1>番组资料室</h1>
+      <p>2025–2026 新番制作信息 · RAG 问答</p>
+    </div>
+    <div class="hist-head"><span>对话历史 / LOG</span><button id="newConv" class="new-btn">＋ 新对话</button></div>
+    <div id="historyList"><div class="hist-empty">暂无记录</div></div>
+    <div class="side-foot">
+      <span>AniList × Qdrant × deepseek</span>
+      <span id="indexed">–</span>
+    </div>
+  </aside>
+
+  <main class="main">
+    <div class="chat-head">
+      <span class="tag">RAG</span>
+      <span class="desc">输入新番相关问题，例如「《药屋少女的呢喃 第2期》的导演是谁？」</span>
+    </div>
+    <div id="chatLog"></div>
+    <div class="input-area">
+      <div class="input-row">
+        <textarea id="input" rows="1" placeholder="问问某部新番的导演 / 制作公司 / 声优…"></textarea>
+        <button id="send">发送</button>
+      </div>
+      <div class="hint">ENTER 发送 · SHIFT+ENTER 换行</div>
+    </div>
+  </main>
+</div>
+
+<script>
+const API = "";
+const $ = (s) => document.querySelector(s);
+const chatLog = $("#chatLog"), input = $("#input"), sendBtn = $("#send");
+
+function esc(s) {
+  return String(s ?? "").replace(/[&<>"']/g, (c) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+}
+
+/* 把回答文本里的 [n] 引用替换为可点击 chip，同时按引文渲染来源卡片 */
+function renderAnswer(answer, sources) {
+  let html = esc(answer).replace(/\[(\d+)\]/g, (m, n) =>
+    `<span class="cite" data-idx="${n}">[${n}]</span>`);
+  let srcHtml = "";
+  if (sources && sources.length) {
+    srcHtml = `<div class="sources">` + sources.map((s, i) => `
+      <div class="src" data-idx="${i + 1}">
+        <div class="src-head">
+          <span class="num">[${i + 1}]</span>
+          <span class="title">${esc(s.title || "—")}</span>
+          <span class="meta">${esc(s.season || "")} ${esc(s.year || "")}</span>
+          <span class="dim">${esc(s.dimension || "")}</span>
+        </div>
+        <div class="src-body">${esc(s.text)}</div>
+      </div>`).join("") + `</div>`;
+  }
+  return { answer: html, srcHtml };
+}
+
+function scrollToBottom() {
+  requestAnimationFrame(() => {
+    chatLog.scrollTop = chatLog.scrollHeight;
+    setTimeout(() => { chatLog.scrollTop = chatLog.scrollHeight; }, 100);
+  });
+}
+
+function appendMsg(role, answer, sources, citeable = true) {
+  const wrap = document.createElement("div");
+  wrap.className = `msg ${role}`;
+  const label = role === "user" ? "你" : "番组资料室";
+  wrap.innerHTML = `<div class="role-label">${label}</div><div class="bubble"></div>`;
+  const bubble = wrap.querySelector(".bubble");
+  if (role === "user") {
+    bubble.textContent = answer;
+  } else {
+    const { answer: ah, srcHtml } = renderAnswer(answer, sources);
+    bubble.innerHTML = `<div class="answer">${ah}</div>` + srcHtml;
+    if (citeable) bindCites(wrap);
+  }
+  chatLog.appendChild(wrap);
+  scrollToBottom();
+  return wrap;
+}
+
+/* 引用角标 [n]：滚动并展开对应来源卡片；来源卡片：点击独立展开/收起 */
+function bindCites(wrap) {
+  const cites = wrap.querySelectorAll(".cite");
+  cites.forEach((c) => c.addEventListener("click", () => {
+    const n = parseInt(c.dataset.idx, 10);
+    const src = wrap.querySelector(`.src[data-idx="${n}"]`);
+    if (!src) return;
+    const wasOpen = src.classList.contains("open");
+    wrap.querySelectorAll(".src.open").forEach((s) => s.classList.remove("open"));
+    wrap.querySelectorAll(".cite.active").forEach((x) => x.classList.remove("active"));
+    if (!wasOpen) { src.classList.add("open"); c.classList.add("active"); }
+    src.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    scrollToBottom();
+  }));
+  wrap.querySelectorAll(".src").forEach((s) => s.addEventListener("click", () => {
+    const open = s.classList.toggle("open");
+    const idx = s.dataset.idx;
+    const cite = wrap.querySelector(`.cite[data-idx="${idx}"]`);
+    if (cite) cite.classList.toggle("active", open);
+    scrollToBottom();
+  }));
+}
+
+function typing() {
+  const el = document.createElement("div");
+  el.className = "msg bot";
+  el.innerHTML = `<div class="role-label">番组资料室</div><div class="bubble typing">思考中<span class="dot">.</span><span class="dot">.</span><span class="dot">.</span></div>`;
+  chatLog.appendChild(el);
+  chatLog.scrollTop = chatLog.scrollHeight;
+  return el;
+}
+
+/* 当前会话上下文（传给后端维持多轮记忆） */
+let convHistory = [];
+
+async function ask(question) {
+  input.value = "";
+  appendMsg("user", question);
+  convHistory.push({ role: "user", content: question });
+  const t = typing();
+  sendBtn.disabled = true;
+  try {
+    const r = await fetch(API + "/api/chat", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question, mode: "rag", history: convHistory.slice(0, -1) }),
+    });
+    const data = await r.json();
+    t.remove();
+    if (!r.ok) throw new Error(data.detail?.[0]?.msg || r.status);
+    appendMsg("bot", data.answer, data.sources || []);
+    convHistory.push({ role: "assistant", content: data.answer });
+    loadHistory();
+  } catch (e) {
+    t.remove();
+    const el = document.createElement("div");
+    el.className = "msg bot";
+    el.innerHTML = `<div class="role-label">番组资料室</div><div class="bubble err">请求失败：${esc(e.message)}</div>`;
+    chatLog.appendChild(el);
+    scrollToBottom();
+  } finally {
+    sendBtn.disabled = false;
+    input.focus();
+  }
+}
+
+async function loadHistory() {
+  try {
+    const r = await fetch(API + "/api/history?limit=50");
+    const data = await r.json();
+    const list = $("#historyList");
+    if (!data.items || !data.items.length) {
+      list.innerHTML = `<div class="hist-empty">暂无记录</div>`;
+      return;
+    }
+    list.innerHTML = "";
+    data.items.forEach((it) => {
+      const d = document.createElement("div");
+      d.className = "hist-item";
+      d.innerHTML = `<span class="t">${esc(it.created_at)}</span>${esc(it.question)}<span class="del" title="删除">×</span>`;
+      d.addEventListener("click", () => loadConversation(it, d));
+      d.querySelector(".del").addEventListener("click", async (e) => {
+        e.stopPropagation();
+        if (!confirm("删除这条对话记录？")) return;
+        try {
+          await fetch(API + "/api/history/" + it.id, { method: "DELETE" });
+          d.remove();
+          if (d.classList.contains("active")) { chatLog.innerHTML = ""; convHistory = []; }
+        } catch (e2) { alert("删除失败：" + e2.message); }
+      });
+      list.appendChild(d);
+    });
+  } catch (e) { /* 历史加载失败不阻塞主流程 */ }
+}
+
+function loadConversation(it, el) {
+  document.querySelectorAll(".hist-item.active").forEach((x) => x.classList.remove("active"));
+  el.classList.add("active");
+  chatLog.innerHTML = "";
+  appendMsg("user", it.question);
+  appendMsg("bot", it.answer, it.sources || []);
+}
+
+async function boot() {
+  try {
+    const r = await fetch(API + "/api/health");
+    const d = await r.json();
+    $("#indexed").textContent = "INDEX " + d.indexed;
+  } catch (e) { $("#indexed").textContent = "API 离线"; }
+  loadHistory();
+}
+
+sendBtn.addEventListener("click", () => {
+  const q = input.value.trim();
+  if (q) ask(q);
+});
+/* 新建对话：清空当前会话与记忆，但不删历史 */
+$("#newConv").addEventListener("click", () => {
+  chatLog.innerHTML = "";
+  convHistory = [];
+  document.querySelectorAll(".hist-item.active").forEach((x) => x.classList.remove("active"));
+  input.focus();
+});
+input.addEventListener("keydown", (e) => {
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+    const q = input.value.trim();
+    if (q && !sendBtn.disabled) ask(q);
+  }
+});
+
+boot();
+</script>
+</body>
+</html>

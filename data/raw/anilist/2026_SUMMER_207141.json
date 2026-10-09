@@ -1,0 +1,279 @@
+{
+ "id": 207141,
+ "title": {
+  "romaji": "Yani Neko",
+  "english": "Chainsmoker Cat",
+  "native": "ヤニねこ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 25
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bibury Animation Studios"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Nyan Nyan Factory",
+      "native": "にゃんにゃんファクトリー"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Taku Kimura",
+      "native": "木村拓"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Riki Matsuura ",
+      "native": "松浦力"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Maruyama",
+      "native": "丸山由紀子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shoutarou Yoshino",
+      "native": "吉野翔太郎"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuiha Oota",
+      "native": "太田ゆいは"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hisashi Yonezawa",
+      "native": "米澤寿"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mutsumi Takemiya",
+      "native": "武宮むつみ"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keiichi Suzuki",
+      "native": "鈴木慶一"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Takashi Aoshima",
+      "native": "あおしまたかし"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Wasureranneyo",
+      "native": "忘れらんねえよ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Necry Talkie",
+      "native": "ネクライトーキー"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Renan Vidal",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ep 11)",
+    "node": {
+     "name": {
+      "full": "Necry Talkie",
+      "native": "ネクライトーキー"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Kay Yu",
+      "native": "ケイユウ"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Yoshifumi Wada",
+      "native": "和田吉史"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 7)",
+    "node": {
+     "name": {
+      "full": "Ukata",
+      "native": "ウーカタ"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 7)",
+    "node": {
+     "name": {
+      "full": "Riho Yamaji",
+      "native": "山地梨穂"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Riho Yamaji",
+      "native": "山地梨穂"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Ritsu Takeuchi",
+      "native": "武内律"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "João Moura",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 7)",
+    "node": {
+     "name": {
+      "full": "Mainore",
+      "native": "まいのレ"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 7)",
+    "node": {
+     "name": {
+      "full": "Mainore",
+      "native": "まいのレ"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 7)",
+    "node": {
+     "name": {
+      "full": "Aoi Kakinuma",
+      "native": "柿沼蒼生"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yaniko Satou",
+      "native": "佐藤ヤニ子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuko Natsuyoshi",
+       "native": "夏吉ゆうこ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

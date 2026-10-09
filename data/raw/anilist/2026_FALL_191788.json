@@ -1,0 +1,279 @@
+{
+ "id": 191788,
+ "title": {
+  "romaji": "Aoashi 2nd Season",
+  "english": "Aoashi Season 2",
+  "native": "アオアシ 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TMS Entertainment"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuugo Kobayashi",
+      "native": "小林有吾"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuki Yokoyama",
+      "native": "横山和基"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masahiro Yokotani",
+      "native": "横谷昌宏"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Junko Yamanaka",
+      "native": "山中純子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Manabu Nakatake",
+      "native": "中武学"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Asami Taguchi",
+      "native": "田口麻美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Niki Higaki",
+      "native": "桧垣仁希"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Shigekawa",
+      "native": "重川優輝"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Miyawaki",
+      "native": "宮脇裕美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Jirou Tazawa",
+      "native": "田沢二郎"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masato Yoshitake",
+      "native": "吉武将人"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kaito Iwata",
+      "native": "岩田海斗"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shouji Hata",
+      "native": "はたしょうじ "
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masaru Yokoyama",
+      "native": "横山克"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Junko Yamanaka",
+      "native": "山中純子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Manabu Nakatake",
+      "native": "中武学"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Asami Taguchi",
+      "native": "田口麻美"
+     }
+    }
+   },
+   {
+    "role": "Action Animation Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Kubo",
+      "native": "窪敏"
+     }
+    }
+   },
+   {
+    "role": "Action Animation Director",
+    "node": {
+     "name": {
+      "full": "Tadayoshi Okimura",
+      "native": "興村忠美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Ai Higuchi",
+      "native": "ヒグチアイ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "10-FEET",
+      "native": "10-FEET"
+     }
+    }
+   },
+   {
+    "role": "Soccer Supervisor",
+    "node": {
+     "name": {
+      "full": "Kenji Iizuka",
+      "native": "飯塚健司"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Hikaru Ishizaki",
+      "native": "石崎光"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Ai Higuchi",
+      "native": "ヒグチアイ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Ai Higuchi",
+      "native": "ヒグチアイ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ashito  Aoi",
+      "native": "青井葦人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouki Oosuzu",
+       "native": "大鈴功起"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

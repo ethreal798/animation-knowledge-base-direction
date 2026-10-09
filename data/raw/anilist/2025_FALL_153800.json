@@ -1,0 +1,295 @@
+{
+ "id": 153800,
+ "title": {
+  "romaji": "One Punch Man 3",
+  "english": "One-Punch Man Season 3",
+  "native": "ワンパンマン３"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 28
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "J.C.STAFF"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "ONE",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yuusuke Murata",
+      "native": "村田雄介"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shinpei Nagai",
+      "native": "永居慎平"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tomohiro Suzuki",
+      "native": "鈴木智尋"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Chikashi Kubota",
+      "native": "久保田誓"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Ryousuke Shirokawa",
+      "native": "白川亮介"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shinjirou Kuroda",
+      "native": "黒田新次郎"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Sakura Murakami",
+      "native": "村上さくら"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mayumi Tanahashi",
+      "native": "店橋真弓"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuki Hirose",
+      "native": "廣瀬唯希"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masahiro Gotou",
+      "native": "後藤正浩"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yoshikazu Iwanami",
+      "native": "岩浪美和"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Makoto Miyazaki",
+      "native": "宮崎誠"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "JAM Project",
+      "native": "JAM Project"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Makoto Furukawa",
+      "native": "古川慎"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "BABYMETAL",
+      "native": "ベビーメタル"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Italian)",
+    "node": {
+     "name": {
+      "full": "Perla Liberatori",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Thiago Keplmair",
+      "native": "Thiago Keplermair"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Hironobu Kageyama",
+      "native": "影山ヒロノブ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Hironobu Kageyama",
+      "native": "影山ヒロノブ"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 2, 5, 9, 11, 12)",
+    "node": {
+     "name": {
+      "full": "Yumi Nakayama",
+      "native": "中山由美"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (German)",
+    "node": {
+     "name": {
+      "full": "René Dawn-Claude",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Takeshi Miyamoto",
+      "native": "宮本武史"
+     }
+    }
+   },
+   {
+    "role": "Creature Design",
+    "node": {
+     "name": {
+      "full": "Noriyuki Jinguuji",
+      "native": "神宮司訓之"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1-8, 10-12)",
+    "node": {
+     "name": {
+      "full": "Shinpei Nagai",
+      "native": "永居慎平"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Saitama",
+      "native": "サイタマ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Makoto Furukawa",
+       "native": "古川慎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Garou",
+      "native": "ガロウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hikaru Midorikawa",
+       "native": "緑川光"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

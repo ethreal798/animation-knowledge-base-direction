@@ -1,0 +1,279 @@
+{
+ "id": 180516,
+ "title": {
+  "romaji": "Uma Musume: Cinderella Gray",
+  "english": "Umamusume: Cinderella Gray",
+  "native": "ウマ娘 シンデレラグレイ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 29
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CygamesPictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Cygames",
+      "native": "株式会社Cygames"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Taiyou Kuzumi",
+      "native": "久住太陽"
+     }
+    }
+   },
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Junnosuke Itou",
+      "native": "伊藤隼之介"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Itou",
+      "native": "伊藤祐毅"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takehiro Miura",
+      "native": "みうらたけひろ"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yuudai Shimizu",
+      "native": "清水雄大"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Aki Kindaichi",
+      "native": "金田一士"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takuya Miyahara",
+      "native": "宮原拓也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Keigo Sasaki",
+      "native": "佐々木啓悟"
+     }
+    }
+   },
+   {
+    "role": "Design Assistance",
+    "node": {
+     "name": {
+      "full": "Kouhei Kudou",
+      "native": "工藤康平"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Osamu Hasada",
+      "native": "狹田修"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Nanako Okazaki",
+      "native": "岡崎菜々子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Akane Fushihara",
+      "native": "伏原あかね"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mutsuki Tsugioka",
+      "native": "継岡夢月"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akinori  Mishima",
+      "native": "三嶋章紀"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Nobuyuki Kamiya",
+      "native": "神谷宣幸"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumiyuki Gou",
+      "native": "郷文裕貴"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kenji Kawai",
+      "native": "川井憲次"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Takuya Chikamatsu",
+      "native": "近松拓也"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Souta Machiguchi",
+      "native": "町口漱汰"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Yutaka Hamada",
+      "native": "濱田豊"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Pierre Sugiura",
+      "native": "杉浦ピエール"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography (ED)",
+    "node": {
+     "name": {
+      "full": "Tingzhen Xu",
+      "native": "許庭禎"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography (OPa, OPb)",
+    "node": {
+     "name": {
+      "full": "Masaharu Okazaki",
+      "native": "岡崎正春"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "[Alexandros]",
+      "native": "アレキサンドロス"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Oguri Cap",
+      "native": "オグリキャップ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoyo Takayanagi",
+       "native": "高柳知葉"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

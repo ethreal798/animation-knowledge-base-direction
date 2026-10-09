@@ -1,0 +1,187 @@
+{
+ "id": 195515,
+ "title": {
+  "romaji": "Yuusha Party ni Kawaii Ko ga Ita no de, Kokuhaku Shitemita.",
+  "english": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+  "native": "勇者パーティーにかわいい子がいたので、告白してみた。"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 31
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Gekkou"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Suisei",
+      "native": "水星"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kairi",
+      "native": "海李"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Yasutaka Yamamoto",
+      "native": "山本靖貴"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tomonori Mine",
+      "native": "峯友則"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yukie Sugawara",
+      "native": "菅原雪絵"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mina Oosawa",
+      "native": "大沢美奈"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Satoru Kousaki",
+      "native": "神前暁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "MONACA",
+      "native": "有限会社モナカ "
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yukie Sugawara",
+      "native": "菅原雪絵"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Ryou Aizawa",
+      "native": "藍沢亮"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP, eps 5, 7)",
+    "node": {
+     "name": {
+      "full": "Tushar Pandey",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yoshino",
+      "native": "吉乃"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hiyori Oomiya",
+      "native": "大宮陽和"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Youki",
+      "native": "ヨウキ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouhei Amasaki",
+       "native": "天崎滉平"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Cecilia",
+      "native": "セシリア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

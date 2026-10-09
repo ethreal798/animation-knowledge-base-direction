@@ -1,0 +1,279 @@
+{
+ "id": 165445,
+ "title": {
+  "romaji": "Zatsu Tabi: That's Journey",
+  "english": "ZatsuTabi -That's Journey-",
+  "native": "ざつ旅-That's Journey-"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 23
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Makaria"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kenta Ishizaka",
+      "native": "石坂ケンタ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masaharu Watanabe",
+      "native": "渡邊政治"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoshiko Nakamura",
+      "native": "中村能子"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Nanami Hakoda",
+      "native": "箱田ななみ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kana Arai",
+      "native": "新井佳奈"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Emi Kesamaru",
+      "native": "袈裟丸絵美"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kazuko Kikuchi",
+      "native": "菊地和子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Ayumi Itakura",
+      "native": "板倉あゆみ"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kentarou Tsubone",
+      "native": "坪根健太郎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yayoi Tateishi",
+      "native": "立石弥生"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yuka Kazama",
+      "native": "風間結花"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Fujisawa",
+      "native": "藤澤慶昌"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "yanaginagi",
+      "native": "やなぎなぎ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Katsutoshi Kitagawa",
+      "native": "北川勝利"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 2, 6)",
+    "node": {
+     "name": {
+      "full": "Hidekazu Hara",
+      "native": "原英和"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Hayato Tanaka",
+      "native": "田中隼人"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Rere",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Rere",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Youhei Yamamoto",
+      "native": "山本洋平"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Nozomi Ichijou",
+      "native": "一条望"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Emi Okamoto",
+      "native": "おかもとえみ"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Fangli Liu",
+      "native": "刘芳利"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Harutya",
+      "native": "春茶"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Yuuta Suzuhana",
+      "native": "鈴華勇太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "harmoe",
+      "native": "ハルモエ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Chika Suzugamori",
+      "native": "鈴ヶ森ちか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hika Tsukishiro",
+       "native": "月城日花"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

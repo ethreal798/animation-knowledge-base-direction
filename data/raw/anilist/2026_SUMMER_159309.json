@@ -1,0 +1,311 @@
+{
+ "id": 159309,
+ "title": {
+  "romaji": "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+  "english": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+  "native": "乙女ゲー世界はモブに厳しい世界です2"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 23
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "ENGI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Yomu Mishima",
+      "native": "三嶋与夢"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Monda",
+      "native": "孟達"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuya Miura",
+      "native": "三浦和也"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masahiko Suzuki",
+      "native": "鈴木政彦"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Kawai",
+      "native": "河合良介"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miho Hasegawa",
+      "native": "長谷川美穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shinichi Yoneya",
+      "native": "米屋真一"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuusuke Ueno",
+      "native": "上野勇輔"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tetsuya Watanabe",
+      "native": "渡辺哲也"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yui Andou",
+      "native": "安藤由衣"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kana Hashiguchi",
+      "native": "橋口佳奈"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shou Aratame",
+      "native": "新田目翔"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Masahiko Suzuki",
+      "native": "鈴木政彦"
+     }
+    }
+   },
+   {
+    "role": "ADR Assistant Director (English)",
+    "node": {
+     "name": {
+      "full": "Marcus D. Stimac",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Daisuke Hirose",
+      "native": "廣瀬大介"
+     }
+    }
+   },
+   {
+    "role": "ADR Script Supervisor (English)",
+    "node": {
+     "name": {
+      "full": "Bonny Clinkenbeard",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Assistant Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Davis",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Lucas Almeida",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Anchor",
+      "native": "アンカー"
+     }
+    }
+   },
+   {
+    "role": "ADR Assistant Director (English)",
+    "node": {
+     "name": {
+      "full": "Kevin Thelwell",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Clayton Browning",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jeremy Woods",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Olivia",
+      "native": "オリヴィア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Leon Fou Bartfort",
+      "native": "リオン・フォウ・バルトファルト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeo Ootsuka",
+       "native": "大塚剛央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Angelica Rafua Redgrave",
+      "native": "アンジェリカ・ラファ・レッドグレイブ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

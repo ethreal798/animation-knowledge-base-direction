@@ -1,0 +1,301 @@
+{
+ "id": 183984,
+ "title": {
+  "romaji": "Arne no Jikenbo",
+  "english": "The Case Book of Arne",
+  "native": "アルネの事件簿"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 25
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SILVER LINK."
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Harumurasaki",
+      "native": "春紫"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Harutarou",
+      "native": "春太郎"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Keisuke Inoue",
+      "native": "井上圭介"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keisuke Inoue",
+      "native": "井上圭介"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Murasaki",
+      "native": "むらさき"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akiko Satou",
+      "native": "佐藤秋子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuri Miyoshi",
+      "native": "三好裕理"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shouko Naoki",
+      "native": "直木祥子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Shimizu",
+      "native": "清水哲弘"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Shimizu",
+      "native": "清水哲弘"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Natsumi Hirama",
+      "native": "平間夏美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Sayumi Yamada",
+      "native": "山田紗弓"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Katsuhiro Kimura",
+      "native": "木村勝宏"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Kuribayashi",
+      "native": "栗林裕紀"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Yoshida",
+      "native": "吉田光平"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Takuya Hasegawa",
+      "native": "長谷川卓也"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Fujisawa",
+      "native": "藤澤慶昌"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yuuto Shimizu",
+      "native": "清水優人"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Daisuke Harada",
+      "native": "原田大資"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Aya Matsui",
+      "native": "松井亜弥"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Akira Nishikubo",
+      "native": "西久保明良"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Hitomi Ogawa",
+      "native": "小川ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Akiko Satou",
+      "native": "佐藤秋子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Sou",
+      "native": "そう"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Watashi Kobayashi",
+      "native": "小林私"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Arne Neuntöte",
+      "native": "アルネ・ノインテーター"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouki Uchiyama",
+       "native": "内山昂輝"
+      }
+     },
+     {
+      "name": {
+       "full": "Aimi Tanaka",
+       "native": "田中あいみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lynn Reinweiß",
+      "native": "リン・ラインヴァイス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuka Nukui",
+       "native": "貫井柚佳"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

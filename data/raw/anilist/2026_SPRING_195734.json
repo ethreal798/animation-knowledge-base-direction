@@ -1,0 +1,327 @@
+{
+ "id": 195734,
+ "title": {
+  "romaji": "Ichijouma Mankitsu-gurashi!",
+  "english": "Ichijyoma Mankitsu Gurashi!",
+  "native": "一畳間まんきつ暮らし！"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 21
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 11,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "PRA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kumako Hisama",
+      "native": "ひさまくまこ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Toshinori Watabe",
+      "native": "渡部穏寛"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Fumiya Uehara ",
+      "native": "上原史也"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Fumiya Uehara ",
+      "native": "上原史也"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Michiko Ootani",
+      "native": "大谷道子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Maika Hosoda",
+      "native": "細田舞華"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Harumi Nakazato",
+      "native": "中里陽美"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shino Tanaka",
+      "native": "田中志乃"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hiroko Umezaki",
+      "native": "梅崎ひろこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yasushi Kimura",
+      "native": "木村康史"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keisuke Yanagi",
+      "native": "柳圭介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yayoi Tateishi",
+      "native": "立石弥生"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "MONACA",
+      "native": "有限会社モナカ "
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Minefumi Harada",
+      "native": "原田峰文"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Yabuta",
+      "native": "薮田裕希"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Fumiya Uehara ",
+      "native": "上原史也"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Saori Sakiguchi",
+      "native": "崎口さおり"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep. 6)",
+    "node": {
+     "name": {
+      "full": "Shinji Ishihira",
+      "native": "石平信司"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Ginnojou Hoshi",
+      "native": "星銀乃丈"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Daisuke Okamura",
+      "native": "岡村大輔"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Daisuke Okamura",
+      "native": "岡村大輔"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Mugendai Mewtype",
+      "native": "夢限大みゅーたいぷ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Kenichi Yufu",
+      "native": "油布賢一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Kenichi Yufu",
+      "native": "油布賢一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Dali Kitano",
+      "native": "北野ダリ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Meiko Morita",
+      "native": "森田芽衣子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hana Hishikawa",
+       "native": "菱川花菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rie Amamiya",
+      "native": "天宮梨絵"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saho Shirasu",
+       "native": "白砂沙帆"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Marika Suzuki",
+      "native": "鈴木万里花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chiharu",
+       "native": "千春"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Neo Nakano",
+      "native": "中埜音緒"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyari Nemoto",
+       "native": "根本京里"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

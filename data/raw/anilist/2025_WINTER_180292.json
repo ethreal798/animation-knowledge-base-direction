@@ -1,0 +1,279 @@
+{
+ "id": 180292,
+ "title": {
+  "romaji": "Arafou Otoko no Isekai Tsuuhan Seikatsu",
+  "english": "The Daily Life of a Middle-Aged Online Shopper in Another World",
+  "native": "アラフォー男の異世界通販生活"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 3
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "East Fish Studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Hifumi Asakura",
+      "native": "朝倉一二三"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yamakawa",
+      "native": "やまかわ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Umiharu",
+      "native": "うみハル"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Keiei Yuuzumi",
+      "native": "夕澄慶英"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masanao Akahoshi",
+      "native": "赤星政尚"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Moriguchi",
+      "native": "森口弘之"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kujira Yumemi",
+      "native": "夢見クジラ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Moriguchi",
+      "native": "森口弘之"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Asaka",
+      "native": "亜咲花"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Caitlin Glass",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jeremy Woods",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Matt Grounds",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "James Cheek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 13)",
+    "node": {
+     "name": {
+      "full": "Mikken-MX",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 13)",
+    "node": {
+     "name": {
+      "full": "Mikken-MX",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 13)",
+    "node": {
+     "name": {
+      "full": "Skizzen",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 13)",
+    "node": {
+     "name": {
+      "full": "Skizzen",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 13)",
+    "node": {
+     "name": {
+      "full": "El Cartho",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 13)",
+    "node": {
+     "name": {
+      "full": "Carolina Bernal",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 13)",
+    "node": {
+     "name": {
+      "full": "Carolina Bernal",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kiminone",
+      "native": "キミのね"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (OP)",
+    "node": {
+     "name": {
+      "full": "Jhon Lozano",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (OP, ep 13)",
+    "node": {
+     "name": {
+      "full": "Jhon Lozano",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Davoxt",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kenichi Hamada",
+      "native": "葉間田賢壱"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junichi Suwabe",
+       "native": "諏訪部順一"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

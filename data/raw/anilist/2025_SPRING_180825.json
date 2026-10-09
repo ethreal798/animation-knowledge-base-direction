@@ -1,0 +1,359 @@
+{
+ "id": 180825,
+ "title": {
+  "romaji": "Maebashi Witches",
+  "english": "Maebashi Witches",
+  "native": "前橋ウィッチーズ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 22
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Sunrise"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yuu Inami",
+      "native": "ユウイナミ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Junichi Yamamoto",
+      "native": "山元隼一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Erika Yoshida",
+      "native": "吉田恵里香"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Erika Yoshida",
+      "native": "吉田恵里香"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Nozomi Tachibana",
+      "native": "立花希望"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Miki Aizawa",
+      "native": "相澤樹"
+     }
+    }
+   },
+   {
+    "role": "Stylist",
+    "node": {
+     "name": {
+      "full": "Miki Aizawa",
+      "native": "相澤樹"
+     }
+    }
+   },
+   {
+    "role": "Item Design",
+    "node": {
+     "name": {
+      "full": "Norihiro Itagaki",
+      "native": "板垣徳宏"
+     }
+    }
+   },
+   {
+    "role": "Concept Design",
+    "node": {
+     "name": {
+      "full": "Ayane Hayashi",
+      "native": "林絢雯"
+     }
+    }
+   },
+   {
+    "role": "Concept Design",
+    "node": {
+     "name": {
+      "full": "Kentarou Sako",
+      "native": "迫健太郎"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Kawai",
+      "native": "川井康弘"
+     }
+    }
+   },
+   {
+    "role": "Witch Birth Design",
+    "node": {
+     "name": {
+      "full": "Yoshiki Imazu",
+      "native": "今津良樹"
+     }
+    }
+   },
+   {
+    "role": "Color Script",
+    "node": {
+     "name": {
+      "full": "Oswaldo Katou",
+      "native": "加藤オズワルド"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ami Kutsuna",
+      "native": "忽那亜実"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Naoko Akusawa",
+      "native": "阿久澤奈緒子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Susumu Mamura",
+      "native": "真村躍"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Miho Seri",
+      "native": "瀬理実穂"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tetsurou Kodama ",
+      "native": "児玉徹郎"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tetsurou Kodama ",
+      "native": "児玉徹郎"
+     }
+    }
+   },
+   {
+    "role": "CG Modeling Director",
+    "node": {
+     "name": {
+      "full": "Shoutarou Takahashi",
+      "native": "高橋将太郎"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Tomoki Nagasaka",
+      "native": "長坂智樹"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kenji Fujita",
+      "native": "藤田賢治"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yukio Nagasaki",
+      "native": "長崎行男"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hiroki Nozaki",
+      "native": "野崎博樹"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Yuuichi Morita",
+      "native": "森田祐一"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yuina Akagi",
+      "native": "赤城ユイナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sakura Kasuga",
+       "native": "春日さくら"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Azu Niisato",
+      "native": "新里アズ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hinano Sakikawa",
+       "native": "咲川ひなの"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kyouka Kitahara",
+      "native": "北原キョウカ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rena Motomura",
+       "native": "本村玲奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Choco Mitsumata",
+      "native": "三俣チョコ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Minami",
+       "native": "三波春香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mai Kamiizumi",
+      "native": "上泉マイ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Honami Momose",
+       "native": "百瀬帆南"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Keroppe",
+      "native": "ケロッペ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomokazu Sugita",
+       "native": "杉田智和"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

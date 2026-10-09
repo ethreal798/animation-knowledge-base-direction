@@ -1,0 +1,196 @@
+{
+ "id": 195571,
+ "title": {
+  "romaji": "Shuiro no Kamen",
+  "english": "The Vermilion Mask",
+  "native": "朱色の仮面"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 10
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "100studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "C Bo",
+      "native": "Cボ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Nabana Naba",
+      "native": "那波なばな"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tetsuaki Watanabe",
+      "native": "渡邉徹明"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Kai Hasako",
+      "native": "羽迫凱"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Daisuke Oohigashi",
+      "native": "大東大介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumiyuki Gou",
+      "native": "郷文裕貴"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Alisa Okehazama",
+      "native": "桶狭間ありさ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hisashi Higashijima",
+      "native": "東島久志"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Kouzou Misawa",
+      "native": "三澤幸三"
+     }
+    }
+   },
+   {
+    "role": "Story Supervision",
+    "node": {
+     "name": {
+      "full": "C Bo",
+      "native": "Cボ"
+     }
+    }
+   },
+   {
+    "role": "Story Supervision",
+    "node": {
+     "name": {
+      "full": "Nabana Naba",
+      "native": "那波なばな"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "MAN WITH A MISSION",
+      "native": "マン・ウィズ・ア・ミッション"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hisashi Higashijima",
+      "native": "東島久志"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "yutori",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Peru D'Arrest",
+      "native": "ペル・ダレスト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taihi Kimura",
+       "native": "木村太飛"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sonarue Maywood",
+      "native": "ソナルエ・メイウッド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Yamamoto",
+       "native": "山本悠有希"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

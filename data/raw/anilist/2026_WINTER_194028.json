@@ -1,0 +1,270 @@
+{
+ "id": 194028,
+ "title": {
+  "romaji": "Kirei ni Shitemoraemasu ka.",
+  "english": "Wash It All Away",
+  "native": "綺麗にしてもらえますか。"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 23
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Okuruto Noboru"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Mitsuru Hattori",
+      "native": "はっとりみつる"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kenta Oonishi",
+      "native": "大西健太"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Azuma Tozawa",
+      "native": "戸沢東"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Natsumi Kiyoura",
+      "native": "清浦夏実"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Natsumi Kiyoura",
+      "native": "清浦夏実"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Jin",
+      "native": "じん"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Jin",
+      "native": "じん"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Katsutoshi Kitagawa",
+      "native": "北川勝利"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Nozomi Nakatani",
+      "native": "中谷希美"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kousuke Kobayashi",
+      "native": "小林孝輔"
+     }
+    }
+   },
+   {
+    "role": "Background Art (ep 1)",
+    "node": {
+     "name": {
+      "full": "Mirai Souma",
+      "native": "相馬未来"
+     }
+    }
+   },
+   {
+    "role": "Finishing (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Akira Oota",
+      "native": "太田晶"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Akira Oota",
+      "native": "太田晶"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Fukuchi Shiozakura",
+      "native": "福地汐桜"
+     }
+    }
+   },
+   {
+    "role": "Finishing (OP)",
+    "node": {
+     "name": {
+      "full": "Fukuchi Shiozakura",
+      "native": "福地汐桜"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Momona Zaitsu",
+      "native": "財津桃奈"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Momona Zaitsu",
+      "native": "財津桃奈"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Naoya Katou",
+      "native": "加藤直椰"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Maho Harazawa",
+      "native": "原沢真帆"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Dashika Suzuki",
+      "native": "鈴木颯香"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Eri Chichibu",
+      "native": "秩父英里"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yuu.",
+      "native": "ゆう。"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Wakana Kinme",
+      "native": "金目綿花奈"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

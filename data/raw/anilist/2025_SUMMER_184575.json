@@ -1,0 +1,264 @@
+{
+ "id": 184575,
+ "title": {
+  "romaji": "Busamen Gachi Fighter",
+  "english": "Uglymug, Epicfighter",
+  "native": "ブサメンガチファイター"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "WHITE FOX"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Ryou Hiromatsu",
+      "native": "弘松涼"
+     }
+    }
+   },
+   {
+    "role": "Original Illustration",
+    "node": {
+     "name": {
+      "full": "Osamu Kouzuki",
+      "native": "上月ヲサム"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Toshiyuki Sone",
+      "native": "曽根利幸"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Miki Matsumoto",
+      "native": "松元美季"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yoshiki Matsumura",
+      "native": "松村良樹"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Satoko Kimura",
+      "native": "木村聡子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Nozomi Shitara",
+      "native": "設楽希"
+     }
+    }
+   },
+   {
+    "role": "Special Effects Director",
+    "node": {
+     "name": {
+      "full": "Kumiko Taniguchi",
+      "native": "谷口久美子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masayuki Kurosawa",
+      "native": "黒澤雅之"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Yoshida",
+      "native": "吉田光平"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryou Kawasaki",
+      "native": "川﨑龍"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Shinichirou Katou",
+      "native": "加藤晋一朗"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kousuke Kobayashi",
+      "native": "小林孝輔"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "TEMPEST",
+      "native": "템페스트"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 12) ",
+    "node": {
+     "name": {
+      "full": "Pranav Prayag",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 12) ",
+    "node": {
+     "name": {
+      "full": "Sayantan Pahari",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Miyu Kaneko",
+      "native": "金子みゆ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shigeru Yoshioka",
+      "native": "吉岡しげる"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junichi Suwabe",
+       "native": "諏訪部順一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Seika",
+      "native": "聖華"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Inagaki",
+       "native": "稲垣好"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Seiji",
+      "native": "誠司"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kento Shiraishi",
+       "native": "白石兼斗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rizu",
+      "native": "リーズ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maaya Uchida",
+       "native": "内田真礼"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

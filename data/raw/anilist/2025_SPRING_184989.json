@@ -1,0 +1,317 @@
+{
+ "id": 184989,
+ "title": {
+  "romaji": "Nazotoki wa Dinner no Ato de",
+  "english": "The Dinner Table Detective",
+  "native": "謎解きはディナーのあとで"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 20
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MADHOUSE"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Tokuya Higashigawa",
+      "native": "東川篤哉"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Oreco Tachibana",
+      "native": "橘オレコ"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Mitsuyuki Masuhara",
+      "native": "増原光幸"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mariko Kunisawa",
+      "native": "國澤真理子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Izumi Kawata",
+      "native": "河田泉"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiromasa Ogura",
+      "native": "小倉宏昌"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomoyasu Fujise",
+      "native": "藤瀬智康"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kyouko Yauchi",
+      "native": "矢内京子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Masako Takayama",
+      "native": "高山雅子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Harue Oono",
+      "native": "大野春恵"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hiroshi Inoue",
+      "native": "井上洋志"
+     }
+    }
+   },
+   {
+    "role": "Special Effects Director",
+    "node": {
+     "name": {
+      "full": "Kumiko Taniguchi",
+      "native": "谷口久美子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mariko Tsukatsune",
+      "native": "塚常真理子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shun Arakaki",
+      "native": "新垣隼"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Youji Shimizu",
+      "native": "清水洋史"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Takeshi Hama",
+      "native": "はまたけし"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Toshihiro Funahashi",
+      "native": "舩橋宗寛"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Ryousuke Hoashi",
+      "native": "甫足亮介"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Kengo Tamura",
+      "native": "田村建吾"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yuuta Hattori",
+      "native": "服部優太"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Izumi Kawata",
+      "native": "河田泉"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Masanori Miyake",
+      "native": "三宅将典"
+     }
+    }
+   },
+   {
+    "role": "Production ",
+    "node": {
+     "name": {
+      "full": "Atsuhiro Iwakami",
+      "native": "岩上敦宏"
+     }
+    }
+   },
+   {
+    "role": "Production ",
+    "node": {
+     "name": {
+      "full": "Nobumasa Sawabe",
+      "native": "沢辺伸政"
+     }
+    }
+   },
+   {
+    "role": "Production ",
+    "node": {
+     "name": {
+      "full": "Youko Matsuzaki",
+      "native": "松崎容子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Reiko Houshou",
+      "native": "宝生麗子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     },
+     {
+      "name": {
+       "full": "Tsumugi Andou",
+       "native": "安藤紬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kageyama",
+      "native": "影山"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Kaji",
+       "native": "梶裕貴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kyouichirou Kazamatsuri",
+      "native": "風祭京一郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mamoru Miyano",
+       "native": "宮野真守"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

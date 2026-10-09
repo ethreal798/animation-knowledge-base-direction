@@ -1,0 +1,295 @@
+{
+ "id": 166613,
+ "title": {
+  "romaji": "Jigokuraku 2nd Season",
+  "english": "Hell’s Paradise Season 2",
+  "native": "地獄楽 第二期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MAPPA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuuji Kaku",
+      "native": "賀来ゆうじ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kaori Makita",
+      "native": "牧田佳織"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Akira Kindaichi",
+      "native": "金田一明"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kouji Hisaki",
+      "native": "久木晃嗣"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Junichi Higashi",
+      "native": "東潤一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Junko Suenaga",
+      "native": "末永絢子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Haruka Juuta",
+      "native": "十田知香"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Dewa",
+      "native": "出羽良彰"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Wataru Kawagoe",
+      "native": "川越恒"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Tatsuya Kitani",
+      "native": "キタニタツヤ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "BABYMETAL",
+      "native": "ベビーメタル"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 6)",
+    "node": {
+     "name": {
+      "full": "Hiroshi Hamasaki",
+      "native": "浜崎博嗣"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 9)",
+    "node": {
+     "name": {
+      "full": "Junichi Yamamoto",
+      "native": "山元隼一"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ED)",
+    "node": {
+     "name": {
+      "full": "Kouji Hisaki",
+      "native": "久木晃嗣"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Kouji Hisaki",
+      "native": "久木晃嗣"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 5)",
+    "node": {
+     "name": {
+      "full": "Ai Yoshimura",
+      "native": "吉村愛"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Kouji Yamamoto",
+      "native": "山本幸治"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 11)",
+    "node": {
+     "name": {
+      "full": "Masahiro Mukai",
+      "native": "向井雅浩"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 6, 11)",
+    "node": {
+     "name": {
+      "full": "Masahiro Mukai",
+      "native": "向井雅浩"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Avu-chan",
+      "native": "アヴちゃん"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Avu-chan",
+      "native": "アヴちゃん"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Shawn Gann",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Kanno",
+      "native": "菅野芳弘"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Hiroto Tanaka",
+      "native": "田中比呂人"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP, ep 2)",
+    "node": {
+     "name": {
+      "full": "Yuka Kuroda",
+      "native": "黒田結花"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Gabimaru",
+      "native": "画眉丸"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chiaki Kobayashi",
+       "native": "小林千晃"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sagiri",
+      "native": "佐切"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumiri Hanamori",
+       "native": "花守ゆみり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

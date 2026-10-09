@@ -1,0 +1,301 @@
+{
+ "id": 166617,
+ "title": {
+  "romaji": "Fate/strange Fake",
+  "english": "Fate/strange Fake",
+  "native": "Fate/strange Fake"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "A-1 Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Type-Moon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Ryougo Narita",
+      "native": "成田良悟"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Shizuki Morii",
+      "native": "森井しづき"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design Assistance",
+    "node": {
+     "name": {
+      "full": "Mineji Sakamoto",
+      "native": "坂本みねぢ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shun Enokido",
+      "native": "榎戸駿"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takahito Sakazume",
+      "native": "坂詰嵩仁"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Daisuke Oohigashi",
+      "native": "大東大介"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuukei Yamada",
+      "native": "山田有慶"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Masaaki Takiyama",
+      "native": "滝山真哲"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kou Aine",
+      "native": "相音光"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yurie Hama",
+      "native": "浜友里恵"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Oka Okazaki",
+      "native": "おかざきおか"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kazuma Tanaka",
+      "native": "田中一真"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Yuuto Kajino",
+      "native": "楫野裕翔"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Shinpei Wada",
+      "native": "和田慎平"
+     }
+    }
+   },
+   {
+    "role": "Visual Board",
+    "node": {
+     "name": {
+      "full": "Keigo Arihara",
+      "native": "有原慧悟"
+     }
+    }
+   },
+   {
+    "role": "Noble Phantasms Design",
+    "node": {
+     "name": {
+      "full": "Hakuyu Go",
+      "native": "伍柏諭"
+     }
+    }
+   },
+   {
+    "role": "Art Director (eps 1-6, 8-13)",
+    "node": {
+     "name": {
+      "full": "Ayu Kawamoto",
+      "native": "川本亜夕"
+     }
+    }
+   },
+   {
+    "role": "Art Director (eps 1-6, 8-13)",
+    "node": {
+     "name": {
+      "full": "Yuuki Hatakeyama",
+      "native": "畠山佑貴"
+     }
+    }
+   },
+   {
+    "role": "Art Board",
+    "node": {
+     "name": {
+      "full": "Kazuo Ogura",
+      "native": "小倉一男"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hideyasu Narita",
+      "native": "成田偉保"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Sayaka Itabashi",
+      "native": "板橋紗綾香"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ayumi Sugimoto",
+      "native": "杉本あゆみ"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Masayuki Niizuma",
+      "native": "新妻雅行"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Mikiya Hiragi",
+      "native": "平義樹弥"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ayaka Sajyou",
+      "native": "沙条綾香"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Richard I",
+      "native": "リチャード一世"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Ono",
+       "native": "小野友樹"
+      }
+     },
+     {
+      "name": {
+       "full": "Yuu Wakui",
+       "native": "和久井優"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

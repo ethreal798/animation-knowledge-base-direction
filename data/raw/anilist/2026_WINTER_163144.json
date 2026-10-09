@@ -1,0 +1,333 @@
+{
+ "id": 163144,
+ "title": {
+  "romaji": "TRIGUN STARGAZE",
+  "english": "TRIGUN STARGAZE",
+  "native": "TRIGUN STARGAZE"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Orange"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Nightow",
+      "native": "内藤泰弘"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "OxyTakehiko",
+      "native": "オキシタケヒコ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kouji Tajima",
+      "native": "田島光二"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masako Satou",
+      "native": "佐藤雅子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Oshiyama",
+      "native": "押山清高"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Fumihilo Katagai",
+      "native": "片貝文洋"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Takayuki Yanase",
+      "native": "柳瀬敬之"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Takemitsu Hasegawa",
+      "native": "長谷川竹光"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Tadashi Nakajima",
+      "native": "中島理"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Aoki",
+      "native": "青木智由紀"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kio Edamatsu",
+      "native": "枝松聖"
+     }
+    }
+   },
+   {
+    "role": "Concept Art",
+    "node": {
+     "name": {
+      "full": "Kouji Tajima",
+      "native": "田島光二"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Hashimoto",
+      "native": "橋本賢"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kotomi Murayama",
+      "native": "村山琴実"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Daisuke Imai",
+      "native": "今井大介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tatsuya Katou",
+      "native": "加藤達也"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "FOMARE",
+      "native": "FOMARE"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ano",
+      "native": "あの"
+     }
+    }
+   },
+   {
+    "role": "CG Chief Director",
+    "node": {
+     "name": {
+      "full": "Eiji Inomoto",
+      "native": "井野元英二"
+     }
+    }
+   },
+   {
+    "role": "Sound Editing",
+    "node": {
+     "name": {
+      "full": "Masatoshi Katsumata",
+      "native": "勝俣まさとし"
+     }
+    }
+   },
+   {
+    "role": "Re-Recording Mixer",
+    "node": {
+     "name": {
+      "full": "Takahiro Fujishima",
+      "native": "藤島敬弘"
+     }
+    }
+   },
+   {
+    "role": "Co-Production",
+    "node": {
+     "name": {
+      "full": "Eiji Inomoto",
+      "native": "井野元英二"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Katsuhiro Takei",
+      "native": "武井克弘"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Vash the Stampede",
+      "native": "ヴァッシュ・ザ・スタンピード"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshitsugu Matsuoka",
+       "native": "松岡禎丞"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Meryl Stryfe",
+      "native": "メリル・ストライフ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sakura Andou",
+       "native": "あんどうさくら"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Milly Thompson",
+      "native": "ミリィ・トンプソン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chika Ayamori",
+       "native": "綾森千夏"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nicholas D. Wolfwood",
+      "native": "ニコラス・D・ウルフウッド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshimasa Hosoya",
+       "native": "細谷佳正"
+      }
+     },
+     {
+      "name": {
+       "full": "Mirei Kumagai",
+       "native": "熊谷海麗"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

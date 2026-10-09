@@ -1,0 +1,279 @@
+{
+ "id": 196935,
+ "title": {
+  "romaji": "Akane-banashi",
+  "english": "Akane-banashi",
+  "native": "あかね噺"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 20
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "ZEXCS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Yuuki Suenaga",
+      "native": "末永裕樹"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Takamasa Moue",
+      "native": "馬上鷹将"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ayumu Watanabe",
+      "native": "渡辺歩"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yuu Harima",
+      "native": "播摩優"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Michihiro Tsuchiya",
+      "native": "土屋理敬"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kii Tanaka",
+      "native": "田中紀衣"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yasunari Nitta",
+      "native": "新田靖成"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Iwanaga",
+      "native": "岩永悦宜"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Noriko Shimazawa",
+      "native": "島沢ノリコ"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shuuhei Tada",
+      "native": "多田周平"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Saori Gouda",
+      "native": "合田沙織"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuta Nakamura",
+      "native": "中村雄太"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Noriyoshi Konuma",
+      "native": "小沼則義"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akio Izutsu",
+      "native": "井筒昭雄"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Hisashi Kagawa",
+      "native": "香川久"
+     }
+    }
+   },
+   {
+    "role": "Rakugo Supervisor",
+    "node": {
+     "name": {
+      "full": "Kikuhiko Hayashiya",
+      "native": "林家木久彦"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Italian)",
+    "node": {
+     "name": {
+      "full": "Patrizio Prata",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Morita",
+      "native": "森田宏幸"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Michihiro Tsuchiya",
+      "native": "土屋理敬"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Yoshimichi Kameda",
+      "native": "亀田祥倫"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP, ED, ep 1)",
+    "node": {
+     "name": {
+      "full": "Ayumu Watanabe",
+      "native": "渡辺歩"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Taiga",
+      "native": "大河広行"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Hitomi Tsuruta",
+      "native": "鶴田仁美"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (OP, ep 1)",
+    "node": {
+     "name": {
+      "full": "Hiroki Harada",
+      "native": "原田大基"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Akane Ousaki",
+      "native": "桜咲朱音"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Anna Nagase",
+       "native": "永瀬アンナ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

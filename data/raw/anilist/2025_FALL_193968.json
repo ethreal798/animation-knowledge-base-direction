@@ -1,0 +1,279 @@
+{
+ "id": 193968,
+ "title": {
+  "romaji": "Let’s Play: Quest Darake no My Life",
+  "english": "Let’s Play",
+  "native": "Let’s Play クエストだらけのマイライフ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 18
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "OLM"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Leeanne Krecic",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Ebimo",
+      "native": "えびも"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Daiki Tomiyasu",
+      "native": "冨安大貴"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Ayumi Moriyama",
+      "native": "森山愛弓"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Aya Matsui",
+      "native": "松井亜弥"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Saki Ebisawa",
+      "native": "海老沢咲希"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Ikeda",
+      "native": "池田裕輔"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ayako Shimagata",
+      "native": "島方亜矢子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ayano Suzuki",
+      "native": "鈴木綾乃"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yasushi Yamakoshi",
+      "native": "山越康司"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yumi Jinguuji",
+      "native": "神宮司由美"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masafumi Mima",
+      "native": "三間雅文"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Conisch",
+      "native": "コーニッシュ "
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Minaka Sakamoto",
+      "native": "坂本美南香"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Hana Sugawara",
+      "native": "菅原花"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Heather Horn",
+      "native": "ヘザー・ホーン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Toshinobu Kubota",
+      "native": "久保田利伸"
+     }
+    }
+   },
+   {
+    "role": "Visual Design",
+    "node": {
+     "name": {
+      "full": "Yuusaku Iwami",
+      "native": "石見優作"
+     }
+    }
+   },
+   {
+    "role": "Visual Design",
+    "node": {
+     "name": {
+      "full": "Masashi Itou",
+      "native": "伊東正志"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Macy Anne Johnson",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Daisuke Mori",
+      "native": "森大輔"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jose Sandoval",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "James Baker",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Susie Nixon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jason Lord",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sam Young",
+      "native": "サム・ヤング"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

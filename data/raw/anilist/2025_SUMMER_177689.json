@@ -1,0 +1,307 @@
+{
+ "id": 177689,
+ "title": {
+  "romaji": "Hikaru ga Shinda Natsu",
+  "english": "The Summer Hikaru Died",
+  "native": "光が死んだ夏"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 28
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CygamesPictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Mokmok Len",
+      "native": "モクモクれん"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ryouhei Takeshita",
+      "native": "竹下良平"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Ryouhei Takeshita",
+      "native": "竹下良平"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuichi Takahashi",
+      "native": "高橋裕一"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Shouko Nagasawa",
+      "native": "長澤翔子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Mai Watanabe",
+      "native": "渡辺舞"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Hiroko Saigan",
+      "native": "西願宏子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ryuunosuke Ouji",
+      "native": "應地隆之介"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Honda",
+      "native": "本田光平"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Sono",
+      "native": "曽野由大"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Takeyuki Takahashi",
+      "native": "高橋武之"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shuuhei Tada",
+      "native": "多田周平"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naomi Nakano",
+      "native": "中野尚美"
+     }
+    }
+   },
+   {
+    "role": "Color Design Assistance",
+    "node": {
+     "name": {
+      "full": "Yuuko Koshida",
+      "native": "越田侑子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomohiro Maeda",
+      "native": "前田智大"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Sou Minamikawa",
+      "native": "南川創"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kashiko Kimura",
+      "native": "木村佳史子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yoshinori Nakano",
+      "native": "中野祥典"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kouji Kasamatsu ",
+      "native": "笠松広司"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryouhei Takeshita",
+      "native": "竹下良平"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tarou Umebayashi",
+      "native": "梅林太郎"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Chieko Mizutori",
+      "native": "水鳥智栄子"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Kenta  Ueuchi",
+      "native": "上内健太"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Takahiro Kubo",
+      "native": "久保貴寛"
+     }
+    }
+   },
+   {
+    "role": "2D Design",
+    "node": {
+     "name": {
+      "full": "Yuusuke Nagara ",
+      "native": "永良雄亮"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yoshiki Tsujinaka",
+      "native": "辻中佳紀"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chiaki Kobayashi",
+       "native": "小林千晃"
+      }
+     },
+     {
+      "name": {
+       "full": "Natsumi Kawaida",
+       "native": "川井田夏海"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hikaru Indou",
+      "native": "忌堂光"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuuichirou Umeda",
+       "native": "梅田修一朗"
+      }
+     },
+     {
+      "name": {
+       "full": "Yuuki Urushiyama",
+       "native": "漆山ゆうき"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

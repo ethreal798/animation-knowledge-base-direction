@@ -1,0 +1,343 @@
+{
+ "id": 198374,
+ "title": {
+  "romaji": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+  "english": "A Misanthrope Teaches a Class for Demi-Humans",
+  "native": "人外教室の人間嫌い教師"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 5
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Asread"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Natsume Kurusu",
+      "native": "来栖夏芽"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Sai Izumi",
+      "native": "泉彩"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Akira Iwanaga",
+      "native": "岩永彰"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Katsuhiko Takayama",
+      "native": "高山カツヒコ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Maiko Okada",
+      "native": "岡田万衣子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Hidetsugu Hirayama",
+      "native": "平山英嗣"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Chika Kojima",
+      "native": "小島智加"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kanako Watanabe",
+      "native": "渡辺佳奈子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "You Fujisawa",
+      "native": "藤澤陽"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Junko Nagasawa",
+      "native": "長澤順子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Chisato Shiota",
+      "native": "塩田智聖"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kenji Takehara",
+      "native": "武原健二"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Junichi Itou",
+      "native": "伊藤潤一"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuuta Nagaoka",
+      "native": "長岡雄太"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Tomohiko Yaginuma",
+      "native": "八木沼智彦"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Ryuuta Nakahara",
+      "native": "中原隆太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Makoto Miyazaki",
+      "native": "宮崎誠"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Saori Oonishi",
+      "native": "大西沙織"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Sora Amamiya",
+      "native": "雨宮天"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Rui Tanabe",
+      "native": "田辺留依"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Maria Naganawa",
+      "native": "長縄まりあ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Masayoshi Ooishi",
+      "native": "大石昌良"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Victor Acosta",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Manuel Aragon",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Rei Hitoma",
+      "native": "人間零"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiki Masuda",
+       "native": "増田俊樹"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sui Usami",
+      "native": "右左美彗"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Maria Naganawa",
+       "native": "長縄まりあ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tobari Haneda",
+      "native": "羽根田トバリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rui Tanabe",
+       "native": "田辺留依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kyouka Minazuki",
+      "native": "水月鏡花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sora Amamiya",
+       "native": "雨宮天"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Isaki Oogami",
+      "native": "尾々守一咲"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Oonishi",
+       "native": "大西沙織"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

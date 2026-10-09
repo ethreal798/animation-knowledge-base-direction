@@ -1,0 +1,233 @@
+{
+ "id": 196219,
+ "title": {
+  "romaji": "Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu",
+  "english": "The Oblivious Saint Can't Contain Her Power",
+  "native": "無自覚聖女は今日も無意識に力を垂れ流す"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 30
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 15
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Magic Bus"
+   },
+   {
+    "name": "Picante Circus"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Almond",
+      "native": "あーもんど"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Anbe Yoshiro",
+      "native": "あんべよしろう"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hajime Takakuwa",
+      "native": "高桑一"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Noshitani",
+      "native": "熨斗谷充孝"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Taihei Nagai",
+      "native": "永井泰平"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hisashi Ikeda ",
+      "native": "池田尚"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hisashi Ikeda ",
+      "native": "池田尚"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Emi Onodera",
+      "native": "小野寺絵美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kouhei Yamamoto",
+      "native": "山本耕平"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Nami Inomata",
+      "native": "猪又菜美"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ayame Enomoto",
+      "native": "榎本彩芽"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Ayame Enomoto",
+      "native": "榎本彩芽"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yu",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "KAYA",
+      "native": "花耶"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Utahime Dream All Stars",
+      "native": "ウタヒメドリーム オールスターズ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Flora Sanchez",
+      "native": "フローラ・サンチェス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Edward Ruby Martinez",
+      "native": "エドワード・ルビー・マルティネス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Makoto Furukawa",
+       "native": "古川慎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Carolina Sanchez",
+      "native": "カロリーナ・サンチェス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Takahashi",
+       "native": "高橋李依"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

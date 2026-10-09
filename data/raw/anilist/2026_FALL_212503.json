@@ -1,0 +1,327 @@
+{
+ "id": 212503,
+ "title": {
+  "romaji": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+  "english": "The Iceblade Sorcerer Shall Rule the World II",
+  "native": "冰剣の魔術師が世界を統べるⅡ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 9
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Zero-G"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Nana Mikoshiba",
+      "native": "御子柴奈々"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Riko Korie",
+      "native": "梱枝りこ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Takata",
+      "native": "高田真宏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masahiro Takata",
+      "native": "高田真宏"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mariko Kawamoto",
+      "native": "川元まりこ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yoshie Wasano",
+      "native": "和佐野ヨシエ"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Junichirou Nishikawa",
+      "native": "西川淳一郎"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Fuyuto Muraguchi",
+      "native": "村口冬仁"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomomi Saitou",
+      "native": "斉藤朋美"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masaki Utsunomiya",
+      "native": "宇都宮正記"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Takata",
+      "native": "高田真宏"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tatsuhiko Saiki",
+      "native": "斎木達彦"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Natsumi Tabuchi",
+      "native": "田渕夏海"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Takuji Oobayashi",
+      "native": "大林卓司"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Shouji Yamada",
+      "native": "山田翔士"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Masahiro Takata",
+      "native": "高田真宏"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Tomoko Shinozuka",
+      "native": "篠塚智子"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Takahito Oonishi",
+      "native": "大西雄仁"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Mariko Kawamoto",
+      "native": "川元まりこ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Maaya Uchida",
+      "native": "内田真礼"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Sizuk",
+      "native": "Sizuk"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Shou Watanabe",
+      "native": "渡辺翔"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Shou Watanabe",
+      "native": "渡辺翔"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Seima Iwahashi",
+      "native": "岩橋星実"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Yuusuke Shirato",
+      "native": "白戸佑輔"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ray White",
+      "native": "レイ＝ホワイト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junya Enoki",
+       "native": "榎木淳弥"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Amelia Rose",
+      "native": "アメリア＝ローズ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Iori Saeki",
+       "native": "佐伯伊織"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Elisa Griffith",
+      "native": "エリサ＝グリフィス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyu Kubota",
+       "native": "久保田未夢"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ariane Algren",
+      "native": "アリアーヌ＝オルグレン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akira Sekine",
+       "native": "関根明良"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,343 @@
+{
+ "id": 184639,
+ "title": {
+  "romaji": "Anne Shirley",
+  "english": "Anne Shirley",
+  "native": "アン・シャーリー"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "The Answer Studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Lucy Maud Montgomery",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Kawamata",
+      "native": "川又浩"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kenichi Tsuchiya",
+      "native": "土屋堅一"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Tadashi Kudou",
+      "native": "工藤ただし"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Shiho Kuriki",
+      "native": "久力志保"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shinji Saitou",
+      "native": "齋藤真次"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kisuke Koizumi",
+      "native": "小泉紀介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Michiru Ooshima",
+      "native": "大島ミチル"
+     }
+    }
+   },
+   {
+    "role": "Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Watanabe",
+      "native": "渡辺裕二"
+     }
+    }
+   },
+   {
+    "role": "Animation Director",
+    "node": {
+     "name": {
+      "full": "Naoko Saitou",
+      "native": "齋藤直子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Natsuko Takahashi",
+      "native": "高橋ナツコ"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Naoko Yamada",
+      "native": "山田尚子"
+     }
+    }
+   },
+   {
+    "role": "Unit Director (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Naoko Yamada",
+      "native": "山田尚子"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (OP)",
+    "node": {
+     "name": {
+      "full": "Takashi Kojima",
+      "native": "小島崇史"
+     }
+    }
+   },
+   {
+    "role": "Animation (ED)",
+    "node": {
+     "name": {
+      "full": "Takashi Kojima",
+      "native": "小島崇史"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Hiroshi Kawamata",
+      "native": "川又浩"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Kanno",
+      "native": "菅野芳弘"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Heather Walker",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Rie Matsubara",
+      "native": "松原理恵"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Kumiko Kawashima",
+      "native": "河島久美子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Akari Minagawa",
+      "native": "皆川愛香利"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Rickey Watkins",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Production",
+    "node": {
+     "name": {
+      "full": "Youko Matsuzaki",
+      "native": "松崎容子"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Yukiko Takase",
+      "native": "高瀬透子"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Anne Shirley",
+      "native": "アン・シャーリー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Honoka Inoue",
+       "native": "井上ほの花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Matthew Cuthbert",
+      "native": "マシュウ・カスバート"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yasunori Matsumoto",
+       "native": "松本保典"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Marilla Cuthbert",
+      "native": "マリラ・カスバート"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aya Nakamura",
+       "native": "中村綾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Diana Barry",
+      "native": "ダイアナ・バリー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yume Miyamoto",
+       "native": "宮本侑芽"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gilbert Blythe",
+      "native": "ギルバート・ブライス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Naoya Miyase",
+       "native": "宮瀬尚也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

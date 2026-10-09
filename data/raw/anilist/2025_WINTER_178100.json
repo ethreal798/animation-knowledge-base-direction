@@ -1,0 +1,343 @@
+{
+ "id": 178100,
+ "title": {
+  "romaji": "Hazure Skill «Kinomi Master»: Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken Nitsuite",
+  "english": "Bogus Skill <<Fruitmaster>> ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~",
+  "native": "外れスキル《木の実マスター》~スキルの実(食べたら死ぬ)を無限に食べられるようになった件について~"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 1
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 19
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Asahi Production"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Hanyuu",
+      "native": "はにゅう"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yasutaka Isekawa",
+      "native": "イセ川ヤスタカ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Kimura",
+      "native": "木村隆一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Gigaemon Ichikawa",
+      "native": "市川十億衛門"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tomoka Ootaki",
+      "native": "大滝那佳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Risa Miyadani",
+      "native": "宮谷里沙"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kumiko Shishido",
+      "native": "宍戸久美子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Arisa Taira",
+      "native": "平良亜梨沙"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Emi Toya",
+      "native": "外谷恵美"
+     }
+    }
+   },
+   {
+    "role": "Art Board",
+    "node": {
+     "name": {
+      "full": "Yukako Ogawa",
+      "native": "小川友佳子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Maki Saitou",
+      "native": "齋藤麻記"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Wenxin He",
+      "native": "何文馨"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ami Ishii",
+      "native": "石井亜美"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryou Tanaka",
+      "native": "田中亮 "
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Selin",
+      "native": "セリン"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Tomohide Kikunaga",
+      "native": "菊永智英"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Shawn Gann",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "TrySail",
+      "native": "トライセイル"
+     }
+    }
+   },
+   {
+    "role": "ADR Sound Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Victor Acosta",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Lamy Yukihana",
+      "native": "雪花ラミィ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Kinoshita",
+      "native": "キノシタ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Kinoshita",
+      "native": "キノシタ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Kinoshita",
+      "native": "キノシタ"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Domonique French",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Matt Grounds",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Light Underwood",
+      "native": "ライト・アンダーウッド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuma Nagatsuka",
+       "native": "永塚拓馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ayla Lawrence",
+      "native": "アイラ・ローレンス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruna Mikawa",
+       "native": "三川華月"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Monika Bolst",
+      "native": "モニカ・ボルスト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hana Tamegai",
+       "native": "集貝はな"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lena Floria",
+      "native": "レーナ・フローリア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Lynn",
+       "native": null
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Dratena Belbury",
+      "native": "ドラテナ・ベルベッリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akira Sekine",
+       "native": "関根明良"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

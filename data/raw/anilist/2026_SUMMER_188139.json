@@ -1,0 +1,295 @@
+{
+ "id": 188139,
+ "title": {
+  "romaji": "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den",
+  "english": "Though I Am an Inept Villainess",
+  "native": "ふつつかな悪女ではございますが ~雛宮蝶鼠とりかえ伝~"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 20
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 11,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Doga Kobo"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Satsuki Nakamura",
+      "native": "中村颯希"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kana Yuki",
+      "native": "ゆき哉"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Ei Ohitsuji",
+      "native": "尾羊英"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Mitsue Yamazaki",
+      "native": "山﨑みつえ"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Sumie Noro",
+      "native": "野呂純恵"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoshiko Nakamura",
+      "native": "中村能子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Ai Kikuchi",
+      "native": "菊池愛"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Seina Yaguchi",
+      "native": "矢口聖奈"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kei Ishiguro",
+      "native": "石黒けい"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yui Fukuoka",
+      "native": "福岡由惟"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mutsumi Takemiya",
+      "native": "武宮むつみ"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yuika Shiraishi",
+      "native": "白石唯果"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukari Hashimoto",
+      "native": "橋本由香利"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Toshihiro Hayano",
+      "native": "早野利宏"
+     }
+    }
+   },
+   {
+    "role": "Recording Assistant",
+    "node": {
+     "name": {
+      "full": "Ryouya Kaneko",
+      "native": "金子諒也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "milet",
+      "native": "ミレイ"
+     }
+    }
+   },
+   {
+    "role": "Casting",
+    "node": {
+     "name": {
+      "full": "Makoto Tanimura",
+      "native": "谷村誠"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Kyle McCarley",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Chris Hackney",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Eve",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Eve",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Eric P. Sherman",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "milet",
+      "native": "ミレイ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "milet",
+      "native": "ミレイ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Youichirou Nomura",
+      "native": "野村陽一郎"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Reirin Kou",
+      "native": "黄玲琳"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manaka Iwami",
+       "native": "石見舞菜香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Keigetsu Shu",
+      "native": "朱慧月"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Kawaida",
+       "native": "川井田夏海"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,303 @@
+{
+ "id": 187901,
+ "title": {
+  "romaji": "Dead Account",
+  "english": "Dead Account",
+  "native": "デッドアカウント"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SynergySP"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shizumu Watanabe",
+      "native": "渡辺静"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Hiroya Saitou",
+      "native": "斉藤啓也"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Hirota",
+      "native": "広田光毅"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Saho Yamane",
+      "native": "山根左帆"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Seika Fujii",
+      "native": "藤井星夏"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Haruka Serizawa",
+      "native": "芹澤陽香"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuusuke Ueno",
+      "native": "上野勇輔"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keiji Inai",
+      "native": "井内啓二"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Caitlin Glass",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Howard Wang",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "James Baker",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Domonique French",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Noah Whitehead",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Miyu Kaneko",
+      "native": "金子みゆ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Haru Igarashi",
+      "native": "五十嵐ハル"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Souji Enishiro",
+      "native": "縁城蒼吏"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nobuhiko Okamoto",
+       "native": "岡本信彦"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kiyomi Urusugawa",
+      "native": "漆栖川希詠"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kukuru Kasubata",
+      "native": "霞流括"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouki Uchiyama",
+       "native": "内山昂輝"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Renri Hasumi",
+      "native": "羽住蓮理"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsuki Hanae",
+       "native": "花江夏樹"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Naruhiko Emoto",
+      "native": "柄本成彦"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Suzuki",
+       "native": "鈴木崚汰"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yoimaru Azaki",
+      "native": "痣木宵丸"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuya Satou",
+       "native": "佐藤拓也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hiyori Haijima",
+      "native": "灰島ひより"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Machico",
+       "native": null
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

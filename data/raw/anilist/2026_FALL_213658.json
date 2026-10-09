@@ -1,0 +1,196 @@
+{
+ "id": 213658,
+ "title": {
+  "romaji": "Diamond no Ace act II: Second Season Part 2",
+  "english": "Ace of the Diamond act II -Second Season-",
+  "native": "ダイヤのA actⅡ -Second Season- 第2クール"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 11
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "OLM"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuuji Terajima",
+      "native": "寺嶋裕二"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hideaki Ooba",
+      "native": "大庭秀昭"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenji Konuta",
+      "native": "古怒田健志"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yasukazu Shouji",
+      "native": "東海林康和"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "GLAY",
+      "native": "グレイ "
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Junichi Fujisaku",
+      "native": "藤咲淳一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hajime Hyakkoku",
+      "native": "百石元"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kenji Konuta",
+      "native": "古怒田健志"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "OxT",
+      "native": "オクト"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Atsushi Satou",
+      "native": "佐藤敦"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Toshihiko Kojima",
+      "native": "小島俊彦"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Takahiro Udagawa",
+      "native": "宇田川貴広"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kenji Katou",
+      "native": "加藤賢司"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Nao Satou",
+      "native": "佐藤直"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Eijun Sawamura",
+      "native": "沢村栄純"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Oosaka",
+       "native": "逢坂良太"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kazuya Miyuki",
+      "native": "御幸一也"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takahiro Sakurai",
+       "native": "櫻井孝宏"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

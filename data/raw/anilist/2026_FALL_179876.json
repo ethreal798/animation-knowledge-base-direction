@@ -1,0 +1,295 @@
+{
+ "id": 179876,
+ "title": {
+  "romaji": "DARK MACHINE: The Animation",
+  "english": "DARK MACHINE THE ANIMATION",
+  "native": "DARK MACHINE -The Animation-"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 14
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 11,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Production +h"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazumi Terada",
+      "native": "寺田和生"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tatsuhiko Urahata",
+      "native": "浦畑達彦"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takaaki Suzuki",
+      "native": "鈴木貴昭"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Atsuo Ishino",
+      "native": "石野敦夫"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kento Sata",
+      "native": "佐多賢人"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Akira Mitani",
+      "native": "三谷あきら"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Hidetaka Tenjin",
+      "native": "天神英貴"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Mebachi",
+      "native": "めばち"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Ikeda",
+      "native": "池田裕輔"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiromi Tateiwa",
+      "native": "立岩大実"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Nariyuki Ogi",
+      "native": "小木斉之"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Tateiwa",
+      "native": "立岩大実"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Engawa",
+      "native": "えんがわ"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "niko＊miko",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Naoko Tanaka",
+      "native": "田中直子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuuki Honda",
+      "native": "本田優規"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Satoi Inami",
+      "native": "稲見叡"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Takadera",
+      "native": "高寺たけし"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Tomoko Ootsuka",
+      "native": "大塚智子"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Sugizo",
+      "native": "SUGIZO"
+     }
+    }
+   },
+   {
+    "role": "Script ",
+    "node": {
+     "name": {
+      "full": "Tatsuhiko Urahata",
+      "native": "浦畑達彦"
+     }
+    }
+   },
+   {
+    "role": "Script ",
+    "node": {
+     "name": {
+      "full": "Takaaki Suzuki",
+      "native": "鈴木貴昭"
+     }
+    }
+   },
+   {
+    "role": "Script ",
+    "node": {
+     "name": {
+      "full": "Atsuo Ishino",
+      "native": "石野敦夫"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kento Sata",
+      "native": "佐多賢人"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hideki Itou",
+      "native": "伊藤秀樹"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kairi",
+      "native": "カイリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenshou Ono",
+       "native": "小野賢章"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rudora",
+      "native": "ルドラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyuki Sawashiro",
+       "native": "沢城みゆき"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

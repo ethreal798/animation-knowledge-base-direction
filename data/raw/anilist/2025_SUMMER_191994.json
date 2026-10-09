@@ -1,0 +1,381 @@
+{
+ "id": 191994,
+ "title": {
+  "romaji": "Cardfight!! Vanguard: Divinez - Deluxe Kesshou-hen",
+  "english": "CARDFIGHT!! VANGUARD Divinez DELUXE Finals",
+  "native": "カードファイト!! ヴァンガード Divinez デラックス決勝編"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 4
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Kinema Citrus"
+   },
+   {
+    "name": "Gift-o’-Animation"
+   },
+   {
+    "name": "Studio JEMI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Akira Itou",
+      "native": "伊藤彰"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Bushiroad ",
+      "native": "ブシロード"
+     }
+    }
+   },
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Takaaki Kidani",
+      "native": "木谷高明"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "CLAMP",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Taku Yamada",
+      "native": "山田卓"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takahito Oonishi",
+      "native": "大西雄仁"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shun Menjou",
+      "native": "校條春"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Saita",
+      "native": "齊田博之"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tomokatsu Nagasaku",
+      "native": "永作友克"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Takeshi Takakura",
+      "native": "高倉武史"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yasuko Tada",
+      "native": "多田靖子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Anzu Kunikichi",
+      "native": "国吉杏美"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Makoto Kamada",
+      "native": "鎌田誠"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Chun Lee",
+      "native": "이춘"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ren Ishimori",
+      "native": "石森連"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hikari Komiya",
+      "native": "小宮ひかり"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shiyuu Ootomo",
+      "native": "大友志優"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masayuki Kurosawa",
+      "native": "黒澤雅之"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hayato Nishino",
+      "native": "西野隼人"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Rei Ueno",
+      "native": "上野励"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hijiri Kuwano",
+      "native": "桑野聖"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Kouhei Yamada",
+      "native": "山田公平"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Ryouta Fujii",
+      "native": "藤井亮太"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Tomokatsu Nagasaku",
+      "native": "永作友克"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Megumi Ookura",
+      "native": "大倉メグミ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Amane Shindou",
+       "native": "進藤あまね"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mirei Minae",
+      "native": "御薬袋ミレイ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuki Nakashima",
+       "native": "中島由貴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Michiru Hazama",
+      "native": "廻間ミチル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Sakuma",
+       "native": "佐久間大介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akina Myoudou",
+      "native": "明導アキナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiya Miyata",
+       "native": "宮田俊哉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Suou Yobitsugi",
+      "native": "呼続スオウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reiji Kawashima",
+       "native": "川島零士"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hikari Myoudou",
+      "native": "明導ヒカリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Eri Yukimura",
+       "native": "幸村恵理"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kagetsu Yakumo",
+      "native": "八雲カゲツ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeo Ootsuka",
+       "native": "大塚剛央"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,526 @@
+{
+ "id": 181886,
+ "title": {
+  "romaji": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
+  "english": "Kinnikuman Perfect Origin Arc Season 2",
+  "native": "キン肉マン 完璧超人始祖編 Season 2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 30
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 11,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Production I.G"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yudetamago",
+      "native": "ゆでたまご"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Akira Satou",
+      "native": "さとう陽"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Jun Soga",
+      "native": "曽我準"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Makoto Fukami",
+      "native": "深見真"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Iwanaga",
+      "native": "岩永悦宜"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Satoru Hirayanagi",
+      "native": "平柳悟"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Osamu Ii",
+      "native": "伊井蔵"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Keiichi Saitou",
+      "native": "齊藤慶一"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yoshinori Murakami",
+      "native": "村上義典"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuichi Imaizumi",
+      "native": "今泉雄一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yasuharu Takanashi",
+      "native": "高梨康治"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Rui Kuroki",
+      "native": "黒木るい"
+     }
+    }
+   },
+   {
+    "role": "Animation Supervisor",
+    "node": {
+     "name": {
+      "full": "Mamoru Yokota",
+      "native": "横田守"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Mamoru Miyano",
+      "native": "宮野真守"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Masaaki Endou",
+      "native": "遠藤正明"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Kaien Jin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Hirotaka Marufuji",
+      "native": "丸藤広貴"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP, ED)",
+    "node": {
+     "name": {
+      "full": "APAZZI",
+      "native": "アパッチ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP, ED)",
+    "node": {
+     "name": {
+      "full": "APAZZI",
+      "native": "アパッチ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP, ED)",
+    "node": {
+     "name": {
+      "full": "APAZZI",
+      "native": "アパッチ"
+     }
+    }
+   },
+   {
+    "role": "Action Supervisor",
+    "node": {
+     "name": {
+      "full": "Masami Oobari",
+      "native": "大張正己"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 3, 4)",
+    "node": {
+     "name": {
+      "full": "Hironori Tanaka",
+      "native": "田中宏紀"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Kurumi Itou",
+      "native": "伊藤玖留未"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Jhon Lozano",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Suguru Kinniku",
+      "native": "キン肉スグル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mamoru Miyano",
+       "native": "宮野真守"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ramenman",
+      "native": "ラーメンマン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomokazu Seki",
+       "native": "関智一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Buffaloman",
+      "native": "バッファローマン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroki Yasumoto",
+       "native": "安元洋貴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Alexandria Meat",
+      "native": "アレキサンドリア・ミート"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sumire Uesaka",
+       "native": "上坂すみれ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Brocken Jr.",
+      "native": null
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Jun  Kasama",
+       "native": "笠間淳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Terryman",
+      "native": "テリーマン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Ono",
+       "native": "小野大輔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Warsman",
+      "native": "ウォーズマン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Kaji",
+       "native": "梶裕貴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Robin Mask",
+      "native": "ロビン・マスク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Katsuyuki Konishi",
+       "native": "小西克幸"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Grim Reaper",
+      "native": "グリムリパー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junichi Suwabe",
+       "native": "諏訪部順一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sadaharu Kinniku",
+      "native": "キン肉サダハル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeshi Kusao",
+       "native": "草尾毅"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Springman",
+      "native": "スプリングマン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroyuki Yoshino",
+       "native": "吉野裕行"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Black Hole",
+      "native": "ブラックホール"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiya Miyata",
+       "native": "宮田俊哉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Crushman",
+      "native": "クラッシュマン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Tomioka",
+       "native": "富岡佑介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Turboman",
+      "native": "ターボメン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenji Nojima",
+       "native": "野島健児"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Marvellous",
+      "native": "マーベラス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshihisa Kawahara",
+       "native": "川原慶久"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jak Chi",
+      "native": "ジャック・チー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shinobu Matsumoto",
+       "native": "松本忍"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Polarman",
+      "native": "ポーラマン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takashi Matsuyama",
+       "native": "松山鷹志"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

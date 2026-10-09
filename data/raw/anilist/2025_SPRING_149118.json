@@ -1,0 +1,381 @@
+{
+ "id": 149118,
+ "title": {
+  "romaji": "Enen no Shouboutai: San no Shou",
+  "english": "Fire Force Season 3",
+  "native": "炎炎ノ消防隊 参ノ章"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 21
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "david production"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Atsushi Ookubo",
+      "native": "大久保篤"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Tatsuma Minamikawa",
+      "native": "南川達馬"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Sei Tsuguta",
+      "native": "亜田井"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hideyuki Morioka",
+      "native": "守岡英行"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Mika Yamamoto",
+      "native": "山本美佳"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yumi Horikoshi",
+      "native": "堀越由美"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Toshiki Amata",
+      "native": "天田俊貴"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naoko Satou",
+      "native": "佐藤直子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Natsuki Takei",
+      "native": "武井夏樹"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kouji Kodera",
+      "native": "小寺鋼志"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Kenichirou Suehiro",
+      "native": "末廣健一郎"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Reo Honjouya",
+      "native": "本庄谷怜央"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yumenosuke Tokuda",
+      "native": "徳田夢之介 "
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Mariko Kubo",
+      "native": "久保茉莉子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Yoshioka",
+      "native": "吉岡佳広"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Kizashi Tsuchiya",
+      "native": "土屋萌"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Junichi Inoue",
+      "native": "井上純一"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Kobori",
+      "native": "小堀龍一"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Shintarou Kawakubo",
+      "native": "川窪慎太郎"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Hiroo Maruyama",
+      "native": "丸山博雄"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Yuusuke Muranaka",
+      "native": "村中悠介"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Yuuichirou Takajima",
+      "native": "高島祐一郎"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shinra Kusakabe",
+      "native": "日下部森羅"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Gakuto Kajiwara",
+       "native": "梶原岳人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akitaru Oubi",
+      "native": "秋樽桜備"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kazuya Nakai",
+       "native": "中井和哉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Maki Oze",
+      "native": "尾瀬茉希"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saeko Kamijou",
+       "native": "上條沙恵子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Takehisa Hinawa",
+      "native": "武久火縄"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenichi Suzumura",
+       "native": "鈴村健一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Arthur Boyle",
+      "native": "アーサー・ボイル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Kobayashi",
+       "native": "小林裕介"
+      }
+     },
+     {
+      "name": {
+       "full": "Yuka Terasaki",
+       "native": "寺崎裕香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Iris",
+      "native": "アイリス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mao Ichimichi",
+       "native": "市道真央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tamaki Kotatsu",
+      "native": "環古達"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Yuuki",
+       "native": "悠木碧"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

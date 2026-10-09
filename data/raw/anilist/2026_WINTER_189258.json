@@ -1,0 +1,135 @@
+{
+ "id": 189258,
+ "title": {
+  "romaji": "Ao no Miburo: Serizawa Ansatsu-hen",
+  "english": "Blue Miburo Season 2",
+  "native": "青のミブロ 芹沢暗殺編"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 20
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 14,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Maho Film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tsuyoshi Yasuda",
+      "native": "安田剛士"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Kumiko Habara",
+      "native": "羽原久美子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Miyako Nishida",
+      "native": "西田美弥子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Ooba",
+      "native": "大場優子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Toshiki Kameyama",
+      "native": "亀山俊樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Soushi Sakiyama",
+      "native": "崎山蒼志"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ryousuke Yamada",
+      "native": "山田涼介"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Nio Chirinu",
+      "native": "ちりぬにお"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuuichirou Umeda",
+       "native": "梅田修一朗"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

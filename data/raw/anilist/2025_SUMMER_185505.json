@@ -1,0 +1,248 @@
+{
+ "id": 185505,
+ "title": {
+  "romaji": "Necronomico no Cosmic Horror Show",
+  "english": "Necronomico and the Cosmic Horror Show",
+  "native": "ネクロノミ子のコズミックホラーショウ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 1
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 16
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Gokumi"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Makoto Uezu",
+      "native": "上江洲誠"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Jirou Suzuki",
+      "native": "鈴木次郎"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masato Matsune",
+      "native": "松根マサト"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Makoto Uezu",
+      "native": "上江洲誠"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiroshi Kosuga",
+      "native": "小菅洋"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Junki Nakata",
+      "native": "中田洵輝"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Nobuhito Sue",
+      "native": "須江信人"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Sakiko Itou",
+      "native": "伊東さき子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuichi Takezawa",
+      "native": "竹沢裕一"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Hitomi Sudou",
+      "native": "須藤瞳"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Yamaguchi",
+      "native": "山口貴之"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Evan Call",
+      "native": "エバン・コール"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Takahiro Ikeda",
+      "native": "池田貴博"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Kosuga",
+      "native": "小菅洋"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 10)",
+    "node": {
+     "name": {
+      "full": "Shinpei Nagai",
+      "native": "永居慎平"
+     }
+    }
+   },
+   {
+    "role": "Photography (eps 7, 9, 12)",
+    "node": {
+     "name": {
+      "full": "Miori Miyagi",
+      "native": "宮城己織"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ryushen",
+      "native": "緑仙"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yuuto Yamaguchi",
+      "native": "山口優人"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Miko Kurono",
+      "native": "黒廼ミコ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Riho Sugiyama",
+       "native": "杉山里穂"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kanna Kagurazaka",
+      "native": "神楽坂カンナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nana Hazumi",
+       "native": "羽澄なな"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mayu Mayusaka",
+      "native": "舞夢坂舞由"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manaka Iwami",
+       "native": "石見舞菜香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

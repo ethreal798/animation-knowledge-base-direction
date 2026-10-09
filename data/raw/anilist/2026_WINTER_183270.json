@@ -1,0 +1,205 @@
+{
+ "id": 183270,
+ "title": {
+  "romaji": "Eris no Seihai",
+  "english": "The Holy Grail of Eris",
+  "native": "エリスの聖杯"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 26
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Ashi Productions"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kujira Tokiwa",
+      "native": "常磐くじら"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Yuunagi",
+      "native": "夕薙"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Morita to Jumpei",
+      "native": "森田と純平"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenichi Yamashita",
+      "native": "山下憲一"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Chie Kawaguchi",
+      "native": "河口千恵"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Jun Yukawa",
+      "native": "湯川純"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Nobuhito Sue",
+      "native": "須江信人"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Yamagami",
+      "native": "山上愛子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuko Kamahara",
+      "native": "蒲原有子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuriko Sano",
+      "native": "佐野由里子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuichi Morita",
+      "native": "森田祐一"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kenichi Yamashita",
+      "native": "山下憲一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yukari Tamura",
+      "native": "田村ゆかり"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Reina Washio",
+      "native": "鷲尾伶菜"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "YU-KA",
+      "native": "由薫"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Scarlet Castiel",
+      "native": "スカーレット・カスティエル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Constance Grail",
+      "native": "コンスタンス・グレイル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

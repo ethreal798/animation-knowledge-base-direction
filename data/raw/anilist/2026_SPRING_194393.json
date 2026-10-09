@@ -1,0 +1,301 @@
+{
+ "id": 194393,
+ "title": {
+  "romaji": "Aishiteru Game wo Owarasetai",
+  "english": "I Want to End this Love Game",
+  "native": "愛してるゲームを終わらせたい"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 14
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 30
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Felix Film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuuki Doumoto",
+      "native": "堂本裕貴"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Azuma Tani",
+      "native": "谷東"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Fukuchi ",
+      "native": "福地友樹"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Tomokazu Sugimura",
+      "native": "杉村友和"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Ryousuke Tanigawa",
+      "native": "谷川亮介"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Tomokazu Sugimura",
+      "native": "杉村友和"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masanori Nishiyama",
+      "native": "西山正紀"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Natsuko Ueno",
+      "native": "上野夏子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Jun Kubota",
+      "native": "久保田淳"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Azuma Tani",
+      "native": "谷東"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Misaki Enokida",
+      "native": "榎田美咲"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Masaomi Suzuki",
+      "native": "鈴木雅臣"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Yano",
+      "native": "矢野さとし"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akito Matsuda",
+      "native": "松田彬人"
+     }
+    }
+   },
+   {
+    "role": "Script ",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "CHiCO",
+      "native": "CHiCO"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "PompadollS",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Victor Acosta",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 6)",
+    "node": {
+     "name": {
+      "full": "Suwarin Promjutikanon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "André Rinaldi",
+      "native": "André Augusto Rinaldi"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 6)",
+    "node": {
+     "name": {
+      "full": "Cerberus",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Neal Malley",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yukiya Asagi",
+      "native": "浅葱優希也"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaito Ishikawa",
+       "native": "石川界人"
+      }
+     },
+     {
+      "name": {
+       "full": "Eriko Matsui",
+       "native": "松井恵理子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Miku Sakura",
+      "native": "桜みく"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miku Itou",
+       "native": "伊藤美来"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

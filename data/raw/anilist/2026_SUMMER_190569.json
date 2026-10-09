@@ -1,0 +1,279 @@
+{
+ "id": 190569,
+ "title": {
+  "romaji": "Tenmaku no Jaadugar",
+  "english": "Jaadugar: A Witch in Mongolia",
+  "native": "天幕のジャードゥーガル"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 12
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Science SARU"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tomato Soup",
+      "native": "トマトスープ"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Naoko Yamada",
+      "native": "山田尚子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Abel Gongora",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kanichi Katou",
+      "native": "加藤還一"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kenichi Yoshida",
+      "native": "吉田健一"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuuri Kabasawa",
+      "native": "樺澤侑里"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Narumi Konno",
+      "native": "今野成美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Naoki Takahashi",
+      "native": "高橋直希"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Noriyoshi Konuma",
+      "native": "小沼則義"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Koushirou Hino",
+      "native": "日野浩志郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Episode Director",
+    "node": {
+     "name": {
+      "full": "Takuya Fujikura",
+      "native": "藤倉拓也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "SEKAI NO OWARI",
+      "native": "セカイ・ノ・オワリ"
+     }
+    }
+   },
+   {
+    "role": "Animation Chief",
+    "node": {
+     "name": {
+      "full": "Kenichi Yoshida",
+      "native": "吉田健一"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Chris Cason",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Naoko Yamada",
+      "native": "山田尚子"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 2, 11)",
+    "node": {
+     "name": {
+      "full": "Naoko Yamada",
+      "native": "山田尚子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 6)",
+    "node": {
+     "name": {
+      "full": "Toshiyuki Inoue",
+      "native": "井上俊之"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 12)",
+    "node": {
+     "name": {
+      "full": "Ryousuke Nakamura",
+      "native": "中村亮介"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 6)",
+    "node": {
+     "name": {
+      "full": "Masashi Andou",
+      "native": "安藤雅司"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP)",
+    "node": {
+     "name": {
+      "full": "Youko Kuno",
+      "native": "久野遥子"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP)",
+    "node": {
+     "name": {
+      "full": "Youko Kuno",
+      "native": "久野遥子"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Shawn Gann",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 12)",
+    "node": {
+     "name": {
+      "full": "China",
+      "native": "ちな"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 12)",
+    "node": {
+     "name": {
+      "full": "China",
+      "native": "ちな"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sitara",
+      "native": "シタラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akira Sekine",
+       "native": "関根明良"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

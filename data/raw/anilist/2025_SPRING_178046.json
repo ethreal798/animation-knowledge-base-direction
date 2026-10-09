@@ -1,0 +1,257 @@
+{
+ "id": 178046,
+ "title": {
+  "romaji": "GUILTY GEAR STRIVE: DUAL RULERS",
+  "english": "GUILTY GEAR STRIVE: DUAL RULERS",
+  "native": "GUILTY GEAR STRIVE: DUAL RULERS"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 5,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 8,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SANZIGEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Arc System Works",
+      "native": "アークシステムワークス"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Daisuke Ishiwatari",
+      "native": "石渡太輔 "
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuu Kou",
+      "native": "紅優"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Shinpei Ishikawa",
+      "native": "石川真平"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Morita",
+      "native": "森田紘吏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Norimitsu Kaihou",
+      "native": "海法紀光"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takuya Chanohara",
+      "native": "茶之原拓也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Joseph Shin",
+      "native": "シン・ジョセフ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuka Hachimori",
+      "native": "八森優香"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Arai",
+      "native": "荒井和浩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miyu Ishibashi",
+      "native": "石橋名結"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Daisuke Okumura",
+      "native": "奥村大輔"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Hatsumi Hidaka",
+      "native": "日高初美"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumihiko Ootera",
+      "native": "大寺文彦"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryou Takahashi",
+      "native": "高橋諒"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Norimitsu Kaihou",
+      "native": "海法紀光"
+     }
+    }
+   },
+   {
+    "role": "Associate Producer",
+    "node": {
+     "name": {
+      "full": "Seiji Mizushima",
+      "native": "水島精二"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ulma sound junction",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Nowlu",
+      "native": "Nowlu"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sol Badguy",
+      "native": "ソル＝バッドガイ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Jouji Nakata",
+       "native": "中田譲治"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sin Kiske",
+      "native": "シン=キスク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Issei Miyazaki",
+       "native": "宮崎一成"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Unika",
+      "native": "ユニか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yui Ishikawa",
+       "native": "石川由依"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

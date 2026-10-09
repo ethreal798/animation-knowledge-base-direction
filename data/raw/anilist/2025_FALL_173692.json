@@ -1,0 +1,311 @@
+{
+ "id": 173692,
+ "title": {
+  "romaji": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+  "english": "Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
+  "native": "父は英雄、母は精霊、娘の私は転生者。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 21
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "J.C.STAFF"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Matsuura ",
+      "native": "松浦"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "keepout",
+      "native": "keepout"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Toshinori Fukushima",
+      "native": "福島利規"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Mina Oosawa",
+      "native": "大沢美奈"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Siman Wei",
+      "native": "魏斯曼"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Moe Sudou",
+      "native": "須藤萌"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Honami Yamagishi",
+      "native": "山岸歩奈実"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Misaki Umase",
+      "native": "馬瀬みさき"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 4, 10)",
+    "node": {
+     "name": {
+      "full": "Shinpei Nagai",
+      "native": "永居慎平"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Shinichi Iimura",
+      "native": "飯村真一"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Masahiro Okamura",
+      "native": "岡村正弘"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kazuma Kikuchi",
+      "native": "菊池一真"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Tetsuya Sakamoto",
+      "native": "坂本哲也"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yoshiyuki Nogami",
+      "native": "野上良之"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ED)",
+    "node": {
+     "name": {
+      "full": "Yuriko Ikehara",
+      "native": "池原百合子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Shintarou Tsubota",
+      "native": "坪田慎太郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (OP, ED, ep 1)",
+    "node": {
+     "name": {
+      "full": "Mina Oosawa",
+      "native": "大沢美奈"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Seong-Ju Gil",
+      "native": "길성주"
+     }
+    }
+   },
+   {
+    "role": "Animation Production Generalization",
+    "node": {
+     "name": {
+      "full": "Atsushi Fujishiro",
+      "native": "藤代敦士"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Shouta Minami",
+      "native": "南翔太"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Hiroto Nakagawa",
+      "native": "中川裕人"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yui Nishio",
+      "native": "ゆいにしお"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ellen",
+      "native": "エレン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Seria Fukagawa",
+       "native": "深川芹亜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rovel Vankreift",
+      "native": "ロヴェル・ヴァンクライフト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kazuyuki Okitsu",
+       "native": "興津和幸"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Origin",
+      "native": "オリジン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mai Nakahara",
+       "native": "中原麻衣"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

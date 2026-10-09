@@ -1,0 +1,279 @@
+{
+ "id": 178680,
+ "title": {
+  "romaji": "WIND BREAKER Season 2",
+  "english": "WIND BREAKER Season 2",
+  "native": "WIND BREAKER Season 2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 20
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CloverWorks"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Satoru Nii",
+      "native": "にいさとる"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Toshifumi Akai",
+      "native": "赤井俊文"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Shintarou Kawakubo",
+      "native": "川窪慎太郎"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Yuuta Hiraoka",
+      "native": "平岡雄大"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Genta Nagaishi",
+      "native": "永石玄太"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroshi Seko",
+      "native": "瀬古浩司"
+     }
+    }
+   },
+   {
+    "role": "Action Director",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Asaka",
+      "native": "浅賀和行"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Taishi Kawakami",
+      "native": "川上大志"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Maiko Hado",
+      "native": "羽土真衣子"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Ai Takashi",
+      "native": "高士亜衣"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yasunao Moriyasu",
+      "native": "守安靖尚"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yasunao Moriyasu",
+      "native": "守安靖尚"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Asuka Yokota",
+      "native": "横田明日香"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kyouko Hara",
+      "native": "原恭子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yukiko Nagase",
+      "native": "長瀬由起子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akinori  Mishima",
+      "native": "三嶋章紀"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Rei Ueno",
+      "native": "上野励"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Ryou Takahashi",
+      "native": "高橋諒"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Keiki Nishida",
+      "native": "西田圭稀"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Masaharu Yamanouchi",
+      "native": "山内真治"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Toshikazu Tsuji",
+      "native": "辻俊一"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Koudai Takano",
+      "native": "高野広大"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Kouichirou Hayashi",
+      "native": "林耕一郎"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 4, 7-12)",
+    "node": {
+     "name": {
+      "full": "Yuusuke Tanaka ",
+      "native": "田中裕介"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Haruka Sakura",
+      "native": "桜遥"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuma Uchida",
+       "native": "内田雄馬"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

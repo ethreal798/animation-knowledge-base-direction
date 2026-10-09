@@ -1,0 +1,147 @@
+{
+ "id": 186736,
+ "title": {
+  "romaji": "Kagaku×Bouken Survival! 2nd Season",
+  "english": null,
+  "native": "科学×冒険サバイバル！ 第2シリーズ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 14
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 19,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Gallop"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hyun-Dong Han",
+      "native": "한현동"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Hosoda",
+      "native": "細田雅弘"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Isao Murayama",
+      "native": "村山功"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Gil-Bo Noh",
+      "native": "노길보"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kei Yoshikawa",
+      "native": "吉川慶"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Pipi",
+      "native": "ピピ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Megumi Han",
+       "native": "潘めぐみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Geo",
+      "native": "ジオ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satsumi Matsuda",
+       "native": "松田颯水"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kei",
+      "native": "ケイ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akira Ishida",
+       "native": "石田彰"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Dia",
+      "native": "ダイヤ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mikako Komatsu",
+       "native": "小松未可子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

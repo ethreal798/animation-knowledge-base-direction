@@ -1,0 +1,285 @@
+{
+ "id": 183161,
+ "title": {
+  "romaji": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+  "english": "The Beginning After the End",
+  "native": "最強の王様、二度目の人生は 何をする?"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 19
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "studio A-CAT"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "TurtleMe",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Keitarou Motonaga",
+      "native": "元永慶太郎"
+     }
+    }
+   },
+   {
+    "role": "Story Supervisor",
+    "node": {
+     "name": {
+      "full": "TurtleMe",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takamitsu Kouno",
+      "native": "鴻野貴光"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masami Sueoka",
+      "native": "末岡正美"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yumi Sugihara",
+      "native": "杉原由美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ken Naitou",
+      "native": "内藤健"
+     }
+    }
+   },
+   {
+    "role": "Assistant Art Director",
+    "node": {
+     "name": {
+      "full": "Masahiro Kaba",
+      "native": "蒲昌浩"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Keisuke Takahashi",
+      "native": "高橋圭祐"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Kimura",
+      "native": "木村祥明"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuuichi Gotou",
+      "native": "後藤優一"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yasunori Ebina",
+      "native": "蝦名恭範"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Youko Sakurai",
+      "native": "櫻井陽子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keiji Inai",
+      "native": "井内啓二"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "KALA",
+      "native": "KALA"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "seiza",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "rui",
+      "native": "rui"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "KALA",
+      "native": "KALA"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "KALA",
+      "native": "KALA"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "KALA",
+      "native": "KALA"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "seiza",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "seiza",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Kouhei Kamiguchi",
+      "native": "上口浩平"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP, ED, eps 1, 3)",
+    "node": {
+     "name": {
+      "full": "Keitarou Motonaga",
+      "native": "元永慶太郎"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED, ep 1)",
+    "node": {
+     "name": {
+      "full": "Keitarou Motonaga",
+      "native": "元永慶太郎"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Arthur Leywin",
+      "native": "アーサー・レイウィン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Fujiwara",
+       "native": "藤原夏海"
+      }
+     },
+     {
+      "name": {
+       "full": "Makoto Furukawa",
+       "native": "古川慎"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

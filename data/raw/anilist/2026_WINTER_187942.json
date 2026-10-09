@@ -1,0 +1,343 @@
+{
+ "id": 187942,
+ "title": {
+  "romaji": "Mayonaka Heart Tune",
+  "english": "Tune In to the Midnight Heart",
+  "native": "真夜中ハートチューン"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 24
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Gekkou"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Masakuni Igarashi",
+      "native": "五十嵐正邦"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masayuki Takahashi",
+      "native": "高橋雅之"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yukie Sugawara",
+      "native": "菅原雪絵"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Shitaya",
+      "native": "下谷智之"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Minori Homura",
+      "native": "保村成"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yurika Someya",
+      "native": "染谷友梨花"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Mikio",
+      "native": "みき尾"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Akihiro Kikuchi",
+      "native": "菊池明紘"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masakazu Miyake",
+      "native": "三宅昌和"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Uegaki",
+      "native": "上垣裕起子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Azusa Sasaki",
+      "native": "佐々木梓"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Souta Hiroshima",
+      "native": "廣島颯太"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Akio Hayashi",
+      "native": "林昭夫"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tsutomu Nomoto",
+      "native": "野元力"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuichi Morita",
+      "native": "森田祐一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kuniyuki Takahashi",
+      "native": "高橋邦幸"
+     }
+    }
+   },
+   {
+    "role": "CG Layout",
+    "node": {
+     "name": {
+      "full": "Ami Hayashi",
+      "native": "林亜美"
+     }
+    }
+   },
+   {
+    "role": "Offline Editing",
+    "node": {
+     "name": {
+      "full": "Ayako Tan",
+      "native": "丹彩子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Suisei Hoshimachi",
+      "native": "星街すいせい"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Takashi Iwami",
+      "native": "岩見陸"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Takashi Iwami",
+      "native": "岩見陸"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Takashi Iwami",
+      "native": "岩見陸"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (ED)",
+    "node": {
+     "name": {
+      "full": "Yukiko Nakatani",
+      "native": "中谷友紀子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Shitaya",
+      "native": "下谷智之"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Shitaya",
+      "native": "下谷智之"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shinobu Uzuki",
+      "native": "雨月しのぶ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miku Itou",
+       "native": "伊藤美来"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Iko Kirino",
+      "native": "霧乃イコ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Arisu Yamabuki",
+      "native": "山吹有栖"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rikuya Yasuda",
+       "native": "安田陸矢"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rikka Inohana",
+      "native": "井ノ華六花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Momoko Seto",
+       "native": "瀬戸桃子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nene Himekawa",
+      "native": "日芽川寧々"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rumi Ookubo",
+       "native": "大久保瑠美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,279 @@
+{
+ "id": 180675,
+ "title": {
+  "romaji": "Apocalypse Hotel",
+  "english": "Apocalypse Hotel",
+  "native": "アポカリプスホテル"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 25
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CygamesPictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Izumi Takemoto",
+      "native": "竹本泉"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kana Shundou",
+      "native": "春藤佳奈"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shigeru Murakoshi",
+      "native": "村越繁"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Natsuki Yokoyama",
+      "native": "横山なつき"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Koike",
+      "native": "小池智史"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kiko Morifuji",
+      "native": "森藤希子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yasuyuki Noda",
+      "native": "野田康行"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Keinosuke Ami",
+      "native": "阿見圭之介"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Sono",
+      "native": "曽野由大"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Michiko Makita",
+      "native": "槙田路子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yasuyuki Noda",
+      "native": "野田康行"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Keinosuke Ami",
+      "native": "阿見圭之介"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hiroko Saigan",
+      "native": "西願宏子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Honda",
+      "native": "本田光平"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Sono",
+      "native": "曽野由大"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Takeyuki Takahashi",
+      "native": "高橋武之"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuuto Murata",
+      "native": "村田裕斗"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Mio Okabe",
+      "native": "岡部美緒"
+     }
+    }
+   },
+   {
+    "role": "Concept Art",
+    "node": {
+     "name": {
+      "full": "Masaki Hashimoto",
+      "native": "橋本真樹"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miyuki Sunago",
+      "native": "砂子美幸"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Masaharu Okazaki",
+      "native": "岡崎正春"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Sou Minamikawa",
+      "native": "南川創"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yumi Jinguuji",
+      "native": "神宮司由美"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yoshinori Nakano",
+      "native": "中野祥典"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoki Iida",
+      "native": "飯田里樹"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yachiyo",
+      "native": "ヤチヨ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saho Shirasu",
+       "native": "白砂沙帆"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

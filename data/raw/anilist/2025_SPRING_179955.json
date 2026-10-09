@@ -1,0 +1,245 @@
+{
+ "id": 179955,
+ "title": {
+  "romaji": "Katainaka no Ossan, Kensei ni Naru",
+  "english": "From Old Country Bumpkin to Master Swordsman",
+  "native": "片田舎のおっさん、剣聖になる"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 22
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Hayabusa Film"
+   },
+   {
+    "name": "Passione"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Shigeru Sagasaki",
+      "native": "佐賀崎しげる"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Tetsuhiro Nabeshima",
+      "native": "鍋島テツヒロ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Akio Kazumi",
+      "native": "鹿住朗生"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kunihiko Okada",
+      "native": "岡田邦彦"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Satsuki Hayasaka",
+      "native": "早坂皐月"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yasuharu Takanashi",
+      "native": "高梨康治"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Satsuki Hayasaka",
+      "native": "早坂皐月"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Takanori Nishikawa",
+      "native": "西川貴教"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "FLOW",
+      "native": "フロウ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Latin American Spanish)",
+    "node": {
+     "name": {
+      "full": "Denisse Leguizamo",
+      "native": "Denisse Aidé Leguizamo Rodriguez"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Bruno Azevedo",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Paulette Victor-Lifton",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Beryl Gardenant",
+      "native": "ベリル・ガーデナント"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroaki Hirata",
+       "native": "平田広明"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ficelle Harbeller",
+      "native": "フィッセル・ハーベラー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hinaki Yano",
+       "native": "矢野妃菜喜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Allucia Citrus",
+      "native": "アリューシア・シトラス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nao Touyama",
+       "native": "東山奈央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Curuni Crueciel",
+      "native": "クルニ・クルーシエル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Hirose",
+       "native": "広瀬ゆうき"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Surena Lysandra",
+      "native": "スレナ・リサンデラ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hitomi Ueda",
+       "native": "上田瞳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mewi Freya",
+      "native": "ミュイ・フレイア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Arisa Nakada",
+       "native": "仲田ありさ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

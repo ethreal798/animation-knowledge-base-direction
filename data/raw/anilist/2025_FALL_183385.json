@@ -1,0 +1,311 @@
+{
+ "id": 183385,
+ "title": {
+  "romaji": "Watashi wo Tabetai, Hitodenashi",
+  "english": "This Monster Wants to Eat Me",
+  "native": "私を喰べたい、ひとでなし"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 25
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Lings"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Sai Naekawa",
+      "native": "苗川采"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Naoyuki Kuzuya",
+      "native": "葛谷直行"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Suzuki",
+      "native": "鈴木裕輔"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Hirota",
+      "native": "広田光毅"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Nozomi Ikuyama",
+      "native": "郁山想"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shinichi Inami",
+      "native": "井波慎一"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Tetsurou Shouji",
+      "native": "荘司哲郎"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yoshitaka Kudou",
+      "native": "工藤義隆"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hosoi",
+      "native": "ほそい"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Taeko Mizuno",
+      "native": "水野多恵子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kenji Takehara",
+      "native": "武原健二"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Misato Takikawa",
+      "native": "瀧川三智"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Jishiro Shida",
+      "native": "志田じしろ"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Michiyo Saitou",
+      "native": "斎藤みち代"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keiji Inai",
+      "native": "井内啓二"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Nao Watanabe",
+      "native": "渡部直"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Hidehito Takagi",
+      "native": "高木秀仁"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Naofumi Ikemoto",
+      "native": "池本直史"
+     }
+    }
+   },
+   {
+    "role": "2D Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Kawashima",
+      "native": "川島哲"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Takumi Kamemaru",
+      "native": "亀丸卓充"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Mitsuhiro Ogata",
+      "native": "尾形光広"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Hirotaka Kaneko",
+      "native": "金子広孝"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Hajime Maruyama",
+      "native": "丸山創"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Sadakazu Kikuchi",
+      "native": "菊池貞和"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hinako Yaotose",
+      "native": "八百歳比名子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reina Ueda",
+       "native": "上田麗奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shiori Oumi",
+      "native": "近江汐莉"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yui Ishikawa",
+       "native": "石川由依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Miko Yashiro",
+      "native": "社美胡"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Fairouz Ai",
+       "native": "ファイルーズあい"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

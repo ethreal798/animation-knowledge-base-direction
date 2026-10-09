@@ -1,0 +1,295 @@
+{
+ "id": 186003,
+ "title": {
+  "romaji": "Fermat no Ryouri",
+  "english": "Fermat Kitchen",
+  "native": "フェルマーの料理"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "domerica"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuugo Kobayashi",
+      "native": "小林有吾"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuya Ichikawa",
+      "native": "市川量也"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Miyuki Kaieda",
+      "native": "海江田美幸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Satsuki Kashiwagi",
+      "native": "柏木五月"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takeshi Okamoto",
+      "native": "岡本岳"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mari Takada",
+      "native": "髙田真理"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mari Takada",
+      "native": "髙田真理"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kumiko Satou",
+      "native": "佐藤久美子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ami Watanabe",
+      "native": "渡邊安美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yasushi Yamakoshi",
+      "native": "山越康司"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mayumi Kamata",
+      "native": "鎌田麻友美"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Asuka Fukada",
+      "native": "深田明日香"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Motoyama",
+      "native": "本山哲"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Satoshi Igarashi",
+      "native": "五十嵐聡"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Satsuki Kashiwagi",
+      "native": "柏木五月"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Okamoto",
+      "native": "岡本岳"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1, 5, 12)",
+    "node": {
+     "name": {
+      "full": "Miyuki Kaieda",
+      "native": "海江田美幸"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 5, 12)",
+    "node": {
+     "name": {
+      "full": "Miyuki Kaieda",
+      "native": "海江田美幸"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 5, 12)",
+    "node": {
+     "name": {
+      "full": "Miyuki Kaieda",
+      "native": "海江田美幸"
+     }
+    }
+   },
+   {
+    "role": "Color Coordination (eps 1, 5, 12)",
+    "node": {
+     "name": {
+      "full": "Miyuki Kaieda",
+      "native": "海江田美幸"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1, 5, 12)",
+    "node": {
+     "name": {
+      "full": "Miyuki Kaieda",
+      "native": "海江田美幸"
+     }
+    }
+   },
+   {
+    "role": "Finishing Check (eps 1, 5, 12)",
+    "node": {
+     "name": {
+      "full": "Miyuki Kaieda",
+      "native": "海江田美幸"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 3, 7)",
+    "node": {
+     "name": {
+      "full": "Asuka Fukada",
+      "native": "深田明日香"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 3, 7)",
+    "node": {
+     "name": {
+      "full": "Asuka Fukada",
+      "native": "深田明日香"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1, 2, 4)",
+    "node": {
+     "name": {
+      "full": "Satoshi Hanai",
+      "native": "花井俊"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kai Asakura",
+      "native": "朝倉海"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taito Ban",
+       "native": "坂泰斗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gaku Kitada",
+      "native": "北田岳"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryousuke Tomita",
+       "native": "富田涼介"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

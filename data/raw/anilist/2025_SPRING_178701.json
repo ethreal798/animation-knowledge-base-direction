@@ -1,0 +1,295 @@
+{
+ "id": 178701,
+ "title": {
+  "romaji": "Aru Majo ga Shinu Made",
+  "english": "Once Upon a Witch's Death",
+  "native": "ある魔女が死ぬまで"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 1
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 17
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "EMT Squared"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Saka",
+      "native": "坂"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Chorefuji",
+      "native": "コレフジ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Atsushi Nigorikawa",
+      "native": "濁川敦"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yukishizuku",
+      "native": "ユキシズク"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Maaya Sakamoto",
+      "native": "坂本真綾"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Aoi Teshima",
+      "native": "手嶌葵"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akiyuki Tateyama",
+      "native": "立山秋航"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Miyako Yatsu",
+      "native": "谷津美弥子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 5)",
+    "node": {
+     "name": {
+      "full": "Hiroaki Otsuji",
+      "native": "尾辻浩晃"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kanae Hatakeyama",
+      "native": "畠山佳苗"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 5)",
+    "node": {
+     "name": {
+      "full": "Masahiro Okamura",
+      "native": "岡村正弘"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yoshiko Minamihara",
+      "native": "南原孝衣子"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yoshiko Minamihara",
+      "native": "南原孝衣子"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Nouji",
+      "native": "能地清"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 7)",
+    "node": {
+     "name": {
+      "full": "Peng Guan",
+      "native": "関鵬"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Nobuko Shinohara",
+      "native": "篠原信子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Shinichi Aoki",
+      "native": "青木伸一"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Motonori Nishibe",
+      "native": "西部師経"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Hiroki Kusuda",
+      "native": "楠田博樹"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Clayton Browning",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Matt Grounds",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 7)",
+    "node": {
+     "name": {
+      "full": "Peiming Zhou",
+      "native": "周佩明"
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 7)",
+    "node": {
+     "name": {
+      "full": "Jin Hu",
+      "native": "胡進"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Meg Raspberry",
+      "native": "メグ・ラズベリー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshino Aoyama",
+       "native": "青山吉能"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Faust",
+      "native": "ファウスト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshiko Sakakibara",
+       "native": "榊原良子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,301 @@
+{
+ "id": 172453,
+ "title": {
+  "romaji": "Akuyaku Reijou Tensei Oji-san",
+  "english": "From Bureaucrat to Villainess: Dad's Been Reincarnated!",
+  "native": "悪役令嬢転生おじさん"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Ajiado"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Michiro Ueyama",
+      "native": "上山道郎"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tetsuya Takeuchi",
+      "native": "竹内哲也"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shingo Irie",
+      "native": "入江信吾"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Haruka Matsunae",
+      "native": "松苗はる香"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ryou Hirata",
+      "native": "ヒラタリョウ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Chiho Wada",
+      "native": "和田千帆"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Seiji Oohara",
+      "native": "大原盛仁"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Nobori",
+      "native": "のぼりはるこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kotomi Murayama",
+      "native": "村山琴実"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Rie Matsubara",
+      "native": "松原理恵"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Toshiki Kameyama",
+      "native": "亀山俊樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Natsumi Tabuchi",
+      "native": "田渕夏海"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Misaki Tsuchida",
+      "native": "土田美咲"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tsugumi Tanaka",
+      "native": "田中津久美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kaho Sawada",
+      "native": "澤田佳歩"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Reiko Abe",
+      "native": "阿部玲子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1, ED2)",
+    "node": {
+     "name": {
+      "full": "Kazuhiko Inoue",
+      "native": "井上和彦"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1, ED2)",
+    "node": {
+     "name": {
+      "full": "Mao Ichimichi",
+      "native": "市道真央"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Cider Girl",
+      "native": "サイダーガール"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-3)",
+    "node": {
+     "name": {
+      "full": "Shingo Irie",
+      "native": "入江信吾"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP, ED2, ep 1)",
+    "node": {
+     "name": {
+      "full": "Tetsuya Takeuchi",
+      "native": "竹内哲也"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ED)",
+    "node": {
+     "name": {
+      "full": "Yasufumi Soejima",
+      "native": "ソエジマヤスフミ"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Yuuki Morita",
+      "native": "森田侑希"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Hidekazu Oka",
+      "native": "岡英和"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ED)",
+    "node": {
+     "name": {
+      "full": "Madoka Yaguchi",
+      "native": "矢口円"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Grace Auvergne",
+      "native": "グレイス・オーヴェルヌ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mao Ichimichi",
+       "native": "市道真央"
+      }
+     },
+     {
+      "name": {
+       "full": "Kazuhiko Inoue",
+       "native": "井上和彦"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Anna Doll",
+      "native": "アンナ・ドール"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akira Sekine",
+       "native": "関根明良"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

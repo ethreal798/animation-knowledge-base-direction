@@ -1,0 +1,295 @@
+{
+ "id": 185211,
+ "title": {
+  "romaji": "Yowa Yowa Sensei",
+  "english": "Yowayowa Sensei",
+  "native": "よわよわ先生"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 27
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Brain's Base"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kamio Fukuchi",
+      "native": "福地カミオ"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Hiroshi Ishiodori",
+      "native": "石踊宏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoshifumi Fukushima",
+      "native": "福嶋幸典"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Naoki Aisaka",
+      "native": "相坂ナオキ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yoshiko Tachikawame",
+      "native": "立川目佳子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Midori Kikuchi",
+      "native": "菊池翠"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Fukuda",
+      "native": "福田由布子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuusuke Fujino",
+      "native": "藤野祐介"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yasutaka Ikeda",
+      "native": "池田康隆"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Takadera",
+      "native": "高寺たけし"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Akifumi Tada",
+      "native": "多田彰文"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Rina Tayama",
+      "native": "田山里奈"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Marika Kouno",
+      "native": "高野麻里佳"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "DAOKO",
+      "native": "だをこ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yuu Sasahara",
+      "native": "篠原侑"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yurie Igoma",
+      "native": "伊駒ゆりえ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Kenichi Maeyamada",
+      "native": "前山田健一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Kenichi Maeyamada",
+      "native": "前山田健一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "DAOKO",
+      "native": "だをこ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "DAOKO",
+      "native": "だをこ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Hideya Kojima",
+      "native": "小島英也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Hideya Kojima",
+      "native": "小島英也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Touta Fujiwara",
+      "native": "藤原燈太"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Brent Marshall",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Shannon Reed",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Akihito Abikura",
+      "native": "阿比倉章人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kakeru Hatano",
+       "native": "波多野翔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hiyori Hiwamura",
+      "native": "鶸村ひより"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Marika Kouno",
+       "native": "高野麻里佳"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

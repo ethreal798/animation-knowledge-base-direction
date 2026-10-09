@@ -1,0 +1,187 @@
+{
+ "id": 207809,
+ "title": {
+  "romaji": "Sora wa Akai Kawa no Hotori",
+  "english": "Red River",
+  "native": "天は赤い河のほとり"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 8
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Tatsunoko Production"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Chie Shinohara",
+      "native": "篠原千絵"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kousuke Kobayashi",
+      "native": "小林浩輔"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoriko Tomita",
+      "native": "冨田頼子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kenji Fujisaki",
+      "native": "藤崎賢二"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiroto Morishita",
+      "native": "森下広人"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yoshihisa Hirano",
+      "native": "平野義久"
+     }
+    }
+   },
+   {
+    "role": "Historical Research",
+    "node": {
+     "name": {
+      "full": "Daisuke Yoshida",
+      "native": "吉田大輔"
+     }
+    }
+   },
+   {
+    "role": "Historical Research",
+    "node": {
+     "name": {
+      "full": "Kimiyoshi Matsumura",
+      "native": "松村公仁"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP2)",
+    "node": {
+     "name": {
+      "full": "Nana Mizuki",
+      "native": "水樹奈々"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1)",
+    "node": {
+     "name": {
+      "full": "Hiroki Nanami",
+      "native": "七海ひろき"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "Yuuko Andou",
+      "native": "安藤裕子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Miisha Shimizu",
+      "native": "清水美依紗"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "Ryu Matsuyama",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kail Mursili",
+      "native": "カイル・ムルシリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Wataru Katou",
+       "native": "加藤渉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuri Suzuki",
+      "native": "鈴木夕梨"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mirai Tachibana",
+       "native": "橘美來"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

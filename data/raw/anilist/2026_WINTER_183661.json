@@ -1,0 +1,295 @@
+{
+ "id": 183661,
+ "title": {
+  "romaji": "Isekai no Sata wa Shachiku Shidai",
+  "english": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
+  "native": "異世界の沙汰は社畜次第"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 24
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Wakatsu Yatsuki",
+      "native": "八月八"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kikka Ohashi",
+      "native": "大橋キッカ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shinji Ishihira",
+      "native": "石平信司"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Akira Yamada",
+      "native": "山田晃"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoshiko Nakamura",
+      "native": "中村能子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Maki Fujii",
+      "native": "藤井まき"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Megumi Oohashi",
+      "native": "大橋恵"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Bolton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masaki Mayuzumi",
+      "native": "黛昌樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shouji Hata",
+      "native": "はたしょうじ "
+     }
+    }
+   },
+   {
+    "role": "Sound Production",
+    "node": {
+     "name": {
+      "full": "Sound Team Don Juan",
+      "native": "サウンドチーム ・ ドンファン"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Noriko Izumo",
+      "native": "出雲範子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Imari Katsuragi",
+      "native": "桂木今里"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Akira Shimozaki",
+      "native": "下崎昭"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Lee George",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akane Shiraishi",
+      "native": "白石あかね"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Win Morisaki",
+      "native": "森崎ウィン"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Takayuki Saitou",
+      "native": "齋藤隆行"
+     }
+    }
+   },
+   {
+    "role": "Recording",
+    "node": {
+     "name": {
+      "full": "Yoshinori Tsurumaki",
+      "native": "鶴巻慶典"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Neal Malley",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Jared Smith",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Kobore",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Katie Saltkill",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Ryan Negrón",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Paola Guzman",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Seiichirou Kondou",
+      "native": "近藤誠一郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kento Itou",
+       "native": "伊東健人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Aresh Indolark",
+      "native": "アレシュ・インドラーク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoaki Maeno",
+       "native": "前野智昭"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

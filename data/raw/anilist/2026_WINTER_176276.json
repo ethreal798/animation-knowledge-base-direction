@@ -1,0 +1,298 @@
+{
+ "id": 176276,
+ "title": {
+  "romaji": "Mato Seihei no Slave 2",
+  "english": "Chained Soldier Season 2",
+  "native": "魔都精兵のスレイブ2"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 26
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Passione"
+   },
+   {
+    "name": "Hayabusa Film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Takahiro",
+      "native": "タカヒロ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Youhei Takemura",
+      "native": "竹村洋平"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masafumi Tamura",
+      "native": "田村正文"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Nakanishi",
+      "native": "中西やすひろ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Keiya Nakano",
+      "native": "中野圭哉"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shino Ohara",
+      "native": "小原志野"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Sakie Suzuki",
+      "native": "鈴木咲絵"
+     }
+    }
+   },
+   {
+    "role": "Color Design Assistance",
+    "node": {
+     "name": {
+      "full": "Mai Kabatani",
+      "native": "椛谷麻衣"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kouji Hayashi",
+      "native": "林幸司"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayako Tan",
+      "native": "丹彩子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takamasa Taba",
+      "native": "田場隆将"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Chikako Yokota",
+      "native": "横田知加子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kouta Yamamoto",
+      "native": "山本康太"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yasuhiro Nakanishi",
+      "native": "中西やすひろ"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Ohine Ezaki",
+      "native": "江嵜大兄"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Keita Kanou",
+      "native": "加納京太"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Takahiro Nagase",
+      "native": "長瀬貴弘"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Kana Hanazawa",
+      "native": "花澤香菜"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED2)",
+    "node": {
+     "name": {
+      "full": "Maaya Uchida",
+      "native": "内田真礼"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Akari Kitou",
+      "native": "鬼頭明里"
+     }
+    }
+   },
+   {
+    "role": "Photography Concept",
+    "node": {
+     "name": {
+      "full": "Junpei Takatsu",
+      "native": "高津純平"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED1)",
+    "node": {
+     "name": {
+      "full": "Shizuku",
+      "native": "雫"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED1)",
+    "node": {
+     "name": {
+      "full": "Shizuku",
+      "native": "雫"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED1)",
+    "node": {
+     "name": {
+      "full": "Polkadot Stingray",
+      "native": "ポルカドットスティングレイ"
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Christina Kelly",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kyouka Uzen",
+      "native": "羽前京香"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akari Kitou",
+       "native": "鬼頭明里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuuki Wakura",
+      "native": "和倉優希"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuya Hirose",
+       "native": "広瀬裕也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,201 @@
+{
+ "id": 211778,
+ "title": {
+  "romaji": "Sekai Saikyou no Majo, Hajimemashita",
+  "english": "The World's Strongest Witch",
+  "native": "世界最強の魔女、始めました"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 7
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bridge"
+   },
+   {
+    "name": "Aisle"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Mochimaru Sakaki",
+      "native": "坂木持丸"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "riritto",
+      "native": "riritto"
+     }
+    }
+   },
+   {
+    "role": "Original Illustration",
+    "node": {
+     "name": {
+      "full": "Tamaki Toga",
+      "native": "戸賀環"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Jouji Furuta",
+      "native": "古田丈司"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shouji Yonemura",
+      "native": "米村正二"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Morimoto",
+      "native": "森本由布希"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Takadera",
+      "native": "高寺たけし"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kumiko Sakamoto",
+      "native": "坂本久美子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Asuka Komiyama",
+      "native": "込山明日香"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Alisa Okehazama",
+      "native": "桶狭間ありさ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Toshiyuki Sadamatsu",
+      "native": "貞松寿幸"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Megumi Aoi",
+      "native": "青芽来美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "HaKoniwalily",
+      "native": "ハコニワリリィ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Rokudenashi",
+      "native": "ロクデナシ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryoushi Takagi",
+      "native": "髙木亮志"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Rona Hermit",
+      "native": "ローナ・ハーミット"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Azusa Tachibana",
+       "native": "橘杏咲"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

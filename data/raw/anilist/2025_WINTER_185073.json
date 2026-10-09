@@ -1,0 +1,343 @@
+{
+ "id": 185073,
+ "title": {
+  "romaji": "Kimi to Idol Precure♪",
+  "english": "You and Idol Precure ♪",
+  "native": "キミとアイドルプリキュア♪"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 2,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 25
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 49,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Toei Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Izumi Toudou",
+      "native": "東堂いづみ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Chiaki Kon",
+      "native": "今千秋  "
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Youichi Katou",
+      "native": "加藤陽一 "
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Miho Sugimoto",
+      "native": "杉本海帆"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Tongnian Chen",
+      "native": "陳烔年"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Erika Ikeda",
+      "native": "いけだえりか"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kumiko Yanagisawa",
+      "native": "柳澤久美子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Erika Fukasawa",
+      "native": "深澤恵梨香"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Misaki Umase",
+      "native": "馬瀬みさき"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Mainari Nishimura",
+      "native": "西村舞音"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Daiki Tomihara",
+      "native": "富原大稀"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Aki Murase",
+      "native": "村瀬亜季"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ami Ishii",
+      "native": "石井あみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Akane Kumada",
+      "native": "熊田茜音"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Chihaya Yoshitake",
+      "native": "吉武千颯"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Natsumi Takamori",
+      "native": "高森奈津美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Minami Takahashi",
+      "native": "髙橋ミナミ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Misato Matsuoka",
+      "native": "松岡美里"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Sumiyo Mutsumi",
+      "native": "六ツ見純代"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Shouko Oomori",
+      "native": "大森祥子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Keiichi Hirokawa",
+      "native": "広川恵一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Keiichi Hirokawa",
+      "native": "広川恵一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Misaki Umase",
+      "native": "馬瀬みさき"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Misaki Umase",
+      "native": "馬瀬みさき"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Chiaki Kon",
+      "native": "今千秋  "
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Uta Sakura",
+      "native": "咲良うた"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Misato Matsuoka",
+       "native": "松岡美里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nana Aokaze",
+      "native": "蒼風なな"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minami Takahashi",
+       "native": "髙橋ミナミ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kokoro Shigure",
+      "native": "紫雨こころ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Takamori",
+       "native": "高森奈津美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Purirun",
+      "native": "プリルン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshino Nanjou",
+       "native": "南條愛乃"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Meroron",
+      "native": "メロロン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miharu Hanai",
+       "native": "花井美春"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

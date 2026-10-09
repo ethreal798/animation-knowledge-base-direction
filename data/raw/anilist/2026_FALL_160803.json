@@ -1,0 +1,205 @@
+{
+ "id": 160803,
+ "title": {
+  "romaji": "Mahou Shoujo Ikusei Keikaku: restart",
+  "english": "MAGICAL GIRL RAISING PROJECT restart",
+  "native": "魔法少女育成計画 restart"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 6
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SynergySP"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Asari Endou",
+      "native": "遠藤浅蜊"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Maruino",
+      "native": "マルイノ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Hashimoto",
+      "native": "橋本裕之"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takao Yoshioka",
+      "native": "吉岡たかを"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masako Itou",
+      "native": "伊藤雅子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoki Iida",
+      "native": "飯田里樹"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Takao Yoshioka",
+      "native": "吉岡たかを"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Minori Chihara",
+      "native": "茅原実里"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Aki Hata",
+      "native": "畑亜貴"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Q-MHz",
+      "native": "Q-MHz"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Q-MHz",
+      "native": "Q-MHz"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Daisy×Daisy",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Daisy×Daisy",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Shinya Saitou",
+      "native": "齋藤真也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Shinya Saitou",
+      "native": "齋藤真也"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kanoe Hitokouji",
+      "native": "人小路庚江"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshino Nanjou",
+       "native": "南條愛乃"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mamori Totoyama",
+      "native": "魚山護"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reina Kondou",
+       "native": "近藤玲奈"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

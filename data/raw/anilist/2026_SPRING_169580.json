@@ -1,0 +1,268 @@
+{
+ "id": 169580,
+ "title": {
+  "romaji": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+  "english": "I Made Friends with the Second Prettiest Girl in My Class",
+  "native": "クラスで２番目に可愛い女の子と友だちになった"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 23
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CONNECT"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Takata",
+      "native": "たかた"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Azuri Hyuuga",
+      "native": "日向あずり"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Hideki Tachibana",
+      "native": "橘秀樹"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Takumi Shibata",
+      "native": "柴田匠"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shouko Takimoto",
+      "native": "滝本祥子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Michiko Morokuma",
+      "native": "諸熊倫子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Erika Tsukino",
+      "native": "月野えりか"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takashi Yanagida",
+      "native": "柳田貴志"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Saitou",
+      "native": "齋藤威志"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masanori Tsuchiya",
+      "native": "土屋雅紀"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ruka Kawada",
+      "native": "川田瑠夏"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shuuhei Mutsuki",
+      "native": "睦月周平"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yayoi Sekimukai",
+      "native": "関向弥生"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Shouko Takimoto",
+      "native": "滝本祥子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kana Hayashi",
+      "native": "林夏菜"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "reGretGirl",
+      "native": "リグレットガール"
+     }
+    }
+   },
+   {
+    "role": "Clothing Design",
+    "node": {
+     "name": {
+      "full": "Kana Hayashi",
+      "native": "林夏菜"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Maki Sendo",
+      "native": "仙土真希"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 9)",
+    "node": {
+     "name": {
+      "full": "Suwarin Promjutikanon",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 9)",
+    "node": {
+     "name": {
+      "full": "Cerberus",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Koresawa",
+      "native": "コレサワ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Umi Asanagi",
+      "native": "朝凪海"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manaka Iwami",
+       "native": "石見舞菜香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Maki Maehara",
+      "native": "前原真樹"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruki Ishiya",
+       "native": "石谷春貴"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

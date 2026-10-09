@@ -1,0 +1,371 @@
+{
+ "id": 172019,
+ "title": {
+  "romaji": "Dr. STONE: SCIENCE FUTURE",
+  "english": "Dr. STONE SCIENCE FUTURE",
+  "native": "Dr.STONE SCIENCE FUTURE"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TMS Entertainment"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Riichirou Inagaki",
+      "native": "稲垣理一郎"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Boichi",
+      "native": "ボウイチ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shuuhei Matsushita",
+      "native": "松下周平"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kurasumi Sunayama",
+      "native": "砂山蔵澄"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Iwasa",
+      "native": "岩佐裕子"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Yoshio Mizumura",
+      "native": "水村良男"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shunichirou Yoshihara",
+      "native": "吉原俊一郎"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Aoki",
+      "native": "青木智由紀"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Fusako Nakao",
+      "native": "中尾総子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Chiyuki Kojima",
+      "native": "小島千幸"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kumiko Sakamoto",
+      "native": "坂本久美子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tatsuya Katou",
+      "native": "加藤達也"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiroaki Tsutsumi",
+      "native": "堤博明"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukihiro Kanesaka",
+      "native": "金坂征広"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Shuusuke Katagiri",
+      "native": "片桐秀介"
+     }
+    }
+   },
+   {
+    "role": "Director (OP)",
+    "node": {
+     "name": {
+      "full": "Nobutaka Yoda",
+      "native": "依田伸隆"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design (eps 1-12)",
+    "node": {
+     "name": {
+      "full": "Takashi Muratani",
+      "native": "村谷貴志"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design (ep 2)",
+    "node": {
+     "name": {
+      "full": "Nana Mori",
+      "native": "森七奈"
+     }
+    }
+   },
+   {
+    "role": "Prop Design (eps 1-12)",
+    "node": {
+     "name": {
+      "full": "Tomochi Kosaka",
+      "native": "小坂知"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography (ED, eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Yukimi Iwamoto",
+      "native": "岩本雪瑞"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ALI",
+      "native": "ALI"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "BREIMEN",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1, 2, 4, 6, 8, 10, 12)",
+    "node": {
+     "name": {
+      "full": "Kurasumi Sunayama",
+      "native": "砂山蔵澄"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 11)",
+    "node": {
+     "name": {
+      "full": "Nana Harada",
+      "native": "原田奈奈"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Senkuu Ishigami",
+      "native": "石神千空"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Kobayashi",
+       "native": "小林裕介"
+      }
+     },
+     {
+      "name": {
+       "full": "Mikako Komatsu",
+       "native": "小松未可子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kohaku",
+      "native": "コハク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manami Numakura",
+       "native": "沼倉愛美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chrome",
+      "native": "クロム"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Gen Satou",
+       "native": "佐藤元"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Taiju Ooki",
+      "native": "大木大樹"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Makoto Furukawa",
+       "native": "古川慎"
+      }
+     },
+     {
+      "name": {
+       "full": "Mutsumi Tamura",
+       "native": "田村睦心"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Gen Asagiri",
+      "native": "あさぎりゲン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kengo Kawanishi",
+       "native": "河西健吾"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ryuusui Nanami",
+      "native": "七海龍水"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Suzuki",
+       "native": "鈴木崚汰"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

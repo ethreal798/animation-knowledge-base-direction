@@ -1,0 +1,317 @@
+{
+ "id": 182255,
+ "title": {
+  "romaji": "Sousou no Frieren 2nd Season",
+  "english": "Frieren: Beyond Journey’s End Season 2",
+  "native": "葬送のフリーレン 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 16
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 10,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MADHOUSE"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kanehito Yamada",
+      "native": "山田鐘人"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Tsukasa Abe",
+      "native": "アベツカサ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tomoya Kitagawa",
+      "native": "北川朋哉"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Daiki Harashina",
+      "native": "原科大樹"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tomohiro Suzuki",
+      "native": "鈴木智尋"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akiko Takase",
+      "native": "高瀬亜貴子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Keisuke Kojima",
+      "native": "小嶋慶祐"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuri Fujinaka",
+      "native": "藤中友里"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Kazunori Ooshima",
+      "native": "大嶋一範"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Hironobu Yoshinaka",
+      "native": "芳仲宏暢"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Haruka Tajima",
+      "native": "田島遥"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Katsumasa Ogura",
+      "native": "小倉功雅"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Masato Ishizawa",
+      "native": "石沢将人"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Izumi Seguchi",
+      "native": "瀬口泉"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Kobashi ",
+      "native": "小橋弘侑"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Daiki Harashina",
+      "native": "原科大樹"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Runa Harano",
+      "native": "原野瑠奈"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shinji Sugiyama",
+      "native": "杉山晋史"
+     }
+    }
+   },
+   {
+    "role": "Concept Art",
+    "node": {
+     "name": {
+      "full": "Seiko Yoshioka",
+      "native": "吉岡誠子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Harue Oono",
+      "native": "大野春恵"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Akane Fushihara",
+      "native": "伏原あかね"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kashiko Kimura",
+      "native": "木村佳史子"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kana Imagaki",
+      "native": "今垣佳奈"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shouji Hata",
+      "native": "はたしょうじ "
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Noriko Izumo",
+      "native": "出雲範子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Frieren",
+      "native": "フリーレン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsumi Tanezaki",
+       "native": "種﨑敦美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Fern",
+      "native": "フェルン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Stark",
+      "native": "シュタルク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chiaki Kobayashi",
+       "native": "小林千晃"
+      }
+     },
+     {
+      "name": {
+       "full": "Arisa Kiyoto",
+       "native": "清都ありさ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

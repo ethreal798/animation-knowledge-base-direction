@@ -1,0 +1,332 @@
+{
+ "id": 196553,
+ "title": {
+  "romaji": "SI-VIS: The Sound of Heroes",
+  "english": "SI-VIS: The Sound of Heroes",
+  "native": "SI-VIS: The Sound of Heroes"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio VOLN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hidari",
+      "native": "左 "
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Daisuke Yoshida",
+      "native": "吉田大輔"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Fumiaki Maruto",
+      "native": "丸戸史明"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Naho Ootsuki",
+      "native": "大槻菜穂"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Nami Fujii",
+      "native": "藤井奈美"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Mika Takahashi",
+      "native": "高橋美香"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Masahiro Yamanaka",
+      "native": "山中正博"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Takao Makino",
+      "native": "牧野孝雄"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Horikawa",
+      "native": "堀川佳典"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Souta Mikami",
+      "native": "三上颯太"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yumi Jinguuji",
+      "native": "神宮司由美"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Masato Takahashi",
+      "native": "高橋将人"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yasushi Nagura",
+      "native": "名倉靖"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shuuhei Mutsuki",
+      "native": "睦月周平"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Fumiaki Maruto",
+      "native": "丸戸史明"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yurie Oohigashi",
+      "native": "大東百合恵"
+     }
+    }
+   },
+   {
+    "role": "Action Animation Director",
+    "node": {
+     "name": {
+      "full": "Takaaki Hirayama",
+      "native": "平山貴章"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Tomohisa Onoue",
+      "native": "尾之上知久"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Jeong-Muk Lee",
+      "native": "이정묵"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 15)",
+    "node": {
+     "name": {
+      "full": "Nonpawit",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 23)",
+    "node": {
+     "name": {
+      "full": "Felipe Damasco",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "SI-VIS",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Miu Narumiya",
+      "native": "成宮魅羽"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akari Kitou",
+       "native": "鬼頭明里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kyouko Takagi",
+      "native": "高木京子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayane Sakura",
+       "native": "佐倉綾音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yousuke Shiba",
+      "native": "司馬洋介"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Namikawa",
+       "native": "浪川大輔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jun Asukai",
+      "native": "飛鳥井純"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Souma Saitou",
+       "native": "斉藤壮馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Soushirou Sakamoto",
+      "native": "坂本奏士郎"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nobunaga Shimazaki",
+       "native": "島﨑信長"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kyouya Minami",
+      "native": "南響也"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Anan Furuya",
+       "native": "古屋亜南"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

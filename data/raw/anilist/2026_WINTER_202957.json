@@ -1,0 +1,309 @@
+{
+ "id": 202957,
+ "title": {
+  "romaji": "Meitantei Precure!",
+  "english": "Star Detective Precure!",
+  "native": "名探偵プリキュア！"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 2,
+  "day": 1
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 51,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Toei Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Izumi Toudou",
+      "native": "東堂いづみ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kouji Kawasaki",
+      "native": "川崎弘二"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Isao Murayama",
+      "native": "村山功"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akane Yano",
+      "native": "矢野茜"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Minori Imai",
+      "native": "今井美紀"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Takezawa",
+      "native": "竹澤聡"
+     }
+    }
+   },
+   {
+    "role": "Chief Art Director",
+    "node": {
+     "name": {
+      "full": "Eiji Hamano",
+      "native": "濱野英次"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yoshiyuki Anzai",
+      "native": "安西良行"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Erika Fukasawa",
+      "native": "深澤恵梨香"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Misaki Umase",
+      "native": "馬瀬みさき"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Kanako Tada",
+      "native": "多田香奈子"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Souya Aramaki",
+      "native": "荒牧壮也"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Rika Tone",
+      "native": "利根里佳"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ami Ishii",
+      "native": "石井あみ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Akane Kumada",
+      "native": "熊田茜音"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yuuka Masui",
+      "native": "増井優花"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Performance (ep 31)",
+    "node": {
+     "name": {
+      "full": "Nao Touyama",
+      "native": "東山奈央"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Yuuki Kitajima",
+      "native": "北島勇樹"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Tooru Takano",
+      "native": "髙野徹"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "BB",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Production Assistant (ep 3)",
+    "node": {
+     "name": {
+      "full": "Yuuki Ootsuka",
+      "native": "大塚勇輝"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 10)",
+    "node": {
+     "name": {
+      "full": "Nivas Kola",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Takuyo Kurosawa",
+      "native": "黒澤拓世"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Anna Akechi",
+      "native": "明智あんな"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hikari Senga",
+       "native": "千賀光莉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mikuru Kobayashi",
+      "native": "小林みくる"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaede Hondo",
+       "native": "本渡楓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kurea Howa",
+      "native": "帆羽くれあ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Luluka Moria",
+      "native": "森亜るるか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Nao Touyama",
+       "native": "東山奈央"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

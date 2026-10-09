@@ -1,0 +1,323 @@
+{
+ "id": 177880,
+ "title": {
+  "romaji": "Osomatsu-san 4th Season",
+  "english": "Mr. Osomatsu 4th season",
+  "native": "おそ松さん 第4期"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 13
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "PIERROT FILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Fujio Akatsuka",
+      "native": "赤塚不二夫"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yoshinori Odaka",
+      "native": "小高義規 "
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Nene Futamura",
+      "native": "二村寧々"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shuu Matsubara",
+      "native": "松原秀"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Eiji Abiko",
+      "native": "安彦英二"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Seiki Tamura",
+      "native": "田村せいき"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Kakita",
+      "native": "垣田由紀子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Susumu Fukushi",
+      "native": "福士享"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kumiko Sakamoto",
+      "native": "坂本久美子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiromi Kikuta",
+      "native": "菊田浩巳"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukari Hashimoto",
+      "native": "橋本由香利"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Eiji Abiko",
+      "native": "安彦英二"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kasumi Wada",
+      "native": "和田佳純"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Haru Watanabe",
+      "native": "渡邊葉瑠"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "DA PUMP",
+      "native": "ダ・パンプ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "m.c.A·T",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Tominaga",
+      "native": "富永禎彦"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 9)",
+    "node": {
+     "name": {
+      "full": "Hajime Nihira",
+      "native": "仁平肇"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Valentio Krisnanda",
+      "native": "ヴァレンティオクリスナンダ"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Manaka Nitta",
+      "native": "新田茉那桂"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Koyori Kabata",
+      "native": "椛田小糸里"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Jyushimatsu Matsuno",
+      "native": "松野十四松"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Ono",
+       "native": "小野大輔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ichimatsu Matsuno",
+      "native": "松野一松"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Jun Fukuyama",
+       "native": "福山潤"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Todomatsu Matsuno",
+      "native": "松野トド松"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyu Irino",
+       "native": "入野自由"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Choromatsu Matsuno",
+      "native": "松野チョロ松"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroshi Kamiya",
+       "native": "神谷浩史"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Karamatsu Matsuno",
+      "native": "松野カラ松"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuichi Nakamura",
+       "native": "中村悠一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Osomatsu Matsuno",
+      "native": "松野おそ松"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takahiro Sakurai",
+       "native": "櫻井孝宏"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

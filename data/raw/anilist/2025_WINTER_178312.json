@@ -1,0 +1,303 @@
+{
+ "id": 178312,
+ "title": {
+  "romaji": "FARMAGIA",
+  "english": "Farmagia",
+  "native": "ファーマギア"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bridge"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hiro Mashima",
+      "native": "真島ヒロ"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Shinji Ishihira",
+      "native": "石平信司"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Akihiko Sano",
+      "native": "佐野聡彦"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Toshizou Nemoto",
+      "native": "根元歳三"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Toshiomi Iizumi",
+      "native": "飯泉俊臣"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hidefumi Kimura",
+      "native": "きむらひでふみ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masanori Nishiyama",
+      "native": "西山正紀"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yoshimi Kawakami",
+      "native": "川上善美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Atsushi Iwasaki",
+      "native": "岩崎敦"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Toshio Henmi",
+      "native": "邊見俊夫"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hisashi Akimoto",
+      "native": "秋元央"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiroto Morishita",
+      "native": "森下広人"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shuuhei Mutsuki",
+      "native": "睦月周平"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ASIAN KUNG-FU GENERATION",
+      "native": "アジアン・カンフー・ジェネレーション"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "sokoninaru",
+      "native": "そこに鳴る"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Satoshi Mutsuda",
+      "native": "陸田聡志"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Chako Satou",
+      "native": "佐藤ちゃこ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Ten",
+      "native": "テン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouhei Amasaki",
+       "native": "天崎滉平"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lookie-Loo",
+      "native": "ルクロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsumi Tanezaki",
+       "native": "種﨑敦美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Leii",
+      "native": "レイ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reiou Tsuchida",
+       "native": "土田玲央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Arche",
+      "native": "アルシェ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayane Sakura",
+       "native": "佐倉綾音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Chica",
+      "native": "チーカ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Inori Minase",
+       "native": "水瀬いのり"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Emero",
+      "native": "イメロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiro Shimono",
+       "native": "下野紘"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Anzar",
+      "native": "アンザー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuya Satou",
+       "native": "佐藤拓也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

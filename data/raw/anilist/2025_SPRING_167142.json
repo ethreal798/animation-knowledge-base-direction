@@ -1,0 +1,295 @@
+{
+ "id": 167142,
+ "title": {
+  "romaji": "Your Forma",
+  "english": "YOUR FORMA",
+  "native": "ユア・フォルマ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 25
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Geno Studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Mareho Kikuishi",
+      "native": "菊石まれほ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Tsubata Nozaki",
+      "native": "野崎つばた"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takaharu Ozaki",
+      "native": "尾崎隆晴"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Chikashi Kadekaru",
+      "native": "嘉手苅睦"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Masaki Yamada",
+      "native": "山田正樹"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Masaru Shindou",
+      "native": "進藤優"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Shunji Akasaka",
+      "native": "赤坂俊士"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Gouichi Iwahata",
+      "native": "岩畑剛一"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Noritaka Suzuki",
+      "native": "鈴木典孝"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hikaru Sekiguchi",
+      "native": "関口輝"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Atsushi Morikawa",
+      "native": "森川篤"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Daisuke Shimamura",
+      "native": "島村大輔"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Horikawa",
+      "native": "堀川佳典"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Junko Sakai",
+      "native": "酒井淳子"
+     }
+    }
+   },
+   {
+    "role": "Special Effects Supervisor",
+    "node": {
+     "name": {
+      "full": "Kumiko Taniguchi",
+      "native": "谷口久美子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masahiro Gotou",
+      "native": "後藤正浩"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Miki Yoshida",
+      "native": "吉田未樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Yano",
+      "native": "矢野さとし"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hidemitsu Tanaka",
+      "native": "田中秀実"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tatsuya Katou",
+      "native": "加藤達也"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yuuhei Satou",
+      "native": "佐藤悠平"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Seiya Tanaka",
+      "native": "田中聖也"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "2D Design",
+    "node": {
+     "name": {
+      "full": "Gaku Watanabe",
+      "native": "渡部岳"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Echika Hieda",
+      "native": "エチカ・ヒエダ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Harold W. Lucraft",
+      "native": "ハロルド・W・ルークラフト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenshou Ono",
+       "native": "小野賢章"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

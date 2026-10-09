@@ -1,0 +1,68 @@
+{
+ "id": 201910,
+ "title": {
+  "romaji": "Oshiri Dandy the Young",
+  "english": null,
+  "native": "おしりダンディ ザ・ヤング"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 4
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": []
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Robinson Haruhara",
+      "native": "春原ロビンソン"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Akihiro Kikuchi",
+      "native": "菊池晃弘"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Dandy Oshiri ",
+      "native": "おしりダンディ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satoshi Hino",
+       "native": "日野聡"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

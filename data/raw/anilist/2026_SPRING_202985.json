@@ -1,0 +1,221 @@
+{
+ "id": 202985,
+ "title": {
+  "romaji": "Tadaima, Ojamasaremasu!",
+  "english": "Pardon the Intrusion, I'm Home!",
+  "native": "ただいま、おじゃまされます！"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Tatsunoko Production"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "watomura",
+      "native": "和戸村"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Itsuki Imazaki",
+      "native": "いまざきいつき"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Itsuki Imazaki",
+      "native": "いまざきいつき"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shunsuke  Kikuchi",
+      "native": "菊地しゅんすけ"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Itsuki Imazaki",
+      "native": "いまざきいつき"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Makoto Takada",
+      "native": "たかだ誠"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Shunsuke  Kikuchi",
+      "native": "菊地しゅんすけ"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Kazumasa Takeuchi",
+      "native": "竹内一将"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Toshihiro Kawakami",
+      "native": "川上俊弘"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Bullet Train",
+      "native": "超特急"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Su-Ho Kim",
+      "native": "김수호"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Myeong-Gye Seung",
+      "native": "승명계"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Seon-A Son",
+      "native": "손선아"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yuika",
+      "native": "『ユイカ』"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Sansen Michi",
+      "native": "三千ミチ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Rinko Nakama",
+      "native": "仲間凛子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Hanazawa",
+       "native": "花澤香菜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akito Satsuki",
+      "native": "佐槻鏡斗"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaito Ishikawa",
+       "native": "石川界人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Haruma Usada",
+      "native": "右沙田春真"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruki Ishiya",
+       "native": "石谷春貴"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

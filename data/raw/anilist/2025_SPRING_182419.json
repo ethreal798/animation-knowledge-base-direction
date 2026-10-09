@@ -1,0 +1,295 @@
+{
+ "id": 182419,
+ "title": {
+  "romaji": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Toiteshimau kara.",
+  "english": "The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries",
+  "native": "中禅寺先生物怪講義録　先生が謎を解いてしまうから。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 23
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "100studio"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Aki Shimizu",
+      "native": "志水アキ"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Natsuhiko Kyougoku",
+      "native": "京極夏彦"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Chihiro Kumano",
+      "native": "熊野千尋"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Atsushi Oka",
+      "native": "岡篤志"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Atsushi Oka",
+      "native": "岡篤志"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masahiko Suzuki",
+      "native": "鈴木政彦"
+     }
+    }
+   },
+   {
+    "role": "Lead Designer",
+    "node": {
+     "name": {
+      "full": "Yoshiki Kuga",
+      "native": "久我嘉輝"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Seo-Gu Lee",
+      "native": "이서구"
+     }
+    }
+   },
+   {
+    "role": "Art Board",
+    "node": {
+     "name": {
+      "full": "Seo-Gu Lee",
+      "native": "이서구"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Mi-Hyang Kang",
+      "native": "강미향"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Nobori",
+      "native": "のぼりはるこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Nanami Yamawaki",
+      "native": "山脇奈々実"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Rina Koguchi",
+      "native": "小口理菜"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Takada",
+      "native": "高田龍一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keiichi Hirokawa",
+      "native": "広川恵一"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Toshiki Kameyama",
+      "native": "亀山俊樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hiroki Nozaki",
+      "native": "野崎博樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Airi Kobayashi",
+      "native": "小林亜依里"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "KAF",
+      "native": "花譜"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Sizuk",
+      "native": "Sizuk"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Shihori Nakane",
+      "native": "中根しほり"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Akihiko Chuuzenji",
+      "native": "中禅寺秋彦"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Katsuyuki Konishi",
+       "native": "小西克幸"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kanna Kusakabe",
+      "native": "日下部栞奈"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaori Maeda",
+       "native": "前田佳織里"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

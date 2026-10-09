@@ -1,0 +1,301 @@
+{
+ "id": 185039,
+ "title": {
+  "romaji": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+  "english": "The Invisible Man and His Soon-to-Be Wife",
+  "native": "透明男と人間女～そのうち夫婦になるふたり～"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 26
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "project No.9"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Neko Iwatobi",
+      "native": "岩飛猫"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Mitsuho Seta",
+      "native": "瀬田光穂"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Mitsuho Seta",
+      "native": "瀬田光穂"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kairi Unabara",
+      "native": "うなばら海里"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Akane Kasasagi",
+      "native": "鵲あかね"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Mahiru Shinya",
+      "native": "新谷真昼"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Chika Murayama",
+      "native": "村山千華"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Ario",
+      "native": "有尾由紀子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuichirou Tozawa",
+      "native": "戸澤雄一朗"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Ryouko Takashimizu",
+      "native": "髙清水良子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayako Tan",
+      "native": "丹彩子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Nozomi Nakatani",
+      "native": "中谷希美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ruka Kawada",
+      "native": "川田瑠夏"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Mao Abe",
+      "native": "阿部真央"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kaori Ishihara",
+      "native": "石原夏織"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 4, 7, 10)",
+    "node": {
+     "name": {
+      "full": "Tomoya  Takashima ",
+      "native": "高嶋友也"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 2, 6, 8)",
+    "node": {
+     "name": {
+      "full": "Asahi Yoshimura",
+      "native": "吉村朝陽"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Masato Takeuchi",
+      "native": "竹内雅人"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 5)",
+    "node": {
+     "name": {
+      "full": "Yehui Qi",
+      "native": "戚業輝"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 9)",
+    "node": {
+     "name": {
+      "full": "Taiki Nishimura",
+      "native": "西村大樹"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 11)",
+    "node": {
+     "name": {
+      "full": "CHAFIK",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 11)",
+    "node": {
+     "name": {
+      "full": "CHAFIK",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 2)",
+    "node": {
+     "name": {
+      "full": "Zhenjia Ning",
+      "native": "宁贞嘉"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Masaru Kurihara",
+      "native": "栗原理"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yousuke Sotoyama",
+      "native": "外山陽介"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Akira Tounome",
+      "native": "透乃眼あきら"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Youhei Azakami",
+       "native": "阿座上洋平"
+      }
+     },
+     {
+      "name": {
+       "full": "Kaede Yuasa",
+       "native": "湯浅かえで"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shizuka Yakou",
+      "native": "夜香しずか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuka Nukui",
+       "native": "貫井柚佳"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

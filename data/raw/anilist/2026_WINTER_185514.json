@@ -1,0 +1,226 @@
+{
+ "id": 185514,
+ "title": {
+  "romaji": "Champignon no Majo",
+  "english": "Champignon Witch",
+  "native": "シャンピニオンの魔女"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 20
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Qzil.la"
+   },
+   {
+    "name": "TYPHOON GRAPHICS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tachibana Higuchi",
+      "native": "樋口橘"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Rabbit MACHINE",
+      "native": "ラビットマシーン"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Miki Matsumoto",
+      "native": "松元美季"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Iijima",
+      "native": "飯島由樹子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ayako Shimagata",
+      "native": "島方亜矢子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hideki Imaizumi",
+      "native": "今泉秀樹"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Takashi Sakurai",
+      "native": "櫻井崇"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yuuichi Imaizumi",
+      "native": "今泉雄一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takeshi Hama",
+      "native": "はまたけし"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Ms.OOJA",
+      "native": "ミス・オオジャ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Rosu",
+      "native": "ロス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Yuuichi Oono",
+      "native": "大野裕一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Yuuichi Oono",
+      "native": "大野裕一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "100kaiOuto",
+      "native": "100回嘔吐"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Ryuichi Kureha",
+      "native": "呉服隆一"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Ryuichi Kureha",
+      "native": "呉服隆一"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Luna",
+      "native": "ルナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lisl",
+      "native": "リスル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Sakakihara",
+       "native": "榊原優希"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

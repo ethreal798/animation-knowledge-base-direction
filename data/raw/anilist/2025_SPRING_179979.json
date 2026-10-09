@@ -1,0 +1,295 @@
+{
+ "id": 179979,
+ "title": {
+  "romaji": "Aharen-san wa Hakarenai Season 2",
+  "english": "Aharen-san wa Hakarenai Season 2",
+  "native": "阿波連さんははかれない season2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 23
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Felix Film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Asato Mizu",
+      "native": "水あさと"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Yasutaka Yamamoto",
+      "native": "山本靖貴"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tomoe Makino",
+      "native": "牧野友映"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takao Yoshioka",
+      "native": "吉岡たかを"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Yahiro",
+      "native": "八尋裕子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kenichi Kurata",
+      "native": "倉田憲一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Chiharu Tanaka",
+      "native": "田中千春"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kazuya Iwai",
+      "native": "岩井和也"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyomi Yamada",
+      "native": "山田聖実"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Nobuyuki Abe",
+      "native": "阿部信行"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Satoru Kousaki",
+      "native": "神前暁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "MONACA",
+      "native": "有限会社モナカ "
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Masanao Akahoshi",
+      "native": "赤星政尚"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kotsu Kotsu",
+      "native": "兀兀"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Chie Mishima",
+      "native": "三島千枝"
+     }
+    }
+   },
+   {
+    "role": "Special Effects",
+    "node": {
+     "name": {
+      "full": "Minori Kimura",
+      "native": "木村実乃理"
+     }
+    }
+   },
+   {
+    "role": "2D Works",
+    "node": {
+     "name": {
+      "full": "Hironobu Watanabe",
+      "native": "渡辺弘信"
+     }
+    }
+   },
+   {
+    "role": "2D Works",
+    "node": {
+     "name": {
+      "full": "Ryouhei Matsuda",
+      "native": "松田陵平"
+     }
+    }
+   },
+   {
+    "role": "Executive Producer",
+    "node": {
+     "name": {
+      "full": "Kouichirou Natsume",
+      "native": "夏目公一朗"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Ryou Aizawa",
+      "native": "藍沢亮"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ZUTOMAYO",
+      "native": "ずとまよ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "shallm",
+      "native": "シャルム"
+     }
+    }
+   },
+   {
+    "role": "Insert Song Composition (ep 4)",
+    "node": {
+     "name": {
+      "full": "Keita Inoue",
+      "native": "井上馨太"
+     }
+    }
+   },
+   {
+    "role": "Script (ep 1)",
+    "node": {
+     "name": {
+      "full": "Takao Yoshioka",
+      "native": "吉岡たかを"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 5, 7)",
+    "node": {
+     "name": {
+      "full": "Yuu Yabuuchi",
+      "native": "薮内悠"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Reina Aharen",
+      "native": "阿波連れいな"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Inori Minase",
+       "native": "水瀬いのり"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shouta Raidou",
+      "native": "来堂章太"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuma Terashima",
+       "native": "寺島拓篤"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

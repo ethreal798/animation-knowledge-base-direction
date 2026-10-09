@@ -1,0 +1,230 @@
+{
+ "id": 198409,
+ "title": {
+  "romaji": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
+  "english": "The World's Strongest Rearguard",
+  "native": "世界最強の後衛 ～迷宮国の新人探索者～"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 20
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Maho Film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Toowa Akatsuki",
+      "native": "朱月十話"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Huuka Kazabana",
+      "native": "風花風花"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Yanase",
+      "native": "柳瀬雄之"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Mieno",
+      "native": "三重野瞳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Eriko Yanagimoto",
+      "native": "柳元絵梨子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Toshihide Masudate",
+      "native": "舛舘俊秀"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Eri Kojima",
+      "native": "小島えり"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Hitoshi Kamata",
+      "native": "鎌田均"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Chiho Fukuya",
+      "native": "深谷知穂"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kumiko Akahori",
+      "native": "あかほりくみこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tadao Suemitsu",
+      "native": "末光忠男"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hinako Tsubakiyama",
+      "native": "椿山日南子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Fuwari",
+      "native": "フワリ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Inner Journey",
+      "native": "インナージャーニー"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Redhair Rosy",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Atobe Arihito",
+      "native": "アリヒト＝アトベ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshitsugu Matsuoka",
+       "native": "松岡禎丞"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kyouka Igarashi",
+      "native": "五十嵐鏡香"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sakura Nakamura",
+       "native": "中村桜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Theresa",
+      "native": "テレジア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Koga",
+       "native": "古賀葵"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

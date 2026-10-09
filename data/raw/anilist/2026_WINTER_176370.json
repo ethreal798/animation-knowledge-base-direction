@@ -1,0 +1,311 @@
+{
+ "id": 176370,
+ "title": {
+  "romaji": "Hime-sama, \"Goumon\" no Jikan desu 2nd Season",
+  "english": "'Tis Time for \"Torture,\" Princess Season 2",
+  "native": "姫様“拷問”の時間です 第2期"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 30
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "PINE JAM"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Robinson Haruhara",
+      "native": "春原ロビンソン"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Hirakei",
+      "native": "ひらけい"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Youko Kanamori",
+      "native": "金森陽子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Toshiya Kouno",
+      "native": "河野敏弥"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Masaaki Takiyama",
+      "native": "滝山真哲"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "You Natsuki",
+      "native": "夏木洋"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yasuho Tamura",
+      "native": "田村恭穂"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Shuuhei Arita",
+      "native": "有田周平"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Akiko Kanai",
+      "native": "金井亜希子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ayaka Kondou",
+      "native": "近藤明也圭"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Saki Suyama",
+      "native": "陶山沙希"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Saki Suyama",
+      "native": "陶山沙希"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Narumi Konno",
+      "native": "今野成美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mami Hasegawa",
+      "native": "長谷川麻美"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kumiko Sakamoto",
+      "native": "坂本久美子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yui Andou",
+      "native": "安藤由衣"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masaru Yokoyama",
+      "native": "横山克"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (OP, ep 1)",
+    "node": {
+     "name": {
+      "full": "Masaaki Takiyama",
+      "native": "滝山真哲"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Shiori Araki",
+      "native": "荒木詩織"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Shingo Nishiyama",
+      "native": "西山伸吾"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Tushar Pandey",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Tushar Pandey",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP)",
+    "node": {
+     "name": {
+      "full": "Yuki Kamiya",
+      "native": "神谷雄貴"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tortura Torture",
+      "native": "トーチャー・トルチュール"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shizuka Itou",
+       "native": "伊藤静"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ex",
+      "native": "エクス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chikahiro Kobayashi",
+       "native": "小林親弘"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hime",
+      "native": "姫"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

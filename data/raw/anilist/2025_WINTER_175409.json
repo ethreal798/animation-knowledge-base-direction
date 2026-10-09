@@ -1,0 +1,340 @@
+{
+ "id": 175409,
+ "title": {
+  "romaji": "Douse, Koishite Shimaunda.",
+  "english": "Anyway, I'm Falling in Love with You.",
+  "native": "どうせ、恋してしまうんだ。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TYPHOON GRAPHICS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Haruka Mitsui",
+      "native": "満井春香"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Junichi Yamamoto",
+      "native": "山元隼一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuu Murai",
+      "native": "村井雄"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Katsuzou Hirata",
+      "native": "平田雄三"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Rena Okuyama",
+      "native": "奥山鈴奈"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Ujiie",
+      "native": "氏家嘉宏"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Daiki Ueda",
+      "native": "植田大貴"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Atsushi Satomi",
+      "native": "里見篤"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Chieko Hibi",
+      "native": "日比智恵子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuzuru Funakoshi",
+      "native": "船越雄弦"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Tsuyoshi Imai",
+      "native": "今井剛"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yasunori Ebina",
+      "native": "蝦名恭範"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keiji Inai",
+      "native": "井内啓二"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Yuu Murai",
+      "native": "村井雄"
+     }
+    }
+   },
+   {
+    "role": "Animation Director",
+    "node": {
+     "name": {
+      "full": "Takashi Sakurai",
+      "native": "櫻井崇"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Gino Palencia",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jose Sandoval",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Helena Walstrom",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Audrey Rigg",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "INI",
+      "native": "アイエヌアイ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Marcy",
+      "native": "マルシィ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kizuki Hazawa",
+      "native": "羽沢輝月"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kazuki Ura",
+       "native": "浦和希"
+      }
+     },
+     {
+      "name": {
+       "full": "Makoto Koichi",
+       "native": "小市眞琴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shin Kashiwagi",
+      "native": "柏木深"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sion Yoshitaka",
+       "native": "吉高志音"
+      }
+     },
+     {
+      "name": {
+       "full": "Rui Tanabe",
+       "native": "田辺留依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Airu Izumi",
+      "native": "和泉藍"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     },
+     {
+      "name": {
+       "full": "Yukina Shutou",
+       "native": "首藤志奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mizuho Nishino",
+      "native": "西野水帆"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sakura Shinfuku",
+       "native": "新福桜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shuugo Hoshikawa",
+      "native": "星川周吾"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satoshi Inomata",
+       "native": "猪股慧士"
+      }
+     },
+     {
+      "name": {
+       "full": "Miyuu Ogura",
+       "native": "小倉弥優"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

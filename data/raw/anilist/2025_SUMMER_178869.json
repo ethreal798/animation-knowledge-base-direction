@@ -1,0 +1,317 @@
+{
+ "id": 178869,
+ "title": {
+  "romaji": "Clevatess: Majuu no Ou to Akago to Kabane no Yuusha",
+  "english": "Clevatess",
+  "native": "クレバテス-魔獣の王と赤子と屍の勇者-"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 17
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lay-duce"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuuji Iwahara",
+      "native": "岩原裕二"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Taguchi",
+      "native": "田口清隆"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keigo Koyanagi",
+      "native": "小柳啓伍"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Souichirou Sako",
+      "native": "佐古宗一郎"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Maki Maeda",
+      "native": "前田真希"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Keita Hashiride",
+      "native": "走出慶太"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Lifang Ye",
+      "native": "葉立芳"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Aoi Ikegawa",
+      "native": "池川碧"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Bencheng Ju",
+      "native": "具本城"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Natsuko Kondou",
+      "native": "近藤奈都子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Naomi Kaneda",
+      "native": "金田尚美"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Takahisa  Atsuji",
+      "native": "阿閉高尚"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Shinsuke Terasawa",
+      "native": "寺沢伸介"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Shuuji Miyazaki",
+      "native": "宮崎修治"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Yuuko Inoue",
+      "native": "井上優子"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Chigai Okado",
+      "native": "岡戸智凱"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Naomi Kaneda",
+      "native": "金田尚美"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Takurou Tsukada",
+      "native": "塚田拓郎"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Atsushi Morikawa",
+      "native": "森川篤"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Reiko Iwasawa",
+      "native": "岩沢れい子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shigeki Asakawa",
+      "native": "浅川茂輝"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Gou Sadamatsu",
+      "native": "定松剛"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Naoki Tsuji",
+      "native": "辻直希"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Taguchi",
+      "native": "田口清隆"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yuuji Furuya",
+      "native": "古谷友二"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Alicia",
+      "native": "アリシア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Haruka Shiraishi",
+       "native": "白石晴香"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Clen",
+      "native": "クレン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mutsumi Tamura",
+       "native": "田村睦心"
+      }
+     },
+     {
+      "name": {
+       "full": "Yuuichi Nakamura",
+       "native": "中村悠一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Luna",
+      "native": "ルナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saya Aizawa",
+       "native": "会沢紗弥"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

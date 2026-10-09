@@ -1,0 +1,253 @@
+{
+ "id": 162921,
+ "title": {
+  "romaji": "Sousei no Aquarion: Myth of Emotions",
+  "english": "AQUARION: Myth of Emotions",
+  "native": "想星のアクエリオン Myth of Emotions"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 28
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Satelight"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Shouji Kawamori",
+      "native": "河森正治"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kenji Itoso",
+      "native": "糸曽賢志"
+     }
+    }
+   },
+   {
+    "role": "Supervisor",
+    "node": {
+     "name": {
+      "full": "Shouji Kawamori",
+      "native": "河森正治"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Sadayuki Murai",
+      "native": "村井さだゆき"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masashi Kudou",
+      "native": "工藤昌史"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shuu Kanematsu",
+      "native": "兼松衆"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takashi Oomama",
+      "native": "大間々昂"
+     }
+    }
+   },
+   {
+    "role": "Aquarion Design",
+    "node": {
+     "name": {
+      "full": "Shouji Kawamori",
+      "native": "河森正治"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yoshiki Fukuyama",
+      "native": "福山芳樹"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Sadayuki Murai",
+      "native": "村井さだゆき"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Akino",
+      "native": "アキノ"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 4, 6, 8, 9, 12)",
+    "node": {
+     "name": {
+      "full": "Tetsuya Yamada",
+      "native": "山田哲弥"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 3, 5, 7, 10, 11)",
+    "node": {
+     "name": {
+      "full": "Yuu Mitsuru",
+      "native": "三津留ゆう"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 6)",
+    "node": {
+     "name": {
+      "full": "Jag",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 6)",
+    "node": {
+     "name": {
+      "full": "Davoxt",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Rimiya Tsukishiro",
+      "native": "ツキシロリミヤ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Makoto Koichi",
+       "native": "小市眞琴"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sakko Ootori",
+      "native": "オオトリサッコ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumiri Hanamori",
+       "native": "花守ゆみり"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Toshi Hatano",
+      "native": "ハタノトシ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aki Toyosaki",
+       "native": "豊崎愛生"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Momohime Amaha",
+      "native": "アマハモモヒメ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Azumi Waki",
+       "native": "和氣あず未"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Sayo Ichiki",
+      "native": "イチキサヨ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Konomi Kohara",
+       "native": "小原好美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

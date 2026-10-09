@@ -1,0 +1,311 @@
+{
+ "id": 178052,
+ "title": {
+  "romaji": "Princess-Session Orchestra",
+  "english": null,
+  "native": "プリンセッション・オーケストラ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 48,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "SILVER LINK."
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Akifumi Kaneko",
+      "native": "金子彰史"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mari Shimazaki",
+      "native": "島崎麻里"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Shin Oonuma",
+      "native": "大沼心"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Sekine",
+      "native": "関根侑佑"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Manta Aisora",
+      "native": "逢空万太"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Akiyama",
+      "native": "秋山由樹子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuka Hirama",
+      "native": "平間由香"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yui Oosaki",
+      "native": "大崎唯"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miho Hasegawa",
+      "native": "長谷川美穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kento Kida",
+      "native": "木田健斗"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Katsuhiro Kimura",
+      "native": "木村勝宏"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Toshirou Hamamura",
+      "native": "濱村敏郎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Motoyama",
+      "native": "本山哲"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yui Andou",
+      "native": "安藤由衣"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Elements Garden",
+      "native": "エレメンツ ガーデン "
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Daisuke Kikuta",
+      "native": "菊田大介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuusuke Takeda",
+      "native": "竹田祐介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuta Kasai",
+      "native": "笠井雄太"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Manta Aisora",
+      "native": "逢空万太"
+     }
+    }
+   },
+   {
+    "role": "Executive Producer",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Recording Adjustment",
+    "node": {
+     "name": {
+      "full": "Ayumu Anzai",
+      "native": "安斎歩"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP1-OP3, ED1, ED5, ED6)",
+    "node": {
+     "name": {
+      "full": "Orcheria",
+      "native": "オルケリア"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP1)",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP1)",
+    "node": {
+     "name": {
+      "full": "Noriyasu Agematsu",
+      "native": "上松範康"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP1-OP3, ED1, ED4)",
+    "node": {
+     "name": {
+      "full": "Daisuke Kikuta",
+      "native": "菊田大介"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Minamo Sorano",
+      "native": "空野みなも"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Azusa Aoi",
+       "native": "葵あずさ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kagari Shirube",
+      "native": "識辺かがり"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuri Fujimoto",
+       "native": "藤本侑里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nagase Ichijou",
+      "native": "一条ながせ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Azusa Tachibana",
+       "native": "橘杏咲"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

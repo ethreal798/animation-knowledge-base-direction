@@ -1,0 +1,317 @@
+{
+ "id": 209983,
+ "title": {
+  "romaji": "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+  "english": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+  "native": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 26
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Yokohama Animation Lab"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Hamuo",
+      "native": "ハム男"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Mo",
+      "native": "藻"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Makoto Tamagawa",
+      "native": "玉川真人"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Daishirou Tanimura",
+      "native": "谷村大四郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kei Tsushima",
+      "native": "津島桂"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Miyoko Shikibu",
+      "native": "式部美代子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuna Itsubo",
+      "native": "井坪優奈"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Miyoko Shikibu",
+      "native": "式部美代子"
+     }
+    }
+   },
+   {
+    "role": "Weapon Design",
+    "node": {
+     "name": {
+      "full": "Miki Matsuda",
+      "native": "松田未来"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hirotsugu Kakoi",
+      "native": "栫ヒロツグ"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Daigorou Yamaguchi",
+      "native": "山口大悟郎"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yui Nagaoka",
+      "native": "長岡柚衣"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takahiro Kita",
+      "native": "喜多隆宏"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Natsumi Uchida",
+      "native": "内田奈津美"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mai Hasegawa",
+      "native": "長谷川舞"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Tsukashita",
+      "native": "墳下芳弘"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Sugawara  Teruaki",
+      "native": "菅原輝明 "
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shuuichirou Fukuhiro",
+      "native": "福廣秀一朗"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kanade Sakuma",
+      "native": "佐久間奏"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Junko Nakajima",
+      "native": "中嶋純子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Misaki Tsuchida",
+      "native": "土田美咲"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tsugumi Tanaka",
+      "native": "田中津久美"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kaho Sawada",
+      "native": "澤田佳歩"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Reiko Abe",
+      "native": "阿部玲子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "BeauDamian",
+      "native": "ボウ・デミアン"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Allen",
+      "native": "アレン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yasuyuki Kase",
+       "native": "加瀬康之"
+      }
+     },
+     {
+      "name": {
+       "full": "Mutsumi Tamura",
+       "native": "田村睦心"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Cecil Granvelle",
+      "native": "セシル・グランヴェル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayaka Senbongi",
+       "native": "千本木彩花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Krena",
+      "native": "クレナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mayu Iizuka",
+       "native": "飯塚麻結 "
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

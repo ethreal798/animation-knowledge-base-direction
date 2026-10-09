@@ -1,0 +1,300 @@
+{
+ "id": 187316,
+ "title": {
+  "romaji": "Gensou Suikoden",
+  "english": null,
+  "native": "幻想水滸伝"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 3
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 23,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "KONAMI animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Konami Digital Entertainment",
+      "native": "コナミデジタルエンタテインメント"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yoshitaka Murayama",
+      "native": "村山吉隆"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Arata Suzuki",
+      "native": "鈴木新"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuuzou Satou",
+      "native": "サトウユーゾー"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Michihiro Tsuchiya",
+      "native": "土屋理敬"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Ryou Yamauchi",
+      "native": "山内遼"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yoshikazu Iwanami",
+      "native": "岩浪美和"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Kouji Nakamura",
+      "native": "中村弘二"
+     }
+    }
+   },
+   {
+    "role": "Producer",
+    "node": {
+     "name": {
+      "full": "Ryou Hino",
+      "native": "日野亮"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kouji Nakamura",
+      "native": "中村弘二"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "amazarashi",
+      "native": "amazarashi"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Honoka Takahashi",
+      "native": "たかはしほのか"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "You Kanda",
+      "native": "神多洋"
+     }
+    }
+   },
+   {
+    "role": "Game Character Design",
+    "node": {
+     "name": {
+      "full": "Fumi Ishikawa",
+      "native": "石川史"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Kouji Nakamura",
+      "native": "中村弘二"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Kouji Nakamura",
+      "native": "中村弘二"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Dewa",
+      "native": "出羽良彰"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "amazarashi",
+      "native": "amazarashi"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Hiromu Akita",
+      "native": "秋田ひろむ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Hiromu Akita",
+      "native": "秋田ひろむ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Honoka Takahashi",
+      "native": "たかはしほのか"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Gou Hiyama",
+      "native": "日山豪"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Riou",
+      "native": "リオウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiki Kumagai",
+       "native": "熊谷俊輝"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jowy Atreides",
+      "native": "ジョウイ・アトレイド"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shinba Tsuchiya",
+       "native": "土屋神葉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nanami",
+      "native": null
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayumi Hinohara",
+       "native": "日原あゆみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Victor",
+      "native": "ビクトール"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Katsuyuki Konishi",
+       "native": "小西克幸"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

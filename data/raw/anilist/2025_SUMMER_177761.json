@@ -1,0 +1,295 @@
+{
+ "id": 177761,
+ "title": {
+  "romaji": "9-nine- Shihaisha no Oukan",
+  "english": "9-nine- Ruler's Crown",
+  "native": "9-nine- 支配者の王冠"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "PRA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Palette",
+      "native": "ぱれっと"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Izumi Tsubasu",
+      "native": "和泉つばす"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kouichi Oohata",
+      "native": "大畑晃一"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Saori Sakiguchi",
+      "native": "崎口さおり"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Fumiya Uehara ",
+      "native": "上原史也"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "haseko",
+      "native": "haseko"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Mari Eguchi",
+      "native": "江口麻里"
+     }
+    }
+   },
+   {
+    "role": "Cooking Design",
+    "node": {
+     "name": {
+      "full": "Kyuuto Kitada",
+      "native": "北田久登"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Youko Nakao",
+      "native": "中尾陽子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mio Kawachi",
+      "native": "河内美緒"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Rie Onodera",
+      "native": "小野寺里恵"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "You Iwaida",
+      "native": "岩井田洋"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takahiro Washizu",
+      "native": "鷲津昂大"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keisuke Yanagi",
+      "native": "柳圭介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yamazo",
+      "native": "yamazo"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Miyako Nishida",
+      "native": "西田美弥子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Minefumi Harada",
+      "native": "原田峰文"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Fumiya Uehara ",
+      "native": "上原史也"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Saori Sakiguchi",
+      "native": "崎口さおり"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Chihiro Yonekura",
+      "native": "米倉千尋"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Tako Yamaguchi",
+      "native": "山口たこ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Shouta Horie",
+      "native": "堀江晶太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Shouta Horie",
+      "native": "堀江晶太"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Hideyuki Motohashi",
+      "native": "本橋秀之"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kakeru Niimi",
+      "native": "新海翔"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsushi Abe",
+       "native": "阿部敦"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Miyako Kujou",
+      "native": "九條都"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Misato Fukuen",
+       "native": "福圓美里"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

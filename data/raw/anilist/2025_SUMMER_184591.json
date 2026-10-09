@@ -1,0 +1,327 @@
+{
+ "id": 184591,
+ "title": {
+  "romaji": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)",
+  "english": "There's No Freaking Way I'll Be Your Lover! Unless…",
+  "native": "わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 23
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "studio MOTHER"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Teren Mikami",
+      "native": "みかみてれん"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Eku Takeshima",
+      "native": "竹嶋えく"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Natsumi Uchinuma",
+      "native": "内沼菜摘"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Naruhisa Arakawa",
+      "native": "荒川稔久"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hirokazu Kojima",
+      "native": "小島大和"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Taeko Hori",
+      "native": "堀たえ子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Toshiyuki Yahagi",
+      "native": "矢萩利幸"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Chiharu Hara",
+      "native": "原千遥"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Hisao Ishii",
+      "native": "石井久雄"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Keito Watanabe",
+      "native": "渡辺佳人"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuri Takagi",
+      "native": "高木佑梨"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kouhei Honda",
+      "native": "本田光平"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Takanori Tanaka",
+      "native": "田中孝典"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Mizuka Ueda",
+      "native": "上田瑞香"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuri Takagi",
+      "native": "高木佑梨"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kana Arai",
+      "native": "新井佳奈"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Takashi Kakei",
+      "native": "掛井嶺"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mitsuko Sekimoto",
+      "native": "関本美津子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takuma Morooka",
+      "native": "師岡拓磨"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ichirou Chaen",
+      "native": "茶圓一郎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Yamaguchi",
+      "native": "山口貴之"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Fujisawa",
+      "native": "藤澤慶昌"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Naruhisa Arakawa",
+      "native": "荒川稔久"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Takafumi Shiokawa",
+      "native": "塩川貴史"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Misaki Kaneko",
+      "native": "金子美咲"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Renako Amaori",
+      "native": "甘織れな子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kanna Nakamura",
+       "native": "中村カンナ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mai Ouzuka",
+      "native": "王塚真唯"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Oonishi",
+       "native": "大西沙織"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Satsuki Koto",
+      "native": "琴紗月"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kana Ichinose",
+       "native": "市ノ瀬加那"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ajisai Sena",
+      "native": "瀬名紫陽花"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yukari Anzai",
+       "native": "安齋由香里"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

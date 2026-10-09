@@ -1,0 +1,250 @@
+{
+ "id": 180425,
+ "title": {
+  "romaji": "Ame to Kimi to",
+  "english": "With You and the Rain",
+  "native": "雨と君と"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 21
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lesprit"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kou Nikaidou",
+      "native": "二階堂幸"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Tomohiro Tsukimisato",
+      "native": "月見里智弘"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Touko Machida",
+      "native": "待田堂子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Ayano Oowada",
+      "native": "大和田彩乃"
+     }
+    }
+   },
+   {
+    "role": "Animal Character Design",
+    "node": {
+     "name": {
+      "full": "Kyou Yatate",
+      "native": "矢立恭"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Norifumi Nakamura",
+      "native": "中村典史"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Nobori",
+      "native": "のぼりはるこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Youhei Konishi",
+      "native": "小西庸平"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Chinami Watanabe",
+      "native": "渡邉千波"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Ogawa",
+      "native": "小川耕平"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Yoshida",
+      "native": "吉田光平"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Michiyo Saitou",
+      "native": "斎藤みち代"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Rei Ishizuka",
+      "native": "石塚玲依"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Mamiko Suzuki",
+      "native": "鈴木真海子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Kei Sugawara",
+      "native": "菅原圭"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Caitlin Glass",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Background Art (ep 8)",
+    "node": {
+     "name": {
+      "full": "Toshihiko Gotou",
+      "native": "後藤俊彦"
+     }
+    }
+   },
+   {
+    "role": "Background Art Supervisor (ep 8)",
+    "node": {
+     "name": {
+      "full": "Daisuke Horita",
+      "native": "堀田大介"
+     }
+    }
+   },
+   {
+    "role": "Background Art (ep 8)",
+    "node": {
+     "name": {
+      "full": "Hisako Saitou",
+      "native": "齋藤緋沙子"
+     }
+    }
+   },
+   {
+    "role": "Background Art Production (ep 8)",
+    "node": {
+     "name": {
+      "full": "Ayaka Satou",
+      "native": "佐藤彩香"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Fuji",
+      "native": "藤"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saori Hayami",
+       "native": "早見沙織"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kimi",
+      "native": "君"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Anna Mugiho",
+       "native": "麦穂あんな"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

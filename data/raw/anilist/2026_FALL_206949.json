@@ -1,0 +1,261 @@
+{
+ "id": 206949,
+ "title": {
+  "romaji": "Kyouran Reijou Nia Liston",
+  "english": "Nia Liston: The Merciless Maiden",
+  "native": "凶乱令嬢ニア・リストン"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 6
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 25,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "KONAMI animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Umikaze Minamino",
+      "native": "南野海風"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Jishaku",
+      "native": "磁石"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Canata Katana",
+      "native": "刀彼方"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Motoki Nakanishi",
+      "native": "中西基樹"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Haruta Segi",
+      "native": "瀬木日太"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Gigaemon Ichikawa",
+      "native": "市川十億衛門"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Itou",
+      "native": "伊藤優希"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kana Tosaoka",
+      "native": "土佐岡加奈"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiromi Kikuta",
+      "native": "菊田浩巳"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Naoki Endou",
+      "native": "遠藤ナオキ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Rina Hidaka",
+      "native": "日高里菜"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masayuki Kurosawa",
+      "native": "黒澤雅之"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Gouroku",
+      "native": "合六弘 "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Rina Honizumi",
+      "native": "本泉莉奈"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Honoka Inoue",
+      "native": "井上ほの花"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ryouta Katsuta",
+      "native": "勝田綾太"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Susumu Maeya",
+      "native": "前屋進"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Shouta Horie",
+      "native": "堀江晶太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Shouta Horie",
+      "native": "堀江晶太"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Shouta Horie",
+      "native": "堀江晶太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Maki Yamamoto",
+      "native": "山本真希"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Watame Tsunomaki",
+      "native": "角巻わため"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takashi Ooide",
+      "native": "大出高士"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Nia Liston",
+      "native": "ニア・リストン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Honoka Inoue",
+       "native": "井上ほの花"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

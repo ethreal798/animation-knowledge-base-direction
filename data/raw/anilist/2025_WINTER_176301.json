@@ -1,0 +1,314 @@
+{
+ "id": 176301,
+ "title": {
+  "romaji": "Kusuriya no Hitorigoto 2nd Season",
+  "english": "The Apothecary Diaries Season 2",
+  "native": "薬屋のひとりごと 第2期"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 4
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TOHO animation STUDIO"
+   },
+   {
+    "name": "OLM"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Natsu Hyuuga",
+      "native": "日向夏"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Touko Shino",
+      "native": "しのとうこ"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Norihiro Naganuma",
+      "native": "長沼範裕"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Akinori Fudesaka",
+      "native": "筆坂明規"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Wataru Nakagawa",
+      "native": "中川航"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Norihiro Naganuma",
+      "native": "長沼範裕"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Nakatani",
+      "native": "中谷友紀子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Tsutomu Kikuchi",
+      "native": "菊池勉"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuji Ikeda",
+      "native": "池田裕治"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Momoko Makiuchi",
+      "native": "牧内ももこ"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Tooru Shigeta",
+      "native": "繁田享"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Kanari Yamada",
+      "native": "山田佳奈莉"
+     }
+    }
+   },
+   {
+    "role": "Prop Design (eps 1-24)",
+    "node": {
+     "name": {
+      "full": "Ryou Hirata",
+      "native": "ヒラタリョウ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design (eps 1-24)",
+    "node": {
+     "name": {
+      "full": "Ren Ishimori",
+      "native": "石森連"
+     }
+    }
+   },
+   {
+    "role": "Prop Design (eps 1-24)",
+    "node": {
+     "name": {
+      "full": "Ayumi Nagaki",
+      "native": "永木歩実"
+     }
+    }
+   },
+   {
+    "role": "Prop Design (eps 1-24)",
+    "node": {
+     "name": {
+      "full": "Mikio",
+      "native": "みき尾"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Katsumi Takao",
+      "native": "高尾克己"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Misato Aida",
+      "native": "相田美里"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Asayo Suzuki",
+      "native": "鈴木麻予"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Daisuke Imai",
+      "native": "今井大介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shouji Hata",
+      "native": "はたしょうじ "
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Noriko Izumo",
+      "native": "出雲範子"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Satoru Kousaki",
+      "native": "神前暁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kevin Penkin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Alisa Okehazama",
+      "native": "桶狭間ありさ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Maomao",
+      "native": "猫猫"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Yuuki",
+       "native": "悠木碧"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jinshi",
+      "native": "壬氏"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takeo Ootsuka",
+       "native": "大塚剛央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Rouran",
+      "native": "楼蘭"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Asami Seto",
+       "native": "瀬戸麻沙美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

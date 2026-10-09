@@ -1,0 +1,343 @@
+{
+ "id": 185116,
+ "title": {
+  "romaji": "Gnosia",
+  "english": "GNOSIA",
+  "native": "グノーシア"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 15
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 21,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "domerica"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Petit Depotto",
+      "native": "プチデポット"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Kazuya Ichikawa",
+      "native": "市川量也"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Jukki Hanada",
+      "native": "花田十輝"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Arisa Matsuura",
+      "native": "松浦有紗"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mayumi Kamata",
+      "native": "鎌田麻友美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Mari Takada",
+      "native": "髙田真理"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tatsuya Nomura",
+      "native": "野村達哉"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Kiyotaka Kawada",
+      "native": "川田清貴"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Hideyuki Fukasawa",
+      "native": "深澤秀行"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Jukki Hanada",
+      "native": "花田十輝"
+     }
+    }
+   },
+   {
+    "role": "Producer ",
+    "node": {
+     "name": {
+      "full": "Yoshitaka Kimura",
+      "native": "木村吉隆"
+     }
+    }
+   },
+   {
+    "role": "Producer ",
+    "node": {
+     "name": {
+      "full": "Tooru Kawakatsu",
+      "native": "川勝徹"
+     }
+    }
+   },
+   {
+    "role": "Werewolf Supervisor",
+    "node": {
+     "name": {
+      "full": "Fumiya Matsuzaki",
+      "native": "松崎史也"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Marcelo Campos",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1, ED3)",
+    "node": {
+     "name": {
+      "full": "Ling Tosite Sigure",
+      "native": "凛として時雨 "
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Sara Ragsdale",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jill Harris",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Madeleine Morris",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "TeddyLoid",
+      "native": "テディロイド"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED4)",
+    "node": {
+     "name": {
+      "full": "Ikumi Hasegawa",
+      "native": "長谷川育美"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Arisa Matsuura",
+      "native": "松浦有紗"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED1)",
+    "node": {
+     "name": {
+      "full": "Arisa Matsuura",
+      "native": "松浦有紗"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (OP1, eps 1-21)",
+    "node": {
+     "name": {
+      "full": "Arisa Matsuura",
+      "native": "松浦有紗"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ED1, ED2)",
+    "node": {
+     "name": {
+      "full": "Arisa Matsuura",
+      "native": "松浦有紗"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yuuri",
+      "native": "ユーリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chika Anzai",
+       "native": "安済知佳"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Setsu",
+      "native": "セツ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "SQ",
+      "native": null
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akari Kitou",
+       "native": "鬼頭明里"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Jina",
+      "native": "ジナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Asami Seto",
+       "native": "瀬戸麻沙美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Racio",
+      "native": "ラキオ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroki Nanami",
+       "native": "七海ひろき"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

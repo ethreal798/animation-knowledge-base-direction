@@ -1,0 +1,343 @@
+{
+ "id": 185939,
+ "title": {
+  "romaji": "Hibi wa Sugiredo Meshi Umashi",
+  "english": "Food for the Soul",
+  "native": "日々は過ぎれど飯うまし"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 13
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 29
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "P.A.WORKS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Atto",
+      "native": "あっと"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Atto",
+      "native": "あっと"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shinya Kawatsura",
+      "native": "川面真也"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tooru Harumi",
+      "native": "春水融"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Hiki",
+      "native": "比企能博"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hajime Mitsuda",
+      "native": "満田一"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Makino",
+      "native": "牧野博美"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Nami Fujitani",
+      "native": "藤谷奈美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Junichi Higashi",
+      "native": "東潤一"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuuta Fujii",
+      "native": "藤井祐太"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hiroaki Kaguchi",
+      "native": "加口大朗"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Youichirou Satou",
+      "native": "佐藤陽一郎"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Motonari Ichikawa",
+      "native": "市川元成"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Takadera",
+      "native": "高寺たけし"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hiromi Mizutani",
+      "native": "水谷広実"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Kouki Adaniya",
+      "native": "安谷屋光生"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Masaharu Yamanouchi",
+      "native": "山内真治"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Akira Shiromura",
+      "native": "城村輝"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Hajime Mitsuda",
+      "native": "満田一"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Ayaka Kashiwagi",
+      "native": "柏木彩花"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Ju-Eun Lim",
+      "native": "임주은"
+     }
+    }
+   },
+   {
+    "role": "Special Effects",
+    "node": {
+     "name": {
+      "full": "Hiroaki Kaguchi",
+      "native": "加口大朗"
+     }
+    }
+   },
+   {
+    "role": "2D Works",
+    "node": {
+     "name": {
+      "full": "Akira Murakami",
+      "native": "村上瞭"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Kenji Horikawa",
+      "native": "堀川憲司"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Mako Kawai",
+      "native": "河合まこ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hana Shimano",
+       "native": "嶋野花"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kurea Furutachi",
+      "native": "古館くれあ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ai Kakuma",
+       "native": "加隈亜衣"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shinon Ogawa",
+      "native": "小川しのん"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshino Aoyama",
+       "native": "青山吉能"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tsutsuji Higa",
+      "native": "比嘉つつじ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsune Inui",
+       "native": "乾夏寧"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nana Hoshi",
+      "native": "星なな"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Saya Aizawa",
+       "native": "会沢紗弥"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

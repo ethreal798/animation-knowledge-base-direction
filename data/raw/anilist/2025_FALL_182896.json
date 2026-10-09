@@ -1,0 +1,373 @@
+{
+ "id": 182896,
+ "title": {
+  "romaji": "Boku no Hero Academia FINAL SEASON",
+  "english": "My Hero Academia FINAL SEASON",
+  "native": "僕のヒーローアカデミア FINAL SEASON"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 13
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 11,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "bones film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kouhei Horikoshi",
+      "native": "堀越耕平"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Kenji Nagasaki",
+      "native": "長崎健司"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Naomi Nakayama",
+      "native": "中山奈緒美"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yousuke Kuroda",
+      "native": "黒田洋介"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiko Umakoshi",
+      "native": "馬越嘉彦"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hitomi Odashima",
+      "native": "小田嶋瞳"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shigemi Ikeda",
+      "native": "池田繁美"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Maruyama",
+      "native": "丸山由紀子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kazuko Kikuchi",
+      "native": "菊地和子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takafumi Sawa",
+      "native": "澤貴史"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Youta Andou",
+      "native": "安東容太"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kumiko Sakamoto",
+      "native": "坂本久美子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masafumi Mima",
+      "native": "三間雅文"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-11)",
+    "node": {
+     "name": {
+      "full": "Yousuke Kuroda",
+      "native": "黒田洋介"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (OP, eps 2-8, 10, 11)",
+    "node": {
+     "name": {
+      "full": "Yoshihiko Umakoshi",
+      "native": "馬越嘉彦"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Yoshihiko Umakoshi",
+      "native": "馬越嘉彦"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 10)",
+    "node": {
+     "name": {
+      "full": "Yutaka Nakamura",
+      "native": "中村豊"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Porno Graffitti",
+      "native": "ポルノグラフィティ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Porno Graffitti",
+      "native": "ポルノグラフィティ"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP, ep 8)",
+    "node": {
+     "name": {
+      "full": "Chiyoko Ueno",
+      "native": "植野千世子"
+     }
+    }
+   },
+   {
+    "role": "System Engineer",
+    "node": {
+     "name": {
+      "full": "Tatsuya Minami",
+      "native": "南龍弥"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Motoo Fujiwara",
+      "native": "藤原基央"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Motoo Fujiwara",
+      "native": "藤原基央"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 4, 11)",
+    "node": {
+     "name": {
+      "full": "Kyouko Kotani",
+      "native": "小谷杏子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Katsuki Bakugou",
+      "native": "爆豪勝己"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sachi Kokuryuu",
+       "native": "國立幸"
+      }
+     },
+     {
+      "name": {
+       "full": "Nobuhiko Okamoto",
+       "native": "岡本信彦"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Izuku Midoriya",
+      "native": "緑谷出久"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Yamashita",
+       "native": "山下大輝"
+      }
+     },
+     {
+      "name": {
+       "full": "Akeno Watanabe",
+       "native": "渡辺明乃"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Toshinori Yagi",
+      "native": "八木俊典"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenta Miyake",
+       "native": "三宅健太"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tomura Shigaraki",
+      "native": "死柄木弔"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouki Uchiyama",
+       "native": "内山昂輝"
+      }
+     },
+     {
+      "name": {
+       "full": "Arisa Sekine",
+       "native": "関根有咲"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "All For One",
+      "native": "オール・フォー・ワン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroshi Kamiya",
+       "native": "神谷浩史"
+      }
+     },
+     {
+      "name": {
+       "full": "Akio Ootsuka",
+       "native": "大塚明夫"
+      }
+     },
+     {
+      "name": {
+       "full": "Mika Kanai",
+       "native": "かないみか"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

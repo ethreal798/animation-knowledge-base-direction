@@ -1,0 +1,279 @@
+{
+ "id": 180746,
+ "title": {
+  "romaji": "Shibou Yuugi de Meshi wo Kuu.",
+  "english": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+  "native": "死亡遊戯で飯を食う。"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 18
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 11,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Yuushi Ukai",
+      "native": "鵜飼有志"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Necometal",
+      "native": "ねこめたる"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Souta Ueno",
+      "native": "上野壮大"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Rintarou Ikeda",
+      "native": "池田臨太郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Eri Osada",
+      "native": "長田絵里"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Keika Ootsuka",
+      "native": "大塚渓花"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Sonoka Kuroiwa",
+      "native": "黒岩園加"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Souta Komatsu",
+      "native": "小松聡太"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Sou Yurugi",
+      "native": "万木壮"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Masayasu Ogiso",
+      "native": "小木曽正泰"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Shun Oorui",
+      "native": "大類瞬"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Daiki Masuda",
+      "native": "増田大輝"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Miku Inoue",
+      "native": "井上未来"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Masami Kiyohara",
+      "native": "清原誠巳"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Takuya Nakayama",
+      "native": "中山卓也"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Mariko Noguchi",
+      "native": "野口真梨子"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Shinya Nishizono",
+      "native": "西園信也"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Keiichi Takizawa",
+      "native": "滝澤圭一"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Nanami Kamata",
+      "native": "鎌田七海"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Nobuo Miyazaki",
+      "native": "宮崎伸夫"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Risa Yamamoto",
+      "native": "山本莉沙"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Kenichirou Hata",
+      "native": "秦健一郎"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Yuki Kou",
+      "native": "高由紀"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Hayato Yamaguchi",
+      "native": "山口隼人"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Nao Katou",
+      "native": "加藤奈緒"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yuki Sorimachi",
+      "native": "反町友樹"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Chiyuki  Miura",
+       "native": "三浦千幸"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,232 @@
+{
+ "id": 209463,
+ "title": {
+  "romaji": "Kanata Kara",
+  "english": "From Far Away",
+  "native": "彼方から"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kyouko Hikawa",
+      "native": "冰川京子"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Noriyuki Abe",
+      "native": "阿部記之"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takeshi Hama",
+      "native": "はまたけし"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Masaki Mayuzumi",
+      "native": "黛昌樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Yano",
+      "native": "矢野さとし"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Imari Katsuragi",
+      "native": "桂木今里"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Eiji Abiko",
+      "native": "安彦英二"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Hidemitsu Tanaka",
+      "native": "田中秀実"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akane Shiraishi",
+      "native": "白石あかね"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Kinami Umi",
+      "native": "きなみうみ"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Rika Takasugi",
+      "native": "たかすぎ梨香"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Motoki Matsuoka",
+      "native": "松岡モトキ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Genin wa jibun ni aru.",
+      "native": "原因は自分にある。"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Nanashi no Tarou",
+      "native": "名無し之太郎"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Nanashi no Tarou",
+      "native": "名無し之太郎"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Nanashi no Tarou",
+      "native": "名無し之太郎"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Nanashi no Tarou",
+      "native": "名無し之太郎"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "In-Ju Lee",
+      "native": "이인주"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Izark Kia Tarj",
+      "native": "イザーク·キア·タージ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kentarou Kumagai",
+       "native": "熊谷健太郎"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Noriko Tachiki",
+      "native": "立木 典子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoyo Kurosawa",
+       "native": "黒沢ともよ"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

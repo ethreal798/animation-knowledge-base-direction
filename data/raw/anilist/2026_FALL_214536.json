@@ -1,0 +1,252 @@
+{
+ "id": 214536,
+ "title": {
+  "romaji": "Cardfight!! Vanguard Divinez Unmei Seisen-hen",
+  "english": "CARDFIGHT!! VANGUARD Divinez: Parallactic Fate",
+  "native": "カードファイト!! ヴァンガード Divinez 運命星戦編"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 11,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 11,
+  "day": 21
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 3,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Kinema Citrus"
+   },
+   {
+    "name": "Gift-o’-Animation"
+   },
+   {
+    "name": "Studio JEMI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Akira Itou",
+      "native": "伊藤彰"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Bushiroad ",
+      "native": "ブシロード"
+     }
+    }
+   },
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Takaaki Kidani",
+      "native": "木谷高明"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "CLAMP",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Taku Yamada",
+      "native": "山田卓"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takahito Oonishi",
+      "native": "大西雄仁"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shun Menjou",
+      "native": "校條春"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Saita",
+      "native": "齊田博之"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tomokatsu Nagasaku",
+      "native": "永作友克"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Chun Lee",
+      "native": "이춘"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hikari Komiya",
+      "native": "小宮ひかり"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shiyuu Ootomo",
+      "native": "大友志優"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masayuki Kurosawa",
+      "native": "黒澤雅之"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hayato Nishino",
+      "native": "西野隼人"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Executive Producer",
+    "node": {
+     "name": {
+      "full": "Takaaki Kidani",
+      "native": "木谷高明"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Akina Myoudou",
+      "native": "明導アキナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiya Miyata",
+       "native": "宮田俊哉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hikari Myoudou",
+      "native": "明導ヒカリ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Eri Yukimura",
+       "native": "幸村恵理"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kanami Ishikawa",
+      "native": "石川カナミ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuko Natsuyoshi",
+       "native": "夏吉ゆうこ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kurumi Ishikawa",
+      "native": "石川クルミ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

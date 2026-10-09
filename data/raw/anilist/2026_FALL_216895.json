@@ -1,0 +1,241 @@
+{
+ "id": 216895,
+ "title": {
+  "romaji": "Aoki Denshou: Welsh & Shedar",
+  "english": "Welsh & Shedar",
+  "native": "蒼き伝承 ウェルシュ&シェーダー"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 2
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Massket"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tot",
+      "native": "Tot"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Naoki Horiuchi",
+      "native": "堀内直樹"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tot",
+      "native": "Tot"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Saori Nakashiki",
+      "native": "仲敷沙織"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Lucas Cisterne",
+      "native": "シスターン・ルカ"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jun Watanabe",
+      "native": "渡辺淳"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Pierre-Jean Beaudoin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Jose Pavli",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Tot",
+      "native": "Tot"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Tsubata",
+      "native": "津幡佳明"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Saori Nakashiki",
+      "native": "仲敷沙織"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuki Ikeda",
+      "native": "池田結姫"
+     }
+    }
+   },
+   {
+    "role": "Coloring",
+    "node": {
+     "name": {
+      "full": "Eri Suzuki",
+      "native": "鈴木依里"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Hironobu Kageyama",
+      "native": "影山ヒロノブ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Hironobu Kageyama",
+      "native": "影山ヒロノブ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Hironobu Kageyama",
+      "native": "影山ヒロノブ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Masami Okui",
+      "native": "奥井雅美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Shiho Terada",
+      "native": "寺田志保"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Kenichi Sudou",
+      "native": "須藤賢一"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Welsh",
+      "native": "ウェルシュ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rikuya Yasuda",
+       "native": "安田陸矢"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shedar",
+      "native": "シェダー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuki Kaji",
+       "native": "梶裕貴"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

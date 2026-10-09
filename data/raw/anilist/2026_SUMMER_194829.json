@@ -1,0 +1,237 @@
+{
+ "id": 194829,
+ "title": {
+  "romaji": "Katainaka no Ossan, Kensei ni Naru II",
+  "english": "From Old Country Bumpkin to Master Swordsman II",
+  "native": "片田舎のおっさん、剣聖になるII"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 23
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Hayabusa Film"
+   },
+   {
+    "name": "Passione"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Shigeru Sagasaki",
+      "native": "佐賀崎しげる"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Tetsuhiro Nabeshima",
+      "native": "鍋島テツヒロ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Akio Kazumi",
+      "native": "鹿住朗生"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Masaru Kawashima",
+      "native": "川島勝"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Nozomu Koga",
+      "native": "古我望"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kunihiko Okada",
+      "native": "岡田邦彦"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Satsuki Hayasaka",
+      "native": "早坂皐月"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Taiki Yamashita",
+      "native": "山下泰希"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Sakie Suzuki",
+      "native": "鈴木咲絵"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kenichi Ikeda",
+      "native": "池田健一"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayako Tan",
+      "native": "丹彩子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hisayoshi Hirasawa",
+      "native": "ひらさわひさよし"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yasuharu Takanashi",
+      "native": "高梨康治"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Satsuki Hayasaka",
+      "native": "早坂皐月"
+     }
+    }
+   },
+   {
+    "role": "Concept Design",
+    "node": {
+     "name": {
+      "full": "Rei Yumeno",
+      "native": "夢野れい"
+     }
+    }
+   },
+   {
+    "role": "Concept Design",
+    "node": {
+     "name": {
+      "full": "Suzume Shima",
+      "native": "島すずめ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Unicorn",
+      "native": "ユニコーン"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "BLUE ENCOUNT",
+      "native": "ブルー・エンカウント"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Bruno Azevedo",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Helio Pavan",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Beryl Gardenant",
+      "native": "ベリル・ガーデナント"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiroaki Hirata",
+       "native": "平田広明"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

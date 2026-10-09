@@ -1,0 +1,295 @@
+{
+ "id": 199066,
+ "title": {
+  "romaji": "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+  "english": "Hanaori-san Still Wants to Fight in the Next Life",
+  "native": "花織さんは転生しても喧嘩がしたい"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 27
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hekiru Hikawa",
+      "native": "氷川へきる"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hideyo Yamamoto",
+      "native": "山本秀世"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yukie Sugawara",
+      "native": "菅原雪絵"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yousuke Okuda",
+      "native": "奥田陽介"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mineyo Oonishi",
+      "native": "大西峰代"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yukihiro Nakano",
+      "native": "中野公滉"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukari Hashimoto",
+      "native": "橋本由香利"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryuuta Iida",
+      "native": "飯田龍太"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 9)",
+    "node": {
+     "name": {
+      "full": "Jun Fukuyama",
+      "native": "福山潤"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Justin Cook",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jerry Jewell",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Andrew Tipps",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 5)",
+    "node": {
+     "name": {
+      "full": "Yun Kouga",
+      "native": "高河ゆん"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 2)",
+    "node": {
+     "name": {
+      "full": "Aka Akasaka",
+      "native": "赤坂アカ"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 7)",
+    "node": {
+     "name": {
+      "full": "Minari Endou",
+      "native": "遠藤海成"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 4)",
+    "node": {
+     "name": {
+      "full": "Minoru Toyoda",
+      "native": "とよ田みのる"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 10)",
+    "node": {
+     "name": {
+      "full": "Ryouji Minagawa",
+      "native": "皆川亮二"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 12)",
+    "node": {
+     "name": {
+      "full": "Hekiru Hikawa",
+      "native": "氷川へきる"
+     }
+    }
+   },
+   {
+    "role": "ADR Talent Coordination (English)",
+    "node": {
+     "name": {
+      "full": "Tara Williams",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineering Manager (English)",
+    "node": {
+     "name": {
+      "full": "Gino Palencia",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 3)",
+    "node": {
+     "name": {
+      "full": "Sora Tokui",
+      "native": "徳井青空"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Maaya Uchida",
+      "native": "内田真礼"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yousuke Okuda",
+      "native": "奥田陽介"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 11)",
+    "node": {
+     "name": {
+      "full": "Akira Sekine",
+      "native": "関根明良"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Meteor Hanaori",
+      "native": "花織ミーティア"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akira Sekine",
+       "native": "関根明良"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ryuusei Narukami",
+      "native": "鳴神流星"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Jun Fukuyama",
+       "native": "福山潤"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

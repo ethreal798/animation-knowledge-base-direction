@@ -1,0 +1,279 @@
+{
+ "id": 170018,
+ "title": {
+  "romaji": "Ao no Orchestra Season 2",
+  "english": "Blue Orchestra Season 2",
+  "native": "青のオーケストラ Season2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 1
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 21,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Nippon Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Makoto Akui",
+      "native": "阿久井真"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Seiji Kishi",
+      "native": "岸誠二"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kazuaki Morita",
+      "native": "森田和明"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Satoki Iida",
+      "native": "飯田里樹"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kanako Hara",
+      "native": "はらかなこ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Akira Kosemura",
+      "native": "小瀬村晶"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Galileo Galilei",
+      "native": "Galileo Galilei"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Izumi Matsuzaki",
+      "native": "松崎いずみ"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 20)",
+    "node": {
+     "name": {
+      "full": "Haruka Kobayashi",
+      "native": "小林春香"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 20)",
+    "node": {
+     "name": {
+      "full": "Haruka Ogiso",
+      "native": "小木曽遥"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 18)",
+    "node": {
+     "name": {
+      "full": "Chiharu Tasaka",
+      "native": "田阪千晴"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 18, 20)",
+    "node": {
+     "name": {
+      "full": "Kitsune Miwa",
+      "native": "三輪狐"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Minami Kurashima",
+      "native": "倉島みなみ"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Valentio Krisnanda",
+      "native": "ヴァレンティオクリスナンダ"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Moe Iizuka",
+      "native": "飯塚萌"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Atsuya Deguchi",
+      "native": "出口敦也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "ChoQMay",
+      "native": "チョーキューメイ"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 20, 21)",
+    "node": {
+     "name": {
+      "full": "Yoshiya Irie",
+      "native": "入江吉耶"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 21)",
+    "node": {
+     "name": {
+      "full": "Rei Aiyama",
+      "native": "相山怜"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Manaka Nitta",
+      "native": "新田茉那桂"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 20)",
+    "node": {
+     "name": {
+      "full": "Satoya Ichimura",
+      "native": "市村仁弥"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Koyori Kabata",
+      "native": "椛田小糸里"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Sakura Fuji",
+      "native": "藤咲来"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Saki Itou",
+      "native": "伊藤早紀"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hajime Aono",
+      "native": "青野一"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

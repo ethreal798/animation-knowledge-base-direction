@@ -1,0 +1,285 @@
+{
+ "id": 198113,
+ "title": {
+  "romaji": "Kill Ao",
+  "english": "KILL BLUE",
+  "native": "キルアオ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 27
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "CUE"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Tadatoshi Fujimaki",
+      "native": "藤巻忠俊"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yasunori Ide",
+      "native": "井出安軌"
+     }
+    }
+   },
+   {
+    "role": "Supervisor",
+    "node": {
+     "name": {
+      "full": "Hiro Kaburagi",
+      "native": "鏑木ひろ"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiro Kaburagi",
+      "native": "鏑木ひろ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Miho Daidouji",
+      "native": "大導寺美穂"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Gakuto Gonbei",
+      "native": "権瓶岳斗"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Horikawa",
+      "native": "堀川佳典"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Shiho Suzuki",
+      "native": "鈴木志穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shinya Matsui",
+      "native": "松井伸哉"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Daisuke Imai",
+      "native": "今井大介"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Shouji Hata",
+      "native": "はたしょうじ "
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryou Konishi",
+      "native": "小西遼"
+     }
+    }
+   },
+   {
+    "role": "Director (OP)",
+    "node": {
+     "name": {
+      "full": "Ryuu Nakayama",
+      "native": "中山竜"
+     }
+    }
+   },
+   {
+    "role": "Art Director (OP)",
+    "node": {
+     "name": {
+      "full": "Takumi Itou",
+      "native": "伊藤拓海"
+     }
+    }
+   },
+   {
+    "role": "Color Design (OP)",
+    "node": {
+     "name": {
+      "full": "Fumiko Tanaka",
+      "native": "田中文子"
+     }
+    }
+   },
+   {
+    "role": "Color Design (ED)",
+    "node": {
+     "name": {
+      "full": "Shougo Teramoto",
+      "native": "寺本将悟"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography (ED)",
+    "node": {
+     "name": {
+      "full": "Shougo Teramoto",
+      "native": "寺本将悟"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography (OP)",
+    "node": {
+     "name": {
+      "full": "Shuusaku Takayanagi",
+      "native": "高柳周作"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "aespa",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Riize",
+      "native": "라이즈"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ED)",
+    "node": {
+     "name": {
+      "full": "Shougo Teramoto",
+      "native": "寺本将悟"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP)",
+    "node": {
+     "name": {
+      "full": "Ukata",
+      "native": "ウーカタ"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED)",
+    "node": {
+     "name": {
+      "full": "Shougo Teramoto",
+      "native": "寺本将悟"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP)",
+    "node": {
+     "name": {
+      "full": "Ukata",
+      "native": "ウーカタ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (ED)",
+    "node": {
+     "name": {
+      "full": "Miho Daidouji",
+      "native": "大導寺美穂"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Juuzou Ougami",
+      "native": "大狼十三"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuko Sanpei",
+       "native": "三瓶由布子"
+      }
+     },
+     {
+      "name": {
+       "full": "Shunsuke Takeuchi",
+       "native": "武内駿輔"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

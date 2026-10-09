@@ -1,0 +1,295 @@
+{
+ "id": 189987,
+ "title": {
+  "romaji": "Ponkotsu Fuuki Iin to Skirt take ga Futekisetsu na JK no Hanashi",
+  "english": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+  "native": "ポンコツ風紀委員とスカート丈が不適切なJKの話"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 22
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Zero-G"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Takuma Yokota",
+      "native": "横田卓馬"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Daiji Iwanaga",
+      "native": "岩永大慈"
+     }
+    }
+   },
+   {
+    "role": "Supervisor",
+    "node": {
+     "name": {
+      "full": "Masahiro Yokotani",
+      "native": "横谷昌宏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Masahiro Yokotani",
+      "native": "横谷昌宏"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "You Himuro",
+      "native": "氷室陽"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Aiko Yamaguchi",
+      "native": "山口愛子"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Haruya Sasaki",
+      "native": "佐々木晴也"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Risa Wakabayashi",
+      "native": "若林里紗"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Mikiya Hiragi",
+      "native": "平義樹弥"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akira Hashigami",
+      "native": "橋上彰"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Naoyuki Katou",
+      "native": "加藤直之"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masaki Utsunomiya",
+      "native": "宇都宮正記"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Tomohiko Kan",
+      "native": "菅友彦"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Satoshi Houno",
+      "native": "宝野聡史"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Takuya Oohama",
+      "native": "大浜拓哉"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Tomoko Konparu",
+      "native": "金春智子"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Masahiro Yokotani",
+      "native": "横谷昌宏"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Takahito Oonishi",
+      "native": "大西雄仁"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "You Himuro",
+      "native": "氷室陽"
+     }
+    }
+   },
+   {
+    "role": "2D Design",
+    "node": {
+     "name": {
+      "full": "Mako Oonaru",
+      "native": "大成麻子"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jad Saxton",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Jarrod Greene",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Hideoki Kusama",
+      "native": "草間英興"
+     }
+    }
+   },
+   {
+    "role": "Background Art (OP, ED, eps 1, 7, 8, 12)",
+    "node": {
+     "name": {
+      "full": "Risa Wakabayashi",
+      "native": "若林里紗"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Susie Nixon",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Tougo Sakuradaimon",
+      "native": "桜大門統悟"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junya Enoki",
+       "native": "榎木淳弥"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Poemu Kohinata",
+      "native": "小日向微笑"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Riko Akechi",
+       "native": "明智璃子"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

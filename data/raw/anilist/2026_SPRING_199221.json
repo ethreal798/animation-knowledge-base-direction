@@ -1,0 +1,317 @@
+{
+ "id": 199221,
+ "title": {
+  "romaji": "Dr. STONE: SCIENCE FUTURE Part 3",
+  "english": "Dr. STONE SCIENCE FUTURE Cour 3",
+  "native": "Dr.STONE SCIENCE FUTURE 3クール"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 25
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TMS Entertainment"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Riichirou Inagaki",
+      "native": "稲垣理一郎"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Boichi",
+      "native": "ボウイチ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shuuhei Matsushita",
+      "native": "松下周平"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kurasumi Sunayama",
+      "native": "砂山蔵澄"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuko Iwasa",
+      "native": "岩佐裕子"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Yoshio Mizumura",
+      "native": "水村良男"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Shunichirou Yoshihara",
+      "native": "吉原俊一郎"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Aoki",
+      "native": "青木智由紀"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Fusako Nakao",
+      "native": "中尾総子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Chiyuki Kojima",
+      "native": "小島千幸"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kumiko Sakamoto",
+      "native": "坂本久美子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yasumasa Koyama",
+      "native": "小山恭正"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukihiro Kanesaka",
+      "native": "金坂征広"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Yoshiki Kobayashi",
+      "native": "小林健樹"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Shuusuke Katagiri",
+      "native": "片桐秀介"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Sukeyuki Honda",
+      "native": "本田佑行"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Kouhei Oonishi",
+      "native": "大西恒平"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Yuu Saitou",
+      "native": "齋藤優"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Ryousuke Yoritomi",
+      "native": "頼富亮典"
+     }
+    }
+   },
+   {
+    "role": "Executive Producer",
+    "node": {
+     "name": {
+      "full": "Kazutaka Yamanaka",
+      "native": "山中一孝"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Katsuhiro Takei",
+      "native": "武井克弘"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Ippei Takemura",
+      "native": "竹村逸平"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Atsushi Takahashi",
+      "native": "高橋敦司"
+     }
+    }
+   },
+   {
+    "role": "Chief Producer",
+    "node": {
+     "name": {
+      "full": "Tatsurou Hayashi",
+      "native": "林辰朗"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Senkuu Ishigami",
+      "native": "石神千空"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuusuke Kobayashi",
+       "native": "小林裕介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kohaku",
+      "native": "コハク"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manami Numakura",
+       "native": "沼倉愛美"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ryuusui Nanami",
+      "native": "七海龍水"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Suzuki",
+       "native": "鈴木崚汰"
+      }
+     },
+     {
+      "name": {
+       "full": "Natsumi Fujiwara",
+       "native": "藤原夏海"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

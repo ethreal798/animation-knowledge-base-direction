@@ -1,0 +1,314 @@
+{
+ "id": 185213,
+ "title": {
+  "romaji": "Kidou Senshi Gundam GQuuuuuuX",
+  "english": "Mobile Suit Gundam GQuuuuuuX",
+  "native": "機動戦士Gundam GQuuuuuuX"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 25
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Khara"
+   },
+   {
+    "name": "Sunrise"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hajime Yatate",
+      "native": "矢立肇"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yoshiyuki Tomino",
+      "native": "富野由悠季"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuya Tsurumaki",
+      "native": "鶴巻和哉"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Youji Enokido",
+      "native": "榎戸洋司"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Take",
+      "native": "竹"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Ikuto Yamashita",
+      "native": "山下いくと"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 7, 8, 10)",
+    "node": {
+     "name": {
+      "full": "Yutaka Izubuchi",
+      "native": "出渕裕"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 2, 8-11)",
+    "node": {
+     "name": {
+      "full": "Hideaki Anno",
+      "native": "庵野秀明"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Mahiro Maeda",
+      "native": "前田真宏"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 1-11)",
+    "node": {
+     "name": {
+      "full": "Kazuya Tsurumaki",
+      "native": "鶴巻和哉"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 3, 4, 6)",
+    "node": {
+     "name": {
+      "full": "mebae",
+      "native": "mebae"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Hidenori Matsubara",
+      "native": "松原秀典"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 2, 7, 8, 10, 11)",
+    "node": {
+     "name": {
+      "full": "Takeshi Takakura",
+      "native": "高倉武史"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 1-5, 7, 8, 10, 11)",
+    "node": {
+     "name": {
+      "full": "Shuuichi Iseki",
+      "native": "井関修一"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Shingo Abe",
+      "native": "阿部慎吾"
+     }
+    }
+   },
+   {
+    "role": "Design Works",
+    "node": {
+     "name": {
+      "full": "Toshiaki Ihara",
+      "native": "渭原敏明"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 1, 3-11)",
+    "node": {
+     "name": {
+      "full": "Tomoko Masuda",
+      "native": "増田朋子"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 1, 3-11)",
+    "node": {
+     "name": {
+      "full": "Peter",
+      "native": "絵を描くPETER"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 1-11)",
+    "node": {
+     "name": {
+      "full": "Kou Inaba",
+      "native": "稲葉コウ"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 1, 5, 7)",
+    "node": {
+     "name": {
+      "full": "Yuusuke Oomura",
+      "native": "大村祐介"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 2, 11)",
+    "node": {
+     "name": {
+      "full": "Ayane Hayashi",
+      "native": "林絢雯"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 1-7)",
+    "node": {
+     "name": {
+      "full": "Shinya Mizuno",
+      "native": "ミズノシンヤ"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 2, 4, 5, 8, 10, 11)",
+    "node": {
+     "name": {
+      "full": "Takuya Morifuji",
+      "native": "森藤卓弥"
+     }
+    }
+   },
+   {
+    "role": "Design Works (eps 1, 3-11)",
+    "node": {
+     "name": {
+      "full": "Ami",
+      "native": "網"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Katou",
+      "native": "加藤浩"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Amate Yuzuriha",
+      "native": "アマテ・ユズリハ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomoyo Kurosawa",
+       "native": "黒沢ともよ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Nyaan",
+      "native": "ニャアン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yui Ishikawa",
+       "native": "石川由依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shuji Itou",
+      "native": "シュウジ・イトウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shinba Tsuchiya",
+       "native": "土屋神葉"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

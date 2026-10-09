@@ -1,0 +1,282 @@
+{
+ "id": 182300,
+ "title": {
+  "romaji": "Tsue to Tsurugi no Wistoria Season 2",
+  "english": "Wistoria: Wand and Sword Season 2",
+  "native": "杖と剣のウィストリア Season2"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 28
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Actas"
+   },
+   {
+    "name": "Bandai Namco Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Fujino Oomori",
+      "native": "大森藤ノ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Toshi Aoi",
+      "native": "青井聖"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Tatsuya Yoshihara",
+      "native": "吉原達矢"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hideaki Nakano",
+      "native": "中野英明"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Noboru Kimura",
+      "native": "木村暢"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sayaka Ono",
+      "native": "小野早香"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ryou Akizuki",
+      "native": "あきづきりょう"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Masaki Hiraoka",
+      "native": "平岡雅樹"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuki Maeda",
+      "native": "前田有紀"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naomi Nakano",
+      "native": "中野尚美"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Ayako Ootsuki",
+      "native": "大槻綾子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masato Yoshitake",
+      "native": "吉武将人"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Takuji Gojima",
+      "native": "五島卓二"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiroto Morishita",
+      "native": "森下広人"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (OP, ED, eps 1-4)",
+    "node": {
+     "name": {
+      "full": "Sayaka Ono",
+      "native": "小野早香"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ASH DA HERO",
+      "native": "アッシュダヒーロー"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Shiyui",
+      "native": "シユイ"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Akira Kikuchi",
+      "native": "菊池晃"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Raita Sunaga",
+      "native": "須永頼太"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Yoshirou Harada",
+      "native": "原田吉朗"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Noboru Kimura",
+      "native": "木村暢"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (OP, ep 1)",
+    "node": {
+     "name": {
+      "full": "Kimitake Nishio",
+      "native": "西尾公伯"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Hidetoshi Oomori",
+      "native": "大森英敏"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 2)",
+    "node": {
+     "name": {
+      "full": "Shigenori Kageyama",
+      "native": "影山楙倫"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Will Serfort",
+      "native": "ウィル・セルフォルト"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouhei Amasaki",
+       "native": "天崎滉平"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

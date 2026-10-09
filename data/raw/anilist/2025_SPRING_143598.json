@@ -1,0 +1,279 @@
+{
+ "id": 143598,
+ "title": {
+  "romaji": "Kijin Gentoushou",
+  "english": "Sword of the Demon Hunter: Kijin Gentosho",
+  "native": "鬼人幻燈抄"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 31
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 30
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Yokohama Animation Lab"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Motoo Nakanishi",
+      "native": "中西モトオ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuya Aiura",
+      "native": "相浦和也"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Mieno",
+      "native": "三重野瞳"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tarou Ikegami",
+      "native": "池上太郎"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Sayuri Sakimoto",
+      "native": "崎本さゆり"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Tomokazu Sugimura",
+      "native": "杉村友和"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Masayuki Niizuma",
+      "native": "新妻雅行"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomokazu Sugimura",
+      "native": "杉村友和"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yui Isobe",
+      "native": "磯辺結"
+     }
+    }
+   },
+   {
+    "role": "Art Board",
+    "node": {
+     "name": {
+      "full": "Yui Isobe",
+      "native": "磯辺結"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mineyo Oonishi",
+      "native": "大西峰代"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Ryouhei Miyasaka",
+      "native": "宮坂凌平"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Yuka Yamajou",
+      "native": "山条裕香"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Makoto Endou",
+      "native": "遠藤誠"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Noboru Haraguchi",
+      "native": "原口昇"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Takada",
+      "native": "高田龍一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kuniyuki Takahashi",
+      "native": "高橋邦幸"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Keiichi Hirokawa",
+      "native": "広川恵一"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Yuuma Ooue",
+      "native": "大上裕真"
+     }
+    }
+   },
+   {
+    "role": "2D Works",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Yagasaki",
+      "native": "矢崎宏幸"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Hilcrhyme",
+      "native": "ヒルクライム"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED1)",
+    "node": {
+     "name": {
+      "full": "Izumi Nakasone",
+      "native": "仲宗根泉"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Nekomataya",
+      "native": "ねこまたや"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Kazuya Aiura",
+      "native": "相浦和也"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Jinta",
+      "native": "甚太"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Taku Yashiro",
+       "native": "八代拓"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

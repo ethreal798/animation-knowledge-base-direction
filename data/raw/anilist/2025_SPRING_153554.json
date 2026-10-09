@@ -1,0 +1,259 @@
+{
+ "id": 153554,
+ "title": {
+  "romaji": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+  "english": "Can a Boy-Girl Friendship Survive?",
+  "native": "男女の友情は成立する？（いや、 しないっ!!）"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 20
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "J.C.STAFF"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Nana Nanana",
+      "native": "七菜なな"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Parum",
+      "native": "Parum"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Youhei Suzuki",
+      "native": "鈴木洋平"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Nozu Yaemori",
+      "native": "八重森のず"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Natsuki Ooyama",
+      "native": "大山夏輝"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Jun Ichikawa",
+      "native": "市川淳"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Hina Tachibana",
+      "native": "立花日菜"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "HaKoniwalily",
+      "native": "ハコニワリリィ"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 6, 7, 11)",
+    "node": {
+     "name": {
+      "full": "Shinpei Nagai",
+      "native": "永居慎平"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Miyuki Ishida",
+      "native": "石田美由紀"
+     }
+    }
+   },
+   {
+    "role": "Animation Production Generalization",
+    "node": {
+     "name": {
+      "full": "Atsushi Fujishiro",
+      "native": "藤代敦士"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Akhil Chauhan",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Pranav Prayag",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Sayantan Pahari",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11) ",
+    "node": {
+     "name": {
+      "full": "Kshitij Singh",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Photography (ep 2-12)",
+    "node": {
+     "name": {
+      "full": "Saki Hirasawa",
+      "native": "平澤早来"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Nekozero",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 11)",
+    "node": {
+     "name": {
+      "full": "Manish Albad",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Localization Manager (German)",
+    "node": {
+     "name": {
+      "full": "Tobias Philippi",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Himari Inuzuka",
+      "native": "犬塚日葵"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sayumi Suzushiro",
+       "native": "鈴代紗弓"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuu Natsume",
+      "native": "夏目悠宇"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kikunosuke Toya",
+       "native": "戸谷菊之介"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "id": 167152,
+ "title": {
+  "romaji": "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+  "english": "Sentenced to Be a Hero",
+  "native": "勇者刑に処す 懲罰勇者9004隊刑務記録"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 26
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio KAI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Rocket  Shoukai",
+      "native": "ロケット商会 "
+     }
+    }
+   },
+   {
+    "role": "Original Illustration",
+    "node": {
+     "name": {
+      "full": "Hitomi Shizuki",
+      "native": "雫綺一生"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Takashima",
+      "native": "髙嶋宏之"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yoshiki Nakakouji",
+      "native": "中小路佳毅"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takeru Noda",
+      "native": "野田猛"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Kouta Sugawa",
+      "native": "須川康太"
+     }
+    }
+   },
+   {
+    "role": "Creature Design",
+    "node": {
+     "name": {
+      "full": "Yoshiki Nakakouji",
+      "native": "中小路佳毅"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kouta Sugawa",
+      "native": "須川康太"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Hayato Kurosaki",
+      "native": "黒崎隼人"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kouki Shikiji",
+      "native": "式地幸喜"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Ryouken Toida",
+      "native": "土井田竜健"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Kou Hirabayashi",
+      "native": "平林航"
+     }
+    }
+   },
+   {
+    "role": "World Design",
+    "node": {
+     "name": {
+      "full": "Nobutaka Ike",
+      "native": "池信孝"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shunsuke Takizawa",
+      "native": "滝澤俊輔"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance",
+    "node": {
+     "name": {
+      "full": "SPYAIR",
+      "native": "スパイエアー "
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-3)",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Eiri Yasukawa",
+      "native": "安川央里"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 12)",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Takashima",
+      "native": "髙嶋宏之"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (eps 1, 12)",
+    "node": {
+     "name": {
+      "full": "Taisuke Tsukuda",
+      "native": "佃泰佑"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP, eps 1-4, 6, 12)",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Takashima",
+      "native": "髙嶋宏之"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1-3)",
+    "node": {
+     "name": {
+      "full": "Masaru Obata",
+      "native": "小畑賢"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Takeru Noda",
+      "native": "野田猛"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1, 2)",
+    "node": {
+     "name": {
+      "full": "Yasutaka Kimura",
+      "native": "木村和貴"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Pinchiao Tseng",
+      "native": "曽品喬"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Xylo Forbartz",
+      "native": "ザイロ・フォルバーツ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Youhei Azakami",
+       "native": "阿座上洋平"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Teoritta",
+      "native": "テオリッタ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mayu Iizuka",
+       "native": "飯塚麻結 "
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

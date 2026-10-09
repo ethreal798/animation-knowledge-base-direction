@@ -1,0 +1,279 @@
+{
+ "id": 206401,
+ "title": {
+  "romaji": "FX Senshi Kurumi-chan",
+  "english": "FX Fighter Kurumi-chan",
+  "native": "FX戦士くるみちゃん"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 1
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Passione"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Demunyan",
+      "native": "でむにゃん"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Daisuki Tansan",
+      "native": "炭酸だいすき"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Ogawa",
+      "native": "小川優樹"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Ueda",
+      "native": "植田和幸"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takurou Iga",
+      "native": "伊賀拓郎"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (OP)",
+    "node": {
+     "name": {
+      "full": "Akio Watanabe",
+      "native": "渡辺明夫"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (OP)",
+    "node": {
+     "name": {
+      "full": "Akio Watanabe",
+      "native": "渡辺明夫"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 2)",
+    "node": {
+     "name": {
+      "full": "Choboraunyopomi",
+      "native": "ちょぼらうにょぽみ "
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "Aina Suzuki",
+      "native": "鈴木愛奈"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takatoshi Hamano",
+      "native": "濱野高年"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayako Tan",
+      "native": "丹彩子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Tomoko Koyama",
+      "native": "小山知子"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Katsuhiro Nakajima",
+      "native": "中島勝大"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuma Yokomatsu",
+      "native": "横松雄馬"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Saeko Fujita",
+      "native": "藤田紗英子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Takashi Nakamichi",
+      "native": "仲道隆"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Takuya Sakai",
+      "native": "酒井拓也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "Takuya Sakai",
+      "native": "酒井拓也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Takuya Sakai",
+      "native": "酒井拓也"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Daisuki Tansan",
+      "native": "炭酸だいすき"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Kyouhei Yamamoto",
+      "native": "山本恭平"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Kyouhei Yamamoto",
+      "native": "山本恭平"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Ginnojou Hoshi",
+      "native": "星銀乃丈"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kurumi Fukuga",
+      "native": "福賀くるみ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aina Suzuki",
+       "native": "鈴木愛奈"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

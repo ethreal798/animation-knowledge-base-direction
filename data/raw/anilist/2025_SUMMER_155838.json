@@ -1,0 +1,258 @@
+{
+ "id": 155838,
+ "title": {
+  "romaji": "Tsuyokute New Saga",
+  "english": "New Saga",
+  "native": "強くてニューサーガ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 18
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Sotsu"
+   },
+   {
+    "name": "Studio Massket"
+   },
+   {
+    "name": "Studio Clutch"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Masayuki Abe",
+      "native": "阿部正行"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Ryuuta Fuse",
+      "native": "布施龍太"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Naoki Mizusawa",
+      "native": "水沢直木"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kenta Ihara",
+      "native": "猪原健太"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Masaaki Onodera",
+      "native": "小野寺正明"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masato Yoshitake",
+      "native": "吉武将人"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hironori Anazawa",
+      "native": "穴沢弘慶"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shachou",
+      "native": "社長"
+     }
+    }
+   },
+   {
+    "role": "Chief Episode Director",
+    "node": {
+     "name": {
+      "full": "Naoki Horiuchi",
+      "native": "堀内直樹"
+     }
+    }
+   },
+   {
+    "role": "Original Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Nilitsu",
+      "native": "ニリツ"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jeremy Inman",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Marcelo Campos",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Andrew Tipps",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Assistant ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Aaron Roberts",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jamal Roberson",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Latin American Spanish)",
+    "node": {
+     "name": {
+      "full": "Óscar López",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Latin American Spanish)",
+    "node": {
+     "name": {
+      "full": "Vanessa Olea",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Jessica Sluys",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Rodrigo Rossi",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Mahiru Coda",
+      "native": "甲田まひる"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "4s4ki",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kyle",
+      "native": "カイル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuma Uchida",
+       "native": "内田雄馬"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

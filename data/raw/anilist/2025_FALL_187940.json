@@ -1,0 +1,205 @@
+{
+ "id": 187940,
+ "title": {
+  "romaji": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+  "english": "Inexpressive Kashiwada and Expressive Oota",
+  "native": "顔に出ない柏田さんと顔に出る太田君"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 20
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "STUDIO POLON"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Fuyu Azuma",
+      "native": "東ふゆ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tomohiro Kamitani",
+      "native": "神谷智大"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Michiko Yokote",
+      "native": "横手美智子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Naoto Nakamura",
+      "native": "中村直人"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Scott MacDonald",
+      "native": "スコット・マクドナルド"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Maho Takahashi",
+      "native": "高橋麻穂"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haremi Miyagawa",
+      "native": "宮川はれみ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yomogiko Murano",
+      "native": "村野よもぎ子"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Naoto Nakamura",
+      "native": "中村直人"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukari Hashimoto",
+      "native": "橋本由香利"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yukio Nagasaki",
+      "native": "長崎行男"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Sangatsu no Phantasia",
+      "native": "三月のパンタシア"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akane Shiraishi",
+      "native": "白石あかね"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tetsuya Shitara",
+      "native": "設楽哲也"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Hashimero",
+      "native": "はしメロ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Hiyori Kashiwada",
+      "native": "柏田ひより"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akane Fujita",
+       "native": "藤田茜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Akito Oota",
+      "native": "太田秋人"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kyouhei Natsume",
+       "native": "夏目響平"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

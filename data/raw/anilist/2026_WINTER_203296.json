@@ -1,0 +1,238 @@
+{
+ "id": 203296,
+ "title": {
+  "romaji": "Cardfight!! Vanguard: Divinez - Genma Seisen-hen",
+  "english": "CARDFIGHT!! VANGUARD Divinez Parallactic Clash",
+  "native": "カードファイト!! ヴァンガード Divinez 幻真星戦編"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 11
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Gift-o’-Animation"
+   },
+   {
+    "name": "Kinema Citrus"
+   },
+   {
+    "name": "Studio JEMI"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Akira Itou",
+      "native": "伊藤彰"
+     }
+    }
+   },
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Bushiroad ",
+      "native": "ブシロード"
+     }
+    }
+   },
+   {
+    "role": "Original Plan",
+    "node": {
+     "name": {
+      "full": "Takaaki Kidani",
+      "native": "木谷高明"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "CLAMP",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Hijiri Kuwano",
+      "native": "桑野聖"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Saita",
+      "native": "齊田博之"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Ren Ishimori",
+      "native": "石森連"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Tomokatsu Nagasaku",
+      "native": "永作友克"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Tomokatsu Nagasaku",
+      "native": "永作友克"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Hikari Komiya",
+      "native": "小宮ひかり"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takahito Oonishi",
+      "native": "大西雄仁"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hayato Nishino",
+      "native": "西野隼人"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Ga-Yeong Park",
+      "native": "박가영"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "V.W.P",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shiyuu Ootomo",
+      "native": "大友志優"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shun Menjou",
+      "native": "校條春"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Chun Lee",
+      "native": "이춘"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Akina Myoudou",
+      "native": "明導アキナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiya Miyata",
+       "native": "宮田俊哉"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kurumi Ishikawa",
+      "native": "石川クルミ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

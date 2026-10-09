@@ -1,0 +1,295 @@
+{
+ "id": 181182,
+ "title": {
+  "romaji": "Shoushimin Series 2nd Season",
+  "english": "SHOSHIMIN: How to become Ordinary Season 2",
+  "native": "小市民シリーズ 第2期"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 22
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Lapin Track"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Honobu Yonezawa",
+      "native": "米澤穂信"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Mamoru Kanbe",
+      "native": "神戸守"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Toshiya Oono",
+      "native": "大野敏哉"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Atsushi Saitou",
+      "native": "斎藤敦史"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Mayu Gushiken",
+      "native": "具志堅眞由"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Akira Itou",
+      "native": "伊藤聖"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Aoki",
+      "native": "青木智由紀"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yukie Inose",
+      "native": "イノセユキエ"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuki Akimoto",
+      "native": "秋元由紀 "
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Shiokawa",
+      "native": "塩川智幸"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Rie Matsubara",
+      "native": "松原理恵"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Koshida",
+      "native": "越田祐史"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Katsunori Shimizu",
+      "native": "清水勝則"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Tomohiko Yaginuma",
+      "native": "八木沼智彦"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Shouta Yaso",
+      "native": "八十正太"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takahiro Obata",
+      "native": "小畑貴裕"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Masakazu Watabe",
+      "native": "渡部正和"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (eps 1-12)",
+    "node": {
+     "name": {
+      "full": "Mayu Gushiken",
+      "native": "具志堅眞由"
+     }
+    }
+   },
+   {
+    "role": "Line Producer",
+    "node": {
+     "name": {
+      "full": "Takumi Arao",
+      "native": "荒尾匠"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Yorushika",
+      "native": "ヨルシカ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "yanaginagi",
+      "native": "やなぎなぎ"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 2, 7, 12)",
+    "node": {
+     "name": {
+      "full": "Yumi Nakayama",
+      "native": "中山由美"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1, 7, 12)",
+    "node": {
+     "name": {
+      "full": "Mamoru Kanbe",
+      "native": "神戸守"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Shirou Shibata",
+      "native": "柴田志朗"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 6, 11)",
+    "node": {
+     "name": {
+      "full": "Nobuyuki Takeuchi",
+      "native": "武内宣之"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Jougorou Kobato",
+      "native": "小鳩常悟朗"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuuichirou Umeda",
+       "native": "梅田修一朗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuki Osanai",
+      "native": "小佐内ゆき"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hina Youmiya",
+       "native": "羊宮妃那"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

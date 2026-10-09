@@ -1,0 +1,295 @@
+{
+ "id": 179965,
+ "title": {
+  "romaji": "Haite Kudasai, Takamine-san",
+  "english": "Please Put Them On, Takamine-san",
+  "native": "履いてください、鷹峰さん"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 18
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yuuichi Hiiragi",
+      "native": "柊裕一"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tomoe Makino",
+      "native": "牧野友映"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuu Satou",
+      "native": "佐藤裕"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Ryou Yamauchi",
+      "native": "山内遼"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Maya Itou",
+      "native": "伊藤麻耶"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukiko Ashino",
+      "native": "芦野由紀子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Akira Hashigami",
+      "native": "橋上彰"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tomoyoshi Ishizuka ",
+      "native": "石塚知義"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyomi Yamada",
+      "native": "山田聖実"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Takeshi Nakatsuka",
+      "native": "中塚武"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Akane Maeda",
+      "native": "前田茜"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Daiki Ogawa",
+      "native": "小川大貴"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Masami Okui",
+      "native": "奥井雅美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Bonjour Suzuki",
+      "native": "ボンジュール鈴木"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Makoto Furukawa",
+      "native": "古川慎"
+     }
+    }
+   },
+   {
+    "role": "Script (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yuu Satou",
+      "native": "佐藤裕"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Tomoe Makino",
+      "native": "牧野友映"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Tomoe Makino",
+      "native": "牧野友映"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Ryou Yamauchi",
+      "native": "山内遼"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Maya Itou",
+      "native": "伊藤麻耶"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Maya Fukuchi",
+      "native": "福地真弥"
+     }
+    }
+   },
+   {
+    "role": "Design Manager",
+    "node": {
+     "name": {
+      "full": "Shou Matsushita",
+      "native": "松下頌"
+     }
+    }
+   },
+   {
+    "role": "Production Assistant (ep 1)",
+    "node": {
+     "name": {
+      "full": "Hiroki Tanno",
+      "native": "丹野裕樹"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Ai Anbara",
+      "native": "菴原愛"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 7)",
+    "node": {
+     "name": {
+      "full": "Akiko Nishi",
+      "native": "仁志晃子"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Takane Takamine",
+      "native": "鷹峰高嶺"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yurika Kubo",
+       "native": "久保ユリカ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Koushi Shirota",
+      "native": "白田孝志"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daisuke Kasuya",
+       "native": "粕谷大介"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

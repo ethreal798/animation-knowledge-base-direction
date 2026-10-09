@@ -1,0 +1,208 @@
+{
+ "id": 189137,
+ "title": {
+  "romaji": "Douse, Koishite Shimaunda. Season 2",
+  "english": "Anyway, I'm Falling in Love with You. Season 2",
+  "native": "どうせ、恋してしまうんだ。Season 2"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TYPHOON GRAPHICS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Haruka Mitsui",
+      "native": "満井春香"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Junichi Yamamoto",
+      "native": "山元隼一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuu Murai",
+      "native": "村井雄"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Rickey Watkins",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Davis",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Helena Walstrom",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Audrey Rigg",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ME:I",
+      "native": "ME:I"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "berry meet",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kizuki Hazawa",
+      "native": "羽沢輝月"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kazuki Ura",
+       "native": "浦和希"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shin Kashiwagi",
+      "native": "柏木深"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sion Yoshitaka",
+       "native": "吉高志音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Airu Izumi",
+      "native": "和泉藍"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mizuho Nishino",
+      "native": "西野水帆"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sakura Shinfuku",
+       "native": "新福桜"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shuugo Hoshikawa",
+      "native": "星川周吾"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Satoshi Inomata",
+       "native": "猪股慧士"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

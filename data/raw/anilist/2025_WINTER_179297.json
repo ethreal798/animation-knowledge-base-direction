@@ -1,0 +1,259 @@
+{
+ "id": 179297,
+ "title": {
+  "romaji": "Magic Maker: Isekai Mahou no Tsukurikata",
+  "english": "Magic Maker: How to Make Magic in Another World",
+  "native": "マジック・メイカー　～異世界魔法の作り方～"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio DEEN"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kazuki Kaburagi",
+      "native": "鏑木カヅキ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Kururi",
+      "native": "転"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kazuomi Koga",
+      "native": "古賀一臣"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takayuki Noguchi",
+      "native": "野口孝行"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kei Yoshikawa",
+      "native": "吉川慶"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kana Hashiguchi",
+      "native": "橋口佳奈"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Jeremy Inman",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Macy Anne Johnson",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Zachary Davis",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Latin American Spanish)",
+    "node": {
+     "name": {
+      "full": "Elizabeth Infante",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Luísa Horta",
+      "native": "Luisa Horta"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "André Rinaldi",
+      "native": "André Augusto Rinaldi"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (German)",
+    "node": {
+     "name": {
+      "full": "Matthias Klimsa",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "James Baker",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "XIIX",
+      "native": "XIIX"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Humbreaders",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Clara Campos",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Latin American Spanish)",
+    "node": {
+     "name": {
+      "full": "Cesia Estrada",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (German)",
+    "node": {
+     "name": {
+      "full": "Daniel Petersen",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Shion",
+      "native": "シオン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Megumi Han",
+       "native": "潘めぐみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Marie",
+      "native": "マリー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ai Kakuma",
+       "native": "加隈亜衣"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

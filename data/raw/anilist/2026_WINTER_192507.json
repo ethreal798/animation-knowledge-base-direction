@@ -1,0 +1,298 @@
+{
+ "id": 192507,
+ "title": {
+  "romaji": "Uruwashi no Yoi no Tsuki",
+  "english": "In the Clear Moonlit Dusk",
+  "native": "うるわしの宵の月"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 29
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "East Fish Studio"
+   },
+   {
+    "name": "Atelier Peuplier"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Mika Yamamori",
+      "native": "やまもり三香"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuusuke Maruyama",
+      "native": "丸山裕介"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Keisuke Warita",
+      "native": "割田圭介"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Ayumu Hisao",
+      "native": "久尾歩"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuuki Fukuda",
+      "native": "福田裕樹"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Youko Nakao",
+      "native": "中尾陽子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Azusa Sasaki",
+      "native": "佐々木梓"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mutsuki Aoki",
+      "native": "青木睦希"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Hitomi Sudou",
+      "native": "須藤瞳"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumihiko Ootera",
+      "native": "大寺文彦"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tsubasa Itou",
+      "native": "伊藤翼"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP, ED)",
+    "node": {
+     "name": {
+      "full": "UNISON SQUARE GARDEN",
+      "native": "ユニゾン・スクエア・ガーデン"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Andrew Tipps",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Toshiharu Takahashi",
+      "native": "高橋任治"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Minori Nakagawa",
+      "native": "中川美乃里"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Rie Kaneko",
+      "native": "金子利恵"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Natsue Chibayama",
+      "native": "千葉山夏恵"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Suiko",
+      "native": "化凪"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Rikiya Suda",
+      "native": "須田力也"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Mingfeng Yue",
+      "native": "岳明鋒"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (OP)",
+    "node": {
+     "name": {
+      "full": "Shoutarou Tani",
+      "native": "谷翔太郎"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "James Cheek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "In-Between Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Etsuyo Satou",
+      "native": "佐藤悦代"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Helena Walstrom",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yoi Takiguchi",
+      "native": "滝口宵"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rei Ichinomiya",
+       "native": "一宮麗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kohaku Ichimura",
+      "native": "市村琥珀"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouta Suzuki",
+       "native": "鈴木崚汰"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

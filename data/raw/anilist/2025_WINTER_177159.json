@@ -1,0 +1,359 @@
+{
+ "id": 177159,
+ "title": {
+  "romaji": "Momentary Lily",
+  "english": "Momentary Lily",
+  "native": "もめんたりー・リリィ"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "GoHands"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Shingo Suzuki",
+      "native": "鈴木信吾"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Susumu Kudou",
+      "native": "工藤進"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Katsumasa Yokomine",
+      "native": "横峯克昌"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shingo Suzuki",
+      "native": "鈴木信吾"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Hiroshi Ookubo",
+      "native": "大久保宏"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Takahisa  Atsuji",
+      "native": "阿閉高尚"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Hirofumi Nakanishi",
+      "native": "中西洋文"
+     }
+    }
+   },
+   {
+    "role": "Assistance",
+    "node": {
+     "name": {
+      "full": "Kyousuke Miyata",
+      "native": "宮田恭輔"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Hiroshi Ookubo",
+      "native": "大久保宏"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Takayuki Uchida",
+      "native": "内田孝行"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Satoko Fujimoto",
+      "native": "藤本理子"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hisashi Muramatsu",
+      "native": "村松久進"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Enji Nakajima",
+      "native": "中島えんじ"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Michiyo Saitou",
+      "native": "斎藤みち代"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Ryousuke Kojima",
+      "native": "児嶋亮介"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Jufuku",
+      "native": "寿福知之"
+     }
+    }
+   },
+   {
+    "role": "Music Production Assistance",
+    "node": {
+     "name": {
+      "full": "Mami Takaishi",
+      "native": "高石真美"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Ringo Kishimoto",
+      "native": "岸本鈴吾"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Shinnosuke Takesada",
+      "native": "武貞慎之介"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Makoto Furuta",
+      "native": "古田誠"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Keiji Tani",
+      "native": "谷圭司"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Mitsugu Iwano",
+      "native": "岩野貢"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Hirotaka Kaneko",
+      "native": "金子広孝"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Toshihiro Takahashi",
+      "native": "高橋敏弘"
+     }
+    }
+   },
+   {
+    "role": "Planning",
+    "node": {
+     "name": {
+      "full": "Ringo Kishimoto",
+      "native": "岸本鈴吾"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sazanka Yoshino",
+      "native": "吉野さざんか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Misaki Kuno",
+       "native": "久野美咲"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuri Kawatsu",
+      "native": "河津ゆり"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsuko Abe",
+       "native": "阿部菜摘子"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hinageshi Usuzumi",
+      "native": "薄墨ひなげし"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shion Wakayama",
+       "native": "若山詩音"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Erika Koudaiji",
+      "native": "高台寺えりか"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tsugumi Sakuragi",
+       "native": "桜木つぐみ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Renge Kasumi",
+      "native": "霞れんげ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Manatsu Murakami",
+       "native": "村上まなつ"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Ayame Sakuya",
+      "native": "咲耶あやめ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyuri Shimabukuro",
+       "native": "島袋美由利"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

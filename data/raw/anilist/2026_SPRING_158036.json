@@ -1,0 +1,298 @@
+{
+ "id": 158036,
+ "title": {
+  "romaji": "Hidarikiki no Eren",
+  "english": "Eren the Southpaw",
+  "native": "左ききのエレン"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 8
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 1
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Signal.MD"
+   },
+   {
+    "name": "Production I.G"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kappy",
+      "native": "かっぴー"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Toshimasa Suzuki",
+      "native": "鈴木利正"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Taku Kishimoto",
+      "native": "岸本卓"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuka Fukuchi",
+      "native": "福地祐香"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Akane Tamai",
+      "native": "玉井あかね"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Takeshi Satou",
+      "native": "佐藤豪志"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Kazuhiro Obata",
+      "native": "小幡和寛"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mitsuko Sekimoto",
+      "native": "関本美津子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shun Arimura",
+      "native": "有村駿"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Junichi Masunaga",
+      "native": "増永純一"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Yuka Fukuchi",
+      "native": "福地祐香"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Akane Tamai",
+      "native": "玉井あかね"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ALI",
+      "native": "ALI"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Mulasaki Ima",
+      "native": "紫今"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "ZORN",
+      "native": "ゾーン"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Valentio Krisnanda",
+      "native": "ヴァレンティオクリスナンダ"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Moe Iizuka",
+      "native": "飯塚萌"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 8)",
+    "node": {
+     "name": {
+      "full": "Kaien Jin",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Saki Itou",
+      "native": "伊藤早紀"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "Fumika Abe",
+      "native": "阿部文雅"
+     }
+    }
+   },
+   {
+    "role": "Original Animation Character Design",
+    "node": {
+     "name": {
+      "full": "Takayuki Gotou",
+      "native": "後藤隆幸"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (OP)",
+    "node": {
+     "name": {
+      "full": "ALI",
+      "native": "ALI"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (OP)",
+    "node": {
+     "name": {
+      "full": "Reo Imamura",
+      "native": "今村怜央"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (OP)",
+    "node": {
+     "name": {
+      "full": "Reo Imamura",
+      "native": "今村怜央"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Eren Yamagishi",
+      "native": "山岸エレン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yumi Uchiyama",
+       "native": "内山夕実"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kouichi Asakura",
+      "native": "朝倉光一"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shouya Chiba",
+       "native": "千葉翔也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

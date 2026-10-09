@@ -1,0 +1,311 @@
+{
+ "id": 169228,
+ "title": {
+  "romaji": "Hokuto no Ken: FIST OF THE NORTH STAR",
+  "english": "FIST OF THE NORTH STAR: HOKUTO NO KEN",
+  "native": "北斗の拳 -FIST OF THE NORTH STAR-"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 27
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 14,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TMS Entertainment"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Yoshiyuki Okamura",
+      "native": "岡村善行"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Tetsuo Hara",
+      "native": "原哲夫"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Hiroshi Maeda",
+      "native": "前田洋志"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Kazuma Ogasawara",
+      "native": "小笠原一馬"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuhiko Inukai",
+      "native": "犬飼和彦 "
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Naoki Hisatsune",
+      "native": "久恒直樹"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Takashi Aoi",
+      "native": "青井孝"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Wakako Shimizu",
+      "native": "清水稚子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Miho Tanaka",
+      "native": "田中美穂"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuki Takahashi",
+      "native": "高橋佑樹"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keisei Kanayama",
+      "native": "金山慶成"
+     }
+    }
+   },
+   {
+    "role": "CG Supervisor",
+    "node": {
+     "name": {
+      "full": "Atsushi Koishikawa",
+      "native": "小石川淳"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shinji Ikeda",
+      "native": "池田晋治"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Noriyoshi Konuma",
+      "native": "小沼則義"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "CG Animation Director",
+    "node": {
+     "name": {
+      "full": "Kouji",
+      "native": "こうじ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "[Alexandros]",
+      "native": "アレキサンドロス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Arrangement (ED)",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Juliana Gomes",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Nani Teixeira",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Rob Coutts",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Tamara Schilder",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Toshl",
+      "native": "とし"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Composition (ED)",
+    "node": {
+     "name": {
+      "full": "Michio Yamashita",
+      "native": "山下三智夫"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Lyrics (ED)",
+    "node": {
+     "name": {
+      "full": "Kimiharu Nakamura",
+      "native": "中村公晴"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kenshirou",
+      "native": "ケンシロウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunsuke Takeuchi",
+       "native": "武内駿輔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lin",
+      "native": "リン"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Mao Ichimichi",
+       "native": "市道真央"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Bat",
+      "native": "バット"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Daiki Yamashita",
+       "native": "山下大輝"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

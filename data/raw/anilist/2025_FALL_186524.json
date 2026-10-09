@@ -1,0 +1,196 @@
+{
+ "id": 186524,
+ "title": {
+  "romaji": "Chanto Suenai Kyuuketsuki-chan",
+  "english": "Li'l Miss Vampire Can't Suck Right",
+  "native": "ちゃんと吸えない吸血鬼ちゃん"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 10,
+  "day": 12
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 12,
+  "day": 28
+ },
+ "season": "FALL",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "feel."
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kyousuke Nishiki",
+      "native": "二式恭介"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Sayaka Yamai",
+      "native": "山井紗也香"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuniko Ayana",
+      "native": "綾奈ゆにこ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takuya Tani",
+      "native": "谷拓也"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Zechen Yang",
+      "native": "楊澤辰"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "You Iwaida",
+      "native": "岩井田洋"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Rieko Koike",
+      "native": "小池里恵子"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Rumi Maruyama",
+      "native": "丸山流美"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Toshirou Hamamura",
+      "native": "濱村敏郎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Ryousuke Naya",
+      "native": "納谷僚介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tomoki Kikuya",
+      "native": "菊谷知樹"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Minami Tanaka",
+      "native": "田中美海"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "H△G",
+      "native": "ハグ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "H△G",
+      "native": "ハグ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Luna Ishikawa",
+      "native": "石川月菜"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minami Tanaka",
+       "native": "田中美海"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tatsuta Ootori",
+      "native": "大鳥辰太"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kenshou Ono",
+       "native": "小野賢章"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,295 @@
+{
+ "id": 187260,
+ "title": {
+  "romaji": "Kimi ga Shinu made Koi wo Shitai",
+  "english": "I Want to Love You Till Your Dying Day",
+  "native": "きみが死ぬまで恋をしたい"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 29
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "ROLL2"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Nachi Aono",
+      "native": "あおのなち"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yasushi Tomoda",
+      "native": "友田康"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Nao Enomoto",
+      "native": "榎本直央"
+     }
+    }
+   },
+   {
+    "role": "Creative Advisor",
+    "node": {
+     "name": {
+      "full": "Takudai Kakuchi",
+      "native": "角地拓大"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kyouko Yufu",
+      "native": "油布京子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Jukki Hanada",
+      "native": "花田十輝"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Nana Nakayama",
+      "native": "中山奈々"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Momoka Youmoto",
+      "native": "陽本百香"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Momoka Izumi",
+      "native": "和泉百香"
+     }
+    }
+   },
+   {
+    "role": "Costume Design",
+    "node": {
+     "name": {
+      "full": "Minami Gotou",
+      "native": "後藤みなみ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Junki Nakata",
+      "native": "中田洵輝"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Eiko Tsunadou",
+      "native": "綱頭瑛子"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Naomi Nakano",
+      "native": "中野尚美"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuika Nagai",
+      "native": "永井唯香"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tingzhen Xu",
+      "native": "許庭禎"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director of Photography",
+    "node": {
+     "name": {
+      "full": "Natsumi Irie",
+      "native": "入江夏未"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Misato Takikawa",
+      "native": "瀧川三智"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Shouhei Chino",
+      "native": "千野勝平"
+     }
+    }
+   },
+   {
+    "role": "CG Producer",
+    "node": {
+     "name": {
+      "full": "Yuuki Kawahara",
+      "native": "河原佑樹"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yui Andou",
+      "native": "安藤由衣"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yukari Hashimoto",
+      "native": "橋本由香利"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Michiru",
+      "native": "未知瑠"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Marina Chabata",
+      "native": "茶畑満里奈"
+     }
+    }
+   },
+   {
+    "role": "Original Work Assistance",
+    "node": {
+     "name": {
+      "full": "Yui Tamada",
+      "native": "玉田唯"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Sheena Totsuki",
+      "native": "トツキ・シーナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rie Takahashi",
+       "native": "高橋李依"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mimi Kagari",
+      "native": "カガリ・ミミ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Rina Hidaka",
+       "native": "日高里菜"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

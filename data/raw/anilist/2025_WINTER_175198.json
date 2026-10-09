@@ -1,0 +1,282 @@
+{
+ "id": 175198,
+ "title": {
+  "romaji": "Übel Blatt",
+  "english": "Übel Blatt",
+  "native": "Übel Blatt～ユーベルブラット～"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 11
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 3,
+  "day": 29
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Satelight"
+   },
+   {
+    "name": "Staple Entertainment"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Etorouji Shiono",
+      "native": "塩野干支郎次"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takashi Naoya",
+      "native": "直谷たかし"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Matsuo Asami",
+      "native": "浅見松雄"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Tatsuya Takahashi",
+      "native": "高橋龍也"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Tateishi ",
+      "native": "立石聖"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Taeko Ougi",
+      "native": "扇多恵子"
+     }
+    }
+   },
+   {
+    "role": "Mechanical Design",
+    "node": {
+     "name": {
+      "full": "Kio Edamatsu",
+      "native": "枝松聖"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Taeko Ougi",
+      "native": "扇多恵子"
+     }
+    }
+   },
+   {
+    "role": "Monster Design",
+    "node": {
+     "name": {
+      "full": "Takaaki Sekizaki",
+      "native": "関崎高明"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hirotaka Kozaki",
+      "native": "小崎弘貴"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Rie Miyazawa",
+      "native": "宮澤利江"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Fei Yu",
+      "native": "兪飛"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Mai Hasegawa",
+      "native": "長谷川舞"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Gotou",
+      "native": "後藤浩幸"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Ikeda",
+      "native": "池田裕行"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Fujimoto",
+      "native": "藤本たかひろ"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Ijou Okuda",
+      "native": "奥田維城"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shun Narita",
+      "native": "成田旬"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Tatsuya Takahashi",
+      "native": "高橋龍也"
+     }
+    }
+   },
+   {
+    "role": "Script",
+    "node": {
+     "name": {
+      "full": "Tetsuya Yamada",
+      "native": "山田哲弥"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Toshimitsu Kobayashi",
+      "native": "小林利充"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Atsushi Aono",
+      "native": "青野厚司"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Sachiyo Komito",
+      "native": "小美戸幸代"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Taeko Ougi",
+      "native": "扇多恵子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "GARNiDELiA",
+      "native": "ガルニデリア"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Koinzell",
+      "native": "ケインツェル"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuya Hirose",
+       "native": "広瀬裕也"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

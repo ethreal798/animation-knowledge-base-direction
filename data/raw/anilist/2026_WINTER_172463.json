@@ -1,0 +1,311 @@
+{
+ "id": 172463,
+ "title": {
+  "romaji": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+  "english": "JUJUTSU KAISEN Season 3: The Culling Game Part 1",
+  "native": "呪術廻戦 死滅回游 前編"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 9
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 27
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "MAPPA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Gege Akutami",
+      "native": "芥見下々"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Shouta Goshozono",
+      "native": "御所園翔太"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Yousuke Takata",
+      "native": "高田陽介"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Takeru Satou",
+      "native": "佐藤威"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hiroshi Seko",
+      "native": "瀬古浩司"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Niwa",
+      "native": "丹羽弘美"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yousuke Yajima",
+      "native": "矢島陽介"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Tatsuo Ishino",
+      "native": "石野竜生"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Junichi Higashi",
+      "native": "東潤一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Eiko Matsushima",
+      "native": "松島英子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Teppei Itou",
+      "native": "伊藤哲平"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Keisuke Yanagi",
+      "native": "柳圭介"
+     }
+    }
+   },
+   {
+    "role": "CG Producer",
+    "node": {
+     "name": {
+      "full": "Yuusuke Tannawa",
+      "native": "淡輪雄介"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Kentarou Shiga",
+      "native": "志賀健太郎"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yasunori Ebina",
+      "native": "蝦名恭範"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Katsuhiro Nakano",
+      "native": "中野勝博"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Yoshimasa Terui",
+      "native": "照井順政"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Yoshiki Kobayashi",
+      "native": "小林健樹"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Keisuke Seshimo",
+      "native": "瀬下恵介"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Riku Nihonyanagi",
+      "native": "二本柳陸"
+     }
+    }
+   },
+   {
+    "role": "Production Desk",
+    "node": {
+     "name": {
+      "full": "Yuki Sanjou",
+      "native": "三條裕紀"
+     }
+    }
+   },
+   {
+    "role": "CG Production Assistant",
+    "node": {
+     "name": {
+      "full": "Shin Takahashi",
+      "native": "髙橋心"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Sukeyuki Honda",
+      "native": "本田佑行"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Kouhei Oonishi",
+      "native": "大西恒平"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Yuu Saitou",
+      "native": "齋藤優"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Megumi Fushiguro",
+      "native": "伏黒恵"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuma Uchida",
+       "native": "内田雄馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuuji Itadori",
+      "native": "虎杖悠仁"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Junya Enoki",
+       "native": "榎木淳弥"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Yuuta Okkotsu",
+      "native": "乙骨憂太"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Megumi Ogata",
+       "native": "緒方恵美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,327 @@
+{
+ "id": 178886,
+ "title": {
+  "romaji": "Mikadono Sanshimai wa Angai, Choroi.",
+  "english": "Dealing with Mikadono Sisters Is a Breeze",
+  "native": "帝乃三姉妹は案外、チョロい。"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 10
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 18
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "P.A.WORKS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Aya Hirakawa",
+      "native": "ひらかわあや"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tadahito Matsubayashi",
+      "native": "松林唯人"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takayo Ikami",
+      "native": "伊神貴世"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yuusuke Inoue",
+      "native": "井上裕亮"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Yuito Kiyosawa",
+      "native": "清澤唯人"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Makino",
+      "native": "牧野博美"
+     }
+    }
+   },
+   {
+    "role": "Main Animator",
+    "node": {
+     "name": {
+      "full": "Tsukasa Miyazaki",
+      "native": "宮崎司"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Junichi Higashi",
+      "native": "東潤一"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Hitomi Itou",
+      "native": "伊藤瞳"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Kazu Doi ",
+      "native": "土井和"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Kouhei Asahi",
+      "native": "朝日康平"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayumu Takahashi",
+      "native": "高橋歩"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuka Morishige",
+      "native": "森重柚香"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Masaru Yokoyama",
+      "native": "横山克"
+     }
+    }
+   },
+   {
+    "role": "Special Effects",
+    "node": {
+     "name": {
+      "full": "Masahiro Murakami",
+      "native": "村上正博"
+     }
+    }
+   },
+   {
+    "role": "2D Works",
+    "node": {
+     "name": {
+      "full": "Makoto Yoshigaki",
+      "native": "吉垣誠"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "Caitlin Glass",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED2)",
+    "node": {
+     "name": {
+      "full": "Kina Kazuharu",
+      "native": "和遥キナ"
+     }
+    }
+   },
+   {
+    "role": "ADR Producer (English)",
+    "node": {
+     "name": {
+      "full": "Samantha Herek",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Script (German)",
+    "node": {
+     "name": {
+      "full": "Jörn Friese",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "ADR Director (German)",
+    "node": {
+     "name": {
+      "full": "Jörn Friese",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ED1)",
+    "node": {
+     "name": {
+      "full": "Genshou Yasuda",
+      "native": "安田現象"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Jeremy Woods",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "MAISONdes",
+      "native": "メゾン・デ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Yuu Ayase",
+      "native": "綾世優"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Minami Hinata",
+       "native": "日向未南"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Miwa Mikadono",
+      "native": "帝乃三和"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yoshino Aoyama",
+       "native": "青山吉能"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kazuki Mikadono",
+      "native": "帝乃一輝"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yurina Amami",
+       "native": "天海由梨奈"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Niko Mikadono",
+      "native": "帝乃二琥"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Aoi Koga",
+       "native": "古賀葵"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

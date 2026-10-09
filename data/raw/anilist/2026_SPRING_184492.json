@@ -1,0 +1,221 @@
+{
+ "id": 184492,
+ "title": {
+  "romaji": "Mairimashita! Iruma-kun 4",
+  "english": "Welcome to Demon School! Iruma-kun Season 4",
+  "native": "魔入りました！入間くん 第4シリーズ"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 26
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 24,
+ "duration": 25,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bandai Namco Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Osamu Nishi",
+      "native": "西修"
+     }
+    }
+   },
+   {
+    "role": "Chief Director",
+    "node": {
+     "name": {
+      "full": "Makoto Moriwaki",
+      "native": "森脇真琴"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Ayaka Tsujihashi",
+      "native": "辻橋綾佳"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kazuyuki Fudeyasu",
+      "native": "筆安一幸"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yumiko Hara",
+      "native": "原由美子"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hitomi Yoshida",
+      "native": "吉田ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Tomoe Takaya",
+      "native": "高谷知恵"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Hiroyuki Chiba",
+      "native": "千葉洋之"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hozumi Gouda",
+      "native": "郷田ほづみ"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Akimitsu Honma",
+      "native": "本間昭光"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Yayoi Sekimukai",
+      "native": "関向弥生"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Saaya Sawada",
+      "native": "澤田紗彩"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Brazilian Portuguese)",
+    "node": {
+     "name": {
+      "full": "Vitor Mello",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Penthouse",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "CANDY TUNE",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Iruma Suzuki",
+      "native": "鈴木入間"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayumu Murase",
+       "native": "村瀬歩"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Clara Valac",
+      "native": "ウァラク・クララ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayaka Asai",
+       "native": "朝井彩加"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Alice Asmodeus",
+      "native": "アスモデウス・アリス"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ryouhei Kimura",
+       "native": "木村良平"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

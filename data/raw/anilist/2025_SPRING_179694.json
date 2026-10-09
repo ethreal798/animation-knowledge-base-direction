@@ -1,0 +1,327 @@
+{
+ "id": 179694,
+ "title": {
+  "romaji": "Rock wa Lady no Tashinami Deshite",
+  "english": "Rock is a Lady’s Modesty",
+  "native": "ロックは淑女の嗜みでして"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 26
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Bandai Namco Pictures"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Hiroshi Fukuda",
+      "native": "福田宏"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Shinya Watada",
+      "native": "綿田慎也"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Eiri Yasukawa",
+      "native": "安川央里"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Shougo Yasukawa",
+      "native": "ヤスカワショウゴ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Risa Miyadani",
+      "native": "宮谷里沙"
+     }
+    }
+   },
+   {
+    "role": "Visual Director",
+    "node": {
+     "name": {
+      "full": "Yasufumi Soejima",
+      "native": "ソエジマヤスフミ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Hirofumi Sakagami",
+      "native": "坂上裕文"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuichi Asami",
+      "native": "浅見由一"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Masumi Ootsuka",
+      "native": "大塚眞純"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Mika Watanabe",
+      "native": "渡辺実花"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Akari Saitou",
+      "native": "齋藤朱里"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Haruka Sakaguchi",
+      "native": "坂口遥佳"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Hiromi Kikuta",
+      "native": "菊田浩巳"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (English)",
+    "node": {
+     "name": {
+      "full": "John Swasey",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "English Language Supervisor (eps 2-3)",
+    "node": {
+     "name": {
+      "full": "Wataru Komada",
+      "native": "駒田航"
+     }
+    }
+   },
+   {
+    "role": "ADR Mixer (English)",
+    "node": {
+     "name": {
+      "full": "Brent Marshall",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "BAND-MAID",
+      "native": "バンドメイド"
+     }
+    }
+   },
+   {
+    "role": "ADR Script (English)",
+    "node": {
+     "name": {
+      "full": "Marta Bechtol",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Little Glee Monster",
+      "native": "リトル グリー モンスター"
+     }
+    }
+   },
+   {
+    "role": "ADR Engineer (English)",
+    "node": {
+     "name": {
+      "full": "Patrick Marrero",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 2)",
+    "node": {
+     "name": {
+      "full": "Yuuta Suzuhana",
+      "native": "鈴華勇太"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 5)",
+    "node": {
+     "name": {
+      "full": "João Moura",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Motion Capture Actor",
+    "node": {
+     "name": {
+      "full": "Saiki Atsumi",
+      "native": "厚見彩姫"
+     }
+    }
+   },
+   {
+    "role": "Motion Capture Actor",
+    "node": {
+     "name": {
+      "full": "Kanami Toono",
+      "native": "遠乃歌波"
+     }
+    }
+   },
+   {
+    "role": "Motion Capture Actor",
+    "node": {
+     "name": {
+      "full": "Akane Hirose",
+      "native": "廣瀬茜"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Otoha Kurogane",
+      "native": "黒鉄音羽"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyuri Shimabukuro",
+       "native": "島袋美由利"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Lilisa Suzunomiya",
+      "native": "鈴ノ宮りりさ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Akira Sekine",
+       "native": "関根明良"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tamaki Shiraya",
+      "native": "白矢環"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Natsumi Fujiwara",
+       "native": "藤原夏海"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Tina Isemi",
+      "native": "院瀬見ティナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ayaka Fukuhara",
+       "native": "福原綾香"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,223 @@
+{
+ "id": 201817,
+ "title": {
+  "romaji": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+  "english": "Always a Catch!",
+  "native": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 2
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 18
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TROYCA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Mayo Momoyo",
+      "native": "ももよ万葉"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Itsuki Mito",
+      "native": "三登いつき"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Akira Oguro",
+      "native": "オグロアキラ"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Michiko Yokote",
+      "native": "横手美智子"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Isamu Suzuki",
+      "native": "鈴木勇"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Xiaomiao Li",
+      "native": "李小苗"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mariko Shinohara",
+      "native": "篠原真理子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Asami Kawai",
+      "native": "川井朝美"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Shouta Uyama",
+      "native": "右山章太"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Iguchi",
+      "native": "井口光隆"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Fumihiko Ootera",
+      "native": "大寺文彦"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kana Hashiguchi",
+      "native": "橋口佳奈"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Natsuki Hamada",
+      "native": "濱田菜月"
+     }
+    }
+   },
+   {
+    "role": "Action Animation Director",
+    "node": {
+     "name": {
+      "full": "Kanako Oota",
+      "native": "大田香菜子"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Airi Suzuki",
+      "native": "鈴木愛理"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Yoshino",
+      "native": "吉乃"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Maria Annovazzi",
+      "native": "マリーア・アンノヴァッツィ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuu Serizawa",
+       "native": "芹澤優"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Renato di Rubini",
+      "native": "レナート・ディ・ルビーニ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Atsushi Tamaru",
+       "native": "田丸篤志"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

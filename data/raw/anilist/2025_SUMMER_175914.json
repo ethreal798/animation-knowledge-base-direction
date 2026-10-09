@@ -1,0 +1,311 @@
+{
+ "id": 175914,
+ "title": {
+  "romaji": "Yofukashi no Uta Season 2",
+  "english": "Call of the Night Season 2",
+  "native": "よふかしのうた Season 2"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 4
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 19
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "LIDENFILMS"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kotoyama",
+      "native": "コトヤマ "
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Itamura",
+      "native": "板村智幸"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Izumi Takizawa",
+      "native": "滝沢いづみ"
+     }
+    }
+   },
+   {
+    "role": "Assistant Director",
+    "node": {
+     "name": {
+      "full": "Nao Miyoshi",
+      "native": "三好なお"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Haruka Sagawa",
+      "native": "佐川遥"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ken Naitou",
+      "native": "内藤健"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Asami Kitsukawa",
+      "native": "橘川麻美"
+     }
+    }
+   },
+   {
+    "role": "Color Design Assistance",
+    "node": {
+     "name": {
+      "full": "Akira Hashigami",
+      "native": "橋上彰"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuki Tsuchimoto",
+      "native": "土本優貴"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Misaki Enokida",
+      "native": "榎田美咲"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Eriko Kimura",
+      "native": "木村絵理子"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Yoshiaki Dewa",
+      "native": "出羽良彰"
+     }
+    }
+   },
+   {
+    "role": "Script (eps 1-8)",
+    "node": {
+     "name": {
+      "full": "Michiko Yokote",
+      "native": "横手美智子"
+     }
+    }
+   },
+   {
+    "role": "ADR Director (Italian)",
+    "node": {
+     "name": {
+      "full": "Paolo De Santis",
+      "native": null
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Michiko Yokote",
+      "native": "横手美智子"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Shinobu Yoshioka",
+      "native": "吉岡忍"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 3)",
+    "node": {
+     "name": {
+      "full": "Shinobu Yoshioka",
+      "native": "吉岡忍"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 3)",
+    "node": {
+     "name": {
+      "full": "Youko Takada",
+      "native": "高田謡子"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Youko Takada",
+      "native": "高田謡子"
+     }
+    }
+   },
+   {
+    "role": "Assistant Animation Director (OP)",
+    "node": {
+     "name": {
+      "full": "Shinya Kokaji",
+      "native": "小梶慎也"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (ep 8)",
+    "node": {
+     "name": {
+      "full": "Rei Nakahara",
+      "native": "中原れい"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1, 4)",
+    "node": {
+     "name": {
+      "full": "Hiromitsu Morishita",
+      "native": "森下博光"
+     }
+    }
+   },
+   {
+    "role": "Production",
+    "node": {
+     "name": {
+      "full": "Atsuhiro Iwakami",
+      "native": "岩上敦宏"
+     }
+    }
+   },
+   {
+    "role": "Storyboard (eps 1, 2, 4, 5, 8)",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Itamura",
+      "native": "板村智幸"
+     }
+    }
+   },
+   {
+    "role": "Episode Director (ED)",
+    "node": {
+     "name": {
+      "full": "Tomoyuki Itamura",
+      "native": "板村智幸"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Nazuna Nanakusa",
+      "native": "七草ナズナ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Sora Amamiya",
+       "native": "雨宮天"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kou Yamori",
+      "native": "夜守コウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Gen Satou",
+       "native": "佐藤元"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Anko Uguisu",
+      "native": "鶯餡子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miyuki Sawashiro",
+       "native": "沢城みゆき"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

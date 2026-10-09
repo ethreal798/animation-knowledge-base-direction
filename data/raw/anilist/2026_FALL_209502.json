@@ -1,0 +1,151 @@
+{
+ "id": 209502,
+ "title": {
+  "romaji": "Shiotaiou no Satou-san ga Ore ni dake Amai",
+  "english": "The Cold Sato-san is Only Sweet to Me",
+  "native": "塩対応の佐藤さんが俺にだけ甘い"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 6
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Tezuka Productions"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kazami Sawatari",
+      "native": "猿渡かざみ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Achiki",
+      "native": "Aちき"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Fumihiro Yoshimura",
+      "native": "吉村文宏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Takashi Aoshima",
+      "native": "あおしまたかし"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Daisuke Okushima",
+      "native": "奥嶋大介"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shun Narita",
+      "native": "成田旬"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Masayoshi Ooishi",
+      "native": "大石昌良"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "HoneyWorks",
+      "native": "ハニーワークス"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Sara Hoshikawa",
+      "native": "星川サラ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Koharu Satou",
+      "native": "佐藤こはる"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Miku Itou",
+       "native": "伊藤美来"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Souta Oshio",
+      "native": "押尾颯太"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Hiiro Ishibashi",
+       "native": "石橋陽彩"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,187 @@
+{
+ "id": 195333,
+ "title": {
+  "romaji": "Haibara-kun no Tsuyokute Seishun New Game",
+  "english": "Haibara's Teenage New Game+",
+  "native": "灰原くんの強くて青春ニューゲーム"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 4,
+  "day": 3
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 6,
+  "day": 19
+ },
+ "season": "SPRING",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Studio Comet"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Kazuki Amamiya",
+      "native": "雨宮和希"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Gin",
+      "native": "吟"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Misuzu Hoshino",
+      "native": "星野美鈴"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Keiichirou Oochi",
+      "native": "大知慶一郎"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Hiromi Ono",
+      "native": "小野ひろみ"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Seo-Gu Lee",
+      "native": "이서구"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Aiko Yamagami",
+      "native": "山上愛子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Shintarou Sakai",
+      "native": "坂井慎太郎"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Hideaki Murai",
+      "native": "村井秀明"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yayoi Tateishi",
+      "native": "立石弥生"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Sounosuke Takao",
+      "native": "高尾奏之介"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Aimi",
+      "native": "愛美"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Ami Maeshima",
+      "native": "前島亜美"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Natsuki Haibara",
+      "native": "灰原夏希"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yuuto Uemura",
+       "native": "上村祐翔"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hikari Hoshimiya",
+      "native": "星宮陽花里"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kanon Takao",
+       "native": "高尾奏音"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

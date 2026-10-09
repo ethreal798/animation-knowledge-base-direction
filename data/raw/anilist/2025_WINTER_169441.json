@@ -1,0 +1,295 @@
+{
+ "id": 169441,
+ "title": {
+  "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
+  "english": "My Happy Marriage Season 2",
+  "native": "わたしの幸せな結婚 第二期"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 1,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 9
+ },
+ "season": "WINTER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Kinema Citrus"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Akumi Agitogi",
+      "native": "顎木あくみ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Tsukiho Tsukioka",
+      "native": "月岡月穂"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takehiro Kubota",
+      "native": "久保田雄大"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Masayuki Kojima",
+      "native": "小島正幸"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Ami Satou",
+      "native": "佐藤亜美"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Shouko Yasuda",
+      "native": "安田祥子"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Shinji Itou",
+      "native": "伊藤晋之"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Takeshi Takakura",
+      "native": "高倉武史"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ryou Hirata",
+      "native": "ヒラタリョウ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Mikio",
+      "native": "みき尾"
+     }
+    }
+   },
+   {
+    "role": "Title Logo Design",
+    "node": {
+     "name": {
+      "full": "Mitsuo Shiba",
+      "native": "しいばみつお"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Emi Katanosaka",
+      "native": "片野坂恵美"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yoshihiro Sono",
+      "native": "曽野由大"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yoshinori Hishinuma",
+      "native": "菱沼由典"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Anna Okamatsu",
+      "native": "岡松杏奈"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Tsunetaka Ema",
+      "native": "江間常高"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Masayuki Kurosawa",
+      "native": "黒澤雅之"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Koshida",
+      "native": "越田祐史"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Kisuke Koizumi",
+      "native": "小泉紀介"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Tsutomu Sukigara",
+      "native": "鋤柄務"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Evan Call",
+      "native": "エバン・コール"
+     }
+    }
+   },
+   {
+    "role": "Music Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Ikeda",
+      "native": "池田貴博"
+     }
+    }
+   },
+   {
+    "role": "Music Producer",
+    "node": {
+     "name": {
+      "full": "Takahiro Ikeda",
+      "native": "池田貴博"
+     }
+    }
+   },
+   {
+    "role": "Animation Producer",
+    "node": {
+     "name": {
+      "full": "Muneki  Ogasawara",
+      "native": "小笠原宗紀"
+     }
+    }
+   },
+   {
+    "role": "Production Assistance",
+    "node": {
+     "name": {
+      "full": "Jorge E. Herrera Peralta",
+      "native": null
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kiyoka Kudou",
+      "native": "久堂清霞"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kaito Ishikawa",
+       "native": "石川界人"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Miyo Saimori",
+      "native": "斉森美世"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Reina Ueda",
+       "native": "上田麗奈"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

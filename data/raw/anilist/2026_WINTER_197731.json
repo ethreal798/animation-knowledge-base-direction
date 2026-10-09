@@ -1,0 +1,327 @@
+{
+ "id": 197731,
+ "title": {
+  "romaji": "Goumon Baito-kun no Nichijou",
+  "english": "The Daily Life of a Part-time Torturer",
+  "native": "拷問バイトくんの日常"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 1,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 3,
+  "day": 23
+ },
+ "season": "WINTER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "diomedéa"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Yawora Tsugimi",
+      "native": "次見やをら"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Fumitoshi Oizaki",
+      "native": "追崎史敏"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Hitomi Amamiya",
+      "native": "雨宮ひとみ"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Sakae Shibuya",
+      "native": "渋谷秀"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Seo-Gu Lee",
+      "native": "이서구"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Saori Tatematsu",
+      "native": "立松沙緒理"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yuuki Shiina",
+      "native": "椎名優希"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Toshihiko Kojima",
+      "native": "小島俊彦"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Yayoi Tateishi",
+      "native": "立石弥生"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Youko Sakurai",
+      "native": "櫻井陽子"
+     }
+    }
+   },
+   {
+    "role": "Music ",
+    "node": {
+     "name": {
+      "full": "Kenji Fujisawa",
+      "native": "藤澤健至"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "GRANRODEO",
+      "native": "グランロデオ"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Takuma Terashima",
+      "native": "寺島拓篤"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (ep 1)",
+    "node": {
+     "name": {
+      "full": "Yoshino Honda",
+      "native": "本多美乃"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 1)",
+    "node": {
+     "name": {
+      "full": "Sakae Shibuya",
+      "native": "渋谷秀"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (ep 3)",
+    "node": {
+     "name": {
+      "full": "Tatsuo Honda",
+      "native": "本田辰雄"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 4, 5)",
+    "node": {
+     "name": {
+      "full": "Hyeong-Jun Mubon",
+      "native": "무본형준"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1-5)",
+    "node": {
+     "name": {
+      "full": "Hyeong-Jun Mubon",
+      "native": "무본형준"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1-5)",
+    "node": {
+     "name": {
+      "full": "Yuuki Hachiman",
+      "native": "八幡佑樹"
+     }
+    }
+   },
+   {
+    "role": "2D Design (ep 2)",
+    "node": {
+     "name": {
+      "full": "Yuuki Yomogida",
+      "native": "蓬田佑季"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1-5)",
+    "node": {
+     "name": {
+      "full": "Jung-Hyeon Ryu",
+      "native": "류중현"
+     }
+    }
+   },
+   {
+    "role": "Key Animation (eps 1-5)",
+    "node": {
+     "name": {
+      "full": "Se-Hwan Han",
+      "native": "한세환"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (ep 4)",
+    "node": {
+     "name": {
+      "full": "Se-Hwan Han",
+      "native": "한세환"
+     }
+    }
+   },
+   {
+    "role": "2nd Key Animation (eps 4, 5)",
+    "node": {
+     "name": {
+      "full": "Hyeon-Jin Jeon",
+      "native": "전현진"
+     }
+    }
+   },
+   {
+    "role": "Animation Director (eps 1-4)",
+    "node": {
+     "name": {
+      "full": "Hyeon-Jin Jeon",
+      "native": "전현진"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Cero",
+      "native": "セロ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shunichi Toki",
+       "native": "土岐隼一"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shiu",
+      "native": "シウ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuma Terashima",
+       "native": "寺島拓篤"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Mikke",
+      "native": "ミケ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Takuma Nagatsuka",
+       "native": "永塚拓馬"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Hugh",
+      "native": "ヒュー"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Youhei Azakami",
+       "native": "阿座上洋平"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

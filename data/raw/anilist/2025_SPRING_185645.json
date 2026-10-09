@@ -1,0 +1,36 @@
+{
+ "id": 185645,
+ "title": {
+  "romaji": "Oshiri Tantei 9",
+  "english": null,
+  "native": "おしりたんてい(第9シリーズ)"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 5,
+  "day": 24
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 8,
+ "duration": 20,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Toei Animation"
+   }
+  ]
+ },
+ "staff": {
+  "edges": []
+ },
+ "characters": {
+  "edges": []
+ }
+}

@@ -1,0 +1,311 @@
+{
+ "id": 185736,
+ "title": {
+  "romaji": "Vigilante: Boku no Hero Academia ILLEGALS",
+  "english": "My Hero Academia: Vigilantes",
+  "native": "ヴィジランテ -僕のヒーローアカデミア ILLEGALS-"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 4,
+  "day": 7
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 6,
+  "day": 30
+ },
+ "season": "SPRING",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "bones film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Kouhei Horikoshi",
+      "native": "堀越耕平"
+     }
+    }
+   },
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Hideyuki Furuhashi",
+      "native": "古橋秀之"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Court Betten",
+      "native": "別天荒人"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Kenichi Suzuki",
+      "native": "鈴木健一"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yousuke Kuroda",
+      "native": "黒田洋介"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Takahiko Yoshida",
+      "native": "吉田隆彦"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yukihiro Watanabe",
+      "native": "渡辺幸浩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Haruko Nobori",
+      "native": "のぼりはるこ"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yingying Zhang",
+      "native": "張盈穎"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Kiyoshi Hirose",
+      "native": "廣瀬清志"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Mizuki Sasaki",
+      "native": "佐々木瑞生"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masafumi Mima",
+      "native": "三間雅文"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Hayashi",
+      "native": "林ゆうき"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Shougo Yamashiro",
+      "native": "山城ショウゴ"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Yuuki Furuhashi",
+      "native": "古橋勇紀"
+     }
+    }
+   },
+   {
+    "role": "Script Assistance",
+    "node": {
+     "name": {
+      "full": "Hitoshi Nagai",
+      "native": "長井仁"
+     }
+    }
+   },
+   {
+    "role": "Eyecatch",
+    "node": {
+     "name": {
+      "full": "Nobutaka Yoda",
+      "native": "依田伸隆"
+     }
+    }
+   },
+   {
+    "role": "Eyecatch",
+    "node": {
+     "name": {
+      "full": "Atsushi Kobayashi",
+      "native": "小林敦史"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Kouhei Oonishi",
+      "native": "大西恒平"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Yuu Saitou",
+      "native": "齋藤優"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Ryousuke Yoritomi",
+      "native": "頼富亮典"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Takurou Imamura",
+      "native": "今村拓朗"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Hitoshi Koike",
+      "native": "小池均"
+     }
+    }
+   },
+   {
+    "role": "Planning Assistance",
+    "node": {
+     "name": {
+      "full": "Seijirou Nakaji",
+      "native": "中路靖二郎"
+     }
+    }
+   },
+   {
+    "role": "Executive Producer",
+    "node": {
+     "name": {
+      "full": "Kazutaka Yamanaka",
+      "native": "山中一孝"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Kouichi Haimawari",
+      "native": "灰廻航一"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Shuuichirou Umeda",
+       "native": "梅田修一朗"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Oguro Iwao",
+      "native": "雄黒"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Yasuhiro Mamiya",
+       "native": "間宮康弘"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kazuho Haneyama",
+      "native": "羽根山和歩"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

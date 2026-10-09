@@ -1,0 +1,295 @@
+{
+ "id": 205909,
+ "title": {
+  "romaji": "Hotaru no Yomeiri",
+  "english": "Firefly Wedding",
+  "native": "ホタルの嫁入り"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 10,
+  "day": 9
+ },
+ "endDate": {
+  "year": null,
+  "month": null,
+  "day": null
+ },
+ "season": "FALL",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": null,
+ "duration": null,
+ "studios": {
+  "nodes": [
+   {
+    "name": "david production"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Oreco Tachibana",
+      "native": "橘オレコ"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Takahiro Kamei",
+      "native": "亀井隆広"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Yukiko Aikei",
+      "native": "愛敬由紀子"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Shin Watanabe",
+      "native": "渡辺紳"
+     }
+    }
+   },
+   {
+    "role": "Script ",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuuko Kakihara",
+      "native": "柿原優子"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Naohiro Washio",
+      "native": "鷲尾直広"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Nobuhito Sue",
+      "native": "須江信人"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Kouhei Honda",
+      "native": "本田光平"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Yuuho Taniuchi",
+      "native": "谷内優穂"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Takayuki Yamaguchi",
+      "native": "山口貴之"
+     }
+    }
+   },
+   {
+    "role": "Concept Art",
+    "node": {
+     "name": {
+      "full": "Yasufumi Soejima",
+      "native": "ソエジマヤスフミ"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Ryou Hirata",
+      "native": "ヒラタリョウ"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Ayumu Takahashi",
+      "native": "高橋歩"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Ayaka Nakamura",
+      "native": "中村絢郁"
+     }
+    }
+   },
+   {
+    "role": "Visual Planner",
+    "node": {
+     "name": {
+      "full": "Kentarou Minegishi",
+      "native": "峰岸健太郎"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kay",
+      "native": "KAY"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Yui Andou",
+      "native": "安藤由衣"
+     }
+    }
+   },
+   {
+    "role": "Prop Design",
+    "node": {
+     "name": {
+      "full": "Yutaka Araki",
+      "native": "荒木裕"
+     }
+    }
+   },
+   {
+    "role": "Art Design",
+    "node": {
+     "name": {
+      "full": "Risa Iraha",
+      "native": "伊良波理沙"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "TOOBOE",
+      "native": "TOOBOE"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Mikio",
+      "native": "みき尾"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kouichi Satou",
+      "native": "佐藤浩一"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "NOGRID",
+      "native": "NOGRID"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "iri",
+      "native": "iri"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Satoko Kirigaya",
+      "native": "桐ケ谷紗都子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Lynn",
+       "native": null
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Shinpei Gotou",
+      "native": "後藤進平"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kouki Uchiyama",
+       "native": "内山昂輝"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

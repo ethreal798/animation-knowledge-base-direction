@@ -1,0 +1,268 @@
+{
+ "id": 204060,
+ "title": {
+  "romaji": "Tetsunabe no Jan!",
+  "english": "Iron Wok Jan!",
+  "native": "鉄鍋のジャン！"
+ },
+ "startDate": {
+  "year": 2026,
+  "month": 7,
+  "day": 5
+ },
+ "endDate": {
+  "year": 2026,
+  "month": 9,
+  "day": 20
+ },
+ "season": "SUMMER",
+ "seasonYear": 2026,
+ "format": "TV",
+ "episodes": 12,
+ "duration": 23,
+ "studios": {
+  "nodes": [
+   {
+    "name": "TROYCA"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Creator",
+    "node": {
+     "name": {
+      "full": "Saijyo Shinji",
+      "native": "西条真二"
+     }
+    }
+   },
+   {
+    "role": "Director ",
+    "node": {
+     "name": {
+      "full": "Ei Aoki",
+      "native": "あおきえい"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Makoto Uezu",
+      "native": "上江洲誠"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Masako Matsumoto",
+      "native": "松本昌子"
+     }
+    }
+   },
+   {
+    "role": "Action Animator",
+    "node": {
+     "name": {
+      "full": "Ryuuichi Makino",
+      "native": "牧野竜一"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Ken Naitou",
+      "native": "内藤健"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Mariko Shinohara",
+      "native": "篠原真理子"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Ryousuke Tsuda",
+      "native": "津田良介"
+     }
+    }
+   },
+   {
+    "role": "Editing",
+    "node": {
+     "name": {
+      "full": "Shouta Uyama",
+      "native": "右山章太"
+     }
+    }
+   },
+   {
+    "role": "CG Director",
+    "node": {
+     "name": {
+      "full": "Mitsutaka Iguchi",
+      "native": "井口光隆"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Jin Aketagawa",
+      "native": "明田川仁"
+     }
+    }
+   },
+   {
+    "role": "Sound Effects",
+    "node": {
+     "name": {
+      "full": "Masami Baba",
+      "native": "馬場將実"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Tomoki Kikuya",
+      "native": "菊谷知樹"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Masako Matsumoto",
+      "native": "松本昌子"
+     }
+    }
+   },
+   {
+    "role": "Cooking Animation Director",
+    "node": {
+     "name": {
+      "full": "Atsushi Okuda",
+      "native": "奥田淳"
+     }
+    }
+   },
+   {
+    "role": "Cooking Animation Director",
+    "node": {
+     "name": {
+      "full": "Chihiro Hanamura",
+      "native": "花村千尋"
+     }
+    }
+   },
+   {
+    "role": "Cooking Coordination",
+    "node": {
+     "name": {
+      "full": "Takako Satou",
+      "native": "佐藤貴子"
+     }
+    }
+   },
+   {
+    "role": "Cooking Supervisor",
+    "node": {
+     "name": {
+      "full": "Takako Satou",
+      "native": "佐藤貴子"
+     }
+    }
+   },
+   {
+    "role": "Cooking Science Supervisor",
+    "node": {
+     "name": {
+      "full": "Naoya Higuchi",
+      "native": "樋口直哉"
+     }
+    }
+   },
+   {
+    "role": "Chinese Pronunciation Guide",
+    "node": {
+     "name": {
+      "full": "Akina Homoto",
+      "native": "法元明菜"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Genin wa jibun ni aru.",
+      "native": "原因は自分にある。"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Emunimini",
+      "native": "えむにみに"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Jan Akiyama",
+      "native": "秋山醤"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Kikunosuke Toya",
+       "native": "戸谷菊之介"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Kiriko Gobanchou",
+      "native": "五番町霧子"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Ikumi Hasegawa",
+       "native": "長谷川育美"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}

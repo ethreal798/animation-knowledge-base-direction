@@ -1,0 +1,295 @@
+{
+ "id": 178433,
+ "title": {
+  "romaji": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+  "english": "Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin",
+  "native": "異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～"
+ },
+ "startDate": {
+  "year": 2025,
+  "month": 7,
+  "day": 6
+ },
+ "endDate": {
+  "year": 2025,
+  "month": 9,
+  "day": 28
+ },
+ "season": "SUMMER",
+ "seasonYear": 2025,
+ "format": "TV",
+ "episodes": 13,
+ "duration": 24,
+ "studios": {
+  "nodes": [
+   {
+    "name": "Maho Film"
+   }
+  ]
+ },
+ "staff": {
+  "edges": [
+   {
+    "role": "Original Story",
+    "node": {
+     "name": {
+      "full": "Fehu Kazuno",
+      "native": "鹿角フェフ"
+     }
+    }
+   },
+   {
+    "role": "Original Character Design",
+    "node": {
+     "name": {
+      "full": "Jun",
+      "native": "じゅん"
+     }
+    }
+   },
+   {
+    "role": "Director",
+    "node": {
+     "name": {
+      "full": "Yuuji Yanase",
+      "native": "柳瀬雄之"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Kunihiko Okada",
+      "native": "岡田邦彦"
+     }
+    }
+   },
+   {
+    "role": "Series Composition",
+    "node": {
+     "name": {
+      "full": "Yuka Yamada",
+      "native": "山田由香"
+     }
+    }
+   },
+   {
+    "role": "Character Design",
+    "node": {
+     "name": {
+      "full": "Kaho Deguchi",
+      "native": "出口花穂"
+     }
+    }
+   },
+   {
+    "role": "Sub Character Design",
+    "node": {
+     "name": {
+      "full": "Eri Kojima",
+      "native": "小島えり"
+     }
+    }
+   },
+   {
+    "role": "Art Director",
+    "node": {
+     "name": {
+      "full": "Yuuki Sakai",
+      "native": "酒井結城"
+     }
+    }
+   },
+   {
+    "role": "Color Design",
+    "node": {
+     "name": {
+      "full": "Yuki Shimizu",
+      "native": "真水由貴"
+     }
+    }
+   },
+   {
+    "role": "Director of Photography",
+    "node": {
+     "name": {
+      "full": "Yukina Nomura",
+      "native": "野村雪菜"
+     }
+    }
+   },
+   {
+    "role": "Sound Director",
+    "node": {
+     "name": {
+      "full": "Masanori Tsuchiya",
+      "native": "土屋雅紀"
+     }
+    }
+   },
+   {
+    "role": "Music",
+    "node": {
+     "name": {
+      "full": "Kujira Yumemi",
+      "native": "夢見クジラ"
+     }
+    }
+   },
+   {
+    "role": "Chief Animation Director",
+    "node": {
+     "name": {
+      "full": "Kaho Deguchi",
+      "native": "出口花穂"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (ED)",
+    "node": {
+     "name": {
+      "full": "Takuma Terashima",
+      "native": "寺島拓篤"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 1)",
+    "node": {
+     "name": {
+      "full": "Ruroo",
+      "native": "るろお "
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 7)",
+    "node": {
+     "name": {
+      "full": "Sankuro",
+      "native": "三九呂"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 9)",
+    "node": {
+     "name": {
+      "full": "Namanie",
+      "native": "生煮え"
+     }
+    }
+   },
+   {
+    "role": "Theme Song Performance (OP)",
+    "node": {
+     "name": {
+      "full": "Rico Sasaki",
+      "native": "佐々木李子"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 2)",
+    "node": {
+     "name": {
+      "full": "Fame",
+      "native": "Fame"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 5)",
+    "node": {
+     "name": {
+      "full": "Mitz Vah",
+      "native": "みっつばー"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 12)",
+    "node": {
+     "name": {
+      "full": "Yappen",
+      "native": "ヤッペン"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 10)",
+    "node": {
+     "name": {
+      "full": "sime",
+      "native": "sime"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 6)",
+    "node": {
+     "name": {
+      "full": "Tetsubuta",
+      "native": "てつぶた"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 13)",
+    "node": {
+     "name": {
+      "full": "Jun",
+      "native": "じゅん"
+     }
+    }
+   },
+   {
+    "role": "Endcard (ep 3)",
+    "node": {
+     "name": {
+      "full": "Chyko",
+      "native": "チーコ"
+     }
+    }
+   }
+  ]
+ },
+ "characters": {
+  "edges": [
+   {
+    "node": {
+     "name": {
+      "full": "Takuto Ira",
+      "native": "伊良拓斗"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Toshiki Kumagai",
+       "native": "熊谷俊輝"
+      }
+     }
+    ]
+   },
+   {
+    "node": {
+     "name": {
+      "full": "Atou",
+      "native": "アトゥ"
+     }
+    },
+    "voiceActors": [
+     {
+      "name": {
+       "full": "Tomori Kusunoki",
+       "native": "楠木ともり"
+      }
+     }
+    ]
+   }
+  ]
+ }
+}
